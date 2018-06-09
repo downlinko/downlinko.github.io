@@ -20,7 +20,7 @@ title                    : "Downlinko: Step-By-Step Download and Install Tutoria
 title_separator          : "-"
 name                     : "Your Name"
 description              : "It's time to get up and running. Downlinko is the place for step-by-step download and install tutorials."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://downlinko.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
