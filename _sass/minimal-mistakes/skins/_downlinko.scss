@@ -3,18 +3,17 @@
    ========================================================================== */
 
 /* Colors */
-$primary-color-dark:   #689F38 !default;
-$primary-color:        #8BC34A !default;
-$primary-color-light:  #DCEDC8 !default;
-$primary-color-text:   #212121 !default;
-$accent-color:         #FF5722 !default;
-$primary-text-color:   #212121 !default;
-$secondary-text-color: #757575 !default;
-$divider-color:        #BDBDBD !default;
+$green: #8BC34A !default;
+$dark-green: #689F38 !default;
+$orange: #FF5722 !default;
+$text-black: #212121 !default;
+$text-white: #DCEDC8 !default;
+$text-grey: #757575 !default;
+$divider-grey: #BDBDBD !default;
 
 /* Masthead */
 
 
 /* Footer */
-$footer-background-color : $primary-color !default;
-$muted-text-color: $primary-color-light !default;
+$footer-background-color: $green !default;
+$muted-text-color: $text-white !default;
