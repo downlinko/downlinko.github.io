@@ -15,6 +15,8 @@ $divider-grey: #BDBDBD !default;
 .masthead, .greedy-nav {
   background: $green !important;
 }
+$masthead-link-color: $text-white !default;
+$masthead-link-color-hover: $text-white !default;
 
 /* Footer */
 $footer-background-color: $orange !default;
