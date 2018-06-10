@@ -12,7 +12,9 @@ $text-grey: #757575 !default;
 $divider-grey: #BDBDBD !default;
 
 /* Masthead */
-
+.masthead {
+  background: $green; 
+}
 
 /* Footer */
 $footer-background-color: $green !default;
