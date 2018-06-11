@@ -22,17 +22,11 @@ $background-color: $background-white !default;
 }
 $masthead-link-color: $text-white !default;
 $masthead-link-color-hover: $text-white !default;
-.masthead__menu-item {
-  font-weight: bold;
-}
 .search__toggle, .greedy-nav__toggle {
   color: $text-white !important;
 }
 .greedy-nav__toggle {
   background-color: $green !important;
-}
-.greedy-nav__toggle:hover {
-  color: $text-light-green !important;
 }
 
 /* Footer */
