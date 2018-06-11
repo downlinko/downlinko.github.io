@@ -25,6 +25,12 @@ $masthead-link-color-hover: $text-white !default;
 .search__toggle, .greedy-nav__toggle {
   color: $text-white !important;
 }
+.greedy-nav__toggle {
+  background-color: $green !important;
+}
+.greedy-nav__toggle a:hover {
+  color: $text-light-green !important;
+}
 
 /* Footer */
 $footer-background-color: $green !default;
