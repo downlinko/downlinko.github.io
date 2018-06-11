@@ -5,7 +5,7 @@ excerpt: "A detailed step-by-step tutorial on how to download and install Firefo
 date: 2018-06-11
 last_modified_at: 2018-06-11
 categories: [Internet]
-tags: [Download, Firefox, Install, ,Tutorial, Windows]
+tags: [Download, Firefox, Install, Tutorial, Windows]
 published: true
 ---
 
