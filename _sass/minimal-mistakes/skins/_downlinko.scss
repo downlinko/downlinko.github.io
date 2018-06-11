@@ -22,8 +22,8 @@ $background-color: $background-white !default;
 }
 $masthead-link-color: $text-white !default;
 $masthead-link-color-hover: $text-white !default;
-.search__toggle {
-  color: $text-white;
+.search__toggle, .greedy-nav__toggle {
+  color: $text-white !important;
 }
 
 /* Footer */
@@ -33,4 +33,9 @@ $footer-background-color: $green !default;
 }
 .page__footer-copyright {
   color: $text-light-green;
+}
+
+/* Body */
+.archive__subtitle {
+  border-bottom-color: $divider-grey;
 }
