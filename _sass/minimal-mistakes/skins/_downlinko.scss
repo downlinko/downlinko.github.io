@@ -9,7 +9,8 @@ $orange: #FF5722 !default;
 $text-black: #212121 !default;
 $text-grey: #757575 !default;
 $text-white: #FFFFFF !default;
-$background-white: #DCEDC8 !default;
+$text-light-green: #DCEDC8 !default;
+$background-white: #FFFFFF !default;
 $divider-grey: #BDBDBD !default;
 
 /* General */
@@ -20,6 +21,13 @@ $background-color: $background-white !default;
   background: $green !important;
 }
 $masthead-link-color: $text-white !default;
+$masthead-link-color-hover: $text-white !default;
+.search__toggle {
+  color: $text-white !default;
+}
 
 /* Footer */
 $footer-background-color: $green !default;
+.page__footer-copyright {
+  color: $text-light-green !default;
+}
