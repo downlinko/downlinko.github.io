@@ -7,18 +7,19 @@ $green: #8BC34A !default;
 $dark-green: #689F38 !default;
 $orange: #FF5722 !default;
 $text-black: #212121 !default;
-$text-white: #DCEDC8 !default;
 $text-grey: #757575 !default;
+$text-white: #FFFFFF !default;
+$background-white: #DCEDC8 !default;
 $divider-grey: #BDBDBD !default;
+
+/* General */
+$background-color: $background-white !default;
 
 /* Masthead */
 .masthead, .greedy-nav {
   background: $green !important;
 }
 $masthead-link-color: $text-white !default;
-$masthead-link-color-hover: $text-white !default;
-$navicon-link-color-hover: $text-white !default;
 
 /* Footer */
 $footer-background-color: $green !default;
-$muted-text-color: $text-white !default;
