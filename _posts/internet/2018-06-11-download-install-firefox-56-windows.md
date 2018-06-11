@@ -23,7 +23,7 @@ Let’s start!
 
 ## Download
 
-
+Head over to the [Firefox releases page](https://ftp.mozilla.org/pub/firefox/releases/){:target="_blank"}. Scroll down to directory 56.
 
 
 
