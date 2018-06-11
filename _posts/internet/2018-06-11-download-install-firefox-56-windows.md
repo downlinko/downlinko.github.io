@@ -25,6 +25,12 @@ Let’s start!
 
 Head over to the [Firefox releases page](https://ftp.mozilla.org/pub/firefox/releases/){:target="_blank"}. Scroll down to directory 56.
 
+<img src="{{ site.url }}/assets/images/posts/internet/firefox-56-download-directory.png" alt="firefox 56 download directory" class="align-right">
+
+Now click on the link.
+
+
+
 
 
 ## Install
