@@ -9,6 +9,10 @@ tags: [Download, Firefox, Install, Tutorial, Windows]
 published: true
 ---
 
+<figure>
+    <img src="{{ site.url }}/assets/images/posts/internet/download-install-firefox-56-windows.png" alt="download install firefox56 windows" class="align-right">
+</figure>
+
 Looking to download and install Firefox 56?
 
 Then you’re in the right place.
