@@ -35,6 +35,9 @@ $masthead-link-color-hover: $text-white !default;
 .greedy-nav__toggle {
   background-color: $green !important;
 }
+.hidden-links {
+  background-color: $green;
+}
 
 /* Footer */
 $footer-background-color: $green !default;
