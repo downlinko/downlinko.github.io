@@ -71,4 +71,11 @@ Click `Install` to start the installation.
 
 <img src="{{ site.url }}/assets/images/posts/internet/firefox-56-setup-wizard-summary.png" alt="firefox 56 setup wizard summary">
 
+Wait until the installation is complete.
+
+<img src="{{ site.url }}/assets/images/posts/internet/firefox-56-setup-wizard-finish.png" alt="firefox 56 setup wizard finish">
+
+
+
+
 ## Step #3: Run
