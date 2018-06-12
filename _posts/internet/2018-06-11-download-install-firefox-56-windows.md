@@ -21,21 +21,21 @@ Let’s start!
 
 ## Download
 
-Head over to the [Firefox releases page](https://ftp.mozilla.org/pub/firefox/releases/){:target="_blank"}. Scroll down to directory 56.
+Head over to the [Firefox releases page](https://ftp.mozilla.org/pub/firefox/releases/){:target="_blank"}.
 
 <img src="{{ site.url }}/assets/images/posts/internet/firefox-releases-directory.png" alt="firefox releases directory">
 
-Now click on the 56.0 link.
+Scroll down to directory 56. Now click on the 56.0 link.
 
 <img src="{{ site.url }}/assets/images/posts/internet/firefox-56-version-directory.png" alt="firefox-56-version-directory">
 
-Click on the link for your windows version. If you're not sure select win32.
+Click on the link for your Windows version. If you don't know your Windows version select win32.
 
 <img src="{{ site.url }}/assets/images/posts/internet/firefox-56-windows-version.png" alt="firefox 56 windows version">
 
 Select the interface language of your choice.
 
-<img src="{{ site.url }}/assets/images/posts/internet/firefox 56 language.png" alt="firefox 56 language">
+<img src="{{ site.url }}/assets/images/posts/internet/firefox-56-language.png" alt="firefox 56 language">
 
 Click on the Firefox Setup link. Save the file in a location of choice.
 
