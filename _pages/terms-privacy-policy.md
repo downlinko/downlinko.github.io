@@ -1,6 +1,6 @@
 ---
 title: "Terms and Privacy Policy"
-permalink: /terms/
+permalink: /terms-privacy-policy/
 date: 2018-06-12
 last_modified_at: 2018-06-12
 share: false
@@ -8,7 +8,7 @@ share: false
 
 ## Privacy Policy
 
-At [downlinko.com]({{ site.url }}), the privacy of our visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
+At downlinko.com, the privacy of our visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
 
 First and foremost, we will never share your email address or any other personal information to anyone without your direct consent.
 
