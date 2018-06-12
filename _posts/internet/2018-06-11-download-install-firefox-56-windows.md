@@ -39,9 +39,11 @@ Select the interface language you want. In this example, we select English as us
 
 Click on the `Firefox Setup` link.
 
+> Here is the direct link to download the [Firefox 56 win32 en-US installer](https://ftp.mozilla.org/pub/firefox/releases/56.0/win32/en-US/) for Windows.
+
 <img src="{{ site.url }}/assets/images/posts/internet/firefox-56-executable.png" alt="firefox 56 executable">
 
-> A notification or popup might appear.
+A notification or popup might appear.
 
 <img src="{{ site.url }}/assets/images/posts/internet/firefox-56-executable-notification.png" alt="firefox 56 executable notification">
 
@@ -83,4 +85,6 @@ To run Firefox double click on the icon located on the desktop. Firefox will now
 
 <img src="{{ site.url }}/assets/images/posts/internet/firefox-56.png" alt="firefox 56">
 
-Leave a comment below if this post was helpful. Thanks!
+Leave a comment below if this post was helpful.
+
+Thanks!
