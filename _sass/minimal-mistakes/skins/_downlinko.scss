@@ -26,6 +26,9 @@ $background-color: $background-white !default;
 }
 $masthead-link-color: $text-white !default;
 $masthead-link-color-hover: $text-white !default;
+.greedy-nav .visible-links a:before {
+  background-color: red;
+}
 .search__toggle, .greedy-nav__toggle {
   color: $text-white !important;
 }
@@ -49,7 +52,7 @@ $link-color-hover: $orange !default;
 $link-color-visited: $orange !default;
 
 .archive__subtitle {
-  border-bottom-color: $divider-grey !important;
+  border-bottom-color: $divider-grey;
 }
 
 /* Post */
@@ -63,5 +66,5 @@ $link-color-visited: $orange !default;
   margin-top: 30px;
 }
 .page__content h2 {
-  border-bottom-color: $divider-grey;
+  border-bottom-color: $divider-grey !important;
 }
