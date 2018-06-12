@@ -27,7 +27,7 @@ $background-color: $background-white !default;
 $masthead-link-color: $text-white !default;
 $masthead-link-color-hover: $text-white !default;
 .greedy-nav .visible-links a:before {
-  background-color: red !important;
+  background-color: transparent !important;
 }
 .search__toggle, .greedy-nav__toggle {
   color: $text-white !important;
