@@ -37,7 +37,11 @@ Select the interface language you want. In this example, we select English as us
 
 <img src="{{ site.url }}/assets/images/posts/internet/firefox-56-language.png" alt="firefox 56 language">
 
-Click on the Firefox Setup link. A notification or popup might appear. Accept and save the executable file.
+Click on the `Firefox Setup` link.
+
+> A notification or popup might appear.
+
+Accept and save the executable file.
 
 <img src="{{ site.url }}/assets/images/posts/internet/firefox-56-executable.png" alt="firefox 56 executable">
 
