@@ -77,11 +77,17 @@ Wait until the installation is complete.
 
 <img src="{{ site.url }}/assets/images/posts/internet/firefox-56-setup-wizard-finish.png" alt="firefox 56 setup wizard finish">
 
-Click `Finish`. **Congratulations, you have installed Firefox**!
+Click `Finish`.
+
+**Congratulations, you have installed Firefox**!
 
 ## Step #3: Run
 
-To run Firefox double click on the icon located on the desktop. Firefox will now start as shown below.
+To run Firefox double click on the icon located on the desktop.
+
+<img src="{{ site.url }}/assets/images/posts/internet/firefox-56-desktop-icon.png" alt="firefox 56 desktop icon">
+
+Firefox will now start as shown below.
 
 <img src="{{ site.url }}/assets/images/posts/internet/firefox-56.png" alt="firefox 56">
 
