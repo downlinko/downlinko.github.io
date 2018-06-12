@@ -53,11 +53,11 @@ $link-color-visited: $orange !default;
   font-weight: bold;
 }
 .page__meta{
-  color: $text-grey !default;
+  color: $text-grey;
 }
 .title-image{
   margin-top: 35px;
 }
 h2 {
-  border-bottom-color: $divider-grey !default;
+  border-bottom-color: $divider-grey;
 }
