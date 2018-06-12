@@ -65,6 +65,9 @@ $link-color-visited: $orange !default;
 .title-image{
   margin-top: 30px;
 }
-.page__content h2 {
+.page__content h2, .page__share {
   border-bottom-color: $divider-grey !important;
+}
+.pagination {
+  border-top-color: $divider-grey !important;
 }
