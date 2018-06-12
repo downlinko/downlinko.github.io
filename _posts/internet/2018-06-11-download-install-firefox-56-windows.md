@@ -25,7 +25,7 @@ Head over to the [Firefox releases page](https://ftp.mozilla.org/pub/firefox/rel
 
 <img src="{{ site.url }}/assets/images/posts/internet/firefox-releases-directory.png" alt="firefox releases directory">
 
-Scroll down to directory 56 and click on the link.
+Scroll down to `Dir 56.0` and click on the link.
 
 <img src="{{ site.url }}/assets/images/posts/internet/firefox-56-version-directory.png" alt="firefox-56-version-directory">
 
@@ -33,7 +33,7 @@ Click on the link for your Windows version. If you don't know your Windows versi
 
 <img src="{{ site.url }}/assets/images/posts/internet/firefox-56-windows-version.png" alt="firefox 56 windows version">
 
-Select the interface language of your choice.
+Select the interface language you want.
 
 <img src="{{ site.url }}/assets/images/posts/internet/firefox-56-language.png" alt="firefox 56 language">
 
