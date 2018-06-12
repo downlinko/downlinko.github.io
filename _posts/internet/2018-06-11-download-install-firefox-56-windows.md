@@ -19,7 +19,7 @@ Because today I’m going to show **where you can find the installer**. I'll als
 
 Let’s start!
 
-## Download
+## Step #1: Download
 
 Head over to the [Firefox releases page](https://ftp.mozilla.org/pub/firefox/releases/){:target="_blank"}.
 
@@ -43,13 +43,13 @@ Click on the `Firefox Setup` link.
 
 > A notification or popup might appear.
 
-<img src="{{ site.url }}/assets/images/posts/firefox-56-executable-notification.png" alt="firefox 56 executable notification">
+<img src="{{ site.url }}/assets/images/posts/internet/firefox-56-executable-notification.png" alt="firefox 56 executable notification">
 
 Accept and click on `Save`.
 
 Now, wait for the download to complete.
 
-## Install
+## Step #2: Install
 
 Locate the downloaded installer.
 
