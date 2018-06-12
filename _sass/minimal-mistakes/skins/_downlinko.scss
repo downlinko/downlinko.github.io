@@ -49,6 +49,15 @@ $link-color-visited: $orange !default;
 }
 
 /* Post */
+.page__title {
+  font-weight: bold;
+}
+.page__meta{
+  color: $text-grey !default;
+}
 .title-image{
-  margin-top: 40px;
+  margin-top: 35px;
+}
+h2 {
+  border-bottom-color: $divider-grey !default;
 }
