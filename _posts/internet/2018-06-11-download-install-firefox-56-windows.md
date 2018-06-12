@@ -23,11 +23,11 @@ Let’s start!
 
 Head over to the [Firefox releases page](https://ftp.mozilla.org/pub/firefox/releases/){:target="_blank"}.
 
-<img src="{{ site.url }}/assets/images/posts/internet/firefox-releases-directory.png" alt="firefox releases directory">
+<img src="{{ site.url }}/assets/images/posts/internet/firefox-releases.png" alt="firefox releases">
 
 Scroll down to `Dir 56.0` and click on the link.
 
-<img src="{{ site.url }}/assets/images/posts/internet/firefox-56-version-directory.png" alt="firefox-56-version-directory">
+<img src="{{ site.url }}/assets/images/posts/internet/firefox-56-version.png" alt="firefox 56 version">
 
 Click on your Windows version. If you don't know your Windows version select `win32`.
 
