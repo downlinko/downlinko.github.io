@@ -17,6 +17,10 @@ $divider-grey: #BDBDBD !default;
 $background-color: $background-white !default;
 
 /* Masthead */
+.masthead__inner-wrap {
+  padding-bottom: 11px;
+  padding-top: 11px;
+}
 .masthead, .greedy-nav {
   background: $green !important;
 }
