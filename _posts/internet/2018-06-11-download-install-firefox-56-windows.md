@@ -39,7 +39,7 @@ Select the interface language you want. In this example, we select English as us
 
 Click on the `Firefox Setup` link.
 
-> Do you want to skip above steps? Here is the direct link to download the [Firefox 56 win32 en-US installer](https://ftp.mozilla.org/pub/firefox/releases/56.0/win32/en-US/) for Windows.
+> Do you want to skip above steps? Here is the direct link to download the [Firefox 56 win32 en-US installer](https://ftp.mozilla.org/pub/firefox/releases/56.0/win32/en-US/){:target="_blank"} for Windows.
 
 <img src="{{ site.url }}/assets/images/posts/internet/firefox-56-executable.png" alt="firefox 56 executable">
 
