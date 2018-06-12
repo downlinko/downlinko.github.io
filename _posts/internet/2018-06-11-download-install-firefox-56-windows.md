@@ -45,7 +45,7 @@ Click on the `Firefox Setup` link.
 
 <img src="{{ site.url }}/assets/images/posts/internet/firefox-56-executable-notification.png" alt="firefox 56 executable notification">
 
-Accept and click on `Save`.
+Click on `Save` to accept.
 
 Now, wait for the download to complete.
 
@@ -55,7 +55,7 @@ Locate the downloaded installer.
 
 <img src="{{ site.url }}/assets/images/posts/internet/firefox-56-downloaded-installer.png" alt="firefox 56 downloaded installer">
 
-Double click it to start the installation.
+Double click it to start the installation. A welcome wizard will open.
 
 <img src="{{ site.url }}/assets/images/posts/internet/firefox-56-setup-wizard-welcome.png" alt="firefox 56 setup wizard welcome">
 
