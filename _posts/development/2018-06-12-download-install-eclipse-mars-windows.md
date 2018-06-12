@@ -6,7 +6,7 @@ date: 2018-06-12
 last_modified_at: 2018-06-12
 categories: [Development]
 tags: [Download, Eclipse, Install, Mars, Tutorial, Windows]
-published: true
+published: false
 ---
 
 <img src="{{ site.url }}/assets/images/posts/development/download-install-eclipse-mars-windows.png" alt="download install eclipse mars windows" class="align-right title-image">
@@ -18,3 +18,17 @@ Good news!
 I’m going to explain you **where you can find the package**. I'll also guide you through the different installation steps.
 
 Let’s go!
+
+## Step #1: Prerequisites
+
+
+
+## Step #2: Download
+
+
+
+## Step #3: Install
+
+
+
+## Step #4: Run

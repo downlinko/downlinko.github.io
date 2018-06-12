@@ -91,7 +91,7 @@ Firefox will now start as shown below.
 
 **Congratulations, you have installed Firefox!**
 
-> By default, Firefox is set for automatic updates. To turn this off, you need to change your Firefox update settings. Click the menu button (top right corner) and choose `Options`. In the `General panel`, go to the `Firefox Updates` section. Be aware that **using old versions of Firefox poses a significant security risk**.
+> By default, Firefox is set for automatic updates. To turn this off, you need to change your Firefox update settings. Click the menu button (top right corner) and choose `Options`. In the `General panel`, go to the `Firefox Updates` section. Be aware that using old versions of Firefox poses a significant security risk!
 
 Leave a comment below if this post was helpful.
 
