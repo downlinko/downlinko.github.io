@@ -11,7 +11,7 @@ published: true
 
 ![download install firefox 56 windows]({{ site.url }}/assets/images/posts/internet/download-install-firefox-56-windows.png){: .align-right .title-image}
 
-Looking to download and install Firefox 56?
+Want to download and install Firefox 56?
 
 Then you’re in the right place.
 
@@ -25,10 +25,22 @@ Head over to the [Firefox releases page](https://ftp.mozilla.org/pub/firefox/rel
 
 <img src="{{ site.url }}/assets/images/posts/internet/firefox-56-download-directory.png" alt="firefox 56 download directory" class="align-right">
 
-Now click on the link.
+Now click on the 56.0 link.
 
+<img src="{{ site.url }}/assets/images/posts/internet/firefox-56-download-directory.png" alt="firefox 56 download directory" class="align-right">
 
+Click on the link for your windows version. If you're not sure select win32.
 
+<img src="{{ site.url }}/assets/images/posts/internet/firefox-56-download-directory.png" alt="firefox 56 download directory" class="align-right">
 
+Select the interface language of your choice.
+
+<img src="{{ site.url }}/assets/images/posts/internet/firefox-56-download-directory.png" alt="firefox 56 download directory" class="align-right">
+
+Click on the Firefox Setup link. Accept the popup. Wait for the download to complete.
+
+<img src="{{ site.url }}/assets/images/posts/internet/firefox-56-download-directory.png" alt="firefox 56 download directory" class="align-right">
+
+Locate the downloaded installer. Double click it to start the installation.
 
 ## Install
