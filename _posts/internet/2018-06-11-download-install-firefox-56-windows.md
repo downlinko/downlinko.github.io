@@ -15,7 +15,7 @@ Want to download and install Firefox 56?
 
 Then you’re in the right place.
 
-Because today I’m going to show **where you can find the installer**. And I'll walk you through the setup.
+Because today I’m going to show **where you can find the installer**. I'll also walk you through the setup.
 
 Let’s start!
 
@@ -25,11 +25,11 @@ Head over to the [Firefox releases page](https://ftp.mozilla.org/pub/firefox/rel
 
 <img src="{{ site.url }}/assets/images/posts/internet/firefox-releases-directory.png" alt="firefox releases directory">
 
-Scroll down to directory 56. Now click on the 56.0 link.
+Scroll down to directory 56 and click on the link.
 
 <img src="{{ site.url }}/assets/images/posts/internet/firefox-56-version-directory.png" alt="firefox-56-version-directory">
 
-Click on the link for your Windows version. If you don't know your Windows version select win32.
+Click on the link for your Windows version. If you don't know your Windows version select <kbd>win32</kbd>.
 
 <img src="{{ site.url }}/assets/images/posts/internet/firefox-56-windows-version.png" alt="firefox 56 windows version">
 
