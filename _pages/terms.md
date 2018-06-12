@@ -8,7 +8,7 @@ share: false
 
 ## Privacy Policy
 
-At downlinko.com, the privacy of our visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
+At [downlinko.com]({{ site.url }}), the privacy of our visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
 
 First and foremost, we will never share your email address or any other personal information to anyone without your direct consent.
 
@@ -35,3 +35,26 @@ Google Analytics is a web analytics tool we use to help understand how visitors 
 #### Google Adsense
 
 Google Adsense, a third party affiliate marketing network, uses cookies to help make sure we get a commission when you buy a product after clicking on a link or ad banner that takes you to the site of one of their merchants. You can read [Google Adsense Privacy Policy](http://support.google.com/adsense/bin/answer.py?hl=en&answer=48182).
+
+## Disclosure Policy
+
+We make money on this website through affiliate programs. If you click an affiliate link or ad banner and buy the product, you help support this website because we'll get a percentage of that sale.
+
+Currently, we are an affiliate for Google Adsense.
+
+What this means for you:
+
+* We became an affiliate to earn revenue towards the costs of running and maintaining this website. Where we have direct control over which ads are served on this website we offer only products that are directly related to the topic of this website and products that a reader/subscriber would have a genuine interest in or need of.
+* We do not and will not recommend a product just for the sake of making money.
+* We do not let the compensation we receive influence the content, topics, posts, or opinions expressed on this website.
+* We respect and value our readers too much to write anything other than our own genuine and objective opinions and advice.
+
+Just like this website, our Disclosure Policy is a work in progress. As the revenue streams evolve, so will this page.
+
+## License
+
+All original content (e.g. articles, blog posts and illustrations) available on downlinko.com is released under a [Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License](https://creativecommons.org/licenses/by-nc-nd/3.0/deed.en_US) unless otherwise noted. Basically, this means you are free to copy and redistribute the material in any medium or format as long as you give appropriate credit and don't use it for commercial purposes without our prior written consent.
+
+## Attribution
+
+When giving credit, link back to the source article attributed to [downlinko.com]({{ site.url }}). Just don't go stealing our stuff and republishing it as your own. Thanks!
