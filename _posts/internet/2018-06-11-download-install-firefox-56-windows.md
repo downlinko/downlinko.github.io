@@ -29,15 +29,15 @@ Scroll down to `Dir 56.0` and click on the link.
 
 <img src="{{ site.url }}/assets/images/posts/internet/firefox-56-version-directory.png" alt="firefox-56-version-directory">
 
-Click on the link for your Windows version. If you don't know your Windows version select <kbd>win32</kbd>.
+Click on the link for your Windows version. If you don't know your Windows version select `win32`.
 
 <img src="{{ site.url }}/assets/images/posts/internet/firefox-56-windows-version.png" alt="firefox 56 windows version">
 
-Select the interface language you want.
+Select the interface language you want. In this example we select English as used in the United States (`en-US`).
 
 <img src="{{ site.url }}/assets/images/posts/internet/firefox-56-language.png" alt="firefox 56 language">
 
-Click on the Firefox Setup link. Save the file in a location of choice.
+Click on the Firefox Setup link. Save the executable (.exe) file.
 
 <img src="{{ site.url }}/assets/images/posts/internet/firefox-56-executable.png" alt="firefox 56 executable">
 
