@@ -39,14 +39,20 @@ Select the interface language you want. In this example, we select English as us
 
 Click on the `Firefox Setup` link.
 
+<img src="{{ site.url }}/assets/images/posts/internet/firefox-56-executable.png" alt="firefox 56 executable">
+
 > A notification or popup might appear.
 
-Accept and save the executable file.
+<img src="{{ site.url }}/assets/images/posts/firefox-56-executable-notification.png" alt="firefox 56 executable notification">
 
-<img src="{{ site.url }}/assets/images/posts/internet/firefox-56-executable.png" alt="firefox 56 executable">
+Accept and click on `Save`.
 
 Now, wait for the download to complete.
 
 ## Install
 
-Locate the downloaded installer. Double click it to start the installation.
+Locate the downloaded installer.
+
+<img src="{{ site.url }}/assets/images/posts/internet/firefox-56-downloaded-installer.png" alt="firefox 56 downloaded installer">
+
+Double click it to start the installation.
