@@ -56,3 +56,19 @@ Locate the downloaded installer.
 <img src="{{ site.url }}/assets/images/posts/internet/firefox-56-downloaded-installer.png" alt="firefox 56 downloaded installer">
 
 Double click it to start the installation.
+
+<img src="{{ site.url }}/assets/images/posts/internet/firefox-56-setup-wizard-welcome.png" alt="firefox 56 setup wizard welcome">
+
+Click `Next`.
+
+<img src="{{ site.url }}/assets/images/posts/internet/firefox-56-setup-wizard-select-type.png" alt="firefox 56 setup wizard select type">
+
+Click `Next`.
+
+<img src="{{ site.url }}/assets/images/posts/internet/firefox-56-setup-wizard-summary.png" alt="firefox 56 setup wizard summary">
+
+Click `Install` to start the installation.
+
+<img src="{{ site.url }}/assets/images/posts/internet/firefox-56-setup-wizard-summary.png" alt="firefox 56 setup wizard summary">
+
+## Step #3: Run
