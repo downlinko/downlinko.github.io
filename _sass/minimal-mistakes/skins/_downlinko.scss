@@ -36,6 +36,9 @@ $masthead-link-color-hover: $text-white !default;
   background-color: $green !important;
 }
 .greedy-nav .hidden-links {
+  background-color: $green;
+}
+.greedy-nav .hidden-links a:hover {
   background-color: $green !important;
 }
 
