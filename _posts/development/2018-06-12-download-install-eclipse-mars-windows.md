@@ -9,7 +9,7 @@ tags: [Download, Eclipse, Install, Mars, Tutorial, Windows]
 published: true
 ---
 
-<img src="{{ site.url }}/assets/images/posts/internet/download-install-eclipse-mars-windows.png" alt="download install eclipse mars windows" class=".align-right .title-image">
+<img src="{{ site.url }}/assets/images/posts/internet/download-install-eclipse-mars-windows.png" alt="download install eclipse mars windows" class="align-right title-image">
 
 Looking to download and install Eclipse Mars?
 
