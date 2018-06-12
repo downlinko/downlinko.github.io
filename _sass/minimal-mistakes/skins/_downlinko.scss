@@ -74,6 +74,14 @@ $link-color-visited: $orange !default;
 h2 {
   color: #222222;
 }
+p code {
+  background-color: #F7F7F9;
+  border-color: #E1E1E8;
+  border-style: solid;
+  border-width: 1px;
+  color: #494E52;
+  font-style: normal;
+}
 
 /* Archives */
 .archive__subtitle{
