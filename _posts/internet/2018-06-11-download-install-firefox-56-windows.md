@@ -59,7 +59,7 @@ Double click it to start the installation. A welcome wizard will open.
 
 <img src="{{ site.url }}/assets/images/posts/internet/firefox-56-setup-wizard-welcome.png" alt="firefox 56 setup wizard welcome">
 
-Click `Next`.
+Click `Next`. Keep the default settings.
 
 <img src="{{ site.url }}/assets/images/posts/internet/firefox-56-setup-wizard-select-type.png" alt="firefox 56 setup wizard select type">
 
@@ -75,7 +75,12 @@ Wait until the installation is complete.
 
 <img src="{{ site.url }}/assets/images/posts/internet/firefox-56-setup-wizard-finish.png" alt="firefox 56 setup wizard finish">
 
-
-
+Click `Finish`. **Congratulations, you have installed Firefox**!
 
 ## Step #3: Run
+
+To run Firefox double click on the icon located on the desktop. Firefox will now start as shown below.
+
+<img src="{{ site.url }}/assets/images/posts/internet/firefox-56.png" alt="firefox 56">
+
+Leave a comment below if this post was helpful. Thanks!
