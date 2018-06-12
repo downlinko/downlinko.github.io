@@ -6,7 +6,7 @@
 $green: #8BC34A !default;
 $dark-green: #689F38 !default;
 $orange: #FF5722 !default;
-$text-black: #212121 !default;
+$text-black: #333333 !default;
 $text-grey: #757575 !default;
 $text-white: #FFFFFF !default;
 $text-light-green: #DCEDC8 !default;
@@ -57,7 +57,7 @@ $link-color-visited: $orange !default;
 
 /* Post */
 .page__title {
-  font-weight: bold;
+  color: #222222;
 }
 .page__meta{
   color: $text-grey !important;
