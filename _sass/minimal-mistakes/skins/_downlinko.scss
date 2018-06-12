@@ -27,7 +27,7 @@ $background-color: $background-white !default;
 $masthead-link-color: $text-white !default;
 $masthead-link-color-hover: $text-white !default;
 .greedy-nav .visible-links a:before {
-  background-color: red;
+  background-color: red !important;
 }
 .search__toggle, .greedy-nav__toggle {
   color: $text-white !important;
@@ -64,10 +64,4 @@ $link-color-visited: $orange !default;
 }
 .title-image{
   margin-top: 30px;
-}
-.page__content h2, .page__share {
-  border-bottom-color: $divider-grey !important;
-}
-.pagination {
-  border-top-color: $divider-grey !important;
 }
