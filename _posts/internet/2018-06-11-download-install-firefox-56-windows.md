@@ -6,6 +6,8 @@ date: 2018-06-11
 last_modified_at: 2018-06-11
 categories: [Internet]
 tags: [Download, Firefox, Install, Mozilla, Tutorial, Windows]
+redirect_from:
+  - /download-install-firefox-56-windows.html
 published: true
 ---
 
