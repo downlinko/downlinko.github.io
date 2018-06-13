@@ -1,21 +1,21 @@
 ---
-title: "Download and Install Firefox 56 on Windows"
-permalink: /download-install-firefox-56-windows.html
-excerpt: "A detailed step-by-step tutorial on how to download and install Firefox 56 on Windows."
+title: "Download and Install Mozilla Firefox 56 on Windows"
+permalink: /download-install-mozilla-firefox-56-windows.html
+excerpt: "A detailed step-by-step tutorial on how to download and install Mozilla Firefox 56 on Windows."
 date: 2018-06-11
 last_modified_at: 2018-06-11
 categories: [Internet]
-tags: [Download, Firefox, Install, Tutorial, Windows]
+tags: [Download, Firefox, Install, Mozilla, Tutorial, Windows]
 published: true
 ---
 
 <img src="{{ site.url }}/assets/images/posts/internet/download-install-firefox-56-windows.png" alt="download install firefox 56 windows" class="align-right title-image">
 
-Want to download and install Firefox 56?
+Want to download and install Mozilla Firefox 56?
 
 Then you’re in the right place.
 
-Because today I’m going to show **where you can find the installer**. I'll also walk you through the setup.
+Because today I’m going to show **where you can find the installer**. And I'll also walk you through the setup.
 
 Let’s start!
 
@@ -39,7 +39,7 @@ Select the interface language you want. In this example, we select English as us
 
 Click on the `Firefox Setup` link.
 
-> Do you want to skip above steps? Here is the direct link to download the [Firefox 56 win32 en-US installer](https://ftp.mozilla.org/pub/firefox/releases/56.0/win32/en-US/){:target="_blank"} for Windows.
+> Do you want to skip above steps? Here is the direct link to download the [Mozilla Firefox 56 win32 en-US installer](https://ftp.mozilla.org/pub/firefox/releases/56.0/win32/en-US/){:target="_blank"} for Windows.
 
 <img src="{{ site.url }}/assets/images/posts/internet/firefox-56-executable.png" alt="firefox 56 executable">
 
@@ -81,7 +81,7 @@ Click `Finish`.
 
 ## Step #3: Run
 
-To run Firefox double click on the icon located on the desktop.
+To run Mozilla Firefox double click on the icon located on the desktop.
 
 <img src="{{ site.url }}/assets/images/posts/internet/firefox-56-desktop-icon.png" alt="firefox 56 desktop icon">
 
@@ -89,7 +89,7 @@ Firefox will now start as shown below.
 
 <img src="{{ site.url }}/assets/images/posts/internet/firefox-56-browser.png" alt="firefox 56 browser">
 
-**Congratulations, you have installed Firefox!**
+**Congratulations, you have installed Mozilla Firefox 56!**
 
 > By default, Firefox is set for automatic updates. To turn this off, you need to change your Firefox update settings. Click the menu button (top right corner) and choose `Options`. In the `General panel`, go to the `Firefox Updates` section. Be aware that using old versions of Firefox poses a significant security risk!
 
