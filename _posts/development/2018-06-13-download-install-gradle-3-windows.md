@@ -95,4 +95,6 @@ Append "<kbd>%GRADLE_HOME%\bin</kbd>" at the end of the variable value. Click `O
 
 <img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-3-5-1-path-variable.jpg" alt="gradle 3.5.1 path variable">
 
+Click `OK` once more to close the environment variables window.
+
 ## Step #5: Test
