@@ -23,15 +23,15 @@ Off we go!
 
 Click on the Windows button. Then type <kbd>"cmd"</kbd> in the search box and press `ENTER`.
 
-<img src="{{ site.url }}/assets/images/posts/development/gradle/windws-search-cmd.jpg" alt="windws search cmd">
+<img src="{{ site.url }}/assets/images/posts/development/windws-search-cmd.jpg" alt="windws search cmd">
 
 Click on the `cmd` link. Wait for the command prompt to open.
 
-<img src="{{ site.url }}/assets/images/posts/development/gradle/windws-command-prompt.jpg" alt="windws command prompt">
+<img src="{{ site.url }}/assets/images/posts/development/windows-command-prompt.jpg" alt="windows command prompt">
 
 Type "java -version" and press `ENTER`.
 
-<img src="{{ site.url }}/assets/images/posts/development/gradle/java-installed-version.jpg" alt="java installed version">
+<img src="{{ site.url }}/assets/images/posts/development/java-installed-version.jpg" alt="java installed version">
 
 The above command prints the installed Java version.
 
@@ -53,6 +53,10 @@ Wait for the download to complete.
 
 ## Step #3: Install
 
+Open the location of the downloaded installer.
 
+<img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-3-5-1-installer.jpg" alt="gradle 3.5.1 installer">
+
+Extract the ZIP archive.
 
 ## Step #4: Run
