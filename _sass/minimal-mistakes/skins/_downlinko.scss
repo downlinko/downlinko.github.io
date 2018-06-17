@@ -85,6 +85,9 @@ p code {
 blockquote {
   border-left-color: #8BC34A !important;
 }
+kbd {
+  color: $dark-green;
+}
 
 /* Archives */
 .archive__subtitle{
