@@ -21,7 +21,7 @@ Off we go!
 
 ## Step #1: Prerequisites
 
-Click on the Windows button. Then type <kbd>"cmd"</kbd> in the search box and press `ENTER`.
+Click on the Windows button. Then type "<kbd>cmd</kbd>" in the search box and press `ENTER`.
 
 <img src="{{ site.url }}/assets/images/posts/development/windws-search-cmd.jpg" alt="windws search cmd">
 
@@ -57,6 +57,8 @@ Open the location of the downloaded installer.
 
 <img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-3-5-1-installer.jpg" alt="gradle 3.5.1 installer">
 
-Extract the ZIP archive.
+Right click the downloaded ZIP archive file. Select `Extract All...`.
+
+<img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-3-5-1-extract-installer.jpg" alt="gradle 3.5.1 extract installer">
 
 ## Step #4: Run
