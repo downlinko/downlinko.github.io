@@ -11,13 +11,15 @@ published: false
 
 <img src="{{ site.url }}/assets/images/posts/development/java/download-install-java-8-windows.png" alt="download install java 8 windows" class="align-right title-image">
 
-Do you need to download and install Java 8 on Windows?
+In this tutorial you’ll learn everything you need to know on **how setup Java on Windows**.
 
-You’ve reached the right place.
+Where to download it.
 
-Because in this tutorial **I'll walk you through the different setup steps**.
+How it install it.
 
-Off we go!
+(And most important of all) how to check if everything is working.
+
+Let’s dive right in.
 
 ## Step #1: Download
 
