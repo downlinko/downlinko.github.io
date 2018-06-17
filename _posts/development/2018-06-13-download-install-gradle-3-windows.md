@@ -83,7 +83,9 @@ Click on the `Edit environment variables for your account` link. Wait for the en
 
 <img src="{{ site.url }}/assets/images/posts/development/windows-environment-variables.jpg" alt="windows environment variables">
 
-Click on `New...`. Enter "<kbd>GRADLE_HOME</kbd>" as variable name. Enter the `GRADLE_HOME` as variable value.
+Click on `New...`.
+
+Enter "<kbd>GRADLE_HOME</kbd>" as variable name. Enter the `GRADLE_HOME` as variable value.
 
 <img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-3-5-1-home-variable.jpg" alt="gradle 3.5.1 home variable">
 
