@@ -75,5 +75,12 @@ All Gradle files are extracted under `C:\Users\Downlinko\tools\gradle-3.5.1`.
 
 ## Step #4: Setup
 
+Click on the Windows button. Then type "<kbd>env</kbd>" in the search box and press `ENTER`.
+
+<img src="{{ site.url }}/assets/images/posts/development/windows-search-env.jpg" alt="windows search env">
+
+Click on the `Edit environment variables for your account` link. Wait for the environment variables window to open.
+
+<img src="{{ site.url }}/assets/images/posts/development/windows-environment-variables.jpg" alt="windows environment variables">
 
 ## Step #5: Test
