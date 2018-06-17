@@ -63,13 +63,13 @@ Right-click the ZIP archive file. Select `Extract All...`.
 
 Select an extract destination.
 
-In this example we extract in `C:\Users\Downlinko\tools`.
+In this example, we extract in `C:\Users\Downlinko\tools`.
 
 <img src="{{ site.url }}/assets/images/posts/development/tools-extract-destination.jpg" alt="tools-extract-destination">
 
 All Gradle files are extracted under `C:\Users\Downlinko\tools\gradle-3.5.1`.
 
-> From now on we reffer to this location as `GRADLE_HOME`.
+> From now on we refer to this location as `GRADLE_HOME`.
 
 <img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-3-5-1-home.jpg" alt="gradle 3.5.1 home">
 
