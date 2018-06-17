@@ -23,7 +23,7 @@ Off we go!
 
 Click on the Windows button. Then type "<kbd>cmd</kbd>" in the search box and press `ENTER`.
 
-<img src="{{ site.url }}/assets/images/posts/development/windws-search-cmd.jpg" alt="windws search cmd">
+<img src="{{ site.url }}/assets/images/posts/development/windows-search-cmd.jpg" alt="windows search cmd">
 
 Click on the `cmd` link. Wait for the command prompt to open.
 
