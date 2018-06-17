@@ -13,7 +13,7 @@ published: true
 
 <img src="{{ site.url }}/assets/images/posts/internet/download-install-firefox-56-windows.png" alt="download install firefox 56 windows" class="align-right title-image">
 
-Want to download and install Mozilla Firefox 56?
+Want to download and install Mozilla Firefox 56 on Windows?
 
 Then you’re in the right place.
 
