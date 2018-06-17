@@ -19,7 +19,7 @@ Because in this tutorial **I'll walk you through the different setup steps**.
 
 Off we go!
 
-## Step #1: Prerequisites
+## Step #1: Check Prerequisites
 
 Click on the Windows button. Then type "<kbd>cmd</kbd>" in the search box and press `ENTER`.
 
@@ -29,7 +29,7 @@ Click on the `cmd` link. Wait for the command prompt to open.
 
 Type "<kbd>java -version</kbd>" and press `ENTER`.
 
-<img src="{{ site.url }}/assets/images/posts/development/windows-command-prompt.jpg" alt="windows command prompt">
+<img src="{{ site.url }}/assets/images/posts/development/java-version-command.jpg" alt="java version command">
 
 The above command prints the installed Java version.
 
@@ -85,6 +85,8 @@ Click on the `Edit environment variables for your account` link. Wait for the en
 
 Click on `New...`.
 
+<img src="{{ site.url }}/assets/images/posts/development/windows-environment-variables-new.jpg" alt="windows environment variables new">
+
 Enter "<kbd>GRADLE_HOME</kbd>" as variable name. Enter the `GRADLE_HOME` as variable value. Click `OK`.
 
 <img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-3-5-1-home-variable.jpg" alt="gradle 3.5.1 home variable">
@@ -93,7 +95,7 @@ Select the `PATH` variable. Click on `Edit...`.
 
 <img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-3-5-1-edit-path-variable.jpg" alt="gradle 3.5.1 edit path variable">
 
-Append "<kbd>%GRADLE_HOME%\bin</kbd>" at the end of the variable value. Click `OK`.
+Append "<kbd>;%GRADLE_HOME%\bin</kbd>" at the end of the variable value. Click `OK`.
 
 <img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-3-5-1-path-variable.jpg" alt="gradle 3.5.1 path variable">
 
@@ -101,7 +103,7 @@ Click `OK` once more to close the environment variables window.
 
 ## Step #5: Test
 
-To test the setup click on the Windows button once more. Type "<kbd>cmd</kbd>" in the search box and press `ENTER`.
+To test the setup click on the Windows button. Type "<kbd>cmd</kbd>" in the search box and press `ENTER`.
 
 <img src="{{ site.url }}/assets/images/posts/development/windows-search-cmd.jpg" alt="windows search cmd">
 
