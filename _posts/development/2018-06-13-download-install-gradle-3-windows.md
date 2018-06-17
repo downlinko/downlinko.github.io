@@ -21,15 +21,19 @@ Off we go!
 
 ## Step #1: Prerequisites
 
-Click on the Windows button. Then search for <kbd>"cmd"</kbd>.
+Click on the Windows button. Then type <kbd>"cmd"</kbd> in the search box and press `ENTER`.
 
 <img src="{{ site.url }}/assets/images/posts/development/gradle/windws-search-cmd.jpg" alt="windws search cmd">
 
-Click on the `cmd` link. Type "java -version" and press `ENTER`.
+Click on the `cmd` link. Wait for the command prompt to open.
+
+<img src="{{ site.url }}/assets/images/posts/development/gradle/windws-command-prompt.jpg" alt="windws command prompt">
+
+Type "java -version" and press `ENTER`.
 
 <img src="{{ site.url }}/assets/images/posts/development/gradle/java-installed-version.jpg" alt="java installed version">
 
-The command prints the installed Java version.
+The above command prints the installed Java version.
 
 > For Gradle 3.5 you need Java version 1.7 or higher.
 
@@ -37,9 +41,11 @@ The command prints the installed Java version.
 
 Go to the [Gradle releases page](https://gradle.org/releases/){:target="_blank"}.
 
+<img src="{{ site.url }}/assets/images/posts/development/gradle-releases-page.jpg" alt="gradle releases page">
+
 Scroll down to `v3.5.1` and click on the `binary-only` link.
 
-
+<img src="{{ site.url }}/assets/images/posts/development/gradle-3-5-1-release.jpg" alt="gradle 3.5.1 release">
 
 > Do you want to skip above steps? Here is the direct link to download the [Mozilla Firefox 56 win32 en-US installer](https://ftp.mozilla.org/pub/firefox/releases/56.0/win32/en-US/){:target="_blank"} for Windows.
 
