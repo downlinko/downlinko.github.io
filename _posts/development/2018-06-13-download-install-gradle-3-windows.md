@@ -47,7 +47,9 @@ Scroll down to `v3.5.1` and click on the `binary-only` link.
 
 <img src="{{ site.url }}/assets/images/posts/development/gradle-3-5-1-release.jpg" alt="gradle 3.5.1 release">
 
-> Do you want to skip above steps? Here is the direct link to download the [Mozilla Firefox 56 win32 en-US installer](https://ftp.mozilla.org/pub/firefox/releases/56.0/win32/en-US/){:target="_blank"} for Windows.
+Wait for the download to complete.
+
+> Do you want to skip above steps? Here is the direct link to download the [Gradle 3.5.1 binary-only installer](https://gradle.org/next-steps/?version=3.5.1&format=bin){:target="_blank"} for Windows.
 
 ## Step #3: Install
 
