@@ -27,13 +27,13 @@ Click on the Windows button. Then type "<kbd>cmd</kbd>" in the search box and pr
 
 Click on the `cmd` link. Wait for the command prompt to open.
 
-<img src="{{ site.url }}/assets/images/posts/development/windows-command-prompt.jpg" alt="windows command prompt">
-
 Type "java -version" and press `ENTER`.
 
-<img src="{{ site.url }}/assets/images/posts/development/java-installed-version.jpg" alt="java installed version">
+<img src="{{ site.url }}/assets/images/posts/development/windows-command-prompt.jpg" alt="windows command prompt">
 
 The above command prints the installed Java version.
+
+<img src="{{ site.url }}/assets/images/posts/development/java-installed-version.jpg" alt="java installed version">
 
 > For Gradle 3.5 you need Java version 1.7 or higher.
 
@@ -91,6 +91,8 @@ Enter "<kbd>GRADLE_HOME</kbd>" as variable name. Enter the `GRADLE_HOME` as vari
 
 Select the `PATH` variable. Click on `Edit...`.
 
+<img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-3-5-1-edit-path-variable.jpg" alt="gradle 3.5.1 edit path variable">
+
 Append "<kbd>%GRADLE_HOME%\bin</kbd>" at the end of the variable value. Click `OK`.
 
 <img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-3-5-1-path-variable.jpg" alt="gradle 3.5.1 path variable">
@@ -98,3 +100,23 @@ Append "<kbd>%GRADLE_HOME%\bin</kbd>" at the end of the variable value. Click `O
 Click `OK` once more to close the environment variables window.
 
 ## Step #5: Test
+
+To test the setup click on the Windows button once more. Type "<kbd>cmd</kbd>" in the search box and press `ENTER`.
+
+<img src="{{ site.url }}/assets/images/posts/development/windows-search-cmd.jpg" alt="windows search cmd">
+
+Click on the `cmd` link. Wait for the command prompt to open.
+
+Type "gradle -v" and press `ENTER`.
+
+<img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-version-command.jpg" alt="gradle-version-command">
+
+The above command prints the installed Gradle version.
+
+<img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-3-5-1-version-output.jpg" alt="gradle 3.5.1 version output">
+
+**Congratulations, you have installed Gradle 3.5.1 on Windows!**
+
+Drop a line below if you liked this post.
+
+Thanks!

@@ -91,7 +91,7 @@ Firefox will now start as shown below.
 
 <img src="{{ site.url }}/assets/images/posts/internet/firefox-56-browser.png" alt="firefox 56 browser">
 
-**Congratulations, you have installed Mozilla Firefox 56!**
+**Congratulations, you have installed Mozilla Firefox 56 on Windows!**
 
 > By default, Firefox is set for automatic updates. To turn this off, you need to change your Firefox update settings. Click the menu button (top right corner) and choose `Options`. In the `General panel`, go to the `Firefox Updates` section. Be aware that using old versions of Firefox poses a significant security risk!
 
