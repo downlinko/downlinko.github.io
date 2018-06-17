@@ -21,6 +21,8 @@ Off we go!
 
 ## Step #1: Check Prerequisites
 
+Gradle requires Java to work. Let's check if Java is setup on your system.
+
 Click on the Windows button. Then type "<kbd>cmd</kbd>" in the search box and press `ENTER`.
 
 <img src="{{ site.url }}/assets/images/posts/development/windows-search-cmd.jpg" alt="windows search cmd">
@@ -61,7 +63,7 @@ Right-click the ZIP archive file. Select `Extract All...`.
 
 <img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-3-5-1-installer-extract-all.jpg" alt="gradle 3.5.1 installer extract all">
 
-Select an extract destination.
+Select an extract destination for the Gradle files.
 
 In this example, we extract in `C:\Users\Downlinko\tools`.
 
@@ -69,7 +71,7 @@ In this example, we extract in `C:\Users\Downlinko\tools`.
 
 All Gradle files are extracted under `C:\Users\Downlinko\tools\gradle-3.5.1`.
 
-> From now on we refer to this location as `GRADLE_HOME`.
+> From now on we refer to this location as `[GRADLE_INSTALL_DIR]`.
 
 <img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-3-5-1-home.jpg" alt="gradle 3.5.1 home">
 
@@ -87,7 +89,7 @@ Click on `New...`.
 
 <img src="{{ site.url }}/assets/images/posts/development/windows-environment-variables-new.jpg" alt="windows environment variables new">
 
-Enter "<kbd>GRADLE_HOME</kbd>" as variable name. Enter the `GRADLE_HOME` as variable value. Click `OK`.
+Enter "<kbd>GRADLE_HOME</kbd>" as variable name. Enter the `[GRADLE_INSTALL_DIR]` as variable value. Click `OK`.
 
 <img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-3-5-1-home-variable.jpg" alt="gradle 3.5.1 home variable">
 
@@ -117,7 +119,7 @@ The above command prints the installed Gradle version.
 
 <img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-3-5-1-version-output.jpg" alt="gradle 3.5.1 version output">
 
-**Congratulations, you have installed Gradle 3.5.1 on Windows!**
+**Congratulations, you have successfully installed Gradle 3.5.1 on Windows!**
 
 Drop a line below if you liked this post.
 
