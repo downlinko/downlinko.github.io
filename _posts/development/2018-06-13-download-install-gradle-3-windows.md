@@ -85,8 +85,14 @@ Click on the `Edit environment variables for your account` link. Wait for the en
 
 Click on `New...`.
 
-Enter "<kbd>GRADLE_HOME</kbd>" as variable name. Enter the `GRADLE_HOME` as variable value.
+Enter "<kbd>GRADLE_HOME</kbd>" as variable name. Enter the `GRADLE_HOME` as variable value. Click `OK`.
 
 <img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-3-5-1-home-variable.jpg" alt="gradle 3.5.1 home variable">
+
+Select the `PATH` variable. Click on `Edit...`.
+
+Append "<kbd>%GRADLE_HOME%\bin</kbd>" at the end of the variable value. Click `OK`.
+
+<img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-3-5-1-path-variable.jpg" alt="gradle 3.5.1 path variable">
 
 ## Step #5: Test
