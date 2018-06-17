@@ -27,7 +27,7 @@ Click on the Windows button. Then type "<kbd>cmd</kbd>" in the search box and pr
 
 Click on the `cmd` link. Wait for the command prompt to open.
 
-Type "java -version" and press `ENTER`.
+Type "<kbd>java -version</kbd>" and press `ENTER`.
 
 <img src="{{ site.url }}/assets/images/posts/development/windows-command-prompt.jpg" alt="windows command prompt">
 
@@ -107,7 +107,7 @@ To test the setup click on the Windows button once more. Type "<kbd>cmd</kbd>" i
 
 Click on the `cmd` link. Wait for the command prompt to open.
 
-Type "gradle -v" and press `ENTER`.
+Type "<kbd>gradle -v</kbd>" and press `ENTER`.
 
 <img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-version-command.jpg" alt="gradle-version-command">
 
