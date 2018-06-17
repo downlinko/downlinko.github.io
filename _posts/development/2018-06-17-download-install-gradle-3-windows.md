@@ -5,7 +5,7 @@ excerpt: "A detailed step-by-step tutorial on how to download and install Gradle
 date: 2018-06-17
 last_modified_at: 2018-06-17
 categories: [Development]
-tags: [Download, Gradle, Install, Tutorial, Windows]
+tags: [Download, Gradle, Install, Setup, Tutorial, Windows]
 published: true
 ---
 
