@@ -21,13 +21,13 @@ Off we go!
 
 ## Step #1: Check Prerequisites
 
-Gradle requires Java to work. Let's check if Java is setup on your system.
+Gradle requires Java to work. Let's check if you have Java on your system.
 
 Click on the Windows button. Then type "<kbd>cmd</kbd>" in the search box and press `ENTER`.
 
 <img src="{{ site.url }}/assets/images/posts/development/windows-search-cmd.jpg" alt="windows search cmd">
 
-Click on the `cmd` link. Wait for the command prompt to open.
+Click on the `cmd` shortcut. Wait for the command prompt to open.
 
 Type "<kbd>java -version</kbd>" and press `ENTER`.
 
@@ -69,7 +69,7 @@ In this example, we extract in `C:\Users\Downlinko\tools`.
 
 <img src="{{ site.url }}/assets/images/posts/development/tools-extract-destination.jpg" alt="tools-extract-destination">
 
-All Gradle files are extracted under `C:\Users\Downlinko\tools\gradle-3.5.1`.
+Click on `Extract`. This extracts all Gradle files under `C:\Users\Downlinko\tools\gradle-3.5.1`.
 
 > From now on we refer to this location as `[GRADLE_INSTALL_DIR]`.
 
@@ -81,7 +81,7 @@ Click on the Windows button. Then type "<kbd>env</kbd>" in the search box and pr
 
 <img src="{{ site.url }}/assets/images/posts/development/windows-search-env.jpg" alt="windows search env">
 
-Click on the `Edit environment variables for your account` link. Wait for the environment variables window to open.
+Click on the `Edit environment variables for your account` shortcut. Wait for the environment variables window to open.
 
 <img src="{{ site.url }}/assets/images/posts/development/windows-environment-variables.jpg" alt="windows environment variables">
 
@@ -109,7 +109,7 @@ To test the setup click on the Windows button. Type "<kbd>cmd</kbd>" in the sear
 
 <img src="{{ site.url }}/assets/images/posts/development/windows-search-cmd.jpg" alt="windows search cmd">
 
-Click on the `cmd` link. Wait for the command prompt to open.
+Click on the `cmd` shortcut. Wait for the command prompt to open.
 
 Type "<kbd>gradle -v</kbd>" and press `ENTER`.
 
@@ -119,7 +119,7 @@ The above command prints the installed Gradle version.
 
 <img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-3-5-1-version-output.jpg" alt="gradle 3.5.1 version output">
 
-**Congratulations, you have successfully installed Gradle 3.5.1 on Windows!**
+**Congratulations, you have installed Gradle 3.5.1 on Windows!**
 
 Drop a line below if you liked this post.
 
