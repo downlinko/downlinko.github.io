@@ -23,11 +23,11 @@ Off we go!
 
 Click on the Windows button. Then search for "cmd".
 
-<img src="{{ site.url }}/assets/images/posts/development/gradle/windws-search-cmd.jpg" alt="windws search cmd" class="align-right">
+<img src="{{ site.url }}/assets/images/posts/development/gradle/windws-search-cmd.jpg" alt="windws search cmd">
 
 Click on the `cmd` link. Type "java -version" and press `ENTER`.
 
-<img src="{{ site.url }}/assets/images/posts/development/gradle/java-installed-version.jpg" alt="java installed version" class="align-right">
+<img src="{{ site.url }}/assets/images/posts/development/gradle/java-installed-version.jpg" alt="java installed version">
 
 The command prints the installed Java version. For Gradle 3.5 you need Java version 1.7 or higher.
 
