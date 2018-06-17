@@ -57,11 +57,17 @@ Open the location of the downloaded installer.
 
 <img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-3-5-1-installer.jpg" alt="gradle 3.5.1 installer">
 
-Right click the downloaded ZIP archive file. Select `Extract All...`.
+Right-click the downloaded ZIP archive file. Select `Extract All...`.
 
 <img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-3-5-1-extract-installer.jpg" alt="gradle 3.5.1 extract installer">
 
-Select a location. In this example we extract in `C:\Users\Downlinko\gradle-3.5.1`. From now on we reffer to this location as `GRADLE_HOME`.
+Select a location. In this example we extract in `C:\Users\Downlinko\tools`.
+
+<img src="{{ site.url }}/assets/images/posts/development/tools-extract-location.jpg" alt="tools extract location">
+
+
+
+> From now on we reffer to this location as `GRADLE_HOME`.
 
 <img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-3-5-1-home.jpg" alt="gradle 3.5.1 home">
 
