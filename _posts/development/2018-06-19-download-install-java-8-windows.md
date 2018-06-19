@@ -6,7 +6,7 @@ date: 2018-06-19
 last_modified_at: 2018-06-19
 categories: [Development]
 tags: [Download, Install, Java, Setup, Tutorial, Windows]
-published: false
+published: true
 ---
 
 <img src="{{ site.url }}/assets/images/posts/development/java/download-install-java-8-windows.png" alt="download install java 8 windows" class="align-right title-image">
@@ -19,27 +19,27 @@ How it install it.
 
 (And most important of all) how to check if everything is working.
 
-Let’s dive right in.
+Let’s start!
 
 ## Step #1: Download
 
-Go to the [Gradle releases page](https://gradle.org/releases/){:target="_blank"}.
+Go to the [Java download page](https://java.com/en/download/manual.jsp){:target="_blank"}.
 
-<img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-releases-page.jpg" alt="gradle releases page">
+<img src="{{ site.url }}/assets/images/posts/development/java/java-download-page.jpg" alt="java download page">
 
-Scroll down to `v3.5.1` and click on the `binary-only` link.
+Click on the `Windows Online` link.
 
-<img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-3-5-1-release.jpg" alt="gradle 3.5.1 release">
+<img src="{{ site.url }}/assets/images/posts/development/java/java-8-online-installer-link.jpg" alt="java 8 online installer link">
 
 Wait for the download to complete.
 
-> Do you want to skip above steps? Here is the direct link to download the [Gradle 3.5.1 binary-only installer](https://gradle.org/next-steps/?version=3.5.1&format=bin){:target="_blank"} for Windows.
+> Do you want to skip above steps? Here is the direct link for the [Java online installer](http://javadl.oracle.com/webapps/download/AutoDL?BundleId=233169_512cd62ec5174c3487ac17c61aaa89e8){:target="_blank"} for Windows.
 
 ## Step #3: Install
 
 Open the location of the downloaded installer.
 
-<img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-3-5-1-downloaded-installer.jpg" alt="gradle 3.5.1 downloaded installer">
+<img src="{{ site.url }}/assets/images/posts/development/java/java-8-online-installer.jpg" alt="java 8 online installer">
 
 Right-click the ZIP archive file. Select `Extract All...`.
 
