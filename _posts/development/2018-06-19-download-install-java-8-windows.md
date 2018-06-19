@@ -41,11 +41,15 @@ Open the location of the downloaded installer.
 
 <img src="{{ site.url }}/assets/images/posts/development/java/java-8-online-installer.jpg" alt="java 8 online installer">
 
-Right-click the ZIP archive file. Select `Extract All...`.
+Double-click on the installer.
 
-<img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-3-5-1-installer-extract-all.jpg" alt="gradle 3.5.1 installer extract all">
+The Java setup welcome window opens. Double-click on `Install >`.
+
+<img src="{{ site.url }}/assets/images/posts/development/java/java-8-installer-welcome.jpg" alt="java 8 installer welcome">
 
 Select an extract destination for the Gradle files.
+
+<img src="{{ site.url }}/assets/images/posts/development/java/java-8-installer-installing.jpg" alt="java 8 installer installing">
 
 In this example, we extract in `C:\Users\Downlinko\tools`.
 
