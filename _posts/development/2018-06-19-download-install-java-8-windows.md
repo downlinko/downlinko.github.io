@@ -77,10 +77,10 @@ If needed accept to run the application.
 
 The above command prints the installed Gradle version.
 
-<img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-3-5-1-version-output.jpg" alt="gradle 3.5.1 version output">
+<img src="{{ site.url }}/assets/images/posts/development/java/java-8-verified-page.jpg" alt="java 8 verified page">
 
-**Congratulations, you have installed Gradle 3.5.1 on Windows!**
+**Congratulations, you have installed Java 8 on Windows!**
 
-Drop a line below if you liked this post.
+Leave a comment below if this post was helpful for you.
 
 Thanks!
