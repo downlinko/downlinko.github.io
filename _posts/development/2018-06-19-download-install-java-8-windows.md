@@ -41,7 +41,9 @@ Open the location of the downloaded installer.
 
 <img src="{{ site.url }}/assets/images/posts/development/java/java-8-online-installer.jpg" alt="java 8 online installer">
 
-Double-click on the installer. The Java setup welcome window opens.
+Double-click on the installer. If needed allow the program to make changes.
+
+The Java setup welcome window opens.
 
 Double-click on `Install >`.
 
@@ -61,15 +63,17 @@ Click `Close`.
 
 ## Step #3: Test
 
-To test the setup click on the Windows button. Type "<kbd>cmd</kbd>" in the search box and press `ENTER`.
+To test the setup open Internet Explorer.
 
-<img src="{{ site.url }}/assets/images/posts/development/windows-search-cmd.jpg" alt="windows search cmd">
+> Mozilla Firefox 64-bit and Google Chrome no longer support Java applets. They cannot not be used to perform this test.
 
-Click on the `cmd` shortcut. Wait for the command prompt to open.
+Go to the [Java verification page](https://www.java.com/en/download/installed.jsp?detect=jre){:target="_blank"}.
 
-Type "<kbd>gradle -v</kbd>" and press `ENTER`.
+<img src="{{ site.url }}/assets/images/posts/development/java/java-verification-page.jpg" alt="windows search cmd">
 
-<img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-version-command.jpg" alt="gradle-version-command">
+If needed accept to run the application.
+
+<img src="{{ site.url }}/assets/images/posts/development/java/java-allow-applet-to-run.jpg" alt="java allow applet to run">
 
 The above command prints the installed Gradle version.
 
