@@ -41,13 +41,17 @@ Open the location of the downloaded installer.
 
 <img src="{{ site.url }}/assets/images/posts/development/java/java-8-online-installer.jpg" alt="java 8 online installer">
 
-Double-click on the installer.
+Double-click on the installer. The Java setup welcome window opens.
 
-The Java setup welcome window opens. Double-click on `Install >`.
+Double-click on `Install >`.
 
 <img src="{{ site.url }}/assets/images/posts/development/java/java-8-installer-welcome.jpg" alt="java 8 installer welcome">
 
-Select an extract destination for the Gradle files.
+A Java setup window appears (this might take a few seconds).
+
+The green bar shows the installation progress.
+
+Wait for the installation to complete.
 
 <img src="{{ site.url }}/assets/images/posts/development/java/java-8-installer-installing.jpg" alt="java 8 installer installing">
 
