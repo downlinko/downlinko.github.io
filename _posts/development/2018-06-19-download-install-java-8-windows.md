@@ -71,7 +71,7 @@ Go to the [Java verification page](https://www.java.com/en/download/installed.js
 
 <img src="{{ site.url }}/assets/images/posts/development/java/java-verification-page.jpg" alt="windows search cmd">
 
-If needed, accept to run the application.
+Click on `Run` to perform the verification.
 
 <img src="{{ site.url }}/assets/images/posts/development/java/java-allow-applet-to-run.jpg" alt="java allow applet to run">
 
