@@ -49,7 +49,7 @@ Double-click on `Install >`.
 
 <img src="{{ site.url }}/assets/images/posts/development/java/java-8-installer-welcome.jpg" alt="java 8 installer welcome">
 
-A Java setup window appears (this might take a few seconds).
+A Java setup progress window appears (this might take a few seconds).
 
 The green bar shows the installation progress.
 
@@ -75,7 +75,7 @@ If needed, accept to run the application.
 
 <img src="{{ site.url }}/assets/images/posts/development/java/java-allow-applet-to-run.jpg" alt="java allow applet to run">
 
-The page shows you have the recommended Java version.
+A confirmation message appears if all is OK.
 
 <img src="{{ site.url }}/assets/images/posts/development/java/java-8-verified-page.jpg" alt="java 8 verified page">
 
