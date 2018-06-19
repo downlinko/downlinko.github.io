@@ -35,7 +35,7 @@ Wait for the download to complete.
 
 > Do you want to skip above steps? Here is the direct link for the [Java online installer](http://javadl.oracle.com/webapps/download/AutoDL?BundleId=233169_512cd62ec5174c3487ac17c61aaa89e8){:target="_blank"} for Windows.
 
-## Step #3: Install
+## Step #2: Install
 
 Open the location of the downloaded installer.
 
@@ -51,49 +51,15 @@ A Java setup window appears (this might take a few seconds).
 
 The green bar shows the installation progress.
 
-Wait for the installation to complete.
-
 <img src="{{ site.url }}/assets/images/posts/development/java/java-8-installer-installing.jpg" alt="java 8 installer installing">
 
-In this example, we extract in `C:\Users\Downlinko\tools`.
+Wait for the installation to complete.
 
-<img src="{{ site.url }}/assets/images/posts/development/tools-extract-destination.jpg" alt="tools-extract-destination">
+Click `Close`.
 
-Click on `Extract`. This extracts all Gradle files under `C:\Users\Downlinko\tools\gradle-3.5.1`.
+<img src="{{ site.url }}/assets/images/posts/development/java/java-8-installer-complete.jpg" alt="java 8 installer complete">
 
-> From now on we refer to this location as `[GRADLE_INSTALL_DIR]`.
-
-<img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-3-5-1-home.jpg" alt="gradle 3.5.1 home">
-
-## Step #4: Setup
-
-Click on the Windows button. Then type "<kbd>env</kbd>" in the search box and press `ENTER`.
-
-<img src="{{ site.url }}/assets/images/posts/development/windows-search-env.jpg" alt="windows search env">
-
-Click on the `Edit environment variables for your account` shortcut. Wait for the environment variables window to open.
-
-<img src="{{ site.url }}/assets/images/posts/development/windows-environment-variables.jpg" alt="windows environment variables">
-
-Click on `New...`.
-
-<img src="{{ site.url }}/assets/images/posts/development/windows-environment-variables-new.jpg" alt="windows environment variables new">
-
-Enter "<kbd>GRADLE_HOME</kbd>" as variable name. Enter the `[GRADLE_INSTALL_DIR]` as variable value. Click `OK`.
-
-<img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-3-5-1-home-variable.jpg" alt="gradle 3.5.1 home variable">
-
-Select the `PATH` variable. Click on `Edit...`.
-
-<img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-3-5-1-edit-path-variable.jpg" alt="gradle 3.5.1 edit path variable">
-
-Append "<kbd>;%GRADLE_HOME%\bin</kbd>" at the end of the variable value. Click `OK`.
-
-<img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-3-5-1-path-variable.jpg" alt="gradle 3.5.1 path variable">
-
-Click `OK` once more to close the environment variables window.
-
-## Step #5: Test
+## Step #3: Test
 
 To test the setup click on the Windows button. Type "<kbd>cmd</kbd>" in the search box and press `ENTER`.
 
