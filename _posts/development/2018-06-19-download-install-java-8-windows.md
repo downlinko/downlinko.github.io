@@ -11,7 +11,7 @@ published: true
 
 <img src="{{ site.url }}/assets/images/posts/development/java/download-install-java-8-windows.png" alt="download install java 8 windows" class="align-right title-image">
 
-In this tutorial you’ll learn everything you need to know on **how setup Java on Windows**.
+In this tutorial, you’ll learn everything you need to know on **how setup Java on Windows**.
 
 Where to download it.
 
@@ -63,9 +63,9 @@ Click `Close`.
 
 ## Step #3: Test
 
-To test the setup open Internet Explorer.
+To test the Java setup open Internet Explorer.
 
-> Mozilla Firefox 64-bit and Google Chrome no longer support Java applets. They cannot not be used to perform this test.
+> Mozilla Firefox 64-bit and Google Chrome no longer support Java applets. You cannot use them to perform this test.
 
 Go to the [Java verification page](https://www.java.com/en/download/installed.jsp?detect=jre){:target="_blank"}.
 
@@ -75,7 +75,7 @@ If needed, accept to run the application.
 
 <img src="{{ site.url }}/assets/images/posts/development/java/java-allow-applet-to-run.jpg" alt="java allow applet to run">
 
-The page shows that the Java installation is verified.
+The page shows you have the recommended Java version.
 
 <img src="{{ site.url }}/assets/images/posts/development/java/java-8-verified-page.jpg" alt="java 8 verified page">
 
