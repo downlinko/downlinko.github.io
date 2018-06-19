@@ -71,11 +71,11 @@ Go to the [Java verification page](https://www.java.com/en/download/installed.js
 
 <img src="{{ site.url }}/assets/images/posts/development/java/java-verification-page.jpg" alt="windows search cmd">
 
-If needed accept to run the application.
+If needed, accept to run the application.
 
 <img src="{{ site.url }}/assets/images/posts/development/java/java-allow-applet-to-run.jpg" alt="java allow applet to run">
 
-The above command prints the installed Gradle version.
+The page shows that the Java installation is verified.
 
 <img src="{{ site.url }}/assets/images/posts/development/java/java-8-verified-page.jpg" alt="java 8 verified page">
 
