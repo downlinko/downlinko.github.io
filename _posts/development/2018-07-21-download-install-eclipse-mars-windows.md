@@ -39,7 +39,7 @@ The above command prints the installed Java version.
 
 <img src="{{ site.url }}/assets/images/posts/development/java-installed-version.png" alt="java installed version">
 
-It also prints the whether you have the 32 or 64 bit version of Java.
+It also prints the whether you have the 32 or 64-bit version of Java.
 
 <img src="{{ site.url }}/assets/images/posts/development/java-installed-bit-version.png" alt="java installed bit version">
 
@@ -85,7 +85,7 @@ Click on `Extract`. This extracts all Eclipse Mars files under `C:\Users\Downlin
 
 To run Eclipse Mars navigate to the `[ECLIPSE_MARS_INSTALL_DIR]` installation directory.
 
-Located the executable file called `eclipse` and double click on it.
+Located the executable file called `eclipse` and double-click on it.
 
 <img src="{{ site.url }}/assets/images/posts/development/eclipse/eclipse-mars-executable.png" alt="eclipse mars executable">
 
