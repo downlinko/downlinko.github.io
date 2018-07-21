@@ -15,7 +15,9 @@ Looking to download and install Eclipse Mars?
 
 Good news!
 
-I’m going to explain you **where you can find the package**. I'll also guide you through the different installation steps.
+I’m going to explain you **where you can find the package**.
+
+I'll also guide you through the different installation steps.
 
 Let’s go!
 
@@ -83,11 +85,15 @@ Click on `Extract`. This extracts all Eclipse Mars files under `C:\Users\Downlin
 
 To run Eclipse Mars navigate to the `[ECLIPSE_MARS_INSTALL_DIR]` installation directory.
 
-Located the executable file called `eclipse` and double click it.
+Located the executable file called `eclipse` and double click on it.
 
 <img src="{{ site.url }}/assets/images/posts/development/eclipse/eclipse-mars-executable.png" alt="eclipse mars executable">
 
-Eclipse will start and prompt for a default workspace location. If needed change the default location and click `OK`.
+Eclipse will start and prompt for a default workspace location.
+
+<img src="{{ site.url }}/assets/images/posts/development/eclipse/eclipse-mars-workspace-default-location.png" alt="eclipse mars workspace default location">
+
+If needed change the default location and click `OK`.
 
 <img src="{{ site.url }}/assets/images/posts/development/eclipse/eclipse-mars-workspace.png" alt="eclipse mars workspace">
 
