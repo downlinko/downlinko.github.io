@@ -6,18 +6,18 @@ date: 2018-07-21
 last_modified_at: 2018-07-21
 categories: [Development]
 tags: [Download, Install, Maven, Setup, Tutorial, Windows]
-published: false
+published: true
 ---
 
 <img src="{{ site.url }}/assets/images/posts/development/maven/download-install-maven-3-3-9-windows.png" alt="download install maven 3-3-9 windows" class="align-right title-image">
 
-Do you want to download and install Maven 3.3.9 on Windows?
+Do you want to **download and install Apache Maven 3.3.9 on Windows**?
 
 Then Check this out:
 
 In this tutorial I'll show where to download Maven.
 
-**How to configure it**.
+How to configure it.
 
 (And above all) how to check if everything is working.
 
@@ -45,17 +45,23 @@ The above command prints the installed Java version.
 
 ## Step #2: Download
 
-Go to the [Gradle releases page](https://gradle.org/releases/){:target="_blank"}.
+Go to the [Maven 3 archives page](https://archive.apache.org/dist/maven/maven-3/){:target="_blank"}.
 
-<img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-releases-page.jpg" alt="gradle releases page">
+Click on the `3.3.9/` folder.
 
-Scroll down to `v3.5.1` and click on the `binary-only` link.
+<img src="{{ site.url }}/assets/images/posts/development/maven/maven-3-download-archive.png" alt="maven 3 download archive">
 
-<img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-3-5-1-release.jpg" alt="gradle 3.5.1 release">
+Click on `binaries`.
+
+<img src="{{ site.url }}/assets/images/posts/development/maven/maven-3-3-9-distribution.png" alt="maven 3-3-9 distribution">
+
+Click on the `apache-maven-3.3.9-bin.zip` link.
+
+<img src="{{ site.url }}/assets/images/posts/development/maven/maven-3-3-9-binaries.png" alt="maven 3-3-9 binaries">
 
 Wait for the download to complete.
 
-> Do you want to skip above steps? Here is the direct link to download the [Gradle 3.5.1 binary-only installer](https://gradle.org/next-steps/?version=3.5.1&format=bin){:target="_blank"} for Windows.
+> Do you want to skip above steps? Here is the direct link to download the [Maven 3.3.9 installer](https://archive.apache.org/dist/maven/maven-3/3.3.9/binaries/apache-maven-3.3.9-bin.zip){:target="_blank"} for Windows.
 
 ## Step #3: Install
 
