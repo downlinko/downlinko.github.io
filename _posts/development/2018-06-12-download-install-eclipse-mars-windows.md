@@ -55,7 +55,7 @@ Click on your Windows version. This needs to match with the Java version install
 
 Now wait for the download to complete.
 
-> Some download mirrors might return a `404 Not Found` error. Here is a direct link to download the [32 Bit package](http://mirror.csclub.uwaterloo.ca/eclipse/technology/epp/downloads/release/mars/2/eclipse-jee-mars-2-win32.zip){:target="_blank"} or [64 Bit package](http://mirror.csclub.uwaterloo.ca/eclipse/technology/epp/downloads/release/mars/2/eclipse-jee-mars-2-win64.zip){:target="_blank"} Eclipse IDE for Java EE Developers package for Windows.
+> Some download mirrors might return a `404 Not Found` error. Here is a direct link to download the [32 Bit](http://mirror.csclub.uwaterloo.ca/eclipse/technology/epp/downloads/release/mars/2/eclipse-jee-mars-2-win32.zip){:target="_blank"} or [64 Bit](http://mirror.csclub.uwaterloo.ca/eclipse/technology/epp/downloads/release/mars/2/eclipse-jee-mars-2-win32-x86_64.zip){:target="_blank"} package for Windows.
 
 ## Step #3: Install
 
