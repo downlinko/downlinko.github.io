@@ -121,7 +121,7 @@ Click `OK`.
 
 Click `OK` once more to close the environment variables window.
 
-> If a PATH variable does not exist you need to create it. Use "<kbd>PATH</kbd>" as variable name and <kbd>"%M2_HOME%\bin"</kbd> as variable value.
+> If a PATH variable does not exist you need to create it. Use "<kbd>PATH</kbd>" as variable name and "<kbd>%M2_HOME%\bin</kbd>" as variable value.
 
 ## Step #5: Test
 
