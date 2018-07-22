@@ -5,7 +5,7 @@ excerpt: "A detailed step-by-step tutorial on how to download and install Apache
 date: 2018-07-21
 last_modified_at: 2018-07-21
 categories: [Development]
-tags: [Download, Install, Maven, Setup, Tutorial, Windows]
+tags: [Apache Maven, Download, Install, Maven, Setup, Tutorial, Windows]
 published: true
 ---
 
