@@ -101,11 +101,13 @@ Click on `New...`.
 
 Enter "<kbd>M2_HOME</kbd>" as variable name. Enter the `[MAVEN_INSTALL_DIR]` as variable value.
 
-In this tutorial the installation directory is 'C:\Users\Downlinko\tools\apache-maven-3.2.2'. 
+In this tutorial the installation directory is `C:\Users\Downlinko\tools\apache-maven-3.3.9`.
 
 Click `OK`.
 
 <img src="{{ site.url }}/assets/images/posts/development/maven/maven-3-3-9-home-variable.png" alt="maven 3-3-9 home variable">
+
+Next we need to configure the 'PATH' environment variable so we can run Maven from a command prompt.
 
 Select the `PATH` variable. Click on `Edit...`.
 
