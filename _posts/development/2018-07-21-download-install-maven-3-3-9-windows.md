@@ -85,7 +85,7 @@ Click on `Extract`. This extracts all Maven files under `C:\Users\Downlinko\tool
 
 ## Step #4: Setup
 
-We need to setup an environment variable that will point to our Maven installation.
+We need to set up an environment variable that will point to our Maven installation.
 
 Click on the Windows button. Then type "<kbd>env</kbd>" in the search box and press `ENTER`.
 
