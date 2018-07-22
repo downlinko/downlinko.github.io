@@ -2,8 +2,8 @@
 title: "Download and Install Maven 3.3.9 on Windows"
 permalink: /download-install-maven-3-3-9-windows.html
 excerpt: "A detailed step-by-step tutorial on how to download and install Apache Maven 3.3.9 on Windows."
-date: 2018-07-21
-last_modified_at: 2018-07-21
+date: 2018-07-22
+last_modified_at: 2018-07-22
 categories: [Development]
 tags: [Apache Maven, Download, Install, Maven, Setup, Tutorial, Windows]
 published: true
