@@ -29,9 +29,9 @@ Maven requires [Java](http://www.oracle.com/technetwork/java/javase/downloads/in
 
 Click on the Windows button. Then type "<kbd>cmd</kbd>" in the search box and press `ENTER`.
 
-<img src="{{ site.url }}/assets/images/posts/development/windows-search-cmd.png" alt="windows search cmd">
-
 Click on the `cmd` shortcut. Wait for the command prompt to open.
+
+<img src="{{ site.url }}/assets/images/posts/development/windows-search-cmd.png" alt="windows search cmd">
 
 Type "<kbd>java -version</kbd>" and press `ENTER`.
 
@@ -127,9 +127,9 @@ Click `OK` once more to close the environment variables window.
 
 To test the setup click on the Windows button. Type "<kbd>cmd</kbd>" in the search box and press `ENTER`.
 
-<img src="{{ site.url }}/assets/images/posts/development/windows-search-cmd.png" alt="windows search cmd">
-
 Click on the `cmd` shortcut. Wait for the command prompt to open.
+
+<img src="{{ site.url }}/assets/images/posts/development/windows-search-cmd.png" alt="windows search cmd">
 
 Type "<kbd>mvn -version</kbd>" and press `ENTER`.
 
