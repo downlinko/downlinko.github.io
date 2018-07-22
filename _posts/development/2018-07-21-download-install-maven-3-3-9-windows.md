@@ -101,23 +101,25 @@ Click on `New...`.
 
 Enter "<kbd>M2_HOME</kbd>" as variable name. Enter the `[MAVEN_INSTALL_DIR]` as variable value.
 
-In this tutorial the installation directory is `C:\Users\Downlinko\tools\apache-maven-3.3.9`.
+In this tutorial the installation directory is: `C:\Users\Downlinko\tools\apache-maven-3.3.9`.
 
 Click `OK`.
 
 <img src="{{ site.url }}/assets/images/posts/development/maven/maven-3-3-9-home-variable.png" alt="maven 3-3-9 home variable">
 
-Next we need to configure the 'PATH' environment variable so we can run Maven from a command prompt.
+Next we need to configure the PATH environment variable so we can run Maven from a command prompt.
 
 Select the `PATH` variable. Click on `Edit...`.
 
-<img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-3-5-1-edit-path-variable.jpg" alt="gradle 3.5.1 edit path variable">
+<img src="{{ site.url }}/assets/images/posts/development/maven/maven-3-3-9-edit-path-variable.png" alt="maven 3-3-9 edit path variable">
 
-Append "<kbd>;%GRADLE_HOME%\bin</kbd>" at the end of the variable value. Click `OK`.
+Append "<kbd>;%M2_HOME%\bin</kbd>" at the end of the variable value. Click `OK`.
 
-<img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-3-5-1-path-variable.jpg" alt="gradle 3.5.1 path variable">
+<img src="{{ site.url }}/assets/images/posts/development/maven/maven-3-3-9-path-variable.png" alt="maven 3-3-9 path variable">
 
 Click `OK` once more to close the environment variables window.
+
+> If a PATH variable does not exist you need to create it. Use "<kbd>PATH</kbd>" as variable name and <kbd>"%M2_HOME%\bin"</kbd> as variable value.
 
 ## Step #5: Test
 
