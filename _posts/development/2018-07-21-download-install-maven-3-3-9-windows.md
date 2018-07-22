@@ -11,7 +11,7 @@ published: true
 
 <img src="{{ site.url }}/assets/images/posts/development/maven/download-install-maven-3-3-9-windows.png" alt="download install maven 3-3-9 windows" class="align-right title-image">
 
-Do you want to download and install Apache Maven 3.3.9 on Windows?
+Do you want to download and install [Apache Maven](https://maven.apache.org/){:target="_blank"} 3.3.9 on Windows?
 
 Then Check this out:
 
@@ -19,7 +19,7 @@ In this tutorial I'll show where to download Maven.
 
 How to configure it.
 
-(And above all) how to **check if everything is working**.
+(And above all) **how to check if everything is working**.
 
 So here we go.
 
@@ -85,6 +85,8 @@ Click on `Extract`. This extracts all Maven files under `C:\Users\Downlinko\tool
 
 ## Step #4: Setup
 
+We need to setup an environment variable that will point to our Maven installation.
+
 Click on the Windows button. Then type "<kbd>env</kbd>" in the search box and press `ENTER`.
 
 <img src="{{ site.url }}/assets/images/posts/development/windows-search-env.png" alt="windows search env">
@@ -97,9 +99,13 @@ Click on `New...`.
 
 <img src="{{ site.url }}/assets/images/posts/development/windows-user-environment-variables-new.png" alt="windows user environment variables new">
 
-Enter "<kbd>M2_HOME</kbd>" as variable name. Enter the `[MAVEN_INSTALL_DIR]` as variable value. Click `OK`.
+Enter "<kbd>M2_HOME</kbd>" as variable name. Enter the `[MAVEN_INSTALL_DIR]` as variable value.
 
-<img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-3-5-1-home-variable.jpg" alt="gradle 3.5.1 home variable">
+In this tutorial the installation directory is 'C:\Users\Downlinko\tools\apache-maven-3.2.2'. 
+
+Click `OK`.
+
+<img src="{{ site.url }}/assets/images/posts/development/maven/maven-3-3-9-home-variable.png" alt="maven 3-3-9 home variable">
 
 Select the `PATH` variable. Click on `Edit...`.
 
