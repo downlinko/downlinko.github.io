@@ -87,17 +87,17 @@ Click on `Extract`. This extracts all Maven files under `C:\Users\Downlinko\tool
 
 Click on the Windows button. Then type "<kbd>env</kbd>" in the search box and press `ENTER`.
 
-<img src="{{ site.url }}/assets/images/posts/development/windows-search-env.jpg" alt="windows search env">
+<img src="{{ site.url }}/assets/images/posts/development/windows-search-env.png" alt="windows search env">
 
 Click on the `Edit environment variables for your account` shortcut. Wait for the environment variables window to open.
 
-<img src="{{ site.url }}/assets/images/posts/development/windows-environment-variables.jpg" alt="windows environment variables">
+<img src="{{ site.url }}/assets/images/posts/development/windows-user-environment-variables.png" alt="windows user environment variables">
 
 Click on `New...`.
 
-<img src="{{ site.url }}/assets/images/posts/development/windows-environment-variables-new.jpg" alt="windows environment variables new">
+<img src="{{ site.url }}/assets/images/posts/development/windows-user-environment-variables-new.png" alt="windows user environment variables new">
 
-Enter "<kbd>GRADLE_HOME</kbd>" as variable name. Enter the `[GRADLE_INSTALL_DIR]` as variable value. Click `OK`.
+Enter "<kbd>M2_HOME</kbd>" as variable name. Enter the `[MAVEN_INSTALL_DIR]` as variable value. Click `OK`.
 
 <img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-3-5-1-home-variable.jpg" alt="gradle 3.5.1 home variable">
 
