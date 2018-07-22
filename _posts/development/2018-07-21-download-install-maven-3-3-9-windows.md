@@ -113,7 +113,9 @@ Select the `PATH` variable. Click on `Edit...`.
 
 <img src="{{ site.url }}/assets/images/posts/development/maven/maven-3-3-9-edit-path-variable.png" alt="maven 3-3-9 edit path variable">
 
-Append "<kbd>;%M2_HOME%\bin</kbd>" at the end of the variable value. Click `OK`.
+Append "<kbd>;%M2_HOME%\bin</kbd>" at the end of the variable value.
+
+Click `OK`.
 
 <img src="{{ site.url }}/assets/images/posts/development/maven/maven-3-3-9-path-variable.png" alt="maven 3-3-9 path variable">
 
@@ -125,19 +127,19 @@ Click `OK` once more to close the environment variables window.
 
 To test the setup click on the Windows button. Type "<kbd>cmd</kbd>" in the search box and press `ENTER`.
 
-<img src="{{ site.url }}/assets/images/posts/development/windows-search-cmd.jpg" alt="windows search cmd">
+<img src="{{ site.url }}/assets/images/posts/development/windows-search-cmd.png" alt="windows search cmd">
 
 Click on the `cmd` shortcut. Wait for the command prompt to open.
 
-Type "<kbd>gradle -v</kbd>" and press `ENTER`.
+Type "<kbd>mvn -version</kbd>" and press `ENTER`.
 
-<img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-version-command.jpg" alt="gradle-version-command">
+<img src="{{ site.url }}/assets/images/posts/development/maven/maven-version-command.png" alt="maven-version-command">
 
-The above command prints the installed Gradle version.
+The above command prints the installed Maven version.
 
-<img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-3-5-1-version-output.jpg" alt="gradle 3.5.1 version output">
+<img src="{{ site.url }}/assets/images/posts/development/maven/maven-3-3-9-version-output.png" alt="maven 3-3-9 version output">
 
-**Congratulations, you have installed Gradle 3.5.1 on Windows!**
+**Congratulations, you have installed Maven 3.3.9 on Windows!**
 
 Good luck and let me know if you liked this post.
 
