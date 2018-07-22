@@ -11,7 +11,7 @@ published: true
 
 <img src="{{ site.url }}/assets/images/posts/development/maven/download-install-maven-3-3-9-windows.png" alt="download install maven 3-3-9 windows" class="align-right title-image">
 
-Do you want to **download and install Apache Maven 3.3.9 on Windows**?
+Do you want to download and install Apache Maven 3.3.9 on Windows?
 
 Then Check this out:
 
@@ -19,9 +19,9 @@ In this tutorial I'll show where to download Maven.
 
 How to configure it.
 
-(And above all) how to check if everything is working.
+(And above all) how to **check if everything is working**.
 
-Let's get down to it!
+So here we go.
 
 ## Step #1: Check Prerequisites
 
@@ -45,9 +45,7 @@ The above command prints the installed Java version.
 
 ## Step #2: Download
 
-Go to the [Maven 3 archives page](https://archive.apache.org/dist/maven/maven-3/){:target="_blank"}.
-
-Click on the `3.3.9/` folder.
+Go to the [Maven 3 archives page](https://archive.apache.org/dist/maven/maven-3/){:target="_blank"}. Click on the `3.3.9/` folder.
 
 <img src="{{ site.url }}/assets/images/posts/development/maven/maven-3-download-archive.png" alt="maven 3 download archive">
 
@@ -67,23 +65,23 @@ Wait for the download to complete.
 
 Open the location of the downloaded installer.
 
-<img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-3-5-1-downloaded-installer.jpg" alt="gradle 3.5.1 downloaded installer">
+<img src="{{ site.url }}/assets/images/posts/development/maven/maven-3-3-9-downloaded-binary.png" alt="maven 3-3-9 downloaded binary">
 
 Right-click the ZIP archive file. Select `Extract All...`.
 
-<img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-3-5-1-installer-extract-all.jpg" alt="gradle 3.5.1 installer extract all">
+<img src="{{ site.url }}/assets/images/posts/development/maven/maven-3-3-9-downloaded-binary-extract-all.png" alt="maven 3-3-9 downloaded binary extract all">
 
-Select an extract destination for the Gradle files.
+Select an extract destination for the Maven files.
 
 In this example, we extract in `C:\Users\Downlinko\tools`.
 
 <img src="{{ site.url }}/assets/images/posts/development/tools-extract-destination.jpg" alt="tools-extract-destination">
 
-Click on `Extract`. This extracts all Gradle files under `C:\Users\Downlinko\tools\gradle-3.5.1`.
+Click on `Extract`. This extracts all Maven files under `C:\Users\Downlinko\tools\apache-maven-3.3.9`.
 
-> From now on we refer to this location as `[GRADLE_INSTALL_DIR]`.
+> From now on we refer to this location as `[MAVEN_INSTALL_DIR]`.
 
-<img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-3-5-1-home.jpg" alt="gradle 3.5.1 home">
+<img src="{{ site.url }}/assets/images/posts/development/maven/maven-3-3-9-install-dir.png" alt="maven 3-3-9 install dir">
 
 ## Step #4: Setup
 
