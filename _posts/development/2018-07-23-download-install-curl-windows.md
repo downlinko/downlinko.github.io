@@ -87,8 +87,6 @@ Click on the Windows button. Then type "<kbd>env</kbd>" in the search box and pr
 
 Click on the `Edit environment variables for your account` shortcut. Wait for the environment variables window to open.
 
-<img src="{{ site.url }}/assets/images/posts/development/windows-user-environment-variables.png" alt="windows user environment variables">
-
 Click on `New...`.
 
 <img src="{{ site.url }}/assets/images/posts/development/windows-user-environment-variables-new.png" alt="windows user environment variables new">
@@ -99,19 +97,17 @@ In this tutorial the installation directory is: `C:\Users\Downlinko\tools\curl-7
 
 Click `OK`.
 
-<img src="{{ site.url }}/assets/images/posts/development/maven/maven-3-3-9-home-variable.png" alt="maven 3-3-9 home variable">
+<img src="{{ site.url }}/assets/images/posts/development/maven/curl-home-variable.png" alt="curl home variable">
 
 Next we need to configure the PATH environment variable so we can run Maven from a command prompt.
 
-Select the `PATH` variable. Click on `Edit...`.
+Click on `New...` once more.
 
-<img src="{{ site.url }}/assets/images/posts/development/maven/maven-3-3-9-edit-path-variable.png" alt="maven 3-3-9 edit path variable">
-
-Append "<kbd>CURL_HOME%\bin</kbd>" at the end of the variable value.
+Enter "<kbd>PATH</kbd>" as variable name. Enter the `[CURL_INSTALL_DIR]` as variable value.
 
 Click `OK`.
 
-<img src="{{ site.url }}/assets/images/posts/development/maven/maven-3-3-9-path-variable.png" alt="maven 3-3-9 path variable">
+<img src="{{ site.url }}/assets/images/posts/development/maven/curl-path-variable.png" alt="curl path variable">
 
 Click `OK` once more to close the environment variables window.
 
