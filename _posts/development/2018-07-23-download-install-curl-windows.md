@@ -23,13 +23,15 @@ Check it out:
 
 ## Step #1: Download
 
-Go to the [cURL download wizard page](https://curl.haxx.se/dlwiz/){:target="_blank"}. Click on `curl executable`.
+Go to the [cURL download wizard page](https://curl.haxx.se/dlwiz/){:target="_blank"}.
 
-<img src="{{ site.url }}/assets/images/posts/development/curl/curl-download-wizard-select-package.png" alt="curl-download-wizard-select-package">
+Click on `curl executable`.
 
-Click on `binaries`.
+<img src="{{ site.url }}/assets/images/posts/development/curl/curl-download-wizard-select-package.png" alt="curl download wizard select package">
 
-<img src="{{ site.url }}/assets/images/posts/development/maven/maven-3-3-9-distribution.png" alt="maven 3-3-9 distribution">
+Select your operating system. Click on `Select!`.
+
+<img src="{{ site.url }}/assets/images/posts/development/maven/curl-download-wizard-select-operation-system.png" alt="curl download wizard select operation system">
 
 Click on the `apache-maven-3.3.9-bin.zip` link.
 
