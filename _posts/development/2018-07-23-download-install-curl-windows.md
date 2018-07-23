@@ -17,7 +17,7 @@ Then look no further!
 
 In this guide you’ll learn how to download the executable…
 
-…and how to configure it so it can be used from command line.
+…and how to configure it so you can use it from command line.
 
 Check it out:
 
@@ -29,9 +29,11 @@ Click on `curl executable`.
 
 <img src="{{ site.url }}/assets/images/posts/development/curl/curl-download-wizard-select-package.png" alt="curl download wizard select package">
 
-Select your operating system. Click on `Select!`.
+Select your operating system.
 
-<img src="{{ site.url }}/assets/images/posts/development/maven/curl-download-wizard-select-operation-system.png" alt="curl download wizard select operation system">
+Click on `Select!`.
+
+<img src="{{ site.url }}/assets/images/posts/development/curl/curl-download-wizard-select-operation-system.png" alt="curl download wizard select operation system">
 
 Click on the `apache-maven-3.3.9-bin.zip` link.
 
