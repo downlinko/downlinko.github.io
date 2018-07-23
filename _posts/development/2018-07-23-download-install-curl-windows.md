@@ -57,27 +57,27 @@ Wait for the download to complete.
 
 ## Step #2: Install
 
-Open the location of the downloaded installer.
+Open the location of the downloaded package.
 
-<img src="{{ site.url }}/assets/images/posts/development/maven/maven-3-3-9-downloaded-binary.png" alt="maven 3-3-9 downloaded binary">
+<img src="{{ site.url }}/assets/images/posts/development/curl/curl-downloaded-zip-package.png" alt="curl downloaded zip package">
 
 Right-click the ZIP archive file. Select `Extract All...`.
 
-<img src="{{ site.url }}/assets/images/posts/development/maven/maven-3-3-9-downloaded-binary-extract-all.png" alt="maven 3-3-9 downloaded binary extract all">
+<img src="{{ site.url }}/assets/images/posts/development/curl/curl-downloaded-zip-package-extract-all.png" alt="curl downloaded zip package extract all">
 
-Select an extract destination for the Maven files.
+Select an extract destination for the cURL files.
 
 In this example, we extract in `C:\Users\Downlinko\tools`.
 
 <img src="{{ site.url }}/assets/images/posts/development/tools-extract-destination.jpg" alt="tools-extract-destination">
 
-Click on `Extract`. This extracts all Maven files under `C:\Users\Downlinko\tools\apache-maven-3.3.9`.
+Click on `Extract`. This extracts all Maven files under `C:\Users\Downlinko\tools\curl-7.61.0-win64-mingw`.
 
-> From now on we refer to this location as `[MAVEN_INSTALL_DIR]`.
+> From now on we refer to this location as `[CURL_INSTALL_DIR]`.
 
-<img src="{{ site.url }}/assets/images/posts/development/maven/maven-3-3-9-install-dir.png" alt="maven 3-3-9 install dir">
+<img src="{{ site.url }}/assets/images/posts/development/curl/curl-install-dir.png" alt="curl install dir">
 
-## Step #4: Setup
+## Step #3: Setup
 
 We need to set up an environment variable that will point to our Maven installation.
 
