@@ -89,7 +89,7 @@ Click on the `Edit environment variables for your account` shortcut. Wait for th
 
 Click on `New...`.
 
-<img src="{{ site.url }}/assets/images/posts/development/windows-user-environment-variables-new.png" alt="windows user environment variables new">
+<img src="{{ site.url }}/assets/images/posts/development/windows-account-environment-variables-new.png" alt="windows account environment variables new">
 
 Enter "<kbd>CURL_HOME</kbd>" as variable name. Enter the `[CURL_INSTALL_DIR]` as variable value.
 
