@@ -113,7 +113,9 @@ Click `OK`.
 
 Click `OK` once more to close the environment variables window.
 
-> If a PATH variable already exists you need to edit it. Select the `PATH` variable and click on `Edit`. Append "<kbd>;%CURL_HOME%\bin</kbd>" at the end of the variable value.
+<img src="{{ site.url }}/assets/images/posts/development/curl/windows-account-environment-variables-curl-path.png" alt="windows account environment variables curl path">
+
+> If a PATH variable already exists you need to edit it. Select the `PATH` variable and click on `Edit`. Append "<kbd>;%CURL_HOME%\bin</kbd>" at the end of the variable value and click `OK`.
 
 ## Step #4: Test
 
