@@ -103,7 +103,9 @@ Next we need to configure the PATH environment variable so we can run Maven from
 
 Click on `New...` once more.
 
-Enter "<kbd>PATH</kbd>" as variable name. Enter the `[CURL_INSTALL_DIR]` as variable value.
+<img src="{{ site.url }}/assets/images/posts/development/curl/windows-account-environment-variables-curl.png" alt="windows account environment variables curl">
+
+Enter "<kbd>PATH</kbd>" as variable name. Enter "<kbd>%CURL_HOME%\bin</kbd>" as variable value.
 
 Click `OK`.
 
@@ -111,7 +113,7 @@ Click `OK`.
 
 Click `OK` once more to close the environment variables window.
 
-> If a PATH variable already exists you need to edit it. Append "<kbd>;%CURL_HOME%\bin</kbd>" at the end of the variable value.
+> If a PATH variable already exists you need to edit it. Select the `PATH` variable and click on `Edit`. Append "<kbd>;%CURL_HOME%\bin</kbd>" at the end of the variable value.
 
 ## Step #4: Test
 
