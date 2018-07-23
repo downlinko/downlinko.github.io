@@ -49,13 +49,13 @@ If needed click on `Select!`.
 
 Click on `Download!` button for the `ZIP` package.
 
-<img src="{{ site.url }}/assets/images/posts/development/curl/curl-download-wizard-select-cpu.png" alt="curl download wizard select cpu">
+<img src="{{ site.url }}/assets/images/posts/development/curl/curl-7-61-0-zip-package.png" alt="curl 7-61-0 zip package">
 
 Wait for the download to complete.
 
 > Do you want to skip above steps? Here is the direct link to download the most common [cURL 7.61.0 package](https://bintray.com/artifact/download/vszakats/generic/curl-7.61.0-win64-mingw.zip){:target="_blank"} for Windows.
 
-## Step #3: Install
+## Step #2: Install
 
 Open the location of the downloaded installer.
 
