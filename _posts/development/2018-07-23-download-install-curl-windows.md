@@ -79,7 +79,7 @@ Click on `Extract`. This extracts all Maven files under `C:\Users\Downlinko\tool
 
 ## Step #3: Setup
 
-We need to set up an environment variable that will point to our Maven installation.
+We need to set up an environment variable that will point to our cURL installation.
 
 Click on the Windows button. Then type "<kbd>env</kbd>" in the search box and press `ENTER`.
 
@@ -93,9 +93,9 @@ Click on `New...`.
 
 <img src="{{ site.url }}/assets/images/posts/development/windows-user-environment-variables-new.png" alt="windows user environment variables new">
 
-Enter "<kbd>M2_HOME</kbd>" as variable name. Enter the `[MAVEN_INSTALL_DIR]` as variable value.
+Enter "<kbd>CURL_HOME</kbd>" as variable name. Enter the `[CURL_INSTALL_DIR]` as variable value.
 
-In this tutorial the installation directory is: `C:\Users\Downlinko\tools\apache-maven-3.3.9`.
+In this tutorial the installation directory is: `C:\Users\Downlinko\tools\curl-7.61.0-win64-mingw`.
 
 Click `OK`.
 
@@ -107,7 +107,7 @@ Select the `PATH` variable. Click on `Edit...`.
 
 <img src="{{ site.url }}/assets/images/posts/development/maven/maven-3-3-9-edit-path-variable.png" alt="maven 3-3-9 edit path variable">
 
-Append "<kbd>;%M2_HOME%\bin</kbd>" at the end of the variable value.
+Append "<kbd>CURL_HOME%\bin</kbd>" at the end of the variable value.
 
 Click `OK`.
 
@@ -115,9 +115,9 @@ Click `OK`.
 
 Click `OK` once more to close the environment variables window.
 
-> If a PATH variable does not exist you need to create it. Use "<kbd>PATH</kbd>" as variable name and "<kbd>%M2_HOME%\bin</kbd>" as variable value.
+> If a PATH variable already exists you need to edit it. Append "<kbd>;%CURL_HOME%\bin</kbd>" at the end of the variable value.
 
-## Step #5: Test
+## Step #4: Test
 
 To test the setup click on the Windows button. Type "<kbd>cmd</kbd>" in the search box and press `ENTER`.
 
