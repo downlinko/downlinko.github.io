@@ -125,16 +125,16 @@ To test the setup click on the Windows button. Type "<kbd>cmd</kbd>" in the sear
 
 Click on the `cmd` shortcut. Wait for the command prompt to open.
 
-Type "<kbd>mvn -version</kbd>" and press `ENTER`.
+Type "<kbd>curl --version</kbd>" and press `ENTER`.
 
-<img src="{{ site.url }}/assets/images/posts/development/maven/maven-version-command.png" alt="maven-version-command">
+<img src="{{ site.url }}/assets/images/posts/development/curl/curl-version-command.png" alt="curl-version-command">
 
-The above command prints the installed Maven version.
+The above command prints the installed cURL version.
 
-<img src="{{ site.url }}/assets/images/posts/development/maven/maven-3-3-9-version-output.png" alt="maven 3-3-9 version output">
+<img src="{{ site.url }}/assets/images/posts/development/curl/curl-7-61-0-version-output.png" alt="curl 7-61-0 version output">
 
-**Congratulations, you have installed Maven 3.3.9 on Windows!**
+**Congratulations, you have installed cURL on Windows!**
 
-Good luck and let me know if you liked this post.
+Leave a comment below if this post was helpful.
 
 Thanks!
