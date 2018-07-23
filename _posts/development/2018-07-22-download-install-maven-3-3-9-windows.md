@@ -95,7 +95,7 @@ Click on the Windows button. Then type "<kbd>env</kbd>" in the search box and pr
 
 Click on the `Edit environment variables for your account` shortcut. Wait for the environment variables window to open.
 
-<img src="{{ site.url }}/assets/images/posts/development/windows-user-environment-variables.png" alt="windows user environment variables">
+<img src="{{ site.url }}/assets/images/posts/development/windows-user-environment-variables-jdk.png" alt="windows user environment variables jdk">
 
 Click on `New...`.
 
