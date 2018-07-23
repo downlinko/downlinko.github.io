@@ -97,7 +97,7 @@ In this tutorial the installation directory is: `C:\Users\Downlinko\tools\curl-7
 
 Click `OK`.
 
-<img src="{{ site.url }}/assets/images/posts/development/maven/curl-home-variable.png" alt="curl home variable">
+<img src="{{ site.url }}/assets/images/posts/development/curl/curl-home-variable.png" alt="curl home variable">
 
 Next we need to configure the PATH environment variable so we can run Maven from a command prompt.
 
@@ -107,7 +107,7 @@ Enter "<kbd>PATH</kbd>" as variable name. Enter the `[CURL_INSTALL_DIR]` as vari
 
 Click `OK`.
 
-<img src="{{ site.url }}/assets/images/posts/development/maven/curl-path-variable.png" alt="curl path variable">
+<img src="{{ site.url }}/assets/images/posts/development/curl/curl-path-variable.png" alt="curl path variable">
 
 Click `OK` once more to close the environment variables window.
 
