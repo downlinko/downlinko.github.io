@@ -31,17 +31,29 @@ Click on `curl executable`.
 
 Select your operating system.
 
-Click on `Select!`.
+If needed click on `Select!`.
 
 <img src="{{ site.url }}/assets/images/posts/development/curl/curl-download-wizard-select-operation-system.png" alt="curl download wizard select operation system">
 
-Click on the `apache-maven-3.3.9-bin.zip` link.
+Select the `Generic` flavour.
 
-<img src="{{ site.url }}/assets/images/posts/development/maven/maven-3-3-9-binaries.png" alt="maven 3-3-9 binaries">
+If needed click on `Select!`.
+
+<img src="{{ site.url }}/assets/images/posts/development/curl/curl-download-wizard-select-flavour.png" alt="curl download wizard select flavour">
+
+Select the `x86_64` CPU.
+
+If needed click on `Select!`.
+
+<img src="{{ site.url }}/assets/images/posts/development/curl/curl-download-wizard-select-cpu.png" alt="curl download wizard select cpu">
+
+Click on `Download!` button for the `ZIP` package.
+
+<img src="{{ site.url }}/assets/images/posts/development/curl/curl-download-wizard-select-cpu.png" alt="curl download wizard select cpu">
 
 Wait for the download to complete.
 
-> Do you want to skip above steps? Here is the direct link to download the [Maven 3.3.9 installer](https://archive.apache.org/dist/maven/maven-3/3.3.9/binaries/apache-maven-3.3.9-bin.zip){:target="_blank"} for Windows.
+> Do you want to skip above steps? Here is the direct link to download the most common [cURL 7.61.0 package](https://bintray.com/artifact/download/vszakats/generic/curl-7.61.0-win64-mingw.zip){:target="_blank"} for Windows.
 
 ## Step #3: Install
 
