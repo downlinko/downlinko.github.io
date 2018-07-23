@@ -13,7 +13,7 @@ published: true
 
 Do you want to download and install [Apache Maven](https://maven.apache.org/){:target="_blank"} 3.3.9 on Windows?
 
-Then Check this out:
+Then check this out:
 
 In this tutorial I'll show where to download Maven.
 
