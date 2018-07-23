@@ -45,7 +45,9 @@ The above command prints the installed Java version.
 
 ## Step #2: Download
 
-Go to the [Maven 3 archives page](https://archive.apache.org/dist/maven/maven-3/){:target="_blank"}. Click on the `3.3.9/` folder.
+Go to the [Maven 3 archives page](https://archive.apache.org/dist/maven/maven-3/){:target="_blank"}.
+
+Click on the `3.3.9/` folder.
 
 <img src="{{ site.url }}/assets/images/posts/development/maven/maven-3-download-archive.png" alt="maven 3 download archive">
 
