@@ -95,11 +95,11 @@ Click on the Windows button. Then type "<kbd>env</kbd>" in the search box and pr
 
 Click on the `Edit environment variables for your account` shortcut. Wait for the environment variables window to open.
 
-<img src="{{ site.url }}/assets/images/posts/development/windows-user-environment-variables-jdk.png" alt="windows user environment variables jdk">
+<img src="{{ site.url }}/assets/images/posts/development/windows-account-environment-variables-jdk.png" alt="windows account environment variables jdk">
 
 Click on `New...`.
 
-<img src="{{ site.url }}/assets/images/posts/development/windows-user-environment-variables-new.png" alt="windows user environment variables new">
+<img src="{{ site.url }}/assets/images/posts/development/windows-account-environment-variables-jdk-new.png" alt="windows account environment variables jdk new">
 
 Enter "<kbd>M2_HOME</kbd>" as variable name. Enter the `[MAVEN_INSTALL_DIR]` as variable value.
 
