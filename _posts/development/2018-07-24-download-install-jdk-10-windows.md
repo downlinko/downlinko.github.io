@@ -83,6 +83,8 @@ We need to set up an environment variable that will point to our JDK installatio
 
 Click on the search button. Then type "<kbd>env</kbd>" (without quotes).
 
+> On Windows 7 click on the Windows button.
+
 <img src="{{ site.url }}/assets/images/posts/development/windows-search-env.png" alt="windows search env">
 
 Click on the `Edit environment variables for your account` shortcut. Wait for the environment variables window to open.
@@ -109,17 +111,19 @@ Select the `Path` variable. Click on `Edit...`.
 
 Click on `New` and type "<kbd>%JAVA_HOME%\bin</kbd>" as shown below.
 
-<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-10-edit-path-variable-add-java-home.png" alt="jdk 10 edit path variable add java home">
-
 Click `OK`.
 
-<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-10-windows-account-environment-variables.png" alt="jdk 10 windows account environment variables">
+<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-10-edit-path-variable-add-java-home.png" alt="jdk 10 edit path variable add java home">
 
 Click `OK` once more to close the environment variables window.
 
+<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-10-windows-account-environment-variables.png" alt="jdk 10 windows account environment variables">
+
 > If a PATH variable does not exist you need to create it. Use "<kbd>PATH</kbd>" as variable name and "<kbd>%JAVA_HOME%\bin</kbd>" as variable value.
 
-## Step #5: Test
+> On Windows 7 you cannot add extra values for an exiting `Path` variable. You need to append "<kbd>;%JAVA_HOME%\bin</kbd>" at the end of the variable value instead.
+
+## Step #4: Test
 
 To test the setup click on the Windows button. Type "<kbd>cmd</kbd>" in the search box and press `ENTER`.
 
