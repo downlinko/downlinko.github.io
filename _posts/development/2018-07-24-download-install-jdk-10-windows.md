@@ -1,7 +1,7 @@
 ---
 title: "Download and Install JDK 10 on Windows"
 permalink: /download-install-jdk-10-windows.html
-excerpt: "A detailed step-by-step tutorial on how to download and install JDK 10 on Windows."
+excerpt: "A detailed step-by-step tutorial on how to download and install JDK 1.10 on Windows."
 date: 2018-07-24
 last_modified_at: 2018-07-24
 categories: [Development]
@@ -57,14 +57,19 @@ Click `Next`.
 
 <img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-10-installer-start.png" alt="jdk 10 installer start">
 
-You can change the default installation location by clicking on the `Change…` button.
+You can change the default installation location by clicking on the `Change...` button.
 
-In this example the default install location of 'C:\Program Files\Java\jdk-10.0.2\' was kept.
+In this example the default install location of `C:\Program Files\Java\jdk-10.0.2\` was kept. From now on we will refer to this directory as: `[JAVA_INSTALL_DIR]`.
 
 <img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-10-installer-default-location.png" alt="jdk 10 installer default location">
 
+We will not install the public JRE as the JDK Development tools already include a private JRE.
 
+Select the Public JRE dropdown and click on `This feature will not be available.` as shown below.
 
+<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-10-installer-disable-public-jre.png" alt="jdk 10 installer disable public jre">
+
+Click `Next`.
 
 
 Select an extract destination for the Maven files.
