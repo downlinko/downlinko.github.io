@@ -107,25 +107,17 @@ Select the `Path` variable. Click on `Edit...`.
 
 <img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-10-edit-path-variable.png" alt="jdk 10 edit path variable">
 
-Click a `New` and type "<kbd>%JAVA_HOME%\bin</kbd>" as shown below.
+Click on `New` and type "<kbd>%JAVA_HOME%\bin</kbd>" as shown below.
 
 <img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-10-edit-path-variable-add-java-home.png" alt="jdk 10 edit path variable add java home">
 
-
-
-
-
-
-
-Append  at the end of the variable value.
-
 Click `OK`.
 
-<img src="{{ site.url }}/assets/images/posts/development/maven/maven-3-3-9-path-variable.png" alt="maven 3-3-9 path variable">
+<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-10-windows-account-environment-variables.png" alt="jdk 10 windows account environment variables">
 
 Click `OK` once more to close the environment variables window.
 
-> If a PATH variable does not exist you need to create it. Use "<kbd>PATH</kbd>" as variable name and "<kbd>%M2_HOME%\bin</kbd>" as variable value.
+> If a PATH variable does not exist you need to create it. Use "<kbd>PATH</kbd>" as variable name and "<kbd>%JAVA_HOME%\bin</kbd>" as variable value.
 
 ## Step #5: Test
 
