@@ -71,7 +71,7 @@ Select the `Public JRE` dropdown and click on `This feature will not be availabl
 
 Click `Next` to start the installation.
 
-<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-10-installer-progress.png" alt="jdk 10 installer progress">
+<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-10-installer-custom-setup.png" alt="jdk 10 installer custom setup">
 
 Once the installation is complete, click `Close`.
 
@@ -81,7 +81,7 @@ Once the installation is complete, click `Close`.
 
 We need to set up an environment variable that will point to our JDK installation.
 
-Click on the search button. Then type "<kbd>env</kbd>".
+Click on the search button. Then type "<kbd>env</kbd>" (without quotes).
 
 <img src="{{ site.url }}/assets/images/posts/development/windows-search-env.png" alt="windows search env">
 
@@ -101,7 +101,7 @@ Click `OK`.
 
 <img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-10-home-variable.png" alt="jdk 10 home variable">
 
-Next we need to configure the PATH environment variable so we can run Maven from a command prompt.
+Next we need to configure the PATH environment variable so we can run Java from a command prompt.
 
 Select the `PATH` variable. Click on `Edit...`.
 
