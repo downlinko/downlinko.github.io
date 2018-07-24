@@ -95,7 +95,7 @@ Click on `New...`.
 
 Enter "<kbd>JAVA_HOME</kbd>" as variable name. Enter the `[JAVA_INSTALL_DIR]` as variable value.
 
-In this tutorial the installation directory is: `C:\Program Files\Java\jdk-10.0.2\`.
+In this tutorial the installation directory is: `C:\Program Files\Java\jdk-10.0.2`.
 
 Click `OK`.
 
@@ -107,7 +107,17 @@ Select the `Path` variable. Click on `Edit...`.
 
 <img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-10-edit-path-variable.png" alt="jdk 10 edit path variable">
 
-Append "<kbd>;%M2_HOME%\bin</kbd>" at the end of the variable value.
+Click a `New` and type "<kbd>%JAVA_HOME%\bin</kbd>" as shown below.
+
+<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-10-edit-path-variable-add-java-home.png" alt="jdk 10 edit path variable add java home">
+
+
+
+
+
+
+
+Append  at the end of the variable value.
 
 Click `OK`.
 
