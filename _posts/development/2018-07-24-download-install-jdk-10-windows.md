@@ -81,13 +81,13 @@ Once the installation is complete, click `Close`.
 
 We need to set up an environment variable that will point to our JDK installation.
 
-Click on the search button. Then type "<kbd>env</kbd>" and press `ENTER`.
+Click on the search button. Then type "<kbd>env</kbd>".
 
 <img src="{{ site.url }}/assets/images/posts/development/windows-search-env.png" alt="windows search env">
 
 Click on the `Edit environment variables for your account` shortcut. Wait for the environment variables window to open.
 
-<img src="{{ site.url }}/assets/images/posts/development/windows-account-environment-variables-jdk.png" alt="windows account environment variables jdk">
+<img src="{{ site.url }}/assets/images/posts/development/windows-account-environment-variables.png" alt="windows account environment variables">
 
 Click on `New...`.
 
