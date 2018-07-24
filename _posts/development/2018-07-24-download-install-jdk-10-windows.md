@@ -27,13 +27,15 @@ Let’s dive right in…
 
 There are a number of [different Java packages available](https://docs.oracle.com/javaee/6/firstcup/doc/gkhoy.html){:target="_blank"}. In this tutorial we will be installing the Java Standard Edition (SE) platform.
 
-It contains a Java Development Kit (JDK) package that comes with a Java compiler. It also has a Java runtime environment (JRE) that can run compiled Java code.
+It contains a **Java Development Kit** (JDK) package that comes with a Java compiler. It also has a Java runtime environment (JRE) that can run compiled Java code.
 
 Head over to the [Oracle Java download page](http://www.oracle.com/technetwork/java/javase/downloads/index.html){:target="_blank"}.
 
- Click on the `Download` button right below `JDK`.
+Look for the `Java SE 10.0.2` section.
 
-<img src="{{ site.url }}/assets/images/posts/development/jdk/maven-3-download-archive.png" alt="maven 3 download archive">
+Click on the `Download` button right below `JDK`.
+
+<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-10-download-java-se.png" alt="jdk 10 download java se">
 
 Click on `binaries`.
 
