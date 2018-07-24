@@ -37,9 +37,11 @@ Click on the `Download` button right below `JDK`.
 
 <img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-10-download-java-se.png" alt="jdk 10 download java se">
 
-Click on `binaries`.
+Click on radio button next to `Accept License Agreement`.
 
-<img src="{{ site.url }}/assets/images/posts/development/maven/maven-3-3-9-distribution.png" alt="maven 3-3-9 distribution">
+Click on the Windows download link: `jdk-10.0.2_windows-x64_bin.exe`.
+
+<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-10-download-java-se-windows-binary" alt="jdk 10 download java se windows binary">
 
 Click on the `apache-maven-3.3.9-bin.zip` link.
 
