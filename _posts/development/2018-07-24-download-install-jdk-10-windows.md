@@ -53,7 +53,19 @@ Open the location of the downloaded executable.
 
 Double-click it to run the installer.
 
+Click `Next`.
+
 <img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-10-installer-start.png" alt="jdk 10 installer start">
+
+You can change the default installation location by clicking on the `Change…` button.
+
+In this example the default install location of 'C:\Program Files\Java\jdk-10.0.2\' was kept.
+
+<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-10-installer-default-location.png" alt="jdk 10 installer default location">
+
+
+
+
 
 Select an extract destination for the Maven files.
 
