@@ -25,7 +25,7 @@ Let’s dive right in…
 
 ## Step #1: Download
 
-There are a number of [different Java packages available](https://docs.oracle.com/javaee/6/firstcup/doc/gkhoy.html){:target="_blank"}. In this tutorial we will be installing the Java Standard Edition (SE) platform.
+There are [different Java packages available](https://docs.oracle.com/javaee/6/firstcup/doc/gkhoy.html){:target="_blank"}. In this tutorial we will install the Java Standard Edition (SE) platform.
 
 It contains a **Java Development Kit** (JDK) package that comes with a Java compiler. It also has a Java runtime environment (JRE) that can run compiled Java code.
 
@@ -49,11 +49,11 @@ Wait for the download to complete.
 
 Open the location of the downloaded executable.
 
-<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-10-downloaded-binary.png" alt="jdk 10 downloaded binary">
+<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-10-downloaded-installer.png" alt="jdk 10 downloaded installer">
 
 Double-click it to run the installer.
 
-<img src="{{ site.url }}/assets/images/posts/development/jdk/maven-3-3-9-downloaded-binary-extract-all.png" alt="maven 3-3-9 downloaded binary extract all">
+<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-10-installer-start.png" alt="jdk 10 installer start">
 
 Select an extract destination for the Maven files.
 
