@@ -45,7 +45,7 @@ Click on the Windows download link: `jdk-10.0.2_windows-x64_bin.exe`.
 
 Wait for the download to complete.
 
-## Step #3: Install
+## Step #2: Install
 
 Open the location of the downloaded executable.
 
@@ -69,26 +69,15 @@ Select the Public JRE dropdown and click on `This feature will not be available.
 
 <img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-10-installer-disable-public-jre.png" alt="jdk 10 installer disable public jre">
 
-Click `Next`.
+Click `Next` to start the installation.
 
 <img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-10-installer-progress.png" alt="jdk 10 installer progress">
 
+Once the installation is complete, click `Close`.
 
+<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-10-installer-complete.png" alt="jdk 10 installer complete">
 
-
-Select an extract destination for the Maven files.
-
-In this example, we extract in `C:\Users\Downlinko\tools`.
-
-<img src="{{ site.url }}/assets/images/posts/development/tools-extract-destination.jpg" alt="tools-extract-destination">
-
-Click on `Extract`. This extracts all Maven files under `C:\Users\Downlinko\tools\apache-maven-3.3.9`.
-
-> From now on we refer to this location as `[MAVEN_INSTALL_DIR]`.
-
-<img src="{{ site.url }}/assets/images/posts/development/maven/maven-3-3-9-install-dir.png" alt="maven 3-3-9 install dir">
-
-## Step #4: Setup
+## Step #3: Setup
 
 We need to set up an environment variable that will point to our Maven installation.
 
