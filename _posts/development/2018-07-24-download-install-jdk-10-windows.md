@@ -119,27 +119,31 @@ Click `OK` once more to close the environment variables window.
 
 <img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-10-windows-account-environment-variables.png" alt="jdk 10 windows account environment variables">
 
-> If a PATH variable does not exist you need to create it. Use "<kbd>PATH</kbd>" as variable name and "<kbd>%JAVA_HOME%\bin</kbd>" as variable value.
+> If a `Path` variable does not exist you need to create it. Use "<kbd>Path</kbd>" as variable name and "<kbd>%JAVA_HOME%\bin</kbd>" as variable value.
 
-> On Windows 7 you cannot add extra values for an exiting `Path` variable. You need to append "<kbd>;%JAVA_HOME%\bin</kbd>" at the end of the variable value instead.
+> On Windows 7 you cannot add extra values for an existing `Path` variable. You need to append "<kbd>;%JAVA_HOME%\bin</kbd>" at the end of the variable value instead.
 
 ## Step #4: Test
 
-To test the setup click on the Windows button. Type "<kbd>cmd</kbd>" in the search box and press `ENTER`.
+Let's test the setup.
+
+Click on the search button. Then type "<kbd>env</kbd>" (without quotes).
+
+To test the setup click on the search button. Type "<kbd>cmd</kbd>" in the search box and press `ENTER`.
 
 <img src="{{ site.url }}/assets/images/posts/development/windows-search-cmd.png" alt="windows search cmd">
 
-Click on the `cmd` shortcut. Wait for the command prompt to open.
+Click on the `Command Prompt` shortcut. Wait for the command prompt to open.
 
-Type "<kbd>mvn -version</kbd>" and press `ENTER`.
+Type "<kbd>java -version</kbd>" and press `ENTER`.
 
-<img src="{{ site.url }}/assets/images/posts/development/maven/maven-version-command.png" alt="maven-version-command">
+<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-10-version-command.png" alt="jdk 10 version command">
 
-The above command prints the installed Maven version.
+The above command prints the installed JDK version.
 
-<img src="{{ site.url }}/assets/images/posts/development/maven/maven-3-3-9-version-output.png" alt="maven 3-3-9 version output">
+<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-10-version-output.png" alt="jdk 10 version output">
 
-**Congratulations, you have installed Maven 3.3.9 on Windows!**
+**Congratulations, you have installed JDK 10 on Windows!**
 
 Good luck and let me know if you liked this post.
 
