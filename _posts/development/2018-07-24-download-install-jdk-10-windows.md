@@ -95,7 +95,7 @@ Click on `New...`.
 
 Enter "<kbd>JAVA_HOME</kbd>" as variable name. Enter the `[JAVA_INSTALL_DIR]` as variable value.
 
-In this tutorial the installation directory is: `C:\Program Files\Java\jdk-10.0.2`.
+In this tutorial the Java installation directory is: `C:\Program Files\Java\jdk-10.0.2`.
 
 Click `OK`.
 
