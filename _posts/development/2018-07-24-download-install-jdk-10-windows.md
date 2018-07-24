@@ -25,7 +25,7 @@ Let’s dive right in…
 
 ## Step #1: Download
 
-There are [different Java packages available](https://docs.oracle.com/javaee/6/firstcup/doc/gkhoy.html){:target="_blank"}. In this tutorial we will install the Java Standard Edition (SE) platform.
+There are [different Java packages available](https://docs.oracle.com/javaee/6/firstcup/doc/gkhoy.html){:target="_blank"}. In this tutorial, we will install the Java Standard Edition (SE) platform.
 
 It contains a **Java Development Kit** (JDK) package that comes with a Java compiler. It also has a Java runtime environment (JRE) that can run compiled Java code.
 
@@ -37,7 +37,7 @@ Click on the `Download` button right below `JDK`.
 
 <img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-10-download-java-se.png" alt="jdk 10 download java se">
 
-Click on radio button next to `Accept License Agreement`.
+Click on the radio button next to `Accept License Agreement`.
 
 Click on the Windows download link: `jdk-10.0.2_windows-x64_bin.exe`.
 
@@ -59,7 +59,7 @@ Click `Next`.
 
 You can change the installation location by clicking on the `Change...` button.
 
-In this example the default install location of `C:\Program Files\Java\jdk-10.0.2\` was kept. From now on we will refer to this directory as: `[JAVA_INSTALL_DIR]`.
+In this example, we keep the default install location of `C:\Program Files\Java\jdk-10.0.2\`. From now on we will refer to this directory as `[JAVA_INSTALL_DIR]`.
 
 <img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-10-installer-default-location.png" alt="jdk 10 installer default location">
 
@@ -97,13 +97,13 @@ Click on `New...`.
 
 Enter "<kbd>JAVA_HOME</kbd>" as variable name. Enter the `[JAVA_INSTALL_DIR]` as variable value.
 
-In this tutorial the Java installation directory is: `C:\Program Files\Java\jdk-10.0.2`.
+In this tutorial, the Java installation directory is `C:\Program Files\Java\jdk-10.0.2`.
 
 Click `OK`.
 
 <img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-10-home-variable.png" alt="jdk 10 home variable">
 
-Next we need to configure the PATH environment variable so we can run Java from a command prompt.
+Next, we need to configure the PATH environment variable so we can run Java from a command prompt.
 
 Select the `Path` variable. Click on `Edit...`.
 
