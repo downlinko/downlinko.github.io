@@ -93,13 +93,13 @@ Click on `New...`.
 
 <img src="{{ site.url }}/assets/images/posts/development/windows-account-environment-variables-jdk-new.png" alt="windows account environment variables jdk new">
 
-Enter "<kbd>M2_HOME</kbd>" as variable name. Enter the `[MAVEN_INSTALL_DIR]` as variable value.
+Enter "<kbd>JAVA_HOME</kbd>" as variable name. Enter the `[JAVA_INSTALL_DIR]` as variable value.
 
-In this tutorial the installation directory is: `C:\Users\Downlinko\tools\apache-maven-3.3.9`.
+In this tutorial the installation directory is: `C:\Program Files\Java\jdk-10.0.2\`.
 
 Click `OK`.
 
-<img src="{{ site.url }}/assets/images/posts/development/maven/maven-3-3-9-home-variable.png" alt="maven 3-3-9 home variable">
+<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-10-home-variable.png" alt="jdk 10 home variable">
 
 Next we need to configure the PATH environment variable so we can run Maven from a command prompt.
 
