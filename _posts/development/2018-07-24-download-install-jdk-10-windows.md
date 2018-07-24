@@ -71,6 +71,10 @@ Select the Public JRE dropdown and click on `This feature will not be available.
 
 Click `Next`.
 
+<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-10-installer-progress.png" alt="jdk 10 installer progress">
+
+
+
 
 Select an extract destination for the Maven files.
 
