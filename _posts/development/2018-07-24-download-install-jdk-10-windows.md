@@ -103,9 +103,9 @@ Click `OK`.
 
 Next we need to configure the PATH environment variable so we can run Java from a command prompt.
 
-Select the `PATH` variable. Click on `Edit...`.
+Select the `Path` variable. Click on `Edit...`.
 
-<img src="{{ site.url }}/assets/images/posts/development/maven/maven-3-3-9-edit-path-variable.png" alt="maven 3-3-9 edit path variable">
+<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-10-edit-path-variable.png" alt="jdk 10 edit path variable">
 
 Append "<kbd>;%M2_HOME%\bin</kbd>" at the end of the variable value.
 
