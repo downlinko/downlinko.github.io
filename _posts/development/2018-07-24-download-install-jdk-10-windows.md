@@ -57,15 +57,15 @@ Click `Next`.
 
 <img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-10-installer-start.png" alt="jdk 10 installer start">
 
-You can change the default installation location by clicking on the `Change...` button.
+You can change the installation location by clicking on the `Change...` button.
 
 In this example the default install location of `C:\Program Files\Java\jdk-10.0.2\` was kept. From now on we will refer to this directory as: `[JAVA_INSTALL_DIR]`.
 
 <img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-10-installer-default-location.png" alt="jdk 10 installer default location">
 
-We will not install the public JRE as the JDK Development tools already include a private JRE.
+We will not install the public JRE as the JDK development tools already include a private JRE.
 
-Select the Public JRE dropdown and click on `This feature will not be available.` as shown below.
+Select the `Public JRE` dropdown and click on `This feature will not be available.` as shown below.
 
 <img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-10-installer-disable-public-jre.png" alt="jdk 10 installer disable public jre">
 
@@ -79,9 +79,9 @@ Once the installation is complete, click `Close`.
 
 ## Step #3: Setup
 
-We need to set up an environment variable that will point to our Maven installation.
+We need to set up an environment variable that will point to our JDK installation.
 
-Click on the Windows button. Then type "<kbd>env</kbd>" in the search box and press `ENTER`.
+Click on the search button. Then type "<kbd>env</kbd>" and press `ENTER`.
 
 <img src="{{ site.url }}/assets/images/posts/development/windows-search-env.png" alt="windows search env">
 
