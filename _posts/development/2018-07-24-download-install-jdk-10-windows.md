@@ -47,11 +47,11 @@ Wait for the download to complete.
 
 ## Step #3: Install
 
-Open the location of the downloaded installer.
+Open the location of the downloaded executable.
 
-<img src="{{ site.url }}/assets/images/posts/development/jdk/maven-3-3-9-downloaded-binary.png" alt="maven 3-3-9 downloaded binary">
+<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-10-downloaded-binary.png" alt="jdk 10 downloaded binary">
 
-Right-click the ZIP archive file. Select `Extract All...`.
+Double-click it to run the installer.
 
 <img src="{{ site.url }}/assets/images/posts/development/jdk/maven-3-3-9-downloaded-binary-extract-all.png" alt="maven 3-3-9 downloaded binary extract all">
 
