@@ -41,25 +41,19 @@ Click on radio button next to `Accept License Agreement`.
 
 Click on the Windows download link: `jdk-10.0.2_windows-x64_bin.exe`.
 
-<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-10-download-java-se-windows-binary" alt="jdk 10 download java se windows binary">
-
-Click on the `apache-maven-3.3.9-bin.zip` link.
-
-<img src="{{ site.url }}/assets/images/posts/development/maven/maven-3-3-9-binaries.png" alt="maven 3-3-9 binaries">
+<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-10-download-java-se-windows-binary.png" alt="jdk 10 download java se windows binary">
 
 Wait for the download to complete.
-
-> Do you want to skip above steps? Here is the direct link to download the [Maven 3.3.9 installer](https://archive.apache.org/dist/maven/maven-3/3.3.9/binaries/apache-maven-3.3.9-bin.zip){:target="_blank"} for Windows.
 
 ## Step #3: Install
 
 Open the location of the downloaded installer.
 
-<img src="{{ site.url }}/assets/images/posts/development/maven/maven-3-3-9-downloaded-binary.png" alt="maven 3-3-9 downloaded binary">
+<img src="{{ site.url }}/assets/images/posts/development/jdk/maven-3-3-9-downloaded-binary.png" alt="maven 3-3-9 downloaded binary">
 
 Right-click the ZIP archive file. Select `Extract All...`.
 
-<img src="{{ site.url }}/assets/images/posts/development/maven/maven-3-3-9-downloaded-binary-extract-all.png" alt="maven 3-3-9 downloaded binary extract all">
+<img src="{{ site.url }}/assets/images/posts/development/jdk/maven-3-3-9-downloaded-binary-extract-all.png" alt="maven 3-3-9 downloaded binary extract all">
 
 Select an extract destination for the Maven files.
 
