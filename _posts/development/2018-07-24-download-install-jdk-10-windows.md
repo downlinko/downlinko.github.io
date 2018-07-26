@@ -145,7 +145,7 @@ The above command prints the installed JDK version: `10.0.2`.
 
 **Congratulations, you have installed JDK 10 on Windows!**
 
-Now let us know if you liked this post.
+Now let me know if you liked this post.
 
 Leave a comment below.
 

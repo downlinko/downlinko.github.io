@@ -1,9 +1,11 @@
 ---
 title: "Download and Install cURL on Windows"
 permalink: /download-install-curl-windows.html
-excerpt: "A detailed step-by-step tutorial on how to download and install a cURL executable on Windows."
+excerpt: "A detailed step-by-step tutorial on how to download and install a cURL executable on Windows 10."
 date: 2018-07-23
 last_modified_at: 2018-07-23
+header:
+  teaser: "assets/images/posts/development/jdk/download-install-jdk-10-windows.png"
 categories: [Development]
 tags: [cURL, Download, Install, Setup, Tutorial, Windows]
 published: true
