@@ -87,13 +87,13 @@ Click on the search button. Then type "<kbd>env</kbd>" (without quotes).
 
 > On Windows 7 click on the Windows button.
 
+Click on the `Edit environment variables for your account` shortcut.
+
 <img src="{{ site.url }}/assets/images/posts/development/windows-search-env.png" alt="windows search env">
 
-Click on the `Edit environment variables for your account` shortcut. Wait for the environment variables window to open.
+Wait for the environment variables window to open.
 
-<img src="{{ site.url }}/assets/images/posts/development/windows-account-environment-variables.png" alt="windows account environment variables">
-
-Click on `New...`.
+Click on `New…`.
 
 <img src="{{ site.url }}/assets/images/posts/development/windows-account-environment-variables-new.png" alt="windows account environment variables new">
 
@@ -107,7 +107,7 @@ Click `OK`.
 
 Next, we need to configure the PATH environment variable so we can run Java from a command prompt.
 
-Select the `Path` variable. Click on `Edit...`.
+Select the `Path` variable. Click on `Edit…`.
 
 <img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-10-edit-path-variable.png" alt="jdk 10 edit path variable">
 

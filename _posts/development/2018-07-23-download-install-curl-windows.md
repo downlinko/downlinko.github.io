@@ -91,9 +91,11 @@ Click on the search button. Then type "<kbd>env</kbd>" (without quotes).
 
 > On Windows 7 click on the Windows button.
 
+Click on the `Edit environment variables for your account` shortcut.
+
 <img src="{{ site.url }}/assets/images/posts/development/windows-search-env.png" alt="windows search env">
 
-Click on the `Edit environment variables for your account` shortcut. Wait for the environment variables window to open.
+Wait for the environment variables window to open.
 
 Click on `New...`.
 
