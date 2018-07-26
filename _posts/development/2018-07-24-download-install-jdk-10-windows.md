@@ -13,7 +13,7 @@ published: true
 
 <img src="{{ site.url }}/assets/images/posts/development/jdk/download-install-jdk-10-windows.png" alt="download install jdk 10 windows" class="align-right title-image">
 
-I’m going to show you exactly how to download and install JDK 10 on Windows.
+n this guide I’m going to show you exactly how to download and install JDK 10 on Windows.
 
 (Step-by-step)
 
@@ -21,15 +21,15 @@ First, I’ll show you where you can download JDK 10.
 
 Then you’ll see how to configure it.
 
-(And above all) **how to check if everything is working**.
+And finally **how to check if everything is working**.
 
 Let’s dive right in…
 
 ## Step #1: Download
 
-There are [different Java packages available](https://docs.oracle.com/javaee/6/firstcup/doc/gkhoy.html){:target="_blank"}. In this tutorial, we will install the Java Standard Edition (SE) platform.
+There are [several Java packages available](https://docs.oracle.com/javaee/6/firstcup/doc/gkhoy.html){:target="_blank"}. In this tutorial, we will install the Java Standard Edition (SE) platform.
 
-It contains a **Java Development Kit** (JDK) package that comes with a Java compiler. It also has a Java runtime environment (JRE) that can run compiled Java code.
+Java SE contains a **Java Development Kit** (JDK) package that comes with a Java compiler. It also has a Java runtime environment (JRE) that can run compiled Java code.
 
 Head over to the [Oracle Java download page](http://www.oracle.com/technetwork/java/javase/downloads/index.html){:target="_blank"}.
 
