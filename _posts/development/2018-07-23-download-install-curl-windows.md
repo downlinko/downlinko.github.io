@@ -33,23 +33,25 @@ Click on `curl executable`.
 
 Select your operating system.
 
-If needed click on `Select!`.
+Click on `Select!`.
 
 <img src="{{ site.url }}/assets/images/posts/development/curl/curl-download-wizard-select-operation-system.png" alt="curl download wizard select operation system">
 
 Select the `Generic` flavour.
 
-If needed click on `Select!`.
+Click on `Select!`.
 
 <img src="{{ site.url }}/assets/images/posts/development/curl/curl-download-wizard-select-flavour.png" alt="curl download wizard select flavour">
 
 Select the `x86_64` CPU.
 
-If needed click on `Select!`.
+Click on `Select!`.
 
 <img src="{{ site.url }}/assets/images/posts/development/curl/curl-download-wizard-select-cpu.png" alt="curl download wizard select cpu">
 
-Click on `Download!` button for the `ZIP` package.
+Click on the `Download!` button for the `ZIP` package.
+
+At the time of writing the recommended cURL version was `7.61.0`.
 
 <img src="{{ site.url }}/assets/images/posts/development/curl/curl-7-61-0-zip-package.png" alt="curl 7-61-0 zip package">
 
@@ -63,7 +65,7 @@ Open the location of the downloaded package.
 
 <img src="{{ site.url }}/assets/images/posts/development/curl/curl-downloaded-zip-package.png" alt="curl downloaded zip package">
 
-Right-click the ZIP archive file. Select `Extract All...`.
+Right-click the ZIP archive file. Select `Extract All…`.
 
 <img src="{{ site.url }}/assets/images/posts/development/curl/curl-downloaded-zip-package-extract-all.png" alt="curl downloaded zip package extract all">
 
@@ -71,9 +73,11 @@ Select an extract destination for the cURL files.
 
 In this example, we extract in `C:\Users\Downlinko\tools`.
 
-<img src="{{ site.url }}/assets/images/posts/development/tools-extract-destination.jpg" alt="tools-extract-destination">
+Click on `Extract`.
 
-Click on `Extract`. This extracts all Maven files under `C:\Users\Downlinko\tools\curl-7.61.0-win64-mingw`.
+<img src="{{ site.url }}/assets/images/posts/development/tools-extract-destination.png" alt="tools-extract-destination">
+
+This extracts all cURL files under `C:\Users\Downlinko\tools\curl-7.61.0-win64-mingw`.
 
 > From now on we refer to this location as `[CURL_INSTALL_DIR]`.
 
@@ -83,7 +87,9 @@ Click on `Extract`. This extracts all Maven files under `C:\Users\Downlinko\tool
 
 We need to set up an environment variable that will point to our cURL installation.
 
-Click on the Windows button. Then type "<kbd>env</kbd>" in the search box and press `ENTER`.
+Click on the search button. Then type "<kbd>env</kbd>" (without quotes).
+
+> On Windows 7 click on the Windows button.
 
 <img src="{{ site.url }}/assets/images/posts/development/windows-search-env.png" alt="windows search env">
 
