@@ -97,7 +97,7 @@ Click on the `Edit environment variables for your account` shortcut.
 
 Wait for the environment variables window to open.
 
-Click on `New...`.
+Click on `New…`.
 
 <img src="{{ site.url }}/assets/images/posts/development/windows-account-environment-variables-new.png" alt="windows account environment variables new">
 
@@ -109,7 +109,17 @@ Click `OK`.
 
 <img src="{{ site.url }}/assets/images/posts/development/curl/curl-home-variable.png" alt="curl home variable">
 
-Next we need to configure the PATH environment variable so we can run Maven from a command prompt.
+Next we need to configure the PATH environment variable so we can run cURL from a command prompt.
+
+Select the `Path` variable. Click on `Edit…`.
+
+<img src="{{ site.url }}/assets/images/posts/development/jdk/curl-edit-path-variable.png" alt="curl edit path variable">
+
+Click on `New` and type "<kbd>%JAVA_HOME%\bin</kbd>" as shown below.
+
+Click `OK`.
+
+
 
 Click on `New...` once more.
 
