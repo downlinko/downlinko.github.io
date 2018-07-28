@@ -123,7 +123,7 @@ Select the `PATH` variable. Click on `Edit…`.
 
 <img src="{{ site.url }}/assets/images/posts/development/maven/maven-3-3-9-edit-path-variable.png" alt="maven 3-3-9 edit path variable">
 
-Append "<kbd>;%M2_HOME%\bin</kbd>" at the end of the variable value.
+Click on `New` and type "<kbd>%JAVA_HOME%\bin</kbd>" as shown below.
 
 Click `OK`.
 
