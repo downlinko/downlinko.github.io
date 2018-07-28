@@ -111,6 +111,8 @@ Click `OK`.
 
 Next we need to configure the PATH environment variable so we can run cURL from a command prompt.
 
+Click on `New…`.
+
 Select the `Path` variable. Click on `Edit…`.
 
 <img src="{{ site.url }}/assets/images/posts/development/jdk/curl-edit-path-variable.png" alt="curl edit path variable">
