@@ -89,19 +89,17 @@ This extracts all cURL files under `C:\Users\Downlinko\tools\curl-7.61.0-win64-m
 
 We need to set up an environment variable that will point to our cURL installation.
 
-Click on the search button. Then type "<kbd>env</kbd>" (without quotes).
-
-> On Windows 7 click on the Windows button.
+Click on the Windows button. Then type "<kbd>env</kbd>" in the search box and press `ENTER`.
 
 Click on the `Edit environment variables for your account` shortcut.
 
-<img src="{{ site.url }}/assets/images/posts/development/windows-search-env.png" alt="windows search env">
+<img src="{{ site.url }}/assets/images/posts/development/windows-7-search-env.png" alt="windows 7 search env">
 
 Wait for the environment variables window to open.
 
 Click on `New…`.
 
-<img src="{{ site.url }}/assets/images/posts/development/windows-account-environment-variables-new.png" alt="windows account environment variables new">
+<img src="{{ site.url }}/assets/images/posts/development/windows-7-account-environment-variables-new.png" alt="windows 7 account environment variables new">
 
 Enter "<kbd>CURL_HOME</kbd>" as variable name. Enter the `[CURL_INSTALL_DIR]` as variable value.
 
