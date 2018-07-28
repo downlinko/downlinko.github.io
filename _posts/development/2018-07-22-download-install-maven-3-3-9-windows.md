@@ -105,8 +105,6 @@ Click on the `Edit environment variables for your account` shortcut.
 
 Wait for the environment variables window to open.
 
-<img src="{{ site.url }}/assets/images/posts/development/windows-account-environment-variables-jdk.png" alt="windows account environment variables jdk">
-
 Click on `New…`.
 
 <img src="{{ site.url }}/assets/images/posts/development/windows-account-environment-variables-jdk-new.png" alt="windows account environment variables jdk new">
@@ -121,7 +119,7 @@ Click `OK`.
 
 Next we need to configure the PATH environment variable so we can run Maven from a command prompt.
 
-Select the `PATH` variable. Click on `Edit...`.
+Select the `PATH` variable. Click on `Edit…`.
 
 <img src="{{ site.url }}/assets/images/posts/development/maven/maven-3-3-9-edit-path-variable.png" alt="maven 3-3-9 edit path variable">
 
