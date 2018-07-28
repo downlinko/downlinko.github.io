@@ -113,23 +113,15 @@ Next we need to configure the PATH environment variable so we can run cURL from 
 
 Click on `New…` once more.
 
-Enter "<kbd>PATH</kbd>" as variable name. Enter the "</kbd>%CURL_HOME%\bin</kbd>" as variable value.
+Enter "<kbd>PATH</kbd>" as variable name. Enter the "<kbd>%CURL_HOME%\bin</kbd>" as variable value.
 
 <img src="{{ site.url }}/assets/images/posts/development/curl/curl-path-variable.png" alt="curl path variable">
-
-Click on `New` and type "<kbd>%CURL_HOME%\bin</kbd>" as shown below.
 
 Click `OK`.
 
-<img src="{{ site.url }}/assets/images/posts/development/curl/curl-edit-path-variable-add-curl-home.png" alt="windows account environment variables curl">
-
 Click `OK` once more to close the environment variables window.
 
-<img src="{{ site.url }}/assets/images/posts/development/curl/curl-path-variable.png" alt="curl path variable">
-
-Click `OK` once more to close the environment variables window.
-
-<img src="{{ site.url }}/assets/images/posts/development/curl/windows-account-environment-variables-curl-path.png" alt="windows account environment variables curl path">
+<img src="{{ site.url }}/assets/images/posts/development/curl/curl-windows-account-environment-variables.png" alt="curl windows account environment variables">
 
 > If a PATH variable already exists you need to edit it. Select the `PATH` variable and click on `Edit`. Append "<kbd>;%CURL_HOME%\bin</kbd>" at the end of the variable value and click `OK`.
 
