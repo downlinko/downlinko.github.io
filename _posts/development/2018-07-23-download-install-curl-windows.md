@@ -111,11 +111,11 @@ Click `OK`.
 
 Next we need to configure the PATH environment variable so we can run cURL from a command prompt.
 
-Click on `New…`.
+Click on `New…` once more.
 
-Select the `Path` variable. Click on `Edit…`.
+Enter "<kbd>PATH</kbd>" as variable name. Enter the "</kbd>%CURL_HOME%\bin</kbd>" as variable value.
 
-<img src="{{ site.url }}/assets/images/posts/development/jdk/curl-edit-path-variable.png" alt="curl edit path variable">
+<img src="{{ site.url }}/assets/images/posts/development/curl/curl-path-variable.png" alt="curl path variable">
 
 Click on `New` and type "<kbd>%CURL_HOME%\bin</kbd>" as shown below.
 
