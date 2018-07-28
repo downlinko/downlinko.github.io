@@ -129,9 +129,9 @@ Click `OK` once more to close the environment variables window.
 
 To test the setup click on the Windows button. Type "<kbd>cmd</kbd>" in the search box and press `ENTER`.
 
-<img src="{{ site.url }}/assets/images/posts/development/windows-search-cmd.png" alt="windows search cmd">
-
 Click on the `cmd` shortcut. Wait for the command prompt to open.
+
+<img src="{{ site.url }}/assets/images/posts/development/windows-7-search-cmd.png" alt="windows 7 search cmd">
 
 Type "<kbd>curl --version</kbd>" and press `ENTER`.
 
