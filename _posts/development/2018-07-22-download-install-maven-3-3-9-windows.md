@@ -75,7 +75,7 @@ Open the location of the downloaded installer.
 
 <img src="{{ site.url }}/assets/images/posts/development/maven/maven-3-3-9-downloaded-binary.png" alt="maven 3-3-9 downloaded binary">
 
-Right-click the ZIP archive file. Select `Extract All...`.
+Right-click the ZIP archive file. Select `Extract All…`.
 
 <img src="{{ site.url }}/assets/images/posts/development/maven/maven-3-3-9-downloaded-binary-extract-all.png" alt="maven 3-3-9 downloaded binary extract all">
 
@@ -83,7 +83,7 @@ Select an extract destination for the Maven files.
 
 In this example, we extract in `C:\Users\Downlinko\tools`.
 
-<img src="{{ site.url }}/assets/images/posts/development/tools-extract-destination.jpg" alt="tools-extract-destination">
+<img src="{{ site.url }}/assets/images/posts/development/tools-extract-destination.png" alt="tools-extract-destination">
 
 Click on `Extract`. This extracts all Maven files under `C:\Users\Downlinko\tools\apache-maven-3.3.9`.
 
@@ -95,15 +95,19 @@ Click on `Extract`. This extracts all Maven files under `C:\Users\Downlinko\tool
 
 We need to set up an environment variable that will point to our Maven installation.
 
-Click on the Windows button. Then type "<kbd>env</kbd>" in the search box and press `ENTER`.
+Click on the search button. Then type "<kbd>env</kbd>".
+
+> On Windows 7 click on the Windows button.
+
+Click on the `Edit environment variables for your account` shortcut.
 
 <img src="{{ site.url }}/assets/images/posts/development/windows-search-env.png" alt="windows search env">
 
-Click on the `Edit environment variables for your account` shortcut. Wait for the environment variables window to open.
+Wait for the environment variables window to open.
 
 <img src="{{ site.url }}/assets/images/posts/development/windows-account-environment-variables-jdk.png" alt="windows account environment variables jdk">
 
-Click on `New...`.
+Click on `New…`.
 
 <img src="{{ site.url }}/assets/images/posts/development/windows-account-environment-variables-jdk-new.png" alt="windows account environment variables jdk new">
 
