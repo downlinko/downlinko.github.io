@@ -1,11 +1,11 @@
 ---
 title: "Download and Install cURL on Windows"
 permalink: /download-install-curl-windows.html
-excerpt: "A detailed step-by-step tutorial on how to download and install a cURL executable on Windows 10."
+excerpt: "A detailed step-by-step tutorial on how to download and install a cURL executable on Windows 7."
 date: 2018-07-23
 last_modified_at: 2018-07-23
 header:
-  teaser: "assets/images/posts/development/jdk/download-install-jdk-10-windows.png"
+  teaser: "assets/images/posts/development/curl/download-install-curl-windows.png"
 categories: [Development]
 tags: [cURL, Download, Install, Setup, Tutorial, Windows]
 published: true
@@ -22,6 +22,8 @@ In this guide you’ll learn how to download the executable…
 …and how to configure it so you can use it from command line.
 
 Check it out:
+
+> This tutorial focuses on Windows 7 as [cURL is now part of the command line tools on Windows 10](https://blogs.technet.microsoft.com/virtualization/2017/12/19/tar-and-curl-come-to-windows/){:target="_blank"}.
 
 ## Step #1: Download
 
@@ -115,19 +117,13 @@ Select the `Path` variable. Click on `Edit…`.
 
 <img src="{{ site.url }}/assets/images/posts/development/jdk/curl-edit-path-variable.png" alt="curl edit path variable">
 
-Click on `New` and type "<kbd>%JAVA_HOME%\bin</kbd>" as shown below.
+Click on `New` and type "<kbd>%CURL_HOME%\bin</kbd>" as shown below.
 
 Click `OK`.
 
+<img src="{{ site.url }}/assets/images/posts/development/curl/curl-edit-path-variable-add-curl-home.png" alt="windows account environment variables curl">
 
-
-Click on `New...` once more.
-
-<img src="{{ site.url }}/assets/images/posts/development/curl/windows-account-environment-variables-curl.png" alt="windows account environment variables curl">
-
-Enter "<kbd>PATH</kbd>" as variable name. Enter "<kbd>%CURL_HOME%\bin</kbd>" as variable value.
-
-Click `OK`.
+Click `OK` once more to close the environment variables window.
 
 <img src="{{ site.url }}/assets/images/posts/development/curl/curl-path-variable.png" alt="curl path variable">
 
