@@ -1,19 +1,19 @@
 ---
-title: "Download and Install Maven 3.3.9 on Windows"
-permalink: /download-install-maven-3-3-9-windows.html
-excerpt: "A detailed step-by-step tutorial on how to download and install Apache Maven 3.3.9 on Windows 10."
-date: 2018-07-22
-last_modified_at: 2018-07-22
+title: "Download and Install Maven 3.2.2 on Windows"
+permalink: /download-install-maven-3-2-2-windows.html
+excerpt: "A detailed step-by-step tutorial on how to download and install Apache Maven 3.2.2 on Windows 10."
+date: 2018-07-28
+last_modified_at: 2018-07-28
 header:
-  teaser: "assets/images/posts/development/maven/download-install-maven-3-3-9-windows.png"
+  teaser: "assets/images/posts/development/maven/download-install-maven-3-2-2-windows.png"
 categories: [Development]
 tags: [Apache Maven, Download, Install, Maven, Setup, Tutorial, Windows]
 published: true
 ---
 
-<img src="{{ site.url }}/assets/images/posts/development/maven/download-install-maven-3-3-9-windows.png" alt="download install maven 3-3-9 windows" class="align-right title-image">
+<img src="{{ site.url }}/assets/images/posts/development/maven/download-install-maven-3-2-2-windows.png" alt="download install maven 3-2-2 windows" class="align-right title-image">
 
-Do you want to download and install [Apache Maven](https://maven.apache.org/){:target="_blank"} 3.3.9 on Windows?
+Do you want to download and install [Apache Maven](https://maven.apache.org/){:target="_blank"} 3.2.2 on Windows?
 
 Then check this out:
 
@@ -53,31 +53,31 @@ The above command prints the installed Java version.
 
 Go to the [Maven 3 archives page](https://archive.apache.org/dist/maven/maven-3/){:target="_blank"}.
 
-Click on the `3.3.9/` folder.
+Click on the `3.2.2/` folder.
 
-<img src="{{ site.url }}/assets/images/posts/development/maven/maven-3-3-9-download-archive.png" alt="maven 3-3-9 download archive">
+<img src="{{ site.url }}/assets/images/posts/development/maven/maven-3-2-2-download-archive.png" alt="maven 3-2-2 download archive">
 
 Click on `binaries`.
 
-<img src="{{ site.url }}/assets/images/posts/development/maven/maven-3-3-9-distribution.png" alt="maven 3-3-9 distribution">
+<img src="{{ site.url }}/assets/images/posts/development/maven/maven-3-2-2-distribution.png" alt="maven 3-2-2 distribution">
 
-Click on the `apache-maven-3.3.9-bin.zip` link.
+Click on the `apache-maven-3.2.2-bin.zip` link.
 
-<img src="{{ site.url }}/assets/images/posts/development/maven/maven-3-3-9-binaries.png" alt="maven 3-3-9 binaries">
+<img src="{{ site.url }}/assets/images/posts/development/maven/maven-3-2-2-binaries.png" alt="maven 3-2-2 binaries">
 
 Wait for the download to complete.
 
-> Do you want to skip above steps? Here is the direct link to download the [Maven 3.3.9 installer](https://archive.apache.org/dist/maven/maven-3/3.3.9/binaries/apache-maven-3.3.9-bin.zip){:target="_blank"} for Windows.
+> Do you want to skip above steps? Here is the direct link to download the [Maven 3.2.2 installer](https://archive.apache.org/dist/maven/maven-3/3.2.2/binaries/apache-maven-3.2.2-bin.zip){:target="_blank"} for Windows.
 
 ## Step #3: Install
 
 Open the location of the downloaded installer.
 
-<img src="{{ site.url }}/assets/images/posts/development/maven/maven-3-3-9-downloaded-binary.png" alt="maven 3-3-9 downloaded binary">
+<img src="{{ site.url }}/assets/images/posts/development/maven/maven-3-2-2-downloaded-binary.png" alt="maven 3-2-2 downloaded binary">
 
 Right-click the ZIP archive file. Select `Extract All…`.
 
-<img src="{{ site.url }}/assets/images/posts/development/maven/maven-3-3-9-downloaded-binary-extract-all.png" alt="maven 3-3-9 downloaded binary extract all">
+<img src="{{ site.url }}/assets/images/posts/development/maven/maven-3-2-2-downloaded-binary-extract-all.png" alt="maven 3-2-2 downloaded binary extract all">
 
 Select an extract destination for the Maven files.
 
@@ -85,11 +85,11 @@ In this example, we extract in `C:\Users\Downlinko\tools`.
 
 <img src="{{ site.url }}/assets/images/posts/development/tools-extract-destination.png" alt="tools-extract-destination">
 
-Click on `Extract`. This extracts all Maven files under `C:\Users\Downlinko\tools\apache-maven-3.3.9`.
+Click on `Extract`. This extracts all Maven files under `C:\Users\Downlinko\tools\apache-maven-3.2.2`.
 
 > From now on we refer to this location as `[MAVEN_INSTALL_DIR]`.
 
-<img src="{{ site.url }}/assets/images/posts/development/maven/maven-3-3-9-install-dir.png" alt="maven 3-3-9 install dir">
+<img src="{{ site.url }}/assets/images/posts/development/maven/maven-3-2-2-install-dir.png" alt="maven 3-2-2 install dir">
 
 ## Step #3: Setup
 
@@ -111,27 +111,27 @@ Click on `New…`.
 
 Enter "<kbd>M2_HOME</kbd>" as variable name. Enter the `[MAVEN_INSTALL_DIR]` as variable value.
 
-In this tutorial the installation directory is: `C:\Users\Downlinko\tools\apache-maven-3.3.9`.
+In this tutorial the installation directory is: `C:\Users\Downlinko\tools\apache-maven-3.2.2`.
 
 Click `OK`.
 
-<img src="{{ site.url }}/assets/images/posts/development/maven/maven-3-3-9-home-variable.png" alt="maven 3-3-9 home variable">
+<img src="{{ site.url }}/assets/images/posts/development/maven/maven-3-2-2-home-variable.png" alt="maven 3-2-2 home variable">
 
 Next we need to configure the PATH environment variable so we can run Maven from a command prompt.
 
 Select the `PATH` variable. Click on `Edit…`.
 
-<img src="{{ site.url }}/assets/images/posts/development/maven/maven-3-3-9-edit-path-variable.png" alt="maven 3-3-9 edit path variable">
+<img src="{{ site.url }}/assets/images/posts/development/maven/maven-3-2-2-edit-path-variable.png" alt="maven 3-2-2 edit path variable">
 
 Click on `New` and type "<kbd>%M2_HOME%\bin</kbd>" as shown below.
 
 Click `OK`.
 
-<img src="{{ site.url }}/assets/images/posts/development/maven/maven-3-3-9-path-variable.png" alt="maven 3-3-9 path variable">
+<img src="{{ site.url }}/assets/images/posts/development/maven/maven-3-2-2-path-variable.png" alt="maven 3-2-2 path variable">
 
 Click `OK` once more to close the environment variables window.
 
-<img src="{{ site.url }}/assets/images/posts/development/maven/maven-3-3-9-windows-account-environment-variables.png" alt="maven 3-3-9 windows account environment variables">
+<img src="{{ site.url }}/assets/images/posts/development/maven/maven-3-2-2-windows-account-environment-variables.png" alt="maven 3-2-2 windows account environment variables">
 
 > On Windows 7 you cannot add extra values for an existing `Path` variable. You need to append "<kbd>;%M2_HOME%\bin</kbd>" at the end of the variable value instead.
 
@@ -149,11 +149,11 @@ Type "<kbd>mvn -version</kbd>" and press `ENTER`.
 
 <img src="{{ site.url }}/assets/images/posts/development/maven/maven-version-command.png" alt="maven-version-command">
 
-The above command prints the installed Maven version: 3.3.9.
+The above command prints the installed Maven version: 3.2.2.
 
-<img src="{{ site.url }}/assets/images/posts/development/maven/maven-3-3-9-version-output.png" alt="maven 3-3-9 version output">
+<img src="{{ site.url }}/assets/images/posts/development/maven/maven-3-2-2-version-output.png" alt="maven 3-2-2 version output">
 
-**Congratulations, you have installed Maven 3.3.9 on Windows 10!**
+**Congratulations, you have installed Maven 3.2.2 on Windows 10!**
 
 Good luck and let me know if you liked this post.
 

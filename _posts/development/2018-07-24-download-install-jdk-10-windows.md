@@ -145,7 +145,7 @@ The above command prints the installed JDK version: `10.0.2`.
 
 <img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-10-version-output.png" alt="jdk 10 version output">
 
-**Congratulations, you have installed JDK 10 on Windows!**
+**Congratulations, you have installed JDK 1.10 on Windows 10!**
 
 Now let me know if you liked this post.
 
