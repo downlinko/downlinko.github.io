@@ -17,7 +17,7 @@ Do you want to download and install [Apache Maven](https://maven.apache.org/){:t
 
 Then check this out:
 
-In this tutorial I'll show where to download Maven.
+In this tutorial, I'll show where to download Maven.
 
 How to configure it.
 
@@ -117,7 +117,7 @@ Click `OK`.
 
 <img src="{{ site.url }}/assets/images/posts/development/maven/maven-3-3-9-home-variable.png" alt="maven 3-3-9 home variable">
 
-Next we need to configure the PATH environment variable so we can run Maven from a command prompt.
+Next, we need to configure the PATH environment variable so we can run Maven from a command prompt.
 
 Select the `PATH` variable. Click on `Edit…`.
 
