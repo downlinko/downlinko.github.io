@@ -137,17 +137,19 @@ Click `OK` once more to close the environment variables window.
 
 ## Step #4: Test
 
-To test the setup click on the Windows button. Type "<kbd>cmd</kbd>" in the search box and press `ENTER`.
+To test the setup click on the search button. Then type "<kbd>env</kbd>".
+
+Click on the `cmd` shortcut.
 
 <img src="{{ site.url }}/assets/images/posts/development/windows-search-cmd.png" alt="windows search cmd">
 
-Click on the `cmd` shortcut. Wait for the command prompt to open.
+Wait for the command prompt to open.
 
 Type "<kbd>mvn -version</kbd>" and press `ENTER`.
 
 <img src="{{ site.url }}/assets/images/posts/development/maven/maven-version-command.png" alt="maven-version-command">
 
-The above command prints the installed Maven version.
+The above command prints the installed Maven version: 3.3.9.
 
 <img src="{{ site.url }}/assets/images/posts/development/maven/maven-3-3-9-version-output.png" alt="maven 3-3-9 version output">
 
