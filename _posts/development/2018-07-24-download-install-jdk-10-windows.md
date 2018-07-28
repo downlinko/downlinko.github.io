@@ -131,9 +131,11 @@ Let's test the setup.
 
 Click on the search button. Then type "<kbd>env</kbd>" (without quotes).
 
+Click on the `Command Prompt` shortcut.
+
 <img src="{{ site.url }}/assets/images/posts/development/windows-search-cmd.png" alt="windows search cmd">
 
-Click on the `Command Prompt` shortcut. Wait for the command prompt to open.
+Wait for the command prompt to open.
 
 Type "<kbd>java -version</kbd>" and press `ENTER`.
 

@@ -91,7 +91,7 @@ Click on `Extract`. This extracts all Maven files under `C:\Users\Downlinko\tool
 
 <img src="{{ site.url }}/assets/images/posts/development/maven/maven-3-3-9-install-dir.png" alt="maven 3-3-9 install dir">
 
-## Step #4: Setup
+## Step #3: Setup
 
 We need to set up an environment variable that will point to our Maven installation.
 
@@ -123,7 +123,7 @@ Select the `PATH` variable. Click on `Edit…`.
 
 <img src="{{ site.url }}/assets/images/posts/development/maven/maven-3-3-9-edit-path-variable.png" alt="maven 3-3-9 edit path variable">
 
-Click on `New` and type "<kbd>%JAVA_HOME%\bin</kbd>" as shown below.
+Click on `New` and type "<kbd>%M2_HOME%\bin</kbd>" as shown below.
 
 Click `OK`.
 
@@ -131,9 +131,11 @@ Click `OK`.
 
 Click `OK` once more to close the environment variables window.
 
-> If a PATH variable does not exist you need to create it. Use "<kbd>PATH</kbd>" as variable name and "<kbd>%M2_HOME%\bin</kbd>" as variable value.
+<img src="{{ site.url }}/assets/images/posts/development/maven/maven-3-3-9-windows-account-environment-variables.png" alt="maven 3-3-9 windows account environment variables">
 
-## Step #5: Test
+> On Windows 7 you cannot add extra values for an existing `Path` variable. You need to append "<kbd>;%M2_HOME%\bin</kbd>" at the end of the variable value instead.
+
+## Step #4: Test
 
 To test the setup click on the Windows button. Type "<kbd>cmd</kbd>" in the search box and press `ENTER`.
 
