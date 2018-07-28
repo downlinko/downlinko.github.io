@@ -115,11 +115,11 @@ Click on `New…` once more.
 
 Enter "<kbd>PATH</kbd>" as variable name. Enter the "<kbd>%CURL_HOME%\bin</kbd>" as variable value.
 
-<img src="{{ site.url }}/assets/images/posts/development/curl/curl-path-variable.png" alt="curl path variable">
-
 Click `OK`.
 
-Click `OK` once more to close the environment variables window.
+<img src="{{ site.url }}/assets/images/posts/development/curl/curl-path-variable.png" alt="curl path variable">
+
+Click `OK` to close the environment variables window.
 
 <img src="{{ site.url }}/assets/images/posts/development/curl/curl-windows-account-environment-variables.png" alt="curl windows account environment variables">
 
