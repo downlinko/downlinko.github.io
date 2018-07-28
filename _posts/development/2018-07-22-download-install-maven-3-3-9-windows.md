@@ -1,9 +1,11 @@
 ---
 title: "Download and Install Maven 3.3.9 on Windows"
 permalink: /download-install-maven-3-3-9-windows.html
-excerpt: "A detailed step-by-step tutorial on how to download and install Apache Maven 3.3.9 on Windows."
+excerpt: "A detailed step-by-step tutorial on how to download and install Apache Maven 3.3.9 on Windows 10."
 date: 2018-07-22
 last_modified_at: 2018-07-22
+header:
+  teaser: "assets/images/posts/development/maven/download-install-maven-3-3-9-windows.png"
 categories: [Development]
 tags: [Apache Maven, Download, Install, Maven, Setup, Tutorial, Windows]
 published: true
@@ -25,9 +27,13 @@ So here we go.
 
 ## Step #1: Check Prerequisites
 
-Maven requires [Java](http://www.oracle.com/technetwork/java/javase/downloads/index.html){:target="_blank"} to work. So let's check if you have Java on your system.
+Maven requires [Java](http://www.oracle.com/technetwork/java/javase/downloads/index.html){:target="_blank"} to work. So let's check if you have Java configured on your system.
 
-Click on the Windows button. Then type "<kbd>cmd</kbd>" in the search box and press `ENTER`.
+Click on the search button. Then type "<kbd>cmd</kbd>" (without quotes).
+
+> On Windows 7 click on the Windows button.
+
+Click on the `Edit environment variables for your account` shortcut.
 
 <img src="{{ site.url }}/assets/images/posts/development/windows-search-cmd.png" alt="windows search cmd">
 
