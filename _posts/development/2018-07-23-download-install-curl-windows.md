@@ -141,7 +141,7 @@ The above command prints the installed cURL version.
 
 <img src="{{ site.url }}/assets/images/posts/development/curl/curl-7-61-0-version-output.png" alt="curl 7-61-0 version output">
 
-**Congratulations, you have installed cURL on Windows!**
+**Congratulations, you have installed cURL on Windows 7!**
 
 Leave a comment below if this post was helpful.
 
