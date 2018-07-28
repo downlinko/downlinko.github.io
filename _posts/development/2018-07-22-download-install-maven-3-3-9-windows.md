@@ -33,11 +33,11 @@ Click on the search button. Then type "<kbd>cmd</kbd>" (without quotes).
 
 > On Windows 7 click on the Windows button.
 
-Click on the `Edit environment variables for your account` shortcut.
+Click on the `Command Prompt` shortcut.
 
 <img src="{{ site.url }}/assets/images/posts/development/windows-search-cmd.png" alt="windows search cmd">
 
-Click on the `cmd` shortcut. Wait for the command prompt to open.
+Wait for the command prompt to open.
 
 Type "<kbd>java -version</kbd>" and press `ENTER`.
 
