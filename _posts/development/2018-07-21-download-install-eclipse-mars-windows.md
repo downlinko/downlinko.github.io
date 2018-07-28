@@ -1,17 +1,17 @@
 ---
 title: "Download and Install Eclipse Mars on Windows"
 permalink: /download-install-eclipse-mars-windows.html
-excerpt: "A detailed step-by-step tutorial on how to download and install Eclipse Mars on Windows."
+excerpt: "A detailed step-by-step tutorial on how to download and install Eclipse Mars on Windows 10."
 date: 2018-07-21
 last_modified_at: 2018-07-21
 categories: [Development]
-tags: [Download, Eclipse, Install, Mars, Tutorial, Windows]
+tags: [Download, Eclipse, Install, Eclipse Mars, Tutorial, Windows]
 published: true
 ---
 
 <img src="{{ site.url }}/assets/images/posts/development/eclipse/download-install-eclipse-mars-windows.png" alt="download install eclipse mars windows" class="align-right title-image">
 
-Looking to download and install Eclipse Mars?
+Looking to download and install [Eclipse Mars](https://www.eclipse.org/mars/){:target="_blank"} on Windows?
 
 Good news!
 
@@ -97,7 +97,7 @@ If needed change the default location and click `OK`.
 
 <img src="{{ site.url }}/assets/images/posts/development/eclipse/eclipse-mars-workspace.png" alt="eclipse mars workspace">
 
-**Congratulations, you have installed Eclipse Mars on Windows!**
+**Congratulations, you have installed Eclipse Mars on Windows 10!**
 
 Submit a comment below if you found this post helpful.
 

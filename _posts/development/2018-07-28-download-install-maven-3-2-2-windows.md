@@ -1,6 +1,6 @@
 ---
-title: "Download and Install Maven 3.2.2 on Windows"
-permalink: /download-install-maven-3-2-2-windows.html
+title: "Download and Install Apache Maven 3.2.2 on Windows"
+permalink: /download-install-apache-maven-3-2-2-windows.html
 excerpt: "A detailed step-by-step tutorial on how to download and install Apache Maven 3.2.2 on Windows 10."
 date: 2018-07-28
 last_modified_at: 2018-07-28
@@ -8,6 +8,8 @@ header:
   teaser: "assets/images/posts/development/maven/download-install-maven-3-2-2-windows.png"
 categories: [Development]
 tags: [Apache Maven, Download, Install, Maven, Setup, Tutorial, Windows]
+redirect_from:
+  - /download-install-maven-3-2-2-windows.html
 published: true
 ---
 
