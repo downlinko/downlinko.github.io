@@ -97,6 +97,14 @@ If needed change the default location and click `OK`.
 
 <img src="{{ site.url }}/assets/images/posts/development/eclipse/eclipse-mars-workspace.png" alt="eclipse mars workspace">
 
+To verify the installed version click on `Help` and then on `About Eclipse` as shown below.
+
+<img src="{{ site.url }}/assets/images/posts/development/eclipse/eclipse-mars-help-about-eclipse.png" alt="eclipse mars help about eclipse">
+
+This shows the Eclipse version: `Mars.2 Release (4.5.2)`.
+
+<img src="{{ site.url }}/assets/images/posts/development/eclipse/eclipse-mars-version.png" alt="eclipse mars version">
+
 **Congratulations, you have installed Eclipse Mars on Windows 10!**
 
 Submit a comment below if you found this post helpful.
