@@ -91,6 +91,14 @@ Click `Finish`.
 
 <img src="{{ site.url }}/assets/images/posts/internet/firefox/firefox-56-setup-wizard-finish.png" alt="firefox 56 setup wizard finish">
 
+Firefox will start. An import wizard will ask if data from other browsers need to be imported.
+
+In this tutorial we select `Don't import anything`.
+
+Click `Next`.
+
+<img src="{{ site.url }}/assets/images/posts/internet/firefox/firefox-56-import-data-wizard.png" alt="firefox 56 import data wizard">
+
 ## Step #3: Run
 
 To run Mozilla Firefox double click on the icon located on the desktop.
