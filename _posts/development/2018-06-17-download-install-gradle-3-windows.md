@@ -49,11 +49,11 @@ The above command prints the installed Java version.
 
 Go to the [Gradle releases page](https://gradle.org/releases/){:target="_blank"}.
 
-<img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-releases-page.jpg" alt="gradle releases page">
+<img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-releases-page.png" alt="gradle releases page">
 
 Scroll down to `v3.5.1` and click on the `binary-only` link.
 
-<img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-3-5-1-release.jpg" alt="gradle 3.5.1 release">
+<img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-3-5-1-release.png" alt="gradle 3.5.1 release">
 
 Wait for the download to complete.
 
@@ -63,11 +63,11 @@ Wait for the download to complete.
 
 Open the location of the downloaded installer.
 
-<img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-3-5-1-downloaded-installer.jpg" alt="gradle 3.5.1 downloaded installer">
+<img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-3-5-1-downloaded-installer.png" alt="gradle 3.5.1 downloaded installer">
 
 Right-click the ZIP archive file. Select `Extract All...`.
 
-<img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-3-5-1-installer-extract-all.jpg" alt="gradle 3.5.1 installer extract all">
+<img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-3-5-1-downloaded-installer-extract-all.png" alt="gradle 3.5.1 downloaded installer extract all">
 
 Select an extract destination for the Gradle files.
 
