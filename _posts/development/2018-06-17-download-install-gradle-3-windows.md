@@ -135,7 +135,7 @@ Click on the `cmd` shortcut.
 
 Wait for the command prompt to open.
 
-Type "<kbd>gradle -v</kbd>" and press `ENTER`.
+Type "<kbd>gradle -version</kbd>" and press `ENTER`.
 
 <img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-version-command.png" alt="gradle-version-command">
 
