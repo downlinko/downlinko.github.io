@@ -53,6 +53,8 @@ We will download the `Eclipse IDE for Java EE Developers` package.
 
 Click on your Windows version. This needs to match with the Java version installed on your system!
 
+In this guide we will install the 64-bit version.
+
 <img src="{{ site.url }}/assets/images/posts/development/eclipse/eclipse-mars-packages-download-page.png" alt="eclipse mars packages download page">
 
 Wait for the download to complete.
