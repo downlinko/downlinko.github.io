@@ -137,11 +137,11 @@ Wait for the command prompt to open.
 
 Type "<kbd>gradle -v</kbd>" and press `ENTER`.
 
-<img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-version-command.jpg" alt="gradle-version-command">
+<img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-version-command.png" alt="gradle-version-command">
 
 The above command prints the installed Gradle version.
 
-<img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-3-5-1-version-output.jpg" alt="gradle 3.5.1 version output">
+<img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-3-5-1-version-output.png" alt="gradle 3.5.1 version output">
 
 **Congratulations, you have installed Gradle 3.5.1 on Windows 10!**
 
