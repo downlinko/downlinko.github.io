@@ -71,7 +71,7 @@ Click `Next`.
 
 <img src="{{ site.url }}/assets/images/posts/internet/firefox/firefox-56-setup-wizard-welcome.png" alt="firefox 56 setup wizard welcome">
 
-Keep the default settings.
+Keep the `Standard` settings.
 
 Click `Next`.
 
@@ -91,7 +91,7 @@ Click `Finish`.
 
 <img src="{{ site.url }}/assets/images/posts/internet/firefox/firefox-56-setup-wizard-finish.png" alt="firefox 56 setup wizard finish">
 
-An import wizard will ask if data from other browsers needs to be imported.
+Firefox will start for the first time. An import wizard will ask if data from other browsers needs to be imported.
 
 In this tutorial we select `Don't import anything`.
 
@@ -105,7 +105,7 @@ Firefox will now start as shown below.
 
 **Congratulations, you have installed Mozilla Firefox 56 on Windows 10!**
 
-> By default, Firefox is set for automatic updates. To turn this off, you need to change your Firefox update settings. Click the menu button (top right corner) and choose `Options`. In the `General panel`, go to the `Firefox Updates` section. Be aware that using old versions of Firefox poses a significant security risk!
+> By default, Firefox is set for automatic updates. This will upgrade Firefox to the latest version. To turn this off, you need to change your Firefox update settings. Click the menu button (top right corner) and choose `Options`. In the `General panel`, go to the `Firefox Updates` section. Be aware that using old versions of Firefox poses a significant security risk!
 
 Leave a comment below if this post was helpful.
 
