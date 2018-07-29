@@ -109,7 +109,7 @@ Next, we need to configure the PATH environment variable so we can run Java from
 
 Select the `Path` variable. Click on `Edit…`.
 
-<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-10-edit-path-variable.png" alt="jdk 10 edit path variable">
+<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-edit-path-variable.png" alt="jdk edit path variable">
 
 Click on `New` and type "<kbd>%JAVA_HOME%\bin</kbd>" as shown below.
 
@@ -139,7 +139,7 @@ Wait for the command prompt to open.
 
 Type "<kbd>java -version</kbd>" and press `ENTER`.
 
-<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-10-version-command.png" alt="jdk 10 version command">
+<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-version-command.png" alt="jdk version command">
 
 The above command prints the installed JDK version: `10.0.2`.
 

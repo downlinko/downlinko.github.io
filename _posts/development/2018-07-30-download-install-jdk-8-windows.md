@@ -65,21 +65,21 @@ You can change the installation location by clicking on the `Change…` button.
 
 In this example, we keep the default install location of `C:\Program Files\Java\jdk-10.0.2\`. From now on we will refer to this directory as `[JAVA_INSTALL_DIR]`.
 
-<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-10-installer-default-location.png" alt="jdk 10 installer default location">
+<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-8-installer-default-location.png" alt="jdk 8 installer default location">
 
 We will not install the public JRE as the JDK development tools already include a private JRE.
 
 Select the `Public JRE` dropdown and click on `This feature will not be available.` as shown below.
 
-<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-10-installer-disable-public-jre.png" alt="jdk 10 installer disable public jre">
+<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-8-installer-disable-public-jre.png" alt="jdk 8 installer disable public jre">
 
 Click `Next` to start the installation.
 
-<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-10-installer-custom-setup.png" alt="jdk 10 installer custom setup">
+<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-8-installer-custom-setup.png" alt="jdk 8 installer custom setup">
 
 Once the installation is complete, click `Close`.
 
-<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-10-installer-complete.png" alt="jdk 10 installer complete">
+<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-8-installer-complete.png" alt="jdk 8 installer complete">
 
 ## Step #3: Setup
 
@@ -101,27 +101,27 @@ Click on `New…`.
 
 Enter "<kbd>JAVA_HOME</kbd>" as variable name. Enter the `[JAVA_INSTALL_DIR]` as variable value.
 
-In this tutorial, the Java installation directory is `C:\Program Files\Java\jdk-10.0.2`.
+In this tutorial, the Java installation directory is `C:\Program Files\Java\jdk1.8.0_181`.
 
 Click `OK`.
 
-<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-10-home-variable.png" alt="jdk 10 home variable">
+<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-8-home-variable.png" alt="jdk 8 home variable">
 
 Next, we need to configure the PATH environment variable so we can run Java from a command prompt.
 
 Select the `Path` variable. Click on `Edit…`.
 
-<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-10-edit-path-variable.png" alt="jdk 10 edit path variable">
+<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-8-edit-path-variable.png" alt="jdk 8 edit path variable">
 
 Click on `New` and type "<kbd>%JAVA_HOME%\bin</kbd>" as shown below.
 
 Click `OK`.
 
-<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-10-edit-path-variable-add-java-home.png" alt="jdk 10 edit path variable add java home">
+<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-edit-path-variable-add-java-home.png" alt="jdk edit path variable add java home">
 
 Click `OK` once more to close the environment variables window.
 
-<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-10-windows-account-environment-variables.png" alt="jdk 10 windows account environment variables">
+<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-8-windows-account-environment-variables.png" alt="jdk 8 windows account environment variables">
 
 > If a `Path` variable does not exist you need to create it. Use "<kbd>Path</kbd>" as variable name and "<kbd>%JAVA_HOME%\bin</kbd>" as variable value.
 
@@ -141,13 +141,13 @@ Wait for the command prompt to open.
 
 Type "<kbd>java -version</kbd>" and press `ENTER`.
 
-<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-10-version-command.png" alt="jdk 10 version command">
+<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-version-command.png" alt="jdk version command">
 
-The above command prints the installed JDK version: `10.0.2`.
+The above command prints the installed JDK version: `1.8.0_181`.
 
-<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-10-version-output.png" alt="jdk 10 version output">
+<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-8-version-output.png" alt="jdk 8 version output">
 
-**Congratulations, you have installed JDK 1.10 on Windows 10!**
+**Congratulations, you have installed JDK 1.8 on Windows 10!**
 
 Now let me know if you liked this post.
 
