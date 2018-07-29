@@ -33,7 +33,7 @@ Scroll down to `Dir 56.0` and click on the link.
 
 <img src="{{ site.url }}/assets/images/posts/internet/firefox/firefox-56-releases-page-version.png" alt="firefox 56 releases page version">
 
-Click on your Windows version. In this guide we select `win64`.
+Click on your Windows version. In this guide, we select `win64`.
 
 > If you don't know your Windows version select `win32`.
 
@@ -91,9 +91,9 @@ Click `Finish`.
 
 <img src="{{ site.url }}/assets/images/posts/internet/firefox/firefox-56-setup-wizard-finish.png" alt="firefox 56 setup wizard finish">
 
-Firefox will start for the first time. An import wizard will ask if data from other browsers needs to be imported.
+Firefox will start for the first time. An import wizard will ask if you want to import data from other browsers.
 
-In this tutorial we select `Don't import anything`.
+In this tutorial, we select `Don't import anything`.
 
 Click `Next`.
 
