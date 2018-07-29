@@ -59,11 +59,19 @@ Locate the downloaded installer.
 
 <img src="{{ site.url }}/assets/images/posts/internet/firefox/firefox-56-downloaded-installer.png" alt="firefox 56 downloaded installer">
 
-Double click it to start the installation. A welcome wizard will open.
+Double click it to start the installation.
+
+Windows might report that the application we are installing is not in the Store. Click on `Install anyway`.
+
+<img src="{{ site.url }}/assets/images/posts/windows-install-app-not-in-store.png" alt="windows install app not in store">
+
+A welcome wizard will open.
+
+Click `Next`.
 
 <img src="{{ site.url }}/assets/images/posts/internet/firefox/firefox-56-setup-wizard-welcome.png" alt="firefox 56 setup wizard welcome">
 
-Click `Next`. Keep the default settings.
+ Keep the default settings.
 
 <img src="{{ site.url }}/assets/images/posts/internet/firefox/firefox-56-setup-wizard-select-type.png" alt="firefox 56 setup wizard select type">
 
