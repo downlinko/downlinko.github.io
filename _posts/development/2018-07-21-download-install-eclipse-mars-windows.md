@@ -49,7 +49,7 @@ It also prints the whether you have the 32 or 64-bit version of Java.
 
 ## Step #2: Download
 
-Head over to the [Eclipse Mars 2 Packages](https://www.eclipse.org/downloads/packages/release/Mars/2){:target="_blank"} download page.
+Head over to the [Eclipse Mars 2 Packages](https://www.eclipse.org/downloads/packages/release/mars/2){:target="_blank"} download page.
 
 We will download the `Eclipse IDE for Java EE Developers` package.
 

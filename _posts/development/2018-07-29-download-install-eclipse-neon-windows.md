@@ -105,7 +105,7 @@ To verify the installed version click on `Help` and then on `About Eclipse` as s
 
 <img src="{{ site.url }}/assets/images/posts/development/eclipse/eclipse-neon-help-about-eclipse.png" alt="eclipse neon help about eclipse">
 
-This shows the Eclipse version: `Mars.3 Release (4.6.3)`.
+This shows the Eclipse version: `Neon.3 Release (4.6.3)`.
 
 <img src="{{ site.url }}/assets/images/posts/development/eclipse/eclipse-neon-version.png" alt="eclipse neon version">
 
