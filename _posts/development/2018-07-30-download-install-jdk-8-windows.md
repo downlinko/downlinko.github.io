@@ -1,23 +1,23 @@
 ---
-title: "Download and Install JDK 10 on Windows"
+title: "Download and Install JDK 1.8 on Windows"
 permalink: /download-install-jdk-10-windows.html
-excerpt: "A detailed step-by-step tutorial on how to download and install JDK 1.10 on Windows 10."
-date: 2018-07-24
-last_modified_at: 2018-07-24
+excerpt: "A detailed step-by-step tutorial on how to download and install JDK 8u181 on Windows 10."
+date: 2018-07-30
+last_modified_at: 2018-07-30
 header:
-  teaser: "assets/images/posts/development/jdk/download-install-jdk-10-windows.png"
+  teaser: "assets/images/posts/development/jdk/download-install-jdk-8-windows.png"
 categories: [Development]
-tags: [Download, Install, JDK, JDK 10, Setup, Tutorial, Windows]
-published: true
+tags: [Download, Install, JDK, JDK 1.8, Setup, Tutorial, Windows]
+published: false
 ---
 
 <img src="{{ site.url }}/assets/images/posts/development/jdk/download-install-jdk-10-windows.png" alt="download install jdk 10 windows" class="align-right title-image">
 
-In this guide I’m going to show you exactly how to download and install JDK 10 on Windows.
+In this guide I’m going to show you exactly how to download and install JDK 1.8 on Windows.
 
 (Step-by-step)
 
-First, I’ll show you where you can download JDK 10.
+First, I’ll show you where you can download JDK 8.
 
 Then you’ll see how to configure it.
 
@@ -33,11 +33,11 @@ Java SE contains a **Java Development Kit** (JDK) that comes with a Java compile
 
 Head over to the [Oracle Java download page](http://www.oracle.com/technetwork/java/javase/downloads/index.html){:target="_blank"}.
 
-Look for the `Java SE 10.0.2` section.
+Look for the `Java SE 8u181` section.
 
 Click on the `Download` button right below `JDK`.
 
-<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-10-download-java-se.png" alt="jdk 10 download java se">
+<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-8-download-java-se.png" alt="jdk 8 download java se">
 
 Click on the radio button next to `Accept License Agreement`.
 

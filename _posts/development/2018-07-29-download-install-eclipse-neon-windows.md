@@ -67,7 +67,7 @@ Wait for the download to complete.
 
 Open the location of the downloaded package.
 
-<img src="{{ site.url }}/assets/images/posts/development/eclipse/eclipse-neon-package-downloaded.png" alt="eclipse neon package downloaded">
+<img src="{{ site.url }}/assets/images/posts/development/eclipse/eclipse-neon-downloaded-package.png" alt="eclipse neon downloaded package">
 
 Right-click the ZIP archive file. Select `Extract All...`.
 
@@ -95,11 +95,13 @@ Located the `Application` file called `eclipse` and double-click on it.
 
 Eclipse will start and prompt for a default workspace location.
 
-<img src="{{ site.url }}/assets/images/posts/development/eclipse/eclipse-workspace-default-location.png" alt="eclipse workspace default location">
-
 If needed change the default location and click `OK`.
 
-<img src="{{ site.url }}/assets/images/posts/development/eclipse/eclipse-mars-workspace.png" alt="eclipse mars workspace">
+<img src="{{ site.url }}/assets/images/posts/development/eclipse/eclipse-workspace-default-location.png" alt="eclipse workspace default location">
+
+Wait for Eclipse Neon to open.
+
+<img src="{{ site.url }}/assets/images/posts/development/eclipse/eclipse-neon-workspace.png" alt="eclipse neon workspace">
 
 To verify the installed version click on `Help` and then on `About Eclipse` as shown below.
 
