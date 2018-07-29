@@ -12,3 +12,9 @@ published: false
 ---
 
 <img src="{{ site.url }}/assets/images/posts/development/nodejs/download-install-nodejs-9-windows.png" alt="/download install node js 9 windows.png" class="align-right title-image">
+
+TODO
+
+## Step #1: Download
+
+Head over to the [Node.JS distributions page](https://nodejs.org/dist/){:target="_blank"}.
