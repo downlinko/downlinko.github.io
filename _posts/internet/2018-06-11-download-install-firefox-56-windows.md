@@ -71,7 +71,9 @@ Click `Next`.
 
 <img src="{{ site.url }}/assets/images/posts/internet/firefox/firefox-56-setup-wizard-welcome.png" alt="firefox 56 setup wizard welcome">
 
- Keep the default settings.
+Keep the default settings.
+
+Click `Next`.
 
 <img src="{{ site.url }}/assets/images/posts/internet/firefox/firefox-56-setup-wizard-select-type.png" alt="firefox 56 setup wizard select type">
 
@@ -85,9 +87,9 @@ Click `Install` to start the installation.
 
 Wait until the installation is complete.
 
-<img src="{{ site.url }}/assets/images/posts/internet/firefox/firefox-56-setup-wizard-finish.png" alt="firefox 56 setup wizard finish">
-
 Click `Finish`.
+
+<img src="{{ site.url }}/assets/images/posts/internet/firefox/firefox-56-setup-wizard-finish.png" alt="firefox 56 setup wizard finish">
 
 ## Step #3: Run
 
