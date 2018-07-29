@@ -1,9 +1,11 @@
 ---
 title: "Download and Install Gradle 3.5 on Windows"
 permalink: /download-install-gradle-3-5-windows.html
-excerpt: "A detailed step-by-step tutorial on how to download and install Gradle 3.5 on Windows."
+excerpt: "A detailed step-by-step tutorial on how to download and install Gradle 3.5.1 on Windows 10."
 date: 2018-06-17
 last_modified_at: 2018-06-17
+header:
+  teaser: "assets/images/posts/development/gradle/download-install-gradle-3-5-windows.png"
 categories: [Development]
 tags: [Download, Gradle, Install, Setup, Tutorial, Windows]
 published: true
@@ -11,7 +13,7 @@ published: true
 
 <img src="{{ site.url }}/assets/images/posts/development/gradle/download-install-gradle-3-5-windows.png" alt="download install gradle 3.5 windows" class="align-right title-image">
 
-Do you need to download and install Gradle 3.5 on Windows?
+Do you need to download and install [Gradle](https://gradle.org/){:target="_blank"} 3.5 on Windows?
 
 You’ve reached the right place.
 
@@ -21,21 +23,25 @@ Off we go!
 
 ## Step #1: Check Prerequisites
 
-Gradle requires Java to work. Let's check if you have Java on your system.
+Gradle requires [Java](http://www.oracle.com/technetwork/java/javase/downloads/index.html){:target="_blank"} to work. So let's check if you have Java configured on your system.
 
-Click on the Windows button. Then type "<kbd>cmd</kbd>" in the search box and press `ENTER`.
+Click on the search button. Then type "<kbd>cmd</kbd>" (without quotes).
 
-<img src="{{ site.url }}/assets/images/posts/development/windows-search-cmd.jpg" alt="windows search cmd">
+> On Windows 7 click on the Windows button.
 
-Click on the `cmd` shortcut. Wait for the command prompt to open.
+Click on the `Command Prompt` shortcut.
+
+<img src="{{ site.url }}/assets/images/posts/development/windows-search-cmd.png" alt="windows search cmd">
+
+Wait for the command prompt to open.
 
 Type "<kbd>java -version</kbd>" and press `ENTER`.
 
-<img src="{{ site.url }}/assets/images/posts/development/java-version-command.jpg" alt="java version command">
+<img src="{{ site.url }}/assets/images/posts/development/java-version-command.png" alt="java version command">
 
 The above command prints the installed Java version.
 
-<img src="{{ site.url }}/assets/images/posts/development/java-installed-version.jpg" alt="java installed version">
+<img src="{{ site.url }}/assets/images/posts/development/java-installed-version.png" alt="java installed version">
 
 > For Gradle 3.5 you need Java version 1.7 or higher.
 
