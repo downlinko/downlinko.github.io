@@ -127,11 +127,13 @@ Click `OK` once more to close the environment variables window.
 
 ## Step #5: Test
 
-To test the setup click on the Windows button. Type "<kbd>cmd</kbd>" in the search box and press `ENTER`.
+To test the setup click on the search button. Then type "<kbd>env</kbd>".
 
-<img src="{{ site.url }}/assets/images/posts/development/windows-search-cmd.jpg" alt="windows search cmd">
+Click on the `cmd` shortcut.
 
-Click on the `cmd` shortcut. Wait for the command prompt to open.
+<img src="{{ site.url }}/assets/images/posts/development/windows-search-cmd.png" alt="windows search cmd">
+
+Wait for the command prompt to open.
 
 Type "<kbd>gradle -v</kbd>" and press `ENTER`.
 
@@ -141,7 +143,7 @@ The above command prints the installed Gradle version.
 
 <img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-3-5-1-version-output.jpg" alt="gradle 3.5.1 version output">
 
-**Congratulations, you have installed Gradle 3.5.1 on Windows!**
+**Congratulations, you have installed Gradle 3.5.1 on Windows 10!**
 
 Drop a line below if you liked this post.
 
