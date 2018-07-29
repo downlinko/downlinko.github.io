@@ -63,11 +63,11 @@ Wait for the download to complete.
 
 Open the location of the downloaded package.
 
-<img src="{{ site.url }}/assets/images/posts/development/eclipse/eclipse-mars-package-downloaded.png" alt="eclipse mars package downloaded">
+<img src="{{ site.url }}/assets/images/posts/development/eclipse/eclipse-mars-downloaded-package.png" alt="eclipse mars downloaded package">
 
 Right-click the ZIP archive file. Select `Extract All...`.
 
-<img src="{{ site.url }}/assets/images/posts/development/eclipse/eclipse-mars-package-extract-all.png" alt="eclipse mars package extract all">
+<img src="{{ site.url }}/assets/images/posts/development/eclipse/eclipse-mars-downloaded-package-extract-all.png" alt="eclipse mars downloaded package extract all">
 
 Select an extract destination for the Eclipse Mars files.
 
