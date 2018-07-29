@@ -4,9 +4,11 @@ permalink: /download-install-eclipse-neon-windows.html
 excerpt: "A detailed step-by-step tutorial on how to download and install Eclipse Neon on Windows 10."
 date: 2018-07-29
 last_modified_at: 2018-07-29
+header:
+  teaser: "assets/images/posts/development/eclipse/download-install-eclipse-neon-windows.png"
 categories: [Development]
-tags: [Download, Eclipse, Install, Eclipse Neon, Tutorial, Windows]
-published: false
+tags: [Download, Eclipse, Eclipse Neon, Install, Tutorial, Windows]
+published: true
 ---
 
 <img src="{{ site.url }}/assets/images/posts/development/eclipse/download-install-eclipse-neon-windows.png" alt="download install eclipse neon windows" class="align-right title-image">
@@ -47,17 +49,19 @@ It also prints the whether you have the 32 or 64-bit version of Java.
 
 ## Step #2: Download
 
-Head over to the [Eclipse Neon Packages](https://www.eclipse.org/downloads/packages/release/Mars/2){:target="_blank"} download page.
+Head over to the [Eclipse Neon Packages](https://www.eclipse.org/downloads/packages/release/neon/3){:target="_blank"} download page.
 
 We will download the `Eclipse IDE for Java EE Developers` package.
 
 Click on your Windows version. This needs to match with the Java version installed on your system!
 
+In this guide we will install the 64-bit version.
+
 <img src="{{ site.url }}/assets/images/posts/development/eclipse/eclipse-neon-packages-download-page.png" alt="eclipse neon packages download page">
 
 Wait for the download to complete.
 
-> Some download mirrors might return a `404 Not Found` error. Here is a direct link to download the [32 Bit](http://mirror.csclub.uwaterloo.ca/eclipse/technology/epp/downloads/release/neon/2/eclipse-jee-neon-2-win32.zip){:target="_blank"} or [64 Bit](http://mirror.csclub.uwaterloo.ca/eclipse/technology/epp/downloads/release/neon/2/eclipse-jee-neon-2-win32-x86_64.zip){:target="_blank"} package for Windows.
+> Some download mirrors might return a `404 Not Found` error. Here is a direct link to download the [32 Bit](http://mirror.csclub.uwaterloo.ca/eclipse/technology/epp/downloads/release/neon/2/eclipse-jee-neon-3-win32.zip){:target="_blank"} or [64 Bit](http://mirror.csclub.uwaterloo.ca/eclipse/technology/epp/downloads/release/neon/2/eclipse-jee-neon-3-win32-x86_64.zip){:target="_blank"} package for Windows.
 
 ## Step #3: Install
 
@@ -67,7 +71,7 @@ Open the location of the downloaded package.
 
 Right-click the ZIP archive file. Select `Extract All...`.
 
-<img src="{{ site.url }}/assets/images/posts/development/eclipse/eclipse-neon-package-extract-all.png" alt="eclipse neon package extract all">
+<img src="{{ site.url }}/assets/images/posts/development/eclipse/eclipse-neon-downloaded-package-extract-all.png" alt="eclipse neon downloaded package extract all">
 
 Select an extract destination for the Eclipse Neon files.
 
@@ -85,17 +89,25 @@ Click on `Extract`. This extracts all Eclipse Neon files under `C:\Users\Downlin
 
 To run Eclipse Neon navigate to the `[ECLIPSE_NEON_INSTALL_DIR]` installation directory.
 
-Located the executable file called `eclipse` and double-click on it.
+Located the `Application` file called `eclipse` and double-click on it.
 
 <img src="{{ site.url }}/assets/images/posts/development/eclipse/eclipse-neon-executable.png" alt="eclipse neon executable">
 
 Eclipse will start and prompt for a default workspace location.
 
-<img src="{{ site.url }}/assets/images/posts/development/eclipse/eclipse-neon-workspace-default-location.png" alt="eclipse neon workspace default location">
+<img src="{{ site.url }}/assets/images/posts/development/eclipse/eclipse-workspace-default-location.png" alt="eclipse workspace default location">
 
 If needed change the default location and click `OK`.
 
-<img src="{{ site.url }}/assets/images/posts/development/eclipse/eclipse-neon-workspace.png" alt="eclipse neon workspace">
+<img src="{{ site.url }}/assets/images/posts/development/eclipse/eclipse-mars-workspace.png" alt="eclipse mars workspace">
+
+To verify the installed version click on `Help` and then on `About Eclipse` as shown below.
+
+<img src="{{ site.url }}/assets/images/posts/development/eclipse/eclipse-neon-help-about-eclipse.png" alt="eclipse neon help about eclipse">
+
+This shows the Eclipse version: `Mars.3 Release (4.6.3)`.
+
+<img src="{{ site.url }}/assets/images/posts/development/eclipse/eclipse-neon-version.png" alt="eclipse neon version">
 
 **Congratulations, you have installed Eclipse Neon on Windows 10!**
 
