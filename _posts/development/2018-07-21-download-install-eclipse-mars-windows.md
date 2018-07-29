@@ -85,7 +85,7 @@ Click on `Extract`. This extracts all Eclipse Mars files under `C:\Users\Downlin
 
 To run Eclipse Mars navigate to the `[ECLIPSE_MARS_INSTALL_DIR]` installation directory.
 
-Located the executable file called `eclipse` and double-click on it.
+Located the `application` file called `eclipse` and double-click on it.
 
 <img src="{{ site.url }}/assets/images/posts/development/eclipse/eclipse-mars-executable.png" alt="eclipse mars executable">
 
