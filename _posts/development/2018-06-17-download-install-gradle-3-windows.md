@@ -117,11 +117,11 @@ Click on `New` and type "<kbd>%GRADLE_HOME%\bin</kbd>" as shown below.
 
 Click `OK`.
 
-<img src="{{ site.url }}/assets/images/posts/development/maven/gradle-path-variable.png" alt="gralde path variable">
+<img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-path-variable.png" alt="gradle path variable">
 
 Click `OK` once more to close the environment variables window.
 
-<img src="{{ site.url }}/assets/images/posts/development/maven/gradle-3-5-1-windows-account-environment-variables.png" alt="gradle 3-5-1 windows account environment variables">
+<img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-3-5-1-windows-account-environment-variables.png" alt="gradle 3-5-1 windows account environment variables">
 
 > On Windows 7 you cannot add extra values for an existing `Path` variable. You need to append "<kbd>;%GRADLE_HOME%\bin</kbd>" at the end of the variable value instead.
 
