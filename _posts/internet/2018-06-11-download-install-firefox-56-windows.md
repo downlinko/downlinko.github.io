@@ -39,23 +39,19 @@ Click on your Windows version. In this guide we select `win64`.
 
 <img src="{{ site.url }}/assets/images/posts/internet/firefox/firefox-56-releases-page-windows-version.png" alt="firefox 56 releases page windows version">
 
-Select the interface language you want. In this example, we select English as used in the United States: `en-US`.
+Select the interface language you want.
 
-<img src="{{ site.url }}/assets/images/posts/internet/firefox/firefox-56-language.png" alt="firefox 56 language">
+In this example, we select English as used in the United States: `en-US`.
+
+<img src="{{ site.url }}/assets/images/posts/internet/firefox/firefox-56-releases-page-language.png" alt="firefox 56 releases page language">
 
 Click on the `Firefox Setup` link.
 
-> Do you want to skip above steps? Here is the direct link to download the [Mozilla Firefox 56 win32 en-US installer](https://ftp.mozilla.org/pub/firefox/releases/56.0/win32/en-US/){:target="_blank"} for Windows.
-
-<img src="{{ site.url }}/assets/images/posts/internet/firefox/firefox-56-executable.png" alt="firefox 56 executable">
-
-A notification or popup might appear.
-
-<img src="{{ site.url }}/assets/images/posts/internet/firefox/firefox-56-executable-notification.png" alt="firefox 56 executable notification">
-
-Click on `Save` to accept.
+<img src="{{ site.url }}/assets/images/posts/internet/firefox/firefox-56-releases-page-executable.png" alt="firefox 56 releases page executable">
 
 Now, wait for the download to complete.
+
+> Do you want to skip above steps? Here is the direct link to download the Mozilla Firefox 56 en-US [win32](https://ftp.mozilla.org/pub/firefox/releases/56.0/win32/en-US/){:target="_blank"} or [win64](https://ftp.mozilla.org/pub/firefox/releases/56.0/win64/en-US/){:target="_blank"} installer for Windows.
 
 ## Step #2: Install
 
