@@ -65,7 +65,7 @@ Open the location of the downloaded installer.
 
 <img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-3-5-1-downloaded-installer.png" alt="gradle 3.5.1 downloaded installer">
 
-Right-click the ZIP archive file. Select `Extract All...`.
+Right-click the ZIP archive file. Select `Extract All…`.
 
 <img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-3-5-1-downloaded-installer-extract-all.png" alt="gradle 3.5.1 downloaded installer extract all">
 
@@ -73,29 +73,37 @@ Select an extract destination for the Gradle files.
 
 In this example, we extract in `C:\Users\Downlinko\tools`.
 
-<img src="{{ site.url }}/assets/images/posts/development/tools-extract-destination.jpg" alt="tools-extract-destination">
+<img src="{{ site.url }}/assets/images/posts/development/tools-extract-destination.png" alt="tools-extract-destination">
 
 Click on `Extract`. This extracts all Gradle files under `C:\Users\Downlinko\tools\gradle-3.5.1`.
 
 > From now on we refer to this location as `[GRADLE_INSTALL_DIR]`.
 
-<img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-3-5-1-home.jpg" alt="gradle 3.5.1 home">
+<img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-3-5-1-install-dir.jpg" alt="gradle 3-5-1 install dir">
 
 ## Step #4: Setup
 
-Click on the Windows button. Then type "<kbd>env</kbd>" in the search box and press `ENTER`.
+We need to set up an environment variable that will point to our Maven installation.
 
-<img src="{{ site.url }}/assets/images/posts/development/windows-search-env.jpg" alt="windows search env">
+Click on the search button. Then type "<kbd>env</kbd>".
 
-Click on the `Edit environment variables for your account` shortcut. Wait for the environment variables window to open.
+> On Windows 7 click on the Windows button.
 
-<img src="{{ site.url }}/assets/images/posts/development/windows-environment-variables.jpg" alt="windows environment variables">
+Click on the `Edit environment variables for your account` shortcut.
 
-Click on `New...`.
+<img src="{{ site.url }}/assets/images/posts/development/windows-search-env.png" alt="windows search env">
 
-<img src="{{ site.url }}/assets/images/posts/development/windows-environment-variables-new.jpg" alt="windows environment variables new">
+Wait for the environment variables window to open.
 
-Enter "<kbd>GRADLE_HOME</kbd>" as variable name. Enter the `[GRADLE_INSTALL_DIR]` as variable value. Click `OK`.
+Click on `New…`.
+
+<img src="{{ site.url }}/assets/images/posts/development/windows-account-environment-variables-jdk-new.png" alt="windows account environment variables jdk new">
+
+Enter "<kbd>GRADLE_HOME</kbd>" as variable name. Enter the `[GRADLE_INSTALL_DIR]` as variable value.
+
+In this tutorial the installation directory is: `C:\Users\Downlinko\tools\gradle-3.5.1`.
+
+Click `OK`.
 
 <img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-3-5-1-home-variable.jpg" alt="gradle 3.5.1 home variable">
 
