@@ -65,7 +65,7 @@ Open the location of the downloaded package.
 
 <img src="{{ site.url }}/assets/images/posts/development/eclipse/eclipse-mars-downloaded-package.png" alt="eclipse mars downloaded package">
 
-Right-click the ZIP archive file. Select `Extract All...`.
+Right-click the ZIP archive file. Select `Extract All…`.
 
 <img src="{{ site.url }}/assets/images/posts/development/eclipse/eclipse-mars-downloaded-package-extract-all.png" alt="eclipse mars downloaded package extract all">
 
