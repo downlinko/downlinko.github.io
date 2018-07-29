@@ -77,10 +77,6 @@ Click `Next`.
 
 <img src="{{ site.url }}/assets/images/posts/internet/firefox/firefox-56-setup-wizard-select-type.png" alt="firefox 56 setup wizard select type">
 
-Click `Next`.
-
-<img src="{{ site.url }}/assets/images/posts/internet/firefox/firefox-56-setup-wizard-summary.png" alt="firefox 56 setup wizard summary">
-
 Click `Install` to start the installation.
 
 <img src="{{ site.url }}/assets/images/posts/internet/firefox/firefox-56-setup-wizard-summary.png" alt="firefox 56 setup wizard summary">
