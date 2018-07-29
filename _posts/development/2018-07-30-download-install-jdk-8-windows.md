@@ -1,6 +1,6 @@
 ---
 title: "Download and Install JDK 1.8 on Windows"
-permalink: /download-install-jdk-10-windows.html
+permalink: /download-install-jdk-8-windows.html
 excerpt: "A detailed step-by-step tutorial on how to download and install JDK 8u181 on Windows 10."
 date: 2018-07-30
 last_modified_at: 2018-07-30
@@ -11,7 +11,7 @@ tags: [Download, Install, JDK, JDK 1.8, Setup, Tutorial, Windows]
 published: false
 ---
 
-<img src="{{ site.url }}/assets/images/posts/development/jdk/download-install-jdk-10-windows.png" alt="download install jdk 10 windows" class="align-right title-image">
+<img src="{{ site.url }}/assets/images/posts/development/jdk/download-install-jdk-8-windows.png" alt="download install jdk 8 windows" class="align-right title-image">
 
 In this guide I’m going to show you exactly how to download and install JDK 1.8 on Windows.
 
@@ -41,9 +41,11 @@ Click on the `Download` button right below `JDK`.
 
 Click on the radio button next to `Accept License Agreement`.
 
-Click on the Windows download link: `jdk-10.0.2_windows-x64_bin.exe`.
+Click on the download link for your Windows version.
 
-<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-10-download-java-se-windows-binary.png" alt="jdk 10 download java se windows binary">
+In this guide we will download the 64-bit installer: `jdk-8u181-windows-x64.exe`.
+
+<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-8-download-java-se-windows-binary.png" alt="jdk 8 download java se windows binary">
 
 Wait for the download to complete.
 
@@ -51,13 +53,13 @@ Wait for the download to complete.
 
 Open the location of the downloaded executable.
 
-<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-10-downloaded-installer.png" alt="jdk 10 downloaded installer">
+<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-8-downloaded-installer.png" alt="jdk 8 downloaded installer">
 
 Double-click it to run the installer.
 
 Click `Next`.
 
-<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-10-installer-start.png" alt="jdk 10 installer start">
+<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-8-installer-start.png" alt="jdk 8 installer start">
 
 You can change the installation location by clicking on the `Change…` button.
 
