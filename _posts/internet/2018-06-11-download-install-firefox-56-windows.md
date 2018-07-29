@@ -15,7 +15,7 @@ published: true
 
 <img src="{{ site.url }}/assets/images/posts/internet/firefox/download-install-firefox-56-windows.png" alt="download install firefox 56 windows" class="align-right title-image">
 
-Want to download and install [Mozilla Firefox](https://gradle.org/){:target="_blank"} 56 on Windows?
+Want to download and install [Mozilla Firefox](https://www.mozilla.org){:target="_blank"} 56 on Windows?
 
 Then you’re in the right place.
 
@@ -27,15 +27,17 @@ Let’s start!
 
 Head over to the [Firefox releases page](https://ftp.mozilla.org/pub/firefox/releases/){:target="_blank"}.
 
-<img src="{{ site.url }}/assets/images/posts/internet/firefox/firefox-releases.png" alt="firefox releases">
+<img src="{{ site.url }}/assets/images/posts/internet/firefox/firefox-releases-page.png" alt="firefox releases page">
 
 Scroll down to `Dir 56.0` and click on the link.
 
-<img src="{{ site.url }}/assets/images/posts/internet/firefox/firefox-56-version.png" alt="firefox 56 version">
+<img src="{{ site.url }}/assets/images/posts/internet/firefox/firefox-56-releases-page-version.png" alt="firefox 56 releases page version">
 
-Click on your Windows version. If you don't know your Windows version select `win32`.
+Click on your Windows version. In this guide we select `win64`.
 
-<img src="{{ site.url }}/assets/images/posts/internet/firefox/firefox-56-windows-version.png" alt="firefox 56 windows version">
+> If you don't know your Windows version select `win32`.
+
+<img src="{{ site.url }}/assets/images/posts/internet/firefox/firefox-56-releases-page-windows-version.png" alt="firefox 56 releases page windows version">
 
 Select the interface language you want. In this example, we select English as used in the United States: `en-US`.
 
