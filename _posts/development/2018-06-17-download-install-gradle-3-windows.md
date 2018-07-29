@@ -79,7 +79,7 @@ Click on `Extract`. This extracts all Gradle files under `C:\Users\Downlinko\too
 
 > From now on we refer to this location as `[GRADLE_INSTALL_DIR]`.
 
-<img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-3-5-1-install-dir.jpg" alt="gradle 3-5-1 install dir">
+<img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-3-5-1-install-dir.png" alt="gradle 3-5-1 install dir">
 
 ## Step #4: Setup
 
@@ -105,7 +105,7 @@ In this tutorial the installation directory is: `C:\Users\Downlinko\tools\gradle
 
 Click `OK`.
 
-<img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-3-5-1-home-variable.jpg" alt="gradle 3.5.1 home variable">
+<img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-3-5-1-home-variable.png" alt="gradle 3.5.1 home variable">
 
 Select the `PATH` variable. Click on `Edit...`.
 
