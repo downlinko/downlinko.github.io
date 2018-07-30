@@ -63,7 +63,7 @@ Click `Next`.
 
 You can change the installation location by clicking on the `Change…` button.
 
-In this example, we keep the default install location of `C:\Program Files\Java\jdk-10.0.2\`. From now on we will refer to this directory as `[JAVA_INSTALL_DIR]`.
+In this example, we keep the default install location of `C:\Program Files\Java\jdk1.8.0_181`. From now on we will refer to this directory as `[JAVA_INSTALL_DIR]`.
 
 <img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-8-installer-default-location.png" alt="jdk 8 installer default location">
 
