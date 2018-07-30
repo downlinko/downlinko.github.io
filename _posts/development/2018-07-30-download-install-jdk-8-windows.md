@@ -8,7 +8,7 @@ header:
   teaser: "assets/images/posts/development/jdk/download-install-jdk-8-windows.png"
 categories: [Development]
 tags: [Download, Install, JDK, JDK 1.8, Setup, Tutorial, Windows]
-published: false
+published: true
 ---
 
 <img src="{{ site.url }}/assets/images/posts/development/jdk/download-install-jdk-8-windows.png" alt="download install jdk 8 windows" class="align-right title-image">
