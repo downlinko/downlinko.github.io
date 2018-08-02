@@ -63,7 +63,7 @@ $link-color-visited: $orange !default;
 
 /* Welcome */
 .page__hero--overlay .page__title {
-  text-shadow: none;
+  text-shadow: none !important;
 }
 
 /* Post */
