@@ -11,7 +11,7 @@ tags: [Download, Install, Python, Setup, Tutorial, Windows]
 published: false
 ---
 
-<img src="{{ site.url }}/assets/images/posts/development/maven/download-install-maven-3-2-2-windows.png" alt="download install maven 3-2-2 windows" class="align-right title-image">
+<img src="{{ site.url }}/assets/images/posts/development/python/download-install-python-2-7-windows.png" alt="download install python 2-7 windows" class="align-right title-image">
 
 Do you want to download and install [Apache Maven](https://maven.apache.org/){:target="_blank"} 3.2.2 on Windows?
 
