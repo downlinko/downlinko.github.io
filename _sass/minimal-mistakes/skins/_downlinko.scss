@@ -61,6 +61,11 @@ $link-color-visited: $orange !default;
   border-bottom-color: $divider-grey;
 }
 
+/* Welcome */
+.page__hero--overlay .page__title {
+  text-shadow: none;
+}
+
 /* Post */
 .page__title {
   color: #222222;
