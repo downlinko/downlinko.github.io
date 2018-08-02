@@ -62,7 +62,7 @@ $link-color-visited: $orange !default;
 }
 
 /* Welcome */
-.page__hero--overlay .page__title {
+.page__hero--overlay .page__title, .page__hero--overlay .page__lead, .page__hero--overlay .btn {
   text-shadow: none !important;
 }
 
