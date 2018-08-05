@@ -1,9 +1,9 @@
 ---
 title: "Download and Install Python 2.7 on Windows"
 permalink: /download-install-python-2-7-windows.html
-excerpt: "A detailed step-by-step tutorial on how to download and install Python 2.7 on Windows 10."
-date: 2018-08-02
-last_modified_at: 2018-08-02
+excerpt: "A detailed step-by-step tutorial on how to download and install Python 2.7.15 on Windows 10."
+date: 2018-08-05
+last_modified_at: 2018-08-05
 header:
   teaser: "assets/images/posts/development/maven/download-install-python-2-7-windows.png"
 categories: [Development]
@@ -13,63 +13,37 @@ published: false
 
 <img src="{{ site.url }}/assets/images/posts/development/python/download-install-python-2-7-windows.png" alt="download install python 2-7 windows" class="align-right title-image">
 
-Do you want to download and install [Apache Maven](https://maven.apache.org/){:target="_blank"} 3.2.2 on Windows?
+This is a complete guide to download and install [Python](https://www.python.org){:target="_blank"} 2.7 on Windows.
 
-Then check this out:
+So if you want to know how to setup Python, you’ll love the step-by-step approach in this tutorial.
 
-In this tutorial, I'll show where to download Maven.
+We’ve got a number of steps to cover, so let’s get started.
 
-How to configure it.
+## Step #1: Download
 
-(And above all) **how to check if everything is working**.
+Head over to the [Python downloads page](https://www.python.org/downloads/){:target="_blank"}.
 
-So here we go.
+<img src="{{ site.url }}/assets/images/posts/development/python/python-download-page.png" alt="python-download-page">
 
-## Step #1: Check Prerequisites
+Scroll down to the `Looking for a specific release?` section.
 
-Maven requires [Java](http://www.oracle.com/technetwork/java/javase/downloads/index.html){:target="_blank"} to work. So let's check if you have Java configured on your system.
+Look for the latest Python 2.7 entry in the list. At the time of writing this was Python `2.7.15`.
 
-Click on the search button. Then type "<kbd>cmd</kbd>" (without quotes).
+Click on `Download`.
 
-> On Windows 7 click on the Windows button.
+<img src="{{ site.url }}/assets/images/posts/development/python/python-2-7-15-specific-release-section.png" alt="python 2-7-15 specific release section">
 
-Click on the `Command Prompt` shortcut.
+Check your windows bit version and click on the corresponding link.
 
-<img src="{{ site.url }}/assets/images/posts/development/windows-search-cmd.png" alt="windows search cmd">
+In this guide we will install the 64-bit version. So we click on the link that contains `x86-64`: `Windows x86-64 MSI installer`.
 
-Wait for the command prompt to open.
-
-Type "<kbd>java -version</kbd>" and press `ENTER`.
-
-<img src="{{ site.url }}/assets/images/posts/development/java-version-command.png" alt="java version command">
-
-The above command prints the installed Java version.
-
-<img src="{{ site.url }}/assets/images/posts/development/java-installed-version.png" alt="java installed version">
-
-> For Maven 3 you need Java version 1.7 or higher.
-
-## Step #2: Download
-
-Go to the [Maven 3 archives page](https://archive.apache.org/dist/maven/maven-3/){:target="_blank"}.
-
-Click on the `3.2.2/` folder.
-
-<img src="{{ site.url }}/assets/images/posts/development/maven/maven-3-2-2-download-archive.png" alt="maven 3-2-2 download archive">
-
-Click on `binaries`.
-
-<img src="{{ site.url }}/assets/images/posts/development/maven/maven-3-2-2-distribution.png" alt="maven 3-2-2 distribution">
-
-Click on the `apache-maven-3.2.2-bin.zip` link.
-
-<img src="{{ site.url }}/assets/images/posts/development/maven/maven-3-2-2-binaries.png" alt="maven 3-2-2 binaries">
+<img src="{{ site.url }}/assets/images/posts/development/python/python-2-7-15-windows-installer.png" alt="python 2-7-15 windows installer">
 
 Wait for the download to complete.
 
-> Do you want to skip above steps? Here is the direct link to download the [Maven 3.2.2 installer](https://archive.apache.org/dist/maven/maven-3/3.2.2/binaries/apache-maven-3.2.2-bin.zip){:target="_blank"} for Windows.
+> Do you want to skip above steps? Here is the direct link to download the [32 bit](https://www.python.org/ftp/python/2.7.15/python-2.7.15.msi){:target="_blank"} or [64 bit](https://www.python.org/ftp/python/2.7.15/python-2.7.15.amd64.msi){:target="_blank"} Python 2.7.15 installer for Windows.
 
-## Step #3: Install
+## Step #2: Install
 
 Open the location of the downloaded installer.
 
