@@ -36,8 +36,8 @@ Click on `Download`.
 <img src="{{ site.url }}/assets/images/posts/development/python/python-2-7-15-specific-release-section.png" alt="python 2-7-15 specific release section">
 
 Check your windows bit version and click on the corresponding link:
-* 32-bit = Windows x86-64 MSI installer
-* 64 bit = Windows x86 MSI installer
+* 32-bit = Windows <kbd>x86</kbd> MSI installer
+* 64 bit = Windows <kbd>x86-64</kbd> MSI installer
 
 In this guide, we will install the 64-bit version. So we click on `Windows x86-64 MSI installer`.
 
