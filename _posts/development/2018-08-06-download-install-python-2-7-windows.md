@@ -15,9 +15,11 @@ published: true
 
 This is a complete guide to download and install [Python](https://www.python.org){:target="_blank"} 2.7 on Windows.
 
-So if you want to know how to setup Python, you’ll love the step-by-step approach in this tutorial.
+So if you **want to know how to set up Python**, you’ll love the step-by-step approach in this tutorial.
 
-We’ve got a number of steps to cover, so let’s get started.
+We’ve got many steps to cover.
+
+Let’s get started.
 
 ## Step #1: Download
 
@@ -27,7 +29,7 @@ Head over to the [Python downloads page](https://www.python.org/downloads/){:tar
 
 Scroll down to the `Looking for a specific release?` section.
 
-Look for the latest `Python 2.7.X` entry in the list. At the time of writing this was Python `2.7.15`.
+Look for the latest `Python 2.7.X` entry in the list. At the time of writing, this was Python `2.7.15`.
 
 Click on `Download`.
 
@@ -35,13 +37,13 @@ Click on `Download`.
 
 Check your windows bit version and click on the corresponding link.
 
-In this guide we will install the 64-bit version. So we click on the link that contains `x86-64`: `Windows x86-64 MSI installer`.
+In this guide, we will install the 64-bit version. So we click on the link that contains `x86-64`: `Windows x86-64 MSI installer`.
 
 <img src="{{ site.url }}/assets/images/posts/development/python/python-2-7-15-windows-installer.png" alt="python 2-7-15 windows installer">
 
 Wait for the download to complete.
 
-> Do you want to skip above steps? Here is the direct link to download the [32 bit](https://www.python.org/ftp/python/2.7.15/python-2.7.15.msi){:target="_blank"} or [64 bit](https://www.python.org/ftp/python/2.7.15/python-2.7.15.amd64.msi){:target="_blank"} Python 2.7.15 installer for Windows.
+> Do you want to skip the above steps? Here is the direct link to download the [32 bit](https://www.python.org/ftp/python/2.7.15/python-2.7.15.msi){:target="_blank"} or [64 bit](https://www.python.org/ftp/python/2.7.15/python-2.7.15.amd64.msi){:target="_blank"} Python 2.7.15 installer for Windows.
 
 ## Step #2: Install
 
@@ -107,7 +109,7 @@ Click on `New…`.
 
 Enter "<kbd>PYTHONPATH</kbd>" as variable name. Enter the `[PYTHON_INSTALL_DIR]` as variable value.
 
-In this tutorial the installation directory is: `C:\Python27`.
+In this tutorial, the installation directory is `C:\Python27`.
 
 Click `OK`.
 
