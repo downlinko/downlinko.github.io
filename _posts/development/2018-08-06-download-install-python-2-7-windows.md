@@ -17,7 +17,7 @@ This is a complete guide to download and install [Python](https://www.python.org
 
 So if you **want to know how to set up Python**, you’ll love the step-by-step approach in this tutorial.
 
-We’ve got many steps to cover.
+We’ve got a couple of items to cover.
 
 Let’s get started.
 
@@ -37,7 +37,7 @@ Click on `Download`.
 
 Check your windows bit version and click on the corresponding link.
 
-In this guide, we will install the 64-bit version. So we click on the link that contains `x86-64`: `Windows x86-64 MSI installer`.
+In this guide, we will install the 64-bit version. So we click on the link that contains "<kbd>x86-64</kbd>": `Windows x86-64 MSI installer`.
 
 <img src="{{ site.url }}/assets/images/posts/development/python/python-2-7-15-windows-installer.png" alt="python 2-7-15 windows installer">
 
