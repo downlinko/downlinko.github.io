@@ -51,9 +51,9 @@ Wait for the download to complete.
 
 Open the location of the downloaded installer.
 
-<img src="{{ site.url }}/assets/images/posts/development/python/python-2-7-15-downloaded-installer.png" alt="python 2-7-15 downloaded installer">
-
 Double-click the installer to start the installation.
+
+<img src="{{ site.url }}/assets/images/posts/development/python/python-2-7-15-downloaded-installer.png" alt="python 2-7-15 downloaded installer">
 
 On Windows 10 a pop-up window will appear: `The app you're trying to install isn't a verified app from the Store`
 
@@ -149,12 +149,12 @@ Type "<kbd>python -V</kbd>" and press `ENTER`.
 
 <img src="{{ site.url }}/assets/images/posts/development/python/python-version-command.png" alt="python version command">
 
-The above command prints the installed Maven version: 3.2.2.
+The above command prints the installed Python version: 2.7.15.
 
 <img src="{{ site.url }}/assets/images/posts/development/python/python-2-7-15-version-output.png" alt="python 2-7-15 version output">
 
 **Congratulations, you have installed Python 2.7.15 on Windows 10!**
 
-Good luck and let me know if you liked this post.
+Good luck and leave a comment if you liked this post.
 
 Thanks!
