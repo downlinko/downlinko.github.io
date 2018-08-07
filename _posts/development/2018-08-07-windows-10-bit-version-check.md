@@ -6,8 +6,8 @@ date: 2018-08-07
 last_modified_at: 2018-08-07
 header:
   teaser: "assets/images/posts/other/windows-10-bit-version-check.png"
-categories: [Development]
-tags: [Bit Version, Tutorial, Windows]
+categories: [Other]
+tags: [Bit, Tutorial, Windows]
 published: true
 ---
 
