@@ -5,7 +5,7 @@ excerpt: "A detailed step-by-step tutorial on how to download and install Python
 date: 2018-08-06
 last_modified_at: 2018-08-06
 header:
-  teaser: "assets/images/posts/development/maven/download-install-python-2-7-windows.png"
+  teaser: "assets/images/posts/development/python/download-install-python-2-7-windows.png"
 categories: [Development]
 tags: [Download, Install, Python, Setup, Tutorial, Windows]
 published: true
@@ -36,8 +36,8 @@ Click on `Download`.
 <img src="{{ site.url }}/assets/images/posts/development/python/python-2-7-15-specific-release-section.png" alt="python 2-7-15 specific release section">
 
 Check your windows bit version and click on the corresponding link:
-* 32-bit = Windows <kbd>x86</kbd> MSI installer
-* 64-bit = Windows <kbd>x86-64</kbd> MSI installer
+* For 32-bit = Windows <kbd>x86</kbd> MSI installer
+* For 64-bit = Windows <kbd>x86-64</kbd> MSI installer
 
 In this guide, we will install the 64-bit version. So we click on `Windows x86-64 MSI installer`.
 
