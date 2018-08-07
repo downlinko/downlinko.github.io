@@ -38,13 +38,15 @@ As a general rule: [a 64-bit application might be faster](https://superuser.com/
 What this means is that **when you install software on your system**:
 
 * Always download 32-bit software when you have a 32-bit Windows
-* If available download 64-bit software when you have a 64-bit Windows. Otherwise, use the 32-bit version.
+* If available, download 64-bit software when you have a 64-bit Windows. Otherwise, use the 32-bit version.
 
-## Step #2: What Version of Windows Do I Have?
+## Step #2: What Bit Version of Windows Do I Have?
 
-Click on the Search button. Then type "<kbd>about</kbd>" in the search box and press `ENTER`.
+Click on the Search button. Then type "<kbd>about</kbd>" in the search box.
 
-Click on the `About your PC`.
+Click on the `About your PC` shortcut.
+
+The `System` window will open.
 
 <img src="{{ site.url }}/assets/images/posts/other/windows-10-about-command.png" alt="windows 10 about command">
 
