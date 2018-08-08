@@ -129,7 +129,7 @@ Click `OK` once more to close the environment variables window.
 
 Let's test the setup.
 
-Click on the search button. Then type "<kbd>env</kbd>" (without quotes).
+Click on the search button. Then type "<kbd>cmd</kbd>" (without quotes).
 
 Click on the `Command Prompt` shortcut.
 

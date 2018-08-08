@@ -129,7 +129,7 @@ Click `OK` to close the environment variables window.
 
 To test the setup click on the Windows button. Type "<kbd>cmd</kbd>" in the search box and press `ENTER`.
 
-Click on the `cmd` shortcut. Wait for the command prompt to open.
+Click on the `Command Prompt` shortcut. Wait for the command prompt to open.
 
 <img src="{{ site.url }}/assets/images/posts/development/windows-7-search-cmd.png" alt="windows 7 search cmd">
 
