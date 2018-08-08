@@ -17,7 +17,7 @@ Do you want to learn how to check your [Windows](https://www.microsoft.com/en-us
 
 In this guide, I'll show you how you can do this.
 
-The best part?
+And the best part?
 
 It's really easy to do.
 
@@ -52,7 +52,7 @@ The `System` window will open.
 
 Now look under `System type` to see if you're running a 32-bit or 64-bit version of Windows.
 
-In below example, we see we are running a 64-bit version.
+In below example, we can see we are running a 64-bit version.
 
 <img src="{{ site.url }}/assets/images/posts/other/windows-10-bit-version.png" alt="python version command">
 
