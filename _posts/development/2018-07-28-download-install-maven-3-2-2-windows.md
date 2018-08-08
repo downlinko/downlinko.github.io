@@ -139,9 +139,9 @@ Click `OK` once more to close the environment variables window.
 
 ## Step #5: Test
 
-To test the setup click on the search button. Then type "<kbd>env</kbd>".
+To test the setup click on the search button. Then type "<kbd>cmd</kbd>".
 
-Click on the `cmd` shortcut.
+Click on the `Command Prompt` shortcut.
 
 <img src="{{ site.url }}/assets/images/posts/development/windows-search-cmd.png" alt="windows search cmd">
 
