@@ -73,7 +73,7 @@ Click on the `apache-maven-3.2.5-bin.zip` link.
 
 Wait for the download to complete.
 
-> Do you want to skip above steps? Here is the direct link to download the [Maven 3.2.5 installer](https://archive.apache.org/dist/maven/maven-3/3.2.5/binaries/apache-maven-3.2.5-bin.zip){:target="_blank"} for Windows.
+> Do you want to skip the above steps? Here is the direct link to download the [Maven 3.2.5 installer](https://archive.apache.org/dist/maven/maven-3/3.2.5/binaries/apache-maven-3.2.5-bin.zip){:target="_blank"} for Windows.
 
 ## Step #3: Install
 
