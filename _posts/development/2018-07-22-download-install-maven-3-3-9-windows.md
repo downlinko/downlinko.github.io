@@ -27,7 +27,7 @@ How to configure it.
 
 So here we go.
 
-Check following posts if you are looking to download and install [Maven 3.2.5]({{ site.url }}/download-install-apache-maven-3-2-5-windows.html), [JDK 1.7]({{ site.url }}/java-download-install-jdk-7-windows.html), [JDK 1.8]({{ site.url }}/java-download-install-jdk-8-windows.html), [JDK 1.9]({{ site.url }}/java-download-install-jdk-9-windows.html) or [JDK 1.10]({{ site.url }}/java-download-install-jdk-10-windows.html).
+Check following posts if you are looking to download and install [Maven 3.2.2]({{ site.url }}/download-install-apache-maven-3-2-2-windows.html) or [Maven 3.2.5]({{ site.url }}/download-install-apache-maven-3-2-5-windows.html).
 {: .notice--primary}
 
 ## Step #1: Check Prerequisites
