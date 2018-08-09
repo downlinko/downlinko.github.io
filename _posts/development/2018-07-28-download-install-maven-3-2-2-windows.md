@@ -27,6 +27,9 @@ How to configure it.
 
 So here we go.
 
+Check following posts if you are looking to download and install [Maven 3.2.5]({{ site.url }}/download-install-apache-maven-3-2-5-windows.html) or [Maven 3.3.9]({{ site.url }}/download-install-apache-maven-3-3-9-windows.html).
+{: .notice--primary}
+
 ## Step #1: Check Prerequisites
 
 Maven requires [Java](http://www.oracle.com/technetwork/java/javase/downloads/index.html){:target="_blank"} to work. So let's check if you have Java configured on your system.
