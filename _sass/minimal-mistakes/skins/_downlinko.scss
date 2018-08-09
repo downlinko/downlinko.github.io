@@ -94,6 +94,18 @@ kbd {
   color: $dark-green;
 }
 
+.page__content {
+  .notice--primary {
+    color: #fff;
+    background-color: $green;
+    font-size: 1em !important;
+  }
+  .notice--primary a:link, .notice--primary a:visited, .notice--primary a:hover, .notice--primary a:active {
+    color: #fff;
+    text-decoration: underline
+  }
+}
+
 /* Archives */
 .archive__subtitle{
   color: $text-grey;
