@@ -52,6 +52,9 @@ The above command prints the installed Java version.
 
 > For Maven 3 you need Java version 1.7 or higher.
 
+If you do not have Java installed on your system. Check following post which details [how to install Java on Windows 10]({{ site.url }}/download-install-jdk-8-windows.html).
+
+
 ## Step #2: Download
 
 Go to the [Maven 3 archives page](https://archive.apache.org/dist/maven/maven-3/){:target="_blank"}.
