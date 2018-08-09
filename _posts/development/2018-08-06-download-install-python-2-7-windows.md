@@ -97,7 +97,7 @@ We need to set up an environment variable that will point to our Python installa
 
 Click on the search button. Then type "<kbd>env</kbd>".
 
-> On Windows 7 click on the Windows button.
+> If you have Windows 7 click on the Windows button.
 
 Click on the `Edit environment variables for your account` shortcut.
 
