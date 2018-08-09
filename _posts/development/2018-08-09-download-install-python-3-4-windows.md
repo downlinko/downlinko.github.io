@@ -38,6 +38,8 @@ Click on `Download`.
 
 <img src="{{ site.url }}/assets/images/posts/development/python/python-3-4-4-specific-release-section.png" alt="python 3-4-4 specific release section">
 
+Scroll down until the `Files` section.
+
 [Check your windows bit version]({{ site.url }}/windows-10-bit-version-check.html) and click on the corresponding link:
 * For 32-bit = Windows <kbd>x86</kbd> MSI installer
 * For 64-bit = Windows <kbd>x86-64</kbd> MSI installer

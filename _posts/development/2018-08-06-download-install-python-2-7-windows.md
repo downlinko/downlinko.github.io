@@ -21,6 +21,9 @@ We’ve got a couple of items to cover.
 
 Let’s get started.
 
+Check following post if you are looking to download and install [Python 3.4]({{ site.url }}/download-install-python-3-4-windows.html).
+{: .notice--primary}
+
 ## Step #1: Download
 
 Head over to the [Python downloads page](https://www.python.org/downloads/){:target="_blank"}.
@@ -34,6 +37,8 @@ Look for the latest `Python 2.7.X` entry in the list. At the time of writing, th
 Click on `Download`.
 
 <img src="{{ site.url }}/assets/images/posts/development/python/python-2-7-15-specific-release-section.png" alt="python 2-7-15 specific release section">
+
+Scroll down until the `Files` section.
 
 [Check your windows bit version]({{ site.url }}/windows-10-bit-version-check.html) and click on the corresponding link:
 * For 32-bit = Windows <kbd>x86</kbd> MSI installer
