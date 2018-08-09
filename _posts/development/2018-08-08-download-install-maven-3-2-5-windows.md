@@ -34,7 +34,7 @@ Maven requires [Java](http://www.oracle.com/technetwork/java/javase/downloads/in
 
 Click on the search button. Then type "<kbd>cmd</kbd>" (without quotes).
 
-> On Windows 7 click on the Windows button.
+> If you have Windows 7 click on the Windows button.
 
 Click on the `Command Prompt` shortcut.
 
@@ -103,7 +103,7 @@ We need to set up an environment variable that will point to our Maven installat
 
 Click on the search button. Then type "<kbd>env</kbd>".
 
-> On Windows 7 click on the Windows button.
+> If you have Windows 7 click on the Windows button.
 
 Click on the `Edit environment variables for your account` shortcut.
 

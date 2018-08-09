@@ -46,9 +46,9 @@ Click on the Search button. Then type "<kbd>about</kbd>" in the search box.
 
 Click on the `About your PC` shortcut.
 
-The `System` window will open.
-
 <img src="{{ site.url }}/assets/images/posts/other/windows-10-about-command.png" alt="windows 10 about command">
+
+The `System` window will open.
 
 Now look under `System type` to see if you're running a 32-bit or 64-bit version of Windows.
 
