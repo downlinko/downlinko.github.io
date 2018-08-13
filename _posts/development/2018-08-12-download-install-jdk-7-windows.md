@@ -21,7 +21,7 @@ First, I’ll show you where you can download JDK 7.
 
 Then you’ll see how to configure it.
 
-And finally **how to check if everything is working**.
+And finally **how to verify if everything is working**.
 
 Let’s dive right in…
 
@@ -44,7 +44,7 @@ Click on the `Download` button.
 
 Click on the `Java SE 7` link under the `Java SE` section.
 
-<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-java-archive-se-7.png" alt="jdk java archive se 7">
+<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-7-download-java-se.png" alt="jdk 7 download java se">
 
 Click on the radio button next to `Accept License Agreement`.
 
