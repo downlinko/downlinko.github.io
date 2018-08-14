@@ -7,7 +7,7 @@ last_modified_at: 2018-07-30
 header:
   teaser: "assets/images/posts/development/jdk/download-install-jdk-8-windows.png"
 categories: [Development]
-tags: [Download, Install, JDK, JDK 1.8, Setup, Tutorial, Windows]
+tags: [Download, Install, JDK, Setup, Tutorial, Windows]
 published: true
 ---
 
@@ -21,9 +21,12 @@ First, I’ll show you where you can download JDK 8.
 
 Then you’ll see how to configure it.
 
-And finally **how to check if everything is working**.
+And finally **how to verify if everything is working**.
 
 Let’s dive right in…
+
+Check following post if you are looking to download and install [JDK 1.7]({{ site.url }}/download-install-jdk-7-windows.html) or [JDK 1.10]({{ site.url }}/download-install-jdk-10-windows.html).
+{: .notice--primary}
 
 ## Step #1: Download
 
@@ -41,7 +44,9 @@ Click on the `Download` button right below `JDK`.
 
 Click on the radio button next to `Accept License Agreement`.
 
-Click on the download link for your Windows version.
+[Verify your windows bit version]({{ site.url }}/windows-10-bit-version-check.html) and click on the corresponding link:
+* For 32-bit = Windows <kbd>x86</kbd> installer
+* For 64-bit = Windows <kbd>x64</kbd> installer
 
 In this guide we will download the 64-bit installer: `jdk-8u181-windows-x64.exe`.
 

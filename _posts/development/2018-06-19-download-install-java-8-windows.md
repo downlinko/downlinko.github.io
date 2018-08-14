@@ -4,6 +4,8 @@ permalink: /download-install-java-8-windows.html
 excerpt: "A detailed step-by-step tutorial on how to download and install Java 8 on Windows."
 date: 2018-06-19
 last_modified_at: 2018-06-19
+header:
+  teaser: "assets/images/posts/development/java/download-install-java-8-windows.png"
 categories: [Development]
 tags: [Download, Install, Java, Setup, Tutorial, Windows]
 published: true

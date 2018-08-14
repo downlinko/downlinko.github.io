@@ -7,7 +7,7 @@ last_modified_at: 2018-07-24
 header:
   teaser: "assets/images/posts/development/jdk/download-install-jdk-10-windows.png"
 categories: [Development]
-tags: [Download, Install, JDK, JDK 10, Setup, Tutorial, Windows]
+tags: [Download, Install, JDK, Setup, Tutorial, Windows]
 published: true
 ---
 
@@ -21,9 +21,12 @@ First, I’ll show you where you can download JDK 10.
 
 Then you’ll see how to configure it.
 
-And finally **how to check if everything is working**.
+And finally **how to verify if everything is working**.
 
 Let’s dive right in…
+
+Check following post if you are looking to download and install [JDK 1.7]({{ site.url }}/download-install-jdk-7-windows.html) or [JDK 1.8]({{ site.url }}/download-install-jdk-8-windows.html).
+{: .notice--primary}
 
 ## Step #1: Download
 
