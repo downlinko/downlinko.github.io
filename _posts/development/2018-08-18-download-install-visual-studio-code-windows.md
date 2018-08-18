@@ -84,34 +84,17 @@ Click `Install` to start the installation.
 
 <img src="{{ site.url }}/assets/images/posts/development/editors/visual-studio-code-installer-ready-to-install.png" alt="visual studio code installer ready to install">
 
+The Visual Studio Code installation will now start.
 
+A progress bar shows the various steps that are executed.
 
 <img src="{{ site.url }}/assets/images/posts/development/editors/visual-studio-code-installer-progress.png" alt="visual studio code installer progress">
 
+Once the installation is complete, click `Finish`.
 
+<img src="{{ site.url }}/assets/images/posts/development/editors/visual-studio-code-installer-finish.png" alt="visual studio code installer finish">
 
-
-You can change the installation location by clicking on the `Change…` button.
-
-In this example, we keep the default install location of `C:\Program Files\Java\jdk1.8.0_181`. From now on we will refer to this directory as `[JAVA_INSTALL_DIR]`.
-
-<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-8-installer-default-location.png" alt="jdk 8 installer default location">
-
-We will not install the public JRE as the JDK development tools already include a private JRE.
-
-Select the `Public JRE` dropdown and click on `This feature will not be available.` as shown below.
-
-<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-8-installer-disable-public-jre.png" alt="jdk 8 installer disable public jre">
-
-Click `Next` to start the installation.
-
-<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-8-installer-custom-setup.png" alt="jdk 8 installer custom setup">
-
-Once the installation is complete, click `Close`.
-
-<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-8-installer-complete.png" alt="jdk 8 installer complete">
-
-## Step #3: Setup
+## Step #3: Run
 
 We need to set up an environment variable that will point to our JDK installation.
 
