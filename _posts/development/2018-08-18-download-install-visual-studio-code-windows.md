@@ -26,9 +26,9 @@ Let’s jump right in…
 Head over to the [Visual Studio Code downloads page](https://code.visualstudio.com/#alt-downloads){:target="_blank"}.
 
 There are three Windows installer versions available:
-1. **User installer**: Installs in your User folder and does not need Administrator privileges.
-2. **System installer**: Installs for all users on the system and needs Administrator privileges.
-3. **.zip installer**: a portable version.
+* **User installer**: Installs in your User folder and does not need Administrator privileges.
+* **System installer**: Installs for all users on the system and needs Administrator privileges.
+* **.zip installer**: a portable version.
 
 > Note that [the User setup is recommended since version 1.26](https://code.visualstudio.com/updates/v1_26#_user-setup-for-windows){:target="_blank"}.
 
@@ -94,14 +94,30 @@ Once the installation is complete, click `Finish`.
 
 <img src="{{ site.url }}/assets/images/posts/development/editors/visual-studio-code-installer-finish.png" alt="visual studio code installer finish">
 
+Visual Studio Code will now launch.
+
 ## Step #3: Run
 
+To start Visual Studio Code double-click on the desktop shortcut.
 
+<img src="{{ site.url }}/assets/images/posts/development/editors/visual-studio-code-desktop-shortcut.png" alt="visual studio code desktop shortcut">
+
+visual-studio-code-desktop-shortcut
+
+<img src="{{ site.url }}/assets/images/posts/development/editors/visual-studio-code-desktop-shortcut.png" alt="visual studio code desktop shortcut">
+
+The `Welcome` editor should now open as shown below.
+
+<img src="{{ site.url }}/assets/images/posts/development/editors/visual-studio-code-welcome.png" alt="visual studio code welcome">
+
+To install additional extension from the marketplace click on the bottom icon on the left hand side.
+
+<img src="{{ site.url }}/assets/images/posts/development/editors/visual-studio-code-extensions.png" alt="visual studio code extensions">
 
 **Congratulations, you have installed Visual Studio Code on Windows 10!**
 
-Now let me know if you liked this post.
+Have fun coding
 
-Leave a comment below.
+If you liked this guide leave a short message below.
 
 Thanks!
