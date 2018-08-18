@@ -54,6 +54,8 @@ Click on `Install anyway`.
 
 <img src="{{ site.url }}/assets/images/posts/windows-10-install-app-not-in-store.png" alt="windows 10 install app not in store">
 
+The installer wizard will open.
+
 Click `Next`.
 
 <img src="{{ site.url }}/assets/images/posts/development/editors/visual-studio-code-installer-start.png" alt="visual studio code installer start">
