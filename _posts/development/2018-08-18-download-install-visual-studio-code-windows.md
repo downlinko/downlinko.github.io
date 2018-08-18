@@ -26,8 +26,8 @@ Let’s jump right in…
 Head over to the [Visual Studio Code downloads page](https://code.visualstudio.com/#alt-downloads){:target="_blank"}.
 
 There are three Windows installer versions available:
-* **User installer**: Installs in your User folder and does not need Administrator privileges.
-* **System installer**: Installs for all users on the system and needs Administrator privileges.
+* **User installer**: installs in your User folder and does not need Administrator privileges.
+* **System installer**: installs for all users on the system and needs Administrator privileges.
 * **.zip installer**: a portable version.
 
 > Note that [the User setup is recommended since version 1.26](https://code.visualstudio.com/updates/v1_26#_user-setup-for-windows){:target="_blank"}.
@@ -99,10 +99,6 @@ Visual Studio Code will now launch.
 ## Step #3: Run
 
 To start Visual Studio Code double-click on the desktop shortcut.
-
-<img src="{{ site.url }}/assets/images/posts/development/editors/visual-studio-code-desktop-shortcut.png" alt="visual studio code desktop shortcut">
-
-visual-studio-code-desktop-shortcut
 
 <img src="{{ site.url }}/assets/images/posts/development/editors/visual-studio-code-desktop-shortcut.png" alt="visual studio code desktop shortcut">
 
