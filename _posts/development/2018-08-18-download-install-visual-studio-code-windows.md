@@ -54,7 +54,7 @@ Click on `Install anyway`.
 
 <img src="{{ site.url }}/assets/images/posts/windows-10-install-app-not-in-store.png" alt="windows 10 install app not in store">
 
-The installer wizard will open.
+The installer setup wizard will open.
 
 Click `Next`.
 
