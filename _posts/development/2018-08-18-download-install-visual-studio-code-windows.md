@@ -48,6 +48,12 @@ Open the location of the downloaded executable.
 
 Double-click it to run the installer.
 
+On Windows 10 a pop-up window will appear: `The app you're trying to install isn't a verified app from the Store`
+
+Click on `Install anyway`.
+
+<img src="{{ site.url }}/assets/images/posts/windows-10-install-app-not-in-store.png" alt="windows 10 install app not in store">
+
 Click `Next`.
 
 <img src="{{ site.url }}/assets/images/posts/development/editors/visual-studio-code-installer-start.png" alt="visual studio code installer start">
@@ -112,7 +118,7 @@ To install extensions from the marketplace click on the bottom icon on the left-
 
 **Congratulations, you have installed Visual Studio Code on Windows 10!**
 
-Have fun coding
+Have fun coding.
 
 If you liked this guide leave a short message below.
 
