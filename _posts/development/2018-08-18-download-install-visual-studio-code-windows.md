@@ -34,7 +34,7 @@ There are three Windows installer versions available:
 
 [Check your windows bit version]({{ site.url }}/windows-10-bit-version-check.html) and click on the corresponding link.
 
-In this guide we will download the `64 bit User installer`.
+In this guide, we will download the `64 bit User installer`.
 
 <img src="{{ site.url }}/assets/images/posts/development/editors/visual-studio-code-download-user-installer.png" alt="visual studio code download user installer">
 
@@ -72,13 +72,13 @@ Click `Next`.
 
 <img src="{{ site.url }}/assets/images/posts/development/editors/visual-studio-code-installer-start-menu-folder.png" alt="visual studio code installer start menu folder">
 
-Select the `Create a desktop icon` checkbox.
+Select the `Create a desktop icon` check box.
 
 Click `Next`.
 
 <img src="{{ site.url }}/assets/images/posts/development/editors/visual-studio-code-installer-additional-tasks.png" alt="visual studio code installer additional tasks">
 
-An overview of the selected installation settings are shown.
+An overview of the selected installation settings is shown.
 
 Click `Install` to start the installation.
 
@@ -106,7 +106,7 @@ The `Welcome` editor should now open as shown below.
 
 <img src="{{ site.url }}/assets/images/posts/development/editors/visual-studio-code-welcome.png" alt="visual studio code welcome">
 
-To install additional extension from the marketplace click on the bottom icon on the left hand side.
+To install extensions from the marketplace click on the bottom icon on the left-hand side.
 
 <img src="{{ site.url }}/assets/images/posts/development/editors/visual-studio-code-extensions.png" alt="visual studio code extensions">
 
