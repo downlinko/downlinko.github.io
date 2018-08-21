@@ -88,7 +88,7 @@ Click `Next`.
 
 The Python installation will now start.
 
-During installation, a progress bar shows the various components it is installing.
+A progress bar shows the various steps that are executed.
 
 <img src="{{ site.url }}/assets/images/posts/development/python/python-3-4-4-installation-progress.png" alt="python 3-4-4 installation progress">
 
