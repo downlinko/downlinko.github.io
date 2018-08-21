@@ -27,7 +27,7 @@ Let’s go!
 
 Eclipse requires [Java](http://www.oracle.com/technetwork/java/javase/downloads/index.html){:target="_blank"} to run. Let's check if you have Java installed on your system.
 
-Click on the Windows button. Then type "<kbd>cmd</kbd>" in the search box and press `ENTER`.
+Click on the Windows button. Then type "<kbd>cmd</kbd>" in the search box.
 
 <img src="{{ site.url }}/assets/images/posts/development/windows-search-cmd.png" alt="windows search cmd">
 
@@ -81,7 +81,7 @@ In this example, we extract in `C:\Users\Downlinko\tools`.
 
 <img src="{{ site.url }}/assets/images/posts/development/eclipse/eclipse-photon-extract-destination.png" alt="eclipse photon extract destination">
 
-Click on `Extract`. This extracts all Eclipse Photon files under `C:\Users\Downlinko\tools\eclipse`.
+Click on `Extract`. This extracts all Eclipse Photon files under `C:\Users\Downlinko\tools\eclipse\photon`.
 
 > From now on we refer to this location as `[ECLIPSE_PHOTON_INSTALL_DIR]`.
 
@@ -111,11 +111,11 @@ Wait for Eclipse Photon to open.
 
 <img src="{{ site.url }}/assets/images/posts/development/eclipse/eclipse-photon-workspace.png" alt="eclipse photon workspace">
 
-To verify the installed version click on `Help` and then on `About Eclipse` as shown below.
+To verify the installed version click on `Help` and then on `About Eclipse IDE` as shown below.
 
 <img src="{{ site.url }}/assets/images/posts/development/eclipse/eclipse-photon-help-about-eclipse.png" alt="eclipse photon help about eclipse">
 
-This shows the Eclipse version: `photon.3 Release (4.6.3)`.
+This shows the Eclipse version: `Photon Release (4.8.0)`.
 
 <img src="{{ site.url }}/assets/images/posts/development/eclipse/eclipse-photon-version.png" alt="eclipse photon version">
 
