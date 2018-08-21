@@ -13,7 +13,7 @@ published: true
 
 <img src="{{ site.url }}/assets/images/posts/development/eclipse/download-install-eclipse-photon-windows.png" alt="download install eclipse photon windows" class="align-right title-image">
 
-Looking to download and install [Eclipse photon](https://www.eclipse.org/photon/){:target="_blank"} on Windows?
+Looking to download and install [Eclipse Photon](https://www.eclipse.org/photon/){:target="_blank"} on Windows?
 
 Good news!
 
@@ -22,6 +22,9 @@ I’m going to explain you **where you can find the package**.
 I'll also guide you through the different installation steps.
 
 Let’s go!
+
+Check following post if you are looking to download and install [Eclipse Mars]({{ site.url }}/download-install-eclipse-mars-windows.html) or [Eclipse Neon]({{ site.url }}/download-install-eclipse-neon-windows.html).
+{: .notice--primary}
 
 ## Step #1: Prerequisites
 
@@ -77,7 +80,7 @@ Right-click the ZIP archive file. Select `Extract All...`.
 
 Select an extract destination for the Eclipse Photon files.
 
-In this example, we extract in `C:\Users\Downlinko\tools`.
+In this example, we extract in `C:\Users\Downlinko\tools\eclipse\photon`.
 
 <img src="{{ site.url }}/assets/images/posts/development/eclipse/eclipse-photon-extract-destination.png" alt="eclipse photon extract destination">
 
