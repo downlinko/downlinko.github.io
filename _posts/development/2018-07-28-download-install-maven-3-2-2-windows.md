@@ -27,7 +27,7 @@ How to configure it.
 
 So here we go.
 
-Check following posts if you are looking to download and install [Maven 3.2.5]({{ site.url }}/download-install-apache-maven-3-2-5-windows.html) or [Maven 3.3.9]({{ site.url }}/download-install-apache-maven-3-3-9-windows.html).
+Check following posts if you are looking to download and install [Maven 3.2.5]({{ site.url }}/download-install-apache-maven-3-2-5-windows.html), [Maven 3.3.9]({{ site.url }}/download-install-apache-maven-3-3-9-windows.html) or [Maven 3.5.0]({{ site.url }}/download-install-apache-maven-3-5-0-windows.html).
 {: .notice--primary}
 
 ## Step #1: Check Prerequisites
@@ -54,7 +54,7 @@ The above command prints the installed Java version.
 
 > For Maven 3 you need Java version 1.7 or higher.
 
-If you do not have Java installed on your system. Check following post which details [how to install Java on Windows 10]({{ site.url }}/download-install-jdk-8-windows.html).
+If you do not have Java installed on your system. Check following post which details [how to install a JDK on Windows 10]({{ site.url }}/download-install-jdk-8-windows.html).
 
 ## Step #2: Download
 
