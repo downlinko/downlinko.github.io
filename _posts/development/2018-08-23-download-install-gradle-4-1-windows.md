@@ -1,7 +1,7 @@
 ---
 title: "Download and Install Gradle 4.1 on Windows"
 permalink: /download-install-gradle-4-1-windows.html
-excerpt: "A detailed step-by-step tutorial on how to download and install Gradle 4.1.1 on Windows 10."
+excerpt: "A detailed step-by-step tutorial on how to download and install Gradle 4.1 on Windows 10."
 date: 2018-08-23
 last_modified_at: 2018-08-23
 header:
@@ -45,41 +45,43 @@ The above command prints the installed Java version.
 
 > For Gradle 4.1 you need Java version 1.7 or higher.
 
+If you do not have Java installed on your system. Check following post which details [how to install a JDK on Windows 10]({{ site.url }}/download-install-jdk-8-windows.html).
+
 ## Step #2: Download
 
 Go to the [Gradle releases page](https://gradle.org/releases/){:target="_blank"}.
 
 <img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-releases-page.png" alt="gradle releases page">
 
-Scroll down to `v4.1.1` and click on the `binary-only` link.
+Scroll down to `v4.1` and click on the `binary-only` link.
 
-<img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-3-5-1-release.png" alt="gradle 4.1.1 release">
+<img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-4-1-release.png" alt="gradle 4-1 release">
 
 Wait for the download to complete.
 
-> Do you want to skip above steps? Here is the direct link to download the [Gradle 4.1.1 binary-only installer](https://gradle.org/next-steps/?version=4.1.1&format=bin){:target="_blank"} for Windows.
+> Do you want to skip above steps? Here is the direct link to download the [Gradle 4.1 binary-only installer](https://gradle.org/next-steps/?version=4.1&format=bin){:target="_blank"} for Windows.
 
 ## Step #3: Install
 
 Open the location of the downloaded installer.
 
-<img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-3-5-1-downloaded-installer.png" alt="gradle 4.1.1 downloaded installer">
+<img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-4-1-downloaded-installer.png" alt="gradle 4-1 downloaded installer">
 
 Right-click the ZIP archive file. Select `Extract All…`.
 
-<img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-3-5-1-downloaded-installer-extract-all.png" alt="gradle 4.1.1 downloaded installer extract all">
+<img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-4-1-downloaded-installer-extract-all.png" alt="gradle 4-1 downloaded installer extract all">
 
 Select an extract destination for the Gradle files.
 
-In this example, we extract in `C:\Users\Downlinko\tools`.
+In this example, we extract in `C:\Users\Downlinko\tools\gradle`.
 
-<img src="{{ site.url }}/assets/images/posts/development/tools-extract-destination.png" alt="tools-extract-destination">
+<img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-extract-destination.png" alt="tools-extract-destination">
 
-Click on `Extract`. This extracts all Gradle files under `C:\Users\Downlinko\tools\gradle-4.1.1`.
+Click on `Extract`. This extracts all Gradle files under `C:\Users\Downlinko\tools\gradle\gradle-4-1`.
 
 > From now on we refer to this location as `[GRADLE_INSTALL_DIR]`.
 
-<img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-3-5-1-install-dir.png" alt="gradle 3-5-1 install dir">
+<img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-4-1-install-dir.png" alt="gradle 4-1 install dir">
 
 ## Step #4: Setup
 
@@ -101,17 +103,17 @@ Click on `New…`.
 
 Enter "<kbd>GRADLE_HOME</kbd>" as variable name. Enter the `[GRADLE_INSTALL_DIR]` as variable value.
 
-In this tutorial the installation directory is: `C:\Users\Downlinko\tools\gradle-4.1.1`.
+In this tutorial the installation directory is: `C:\Users\Downlinko\tools\gradle\gradle-4.1`.
 
 Click `OK`.
 
-<img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-3-5-1-home-variable.png" alt="gradle 4.1.1 home variable">
+<img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-4-1-home-variable.png" alt="gradle 4-1 home variable">
 
 Next, we need to configure the PATH environment variable so we can run Maven from a command prompt.
 
 Select the `PATH` variable. Click on `Edit…`.
 
-<img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-3-5-1-edit-path-variable.png" alt="gradle 4.1.1 edit path variable">
+<img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-4-1-edit-path-variable.png" alt="gradle 4-1 edit path variable">
 
 Click on `New` and type "<kbd>%GRADLE_HOME%\bin</kbd>" as shown below.
 
@@ -121,7 +123,7 @@ Click `OK`.
 
 Click `OK` once more to close the environment variables window.
 
-<img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-3-5-1-windows-account-environment-variables.png" alt="gradle 3-5-1 windows account environment variables">
+<img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-4-1-windows-account-environment-variables.png" alt="gradle 4-1 windows account environment variables">
 
 > On Windows 7 you cannot add extra values for an existing `Path` variable. You need to append "<kbd>;%GRADLE_HOME%\bin</kbd>" at the end of the variable value instead.
 
@@ -141,9 +143,9 @@ Type "<kbd>gradle -version</kbd>" and press `ENTER`.
 
 The above command prints the installed Gradle version.
 
-<img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-3-5-1-version-output.png" alt="gradle 4.1.1 version output">
+<img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-4-1-version-output.png" alt="gradle 4-1 version output">
 
-**Congratulations, you have installed Gradle 4.1.1 on Windows 10!**
+**Congratulations, you have installed Gradle 4.1 on Windows 10!**
 
 Drop a line below if you liked this post.
 
