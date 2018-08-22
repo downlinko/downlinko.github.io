@@ -66,7 +66,13 @@ Open the location of the downloaded executable.
 
 Double-click it to run the installer.
 
-Click `Next`.
+On Windows 10 a pop-up window will appear: `The app you're trying to install isn't a verified app from the Store`
+
+Click on `Install anyway`.
+
+<img src="{{ site.url }}/assets/images/posts/windows-10-install-app-not-in-store.png" alt="windows 10 install app not in store">
+
+The JDK installer will start. Click `Next`.
 
 <img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-7-installer-start.png" alt="jdk 7 installer start">
 
@@ -88,7 +94,7 @@ Click `Next` to start the installation.
 
 The JDK installation will now start.
 
-During installation, a progress bar shows the various components it is installing.
+A progress bar shows the various steps that are executed.
 
 <img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-7-installer-progress.png" alt="jdk 7 installer progress">
 
