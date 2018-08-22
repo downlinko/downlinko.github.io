@@ -23,15 +23,20 @@ I'll also guide you through the different installation steps.
 
 Let’s go!
 
+Check following post if you are looking to download and install [Eclipse Neon]({{ site.url }}/download-install-eclipse-neon-windows.html) or [Eclipse Photon]({{ site.url }}/download-install-eclipse-photon-windows.html).
+{: .notice--primary}
+
 ## Step #1: Prerequisites
 
-Eclipse requires [Java](http://www.oracle.com/technetwork/java/javase/downloads/index.html){:target="_blank"} to work. Let's check if you have Java installed on your system.
+Eclipse requires [Java](http://www.oracle.com/technetwork/java/javase/downloads/index.html){:target="_blank"} to run. Let's check if you have Java installed on your system.
 
-Click on the Windows button. Then type "<kbd>cmd</kbd>" in the search box and press `ENTER`.
+Click on the Windows button. Then type "<kbd>cmd</kbd>" in the search box.
+
+Click on the `cmd` shortcut.
 
 <img src="{{ site.url }}/assets/images/posts/development/windows-search-cmd.png" alt="windows search cmd">
 
-Click on the `cmd` shortcut. Wait for the command prompt to open.
+Wait for the command prompt to open.
 
 Type "<kbd>java -version</kbd>" and press `ENTER`.
 
@@ -47,6 +52,8 @@ It also prints the whether you have the 32 or 64-bit version of Java.
 
 > Take note of this as you will need it in the next step.
 
+If you do not have Java installed on your system. Check following post which details [how to install a Java Development Kit on Windows 10]({{ site.url }}/download-install-jdk-8-windows.html).
+
 ## Step #2: Download
 
 Head over to the [Eclipse Mars 2 Packages](https://www.eclipse.org/downloads/packages/release/mars/2){:target="_blank"} download page.
@@ -61,7 +68,7 @@ In this guide we will install the 64-bit version.
 
 Wait for the download to complete.
 
-> Some download mirrors might return a `404 Not Found` error. Here is a direct link to download the [32 Bit](http://mirror.csclub.uwaterloo.ca/eclipse/technology/epp/downloads/release/mars/2/eclipse-jee-mars-2-win32.zip){:target="_blank"} or [64 Bit](http://mirror.csclub.uwaterloo.ca/eclipse/technology/epp/downloads/release/mars/2/eclipse-jee-mars-2-win32-x86_64.zip){:target="_blank"} package for Windows.
+> Do you want to skip the above steps? Here is a direct link to download the [32 Bit](http://mirror.csclub.uwaterloo.ca/eclipse/technology/epp/downloads/release/mars/2/eclipse-jee-mars-2-win32.zip){:target="_blank"} or [64 Bit](http://mirror.csclub.uwaterloo.ca/eclipse/technology/epp/downloads/release/mars/2/eclipse-jee-mars-2-win32-x86_64.zip){:target="_blank"} package for Windows.
 
 ## Step #3: Install
 
@@ -75,11 +82,11 @@ Right-click the ZIP archive file. Select `Extract All…`.
 
 Select an extract destination for the Eclipse Mars files.
 
-In this example, we extract in `C:\Users\Downlinko\tools`.
+In this example, we extract in `C:\Users\Downlinko\tools\eclipse\mars`.
 
-<img src="{{ site.url }}/assets/images/posts/development/tools-extract-destination.png" alt="tools-extract-destination">
+<img src="{{ site.url }}/assets/images/posts/development/eclipse/eclipse-mars-extract-destination.png" alt="eclipse mars extract destination">
 
-Click on `Extract`. This extracts all Eclipse Mars files under `C:\Users\Downlinko\tools\eclipse`.
+Click on `Extract`. This extracts all Eclipse Mars files under `C:\Users\Downlinko\tools\eclipse\mars`.
 
 > From now on we refer to this location as `[ECLIPSE_MARS_INSTALL_DIR]`.
 
@@ -93,11 +100,19 @@ Located the `Application` file called `eclipse` and double-click on it.
 
 <img src="{{ site.url }}/assets/images/posts/development/eclipse/eclipse-mars-executable.png" alt="eclipse mars executable">
 
+On Windows 10 a pop-up window will appear: `The app you're trying to install isn't a verified app from the Store`
+
+Click on `Install anyway`.
+
+<img src="{{ site.url }}/assets/images/posts/windows-10-install-app-not-in-store.png" alt="windows 10 install app not in store">
+
 Eclipse will start and prompt for a default workspace location.
+
+If needed change the default location and click `OK`.
 
 <img src="{{ site.url }}/assets/images/posts/development/eclipse/eclipse-workspace-default-location.png" alt="eclipse workspace default location">
 
-If needed change the default location and click `OK`.
+Wait for Eclipse Mars to open.
 
 <img src="{{ site.url }}/assets/images/posts/development/eclipse/eclipse-mars-workspace.png" alt="eclipse mars workspace">
 

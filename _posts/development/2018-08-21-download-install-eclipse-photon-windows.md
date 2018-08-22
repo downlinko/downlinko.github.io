@@ -32,9 +32,11 @@ Eclipse requires [Java](http://www.oracle.com/technetwork/java/javase/downloads/
 
 Click on the Windows button. Then type "<kbd>cmd</kbd>" in the search box.
 
+Click on the `cmd` shortcut.
+
 <img src="{{ site.url }}/assets/images/posts/development/windows-search-cmd.png" alt="windows search cmd">
 
-Click on the `cmd` shortcut. Wait for the command prompt to open.
+Wait for the command prompt to open.
 
 Type "<kbd>java -version</kbd>" and press `ENTER`.
 
