@@ -7,7 +7,7 @@ last_modified_at: 2018-07-21
 header:
   teaser: "assets/images/posts/development/eclipse/download-install-eclipse-mars-windows.png"
 categories: [Development]
-tags: [Download, Eclipse, Eclipse Mars, Install, Tutorial, Windows]
+tags: [Download, Eclipse, Install, Tutorial, Windows]
 published: true
 ---
 
