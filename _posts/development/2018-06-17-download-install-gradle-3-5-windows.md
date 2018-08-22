@@ -21,6 +21,9 @@ Because in this tutorial **I'll walk you through the different setup steps**.
 
 Off we go!
 
+Check following post if you are looking to download and install [Gradle 4.1]({{ site.url }}/download-install-gradle-4-1-windows.html).
+{: .notice--primary}
+
 ## Step #1: Check Prerequisites
 
 Gradle requires [Java](http://www.oracle.com/technetwork/java/javase/downloads/index.html){:target="_blank"} to work. So let's check if you have Java configured on your system.
@@ -45,6 +48,8 @@ The above command prints the installed Java version.
 
 > For Gradle 3.5 you need Java version 1.7 or higher.
 
+If you do not have Java installed on your system. Check following post which details [how to install a JDK on Windows 10]({{ site.url }}/download-install-jdk-8-windows.html).
+
 ## Step #2: Download
 
 Go to the [Gradle releases page](https://gradle.org/releases/){:target="_blank"}.
@@ -53,7 +58,7 @@ Go to the [Gradle releases page](https://gradle.org/releases/){:target="_blank"}
 
 Scroll down to `v3.5.1` and click on the `binary-only` link.
 
-<img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-3-5-1-release.png" alt="gradle 3.5.1 release">
+<img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-3-5-1-release.png" alt="gradle 3-5-1 release">
 
 Wait for the download to complete.
 
@@ -63,11 +68,11 @@ Wait for the download to complete.
 
 Open the location of the downloaded installer.
 
-<img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-3-5-1-downloaded-installer.png" alt="gradle 3.5.1 downloaded installer">
+<img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-3-5-1-downloaded-installer.png" alt="gradle 3-5-1 downloaded installer">
 
 Right-click the ZIP archive file. Select `Extract All…`.
 
-<img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-3-5-1-downloaded-installer-extract-all.png" alt="gradle 3.5.1 downloaded installer extract all">
+<img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-3-5-1-downloaded-installer-extract-all.png" alt="gradle 3-5-1 downloaded installer extract all">
 
 Select an extract destination for the Gradle files.
 
