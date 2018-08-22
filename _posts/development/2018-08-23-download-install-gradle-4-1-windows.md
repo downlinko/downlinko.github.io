@@ -8,7 +8,7 @@ header:
   teaser: "assets/images/posts/development/gradle/download-install-gradle-4-1-windows.png"
 categories: [Development]
 tags: [Download, Gradle, Install, Setup, Tutorial, Windows]
-published: false
+published: true
 ---
 
 <img src="{{ site.url }}/assets/images/posts/development/gradle/download-install-gradle-4-1-windows.png" alt="download install gradle 4.1 windows" class="align-right title-image">
@@ -20,6 +20,9 @@ You’ve reached the right place.
 Because in this tutorial **I'll walk you through the different setup steps**.
 
 Off we go!
+
+Check following post if you are looking to download and install [Gradle 3.5]({{ site.url }}/download-install-gradle-3-5-windows.html).
+{: .notice--primary}
 
 ## Step #1: Check Prerequisites
 
