@@ -25,7 +25,7 @@ And finally **how to verify if everything is working**.
 
 Let’s dive right in…
 
-Check following post if you are looking to download and install [JDK 1.7]({{ site.url }}/download-install-jdk-7-windows.html) or [JDK 1.10]({{ site.url }}/download-install-jdk-10-windows.html).
+Check following post if you are looking to download and install [JDK 1.6]({{ site.url }}/download-install-jdk-6-windows.html), [JDK 1.7]({{ site.url }}/download-install-jdk-7-windows.html) or [JDK 1.10]({{ site.url }}/download-install-jdk-10-windows.html).
 {: .notice--primary}
 
 ## Step #1: Download
