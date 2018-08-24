@@ -122,7 +122,7 @@ Click on `New…`.
 
 Enter "<kbd>JAVA_HOME</kbd>" as variable name. Enter the `[JAVA_INSTALL_DIR]` as variable value.
 
-In this tutorial, the Java installation directory is `C:\Program Files\Java\jdk1.7.0_171`.
+In this tutorial, the Java installation directory is `C:\Program Files\Java\jdk1.7.0_80`.
 
 Click `OK`.
 
