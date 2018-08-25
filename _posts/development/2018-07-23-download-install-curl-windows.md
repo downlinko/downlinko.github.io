@@ -11,7 +11,7 @@ tags: [cURL, Download, Install, Setup, Tutorial, Windows]
 published: true
 ---
 
-<img src="{{ site.url }}/assets/images/posts/development/curl/download-install-curl-windows.png" alt="download install maven curl windows" class="align-right title-image">
+<img src="{{ site.url }}/assets/images/posts/development/curl/download-install-curl-windows.png" alt="download install curl windows" class="align-right title-image">
 
 Need to download and install [cURL](https://curl.haxx.se/){:target="_blank"} on Windows?
 

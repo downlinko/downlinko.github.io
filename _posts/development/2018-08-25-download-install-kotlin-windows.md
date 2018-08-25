@@ -137,7 +137,7 @@ Click on the `Command Prompt` shortcut.
 
 Wait for the command prompt to open.
 
-Type "<kbd>kotlin -version</kbd>" and press `ENTER`.
+Type "<kbd>kotlinc -version</kbd>" and press `ENTER`.
 
 <img src="{{ site.url }}/assets/images/posts/development/kotlin/kotlin-version-command.png" alt="kotlin-version-command">
 
@@ -147,6 +147,6 @@ The above command prints the installed Kotlin version.
 
 **Congratulations, you have installed Kotlin on Windows 10!**
 
-Drop a line below if you liked this post.
+Be sure to leave a comment if you liked this post.
 
 Thanks!
