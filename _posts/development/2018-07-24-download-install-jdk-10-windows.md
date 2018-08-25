@@ -13,7 +13,7 @@ published: true
 
 <img src="{{ site.url }}/assets/images/posts/development/jdk/download-install-jdk-10-windows.png" alt="download install jdk 10 windows" class="align-right title-image">
 
-In this guide I’m going to show you exactly how to download and install JDK 10 on Windows.
+In this guide, I’m going to show you exactly how to download and install JDK 10 on Windows.
 
 (Step-by-step)
 

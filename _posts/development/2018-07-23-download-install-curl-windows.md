@@ -17,7 +17,7 @@ Need to download and install [cURL](https://curl.haxx.se/){:target="_blank"} on 
 
 Then look no further!
 
-In this guide you’ll learn how to download the executable…
+In this guide, you’ll learn how to download the executable…
 
 …and how to configure it so you can use it from command line.
 

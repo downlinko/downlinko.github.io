@@ -13,7 +13,7 @@ published: true
 
 <img src="{{ site.url }}/assets/images/posts/development/jdk/download-install-jdk-7-windows.png" alt="download install jdk 7 windows" class="align-right title-image">
 
-In this guide I’m going to show you exactly how to download and install JDK 1.7 on Windows.
+In this guide, I’m going to show you exactly how to download and install JDK 1.7 on Windows.
 
 (Step-by-step)
 
@@ -52,7 +52,7 @@ Click on the radio button next to `Accept License Agreement`.
 * For 32-bit = Windows <kbd>x86</kbd> installer
 * For 64-bit = Windows <kbd>x64</kbd> installer
 
-In this guide we will download the 64-bit installer: `jdk-7u80-windows-x64.exe`.
+In this guide, we will download the 64-bit installer: `jdk-7u80-windows-x64.exe`.
 
 <img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-7-download-java-se-windows-binary.png" alt="jdk 7 download java se windows binary">
 

@@ -17,7 +17,7 @@ So you want to download and install [Kotlin](https://kotlinlang.org/){:target="_
 
 Then look no further!
 
-In this guide you’ll learn how to download the compiler…
+In this guide, you’ll learn how to download the compiler…
 
 …and how to configure it so you can use it from command line.
 
