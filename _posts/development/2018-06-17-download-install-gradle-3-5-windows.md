@@ -142,7 +142,7 @@ Wait for the command prompt to open.
 
 Type "<kbd>gradle -version</kbd>" and press `ENTER`.
 
-<img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-version-command.png" alt="gradle-version-command">
+<img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-version-command.png" alt="gradle version command">
 
 The above command prints the installed Gradle version.
 

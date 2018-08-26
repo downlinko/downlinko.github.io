@@ -78,7 +78,7 @@ Select an extract destination for the Gradle files.
 
 In this example, we extract in `C:\Users\Downlinko\tools\gradle`.
 
-<img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-extract-destination.png" alt="tools-extract-destination">
+<img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-extract-destination.png" alt="gradle tools extract destination">
 
 Click on `Extract`. This extracts all Gradle files under `C:\Users\Downlinko\tools\gradle\gradle-4-1`.
 
@@ -142,7 +142,7 @@ Wait for the command prompt to open.
 
 Type "<kbd>gradle -version</kbd>" and press `ENTER`.
 
-<img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-version-command.png" alt="gradle-version-command">
+<img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-version-command.png" alt="gradle version command">
 
 The above command prints the installed Gradle version.
 

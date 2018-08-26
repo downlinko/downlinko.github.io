@@ -75,7 +75,7 @@ Select an extract destination for the Kotlin files.
 
 In this example, we extract in `C:\Users\Downlinko\tools\kotlin`.
 
-<img src="{{ site.url }}/assets/images/posts/development/kotlin/kotlin-extract-destination.png" alt="kotlin-extract-destination">
+<img src="{{ site.url }}/assets/images/posts/development/kotlin/kotlin-extract-destination.png" alt="kotlin extract destination">
 
 Click on `Extract`. This extracts all kotlin files under `C:\Users\Downlinko\tools\kotlin\kotlinc`.
 
@@ -139,7 +139,7 @@ Wait for the command prompt to open.
 
 Type "<kbd>kotlinc -version</kbd>" and press `ENTER`.
 
-<img src="{{ site.url }}/assets/images/posts/development/kotlin/kotlin-version-command.png" alt="kotlin-version-command">
+<img src="{{ site.url }}/assets/images/posts/development/kotlin/kotlin-version-command.png" alt="kotlin version command">
 
 The above command prints the installed Kotlin version.
 
