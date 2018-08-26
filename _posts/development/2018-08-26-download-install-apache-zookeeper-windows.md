@@ -1,32 +1,29 @@
 ---
-title: "Download and Install Apache Zookeeper on Windows"
+title: "Download and Install Apache ZooKeeper on Windows"
 permalink: /download-install-apache-zookeeper-windows.html
-excerpt: "A detailed step-by-step tutorial on how to download and install Apache Zookeeper on Windows 10."
+excerpt: "A detailed step-by-step tutorial on how to download and install Apache ZooKeeper on Windows 10."
 date: 2018-08-26
 last_modified_at: 2018-08-26
 header:
   teaser: "assets/images/posts/development/zookeeper/download-install-zookeeper-windows.png"
 categories: [Development]
-tags: [Apache Zookeeper, Download, Install, Setup, Tutorial, Windows, Zookeeper]
+tags: [Apache ZooKeeper, Download, Install, Setup, Tutorial, Windows, Zookeeper]
 published: false
 ---
 
 <img src="{{ site.url }}/assets/images/posts/development/zookeeper/download-install-zookeeper-windows.png" alt="download install zookeeper windows" class="align-right title-image">
 
-Do you need to download and install [Gradle](https://gradle.org/){:target="_blank"} 4.1 on Windows?
+Do you want to learn how to download and install [Apache ZooKeeper](https://zookeeper.apache.org/){:target="_blank"} on Windows?
 
 You’ve reached the right place.
 
 Because in this tutorial **I'll walk you through the different setup steps**.
 
-Off we go!
-
-Check following post if you are looking to download and install [Gradle 3.5]({{ site.url }}/download-install-gradle-3-5-windows.html).
-{: .notice--primary}
+Let’s dive in!
 
 ## Step #1: Check Prerequisites
 
-Gradle requires [Java](http://www.oracle.com/technetwork/java/javase/downloads/index.html){:target="_blank"} to work. So let's check if you have Java configured on your system.
+ZooKeeper requires [Java](http://www.oracle.com/technetwork/java/javase/downloads/index.html){:target="_blank"} to work. So let's check if you have Java configured on your system.
 
 Click on the search button. Then type "<kbd>cmd</kbd>" (without quotes).
 
@@ -46,49 +43,59 @@ The above command prints the installed Java version.
 
 <img src="{{ site.url }}/assets/images/posts/development/java-installed-version.png" alt="java installed version">
 
-> For Gradle 4.1 you need Java version 1.7 or higher.
+> For ZooKeeper you need Java version 1.6 or higher.
 
 If you do not have Java installed on your system. Check following post which details [how to install a JDK on Windows 10]({{ site.url }}/download-install-jdk-8-windows.html).
 
 ## Step #2: Download
 
-Go to the [Gradle releases page](https://gradle.org/releases/){:target="_blank"}.
+Go to the [ZooKeeper releases page](https://zookeeper.apache.org/releases.html){:target="_blank"}.
 
-<img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-releases-page.png" alt="gradle releases page">
+Click on the `Download` link under the `Download` section.
 
-Scroll down to `v4.1` and click on the `binary-only` link.
+<img src="{{ site.url }}/assets/images/posts/development/zookeeper/zookeeper-releases-page.png" alt="zookeeper releases page">
 
-<img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-4-1-release.png" alt="gradle 4-1 release">
+Click on the suggested mirror site.
+
+<img src="{{ site.url }}/assets/images/posts/development/zookeeper/zookeeper-suggested-mirror.png" alt="zookeeper suggested mirror">
+
+Click on the `stable` link.
+
+<img src="{{ site.url }}/assets/images/posts/development/zookeeper/zookeeper-stable-section.png" alt="zookeeper stable section">
+
+Click on the `zookeeper-X.X.X.tar.gz` link.
+
+At the time of writing the latest stable ZooKeeper release was version `3.4.12`.
+
+<img src="{{ site.url }}/assets/images/posts/development/zookeeper/zookeeper-stable-release.png" alt="zookeeper stable release">
 
 Wait for the download to complete.
-
-> Do you want to skip above steps? Here is the direct link to download the [Gradle 4.1 binary-only installer](https://gradle.org/next-steps/?version=4.1&format=bin){:target="_blank"} for Windows.
 
 ## Step #3: Install
 
 Open the location of the downloaded installer.
 
-<img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-4-1-downloaded-installer.png" alt="gradle 4-1 downloaded installer">
+<img src="{{ site.url }}/assets/images/posts/development/zookeeper/zookeeper-downloaded-installer.png" alt="zookeeper downloaded installer">
 
 Right-click the ZIP archive file. Select `Extract All…`.
 
-<img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-4-1-downloaded-installer-extract-all.png" alt="gradle 4-1 downloaded installer extract all">
+<img src="{{ site.url }}/assets/images/posts/development/zookeeper/zookeeper-downloaded-installer-extract-all.png" alt="zookeeper downloaded installer extract all">
 
-Select an extract destination for the Gradle files.
+Select an extract destination for the zookeeper files.
 
-In this example, we extract in `C:\Users\Downlinko\tools\gradle`.
+In this example, we extract in `C:\Users\Downlinko\tools\zookeeper`.
 
-<img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-extract-destination.png" alt="tools-extract-destination">
+<img src="{{ site.url }}/assets/images/posts/development/zookeeper/zookeeper-extract-destination.png" alt="zookeeper tools extract destination">
 
-Click on `Extract`. This extracts all Gradle files under `C:\Users\Downlinko\tools\gradle\gradle-4-1`.
+Click on `Extract`. This extracts all zookeeper files under `C:\Users\Downlinko\tools\zookeeper\zookeeper\TODO`.
 
-> From now on we refer to this location as `[GRADLE_INSTALL_DIR]`.
+> From now on we refer to this location as `[zookeeper_INSTALL_DIR]`.
 
-<img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-4-1-install-dir.png" alt="gradle 4-1 install dir">
+<img src="{{ site.url }}/assets/images/posts/development/zookeeper/zookeeper-install-dir.png" alt="zookeeper install dir">
 
 ## Step #4: Setup
 
-We need to set up an environment variable that will point to our Maven installation.
+We need to set up an environment variable that will point to our ZooKeeper installation.
 
 Click on the search button. Then type "<kbd>env</kbd>".
 
@@ -104,31 +111,31 @@ Click on `New…`.
 
 <img src="{{ site.url }}/assets/images/posts/development/windows-account-environment-variables-jdk-new.png" alt="windows account environment variables jdk new">
 
-Enter "<kbd>GRADLE_HOME</kbd>" as variable name. Enter the `[GRADLE_INSTALL_DIR]` as variable value.
+Enter "<kbd>zookeeper_HOME</kbd>" as variable name. Enter the `[zookeeper_INSTALL_DIR]` as variable value.
 
-In this tutorial the installation directory is: `C:\Users\Downlinko\tools\gradle\gradle-4.1`.
+In this tutorial the installation directory is: `C:\Users\Downlinko\tools\zookeeper\zookeeper-4.1`.
 
 Click `OK`.
 
-<img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-4-1-home-variable.png" alt="gradle 4-1 home variable">
+<img src="{{ site.url }}/assets/images/posts/development/zookeeper/zookeeper-4-1-home-variable.png" alt="zookeeper 4-1 home variable">
 
 Next, we need to configure the PATH environment variable so we can run Maven from a command prompt.
 
 Select the `PATH` variable. Click on `Edit…`.
 
-<img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-4-1-edit-path-variable.png" alt="gradle 4-1 edit path variable">
+<img src="{{ site.url }}/assets/images/posts/development/zookeeper/zookeeper-4-1-edit-path-variable.png" alt="zookeeper 4-1 edit path variable">
 
-Click on `New` and type "<kbd>%GRADLE_HOME%\bin</kbd>" as shown below.
+Click on `New` and type "<kbd>%zookeeper_HOME%\bin</kbd>" as shown below.
 
 Click `OK`.
 
-<img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-path-variable.png" alt="gradle path variable">
+<img src="{{ site.url }}/assets/images/posts/development/zookeeper/zookeeper-path-variable.png" alt="zookeeper path variable">
 
 Click `OK` once more to close the environment variables window.
 
-<img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-4-1-windows-account-environment-variables.png" alt="gradle 4-1 windows account environment variables">
+<img src="{{ site.url }}/assets/images/posts/development/zookeeper/zookeeper-4-1-windows-account-environment-variables.png" alt="zookeeper 4-1 windows account environment variables">
 
-> On Windows 7 you cannot add extra values for an existing `Path` variable. You need to append "<kbd>;%GRADLE_HOME%\bin</kbd>" at the end of the variable value instead.
+> On Windows 7 you cannot add extra values for an existing `Path` variable. You need to append "<kbd>;%zookeeper_HOME%\bin</kbd>" at the end of the variable value instead.
 
 ## Step #5: Test
 
@@ -140,16 +147,16 @@ Click on the `Command Prompt` shortcut.
 
 Wait for the command prompt to open.
 
-Type "<kbd>gradle -version</kbd>" and press `ENTER`.
+Type "<kbd>zookeeper -version</kbd>" and press `ENTER`.
 
-<img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-version-command.png" alt="gradle-version-command">
+<img src="{{ site.url }}/assets/images/posts/development/zookeeper/zookeeper-version-command.png" alt="zookeeper-version-command">
 
-The above command prints the installed Gradle version.
+The above command prints the installed zookeeper version.
 
-<img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-4-1-version-output.png" alt="gradle 4-1 version output">
+<img src="{{ site.url }}/assets/images/posts/development/zookeeper/zookeeper-4-1-version-output.png" alt="zookeeper 4-1 version output">
 
-**Congratulations, you have installed Gradle 4.1 on Windows 10!**
+**Congratulations, you have installed Apache Zookeeper on Windows 10!**
 
-Drop a line below if you liked this post.
+Write a comment below if you enjoyed this post.
 
 Thanks!
