@@ -4,6 +4,7 @@ permalink: /terms-privacy-policy
 excerpt: "Terms and Privacy Policy of Downlinko."
 date: 2018-06-12
 last_modified_at: 2018-06-12
+author_profile: false
 share: false
 ---
 
