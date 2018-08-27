@@ -13,5 +13,5 @@ share: false
   <input type="email" id="email" name="_replyto" placeholder="Email">
   <textarea name="message" placeholder="Message"></textarea>
 
-  <input type="submit" value="Send" class="btn btn--primary btn--warning">
+  <input type="submit" value="Send" class="btn btn--primary btn--primary">
 </form>
