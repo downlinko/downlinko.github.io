@@ -108,7 +108,7 @@ We need to set up an environment variable that will point to our JDK installatio
 
 Click on the search button. Then type "<kbd>env</kbd>" (without quotes).
 
-> On Windows 6 click on the Windows button.
+> On Windows 7 click on the Windows button.
 
 Click on the `Edit environment variables for your account` shortcut.
 

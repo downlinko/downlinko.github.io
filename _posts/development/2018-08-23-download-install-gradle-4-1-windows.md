@@ -88,7 +88,7 @@ Click on `Extract`. This extracts all Gradle files under `C:\Users\Downlinko\too
 
 ## Step #4: Setup
 
-We need to set up an environment variable that will point to our Maven installation.
+We need to set up an environment variable that will point to our Gradle installation.
 
 Click on the search button. Then type "<kbd>env</kbd>".
 
@@ -112,7 +112,7 @@ Click `OK`.
 
 <img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-4-1-home-variable.png" alt="gradle 4-1 home variable">
 
-Next, we need to configure the PATH environment variable so we can run Maven from a command prompt.
+Next, we need to configure the PATH environment variable so we can run Gradle from a command prompt.
 
 Select the `PATH` variable. Click on `Edit…`.
 

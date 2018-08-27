@@ -109,13 +109,13 @@ Click `OK`.
 
 <img src="{{ site.url }}/assets/images/posts/development/kotlin/kotlin-home-variable.png" alt="kotlin home variable">
 
-Next, we need to configure the PATH environment variable so we can run Maven from a command prompt.
+Next, we need to configure the PATH environment variable so we can run Kotlin from a command prompt.
 
 Select the `PATH` variable. Click on `Edit…`.
 
 <img src="{{ site.url }}/assets/images/posts/development/kotlin/kotlin-edit-path-variable.png" alt="kotlin edit path variable">
 
-Click on `New` and type "<kbd>%kotlin_HOME%\bin</kbd>" as shown below.
+Click on `New` and type "<kbd>%KOTLIN_HOME%\bin</kbd>" as shown below.
 
 Click `OK`.
 
