@@ -1,7 +1,9 @@
 # main links
 main:
+  - title: "Contact"
+    url: https://downlinko.com/contact
   - title: "Terms & Privacy Policy"
-    url: https://downlinko.com/terms-privacy-policy/
+    url: https://downlinko.com/terms-privacy-policy
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
