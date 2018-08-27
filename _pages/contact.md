@@ -6,3 +6,9 @@ date: 2018-08-27
 last_modified_at: 2018-08-27
 share: false
 ---
+
+<form action="https://formspree.io/downlinko.com@gmail.com" method="POST">
+  <input type="text" name="name">
+  <input type="email" name="_replyto">
+  <input type="submit" value="Send">
+</form>
