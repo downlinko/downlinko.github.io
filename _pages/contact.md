@@ -9,14 +9,9 @@ share: false
 ---
 
 <form action="https://formspree.io/downlinko.com@gmail.com" method="POST">
-  <label for="name">Name:</label>
-  <input type="text" id="name" name="name" placeholder="Your name">
+  <input type="text" id="name" name="name" placeholder="Name">
+  <input type="email" id="email" name="_replyto" placeholder="Email">
+  <textarea name="message" placeholder="Message"></textarea>
 
-  <label for="email">Email:</label>
-  <input type="email" id="email" name="_replyto" placeholder="Your email">
-
-  <label for="message">Message:</label>
-  <textarea name="message" placeholder="Your message"></textarea>
-
-  <input type="submit" value="Send" class="btn btn--primary btn--success">
+  <input type="submit" value="Send" class="btn btn--primary btn--warning">
 </form>
