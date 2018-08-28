@@ -10,6 +10,12 @@ This page contains an overview of all the installation guides.
 
 ## Development
 
+### Eclipse
+
+* [Download and Install Eclipse Mars on Windows]({{ site.url }}/download-install-eclipse-mars-windows.html)
+* [Download and Install Eclipse Neon on Windows]({{ site.url }}/download-install-eclipse-neon-windows.html)
+* [Download and Install Eclipse Photon on Windows]({{ site.url }}/download-install-eclipse-photon-windows.html)
+
 ### Gradle
 
 * [Download and Install Gradle 3.5 on Windows]({{ site.url }}/download-install-gradle-3-5-windows.html)
