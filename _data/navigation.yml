@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Guides"
-      url: https://downlinko.com/guides
+    url: https://downlinko.com/guides
   - title: "Contact"
     url: https://downlinko.com/contact
   - title: "Terms & Privacy Policy"
