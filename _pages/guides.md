@@ -12,7 +12,7 @@ This page contains an overview of all the installation guides.
 
 ### Maven
 
-* [Installing Maven 3.2.2]({{ site.url }}/download-install-apache-maven-3-2-2-windows.html)
-* [Installing Maven 3.2.5]({{ site.url }}/download-install-apache-maven-3-2-5-windows.html)
-* [Installing Maven 3.3.9]({{ site.url }}/download-install-apache-maven-3-3-9-windows.html)
-* [Installing Maven 3.5.0]({{ site.url }}/download-install-apache-maven-3-5-0-windows.html)
+* [Download and Install Apache Maven 3.2.2 on Windows]({{ site.url }}/download-install-apache-maven-3-2-2-windows.html)
+* [Download and Install Apache Maven 3.2.5 on Windows]({{ site.url }}/download-install-apache-maven-3-2-5-windows.html)
+* [Download and Install Apache Maven 3.3.9 on Windows]({{ site.url }}/download-install-apache-maven-3-3-9-windows.html)
+* [Download and Install Apache Maven 3.5.0 on Windows]({{ site.url }}/download-install-apache-maven-3-5-0-windows.html)
