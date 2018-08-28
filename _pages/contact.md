@@ -13,6 +13,8 @@ You can get in touch with us using the form below.
   <label for="email">Your email*</label>
   <input type="email" id="email" name="_replyto" placeholder="Your email">
 
+  <input type="hidden" name="_subject" value="New submission!" />
+
   <label for="message">Your message</label>
   <textarea name="message" id="message" placeholder="Your message"></textarea>
 
