@@ -34,3 +34,8 @@ This page contains an overview of all the installation guides.
 * [Download and Install Apache Maven 3.2.5 on Windows]({{ site.url }}/download-install-apache-maven-3-2-5-windows.html)
 * [Download and Install Apache Maven 3.3.9 on Windows]({{ site.url }}/download-install-apache-maven-3-3-9-windows.html)
 * [Download and Install Apache Maven 3.5.0 on Windows]({{ site.url }}/download-install-apache-maven-3-5-0-windows.html)
+
+### Python
+
+* [Download and Install Python 2.7 on Windows]({{ site.url }}/download-install-python-2-7-windows.html)
+* [Download and Install Python 3.4 on Windows]({{ site.url }}/download-install-python-3-4-windows.html)
