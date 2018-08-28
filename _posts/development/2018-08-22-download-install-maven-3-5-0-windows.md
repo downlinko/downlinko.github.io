@@ -8,6 +8,8 @@ header:
   teaser: "assets/images/posts/development/maven/download-install-maven-3-5-0-windows.png"
 categories: [Development]
 tags: [Apache Maven, Download, Install, Maven, Setup, Tutorial, Windows]
+redirect_from:
+  - /download-install-maven-3-5-0-windows.html
 published: true
 ---
 
