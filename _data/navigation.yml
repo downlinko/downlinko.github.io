@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Blog"
+    url: https://downlinko.com/blog/
   - title: "Guides"
     url: https://downlinko.com/guides
   - title: "Contact"
