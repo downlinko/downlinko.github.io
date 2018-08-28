@@ -88,9 +88,9 @@ Right-click the ZIP archive file. Select `Extract All…`.
 
 Select an extract destination for the Maven files.
 
-In this example, we extract in `C:\Users\Downlinko\tools`.
+In this example, we extract in `C:\Users\Downlinko\tools\maven`.
 
-<img src="{{ site.url }}/assets/images/posts/development/tools-extract-destination.png" alt="tools-extract-destination">
+<img src="{{ site.url }}/assets/images/posts/development/maven/maven-extract-destination.png" alt="tools-extract-destination">
 
 Click on `Extract`. This extracts all Maven files under `C:\Users\Downlinko\tools\maven\apache-maven-3.2.2`.
 
