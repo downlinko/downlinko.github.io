@@ -10,6 +10,10 @@ This page contains an overview of all the installation guides.
 
 ## Development
 
+### cURL
+
+* [Download and Install cURL on Windows]({{ site.url }}/download-install-curl-windows.html)
+
 ### Eclipse
 
 * [Download and Install Eclipse Mars on Windows]({{ site.url }}/download-install-eclipse-mars-windows.html)
@@ -27,6 +31,10 @@ This page contains an overview of all the installation guides.
 * [Download and Install JDK 1.7 on Windows]({{ site.url }}/download-install-jdk-7-windows.html)
 * [Download and Install JDK 1.8 on Windows]({{ site.url }}/download-install-jdk-8-windows.html)
 * [Download and Install JDK 10 on Windows]({{ site.url }}/download-install-jdk-10-windows.html)
+
+### Kotlin
+
+* [Download and Install Kotlin on Windows]({{ site.url }}/download-install-kotlin-windows.html)
 
 ### Maven
 
