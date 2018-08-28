@@ -5,17 +5,17 @@ excerpt: "A detailed step-by-step tutorial on how to download and install 7-Zip 
 date: 2018-08-28
 last_modified_at: 2018-08-28
 header:
-  teaser: "assets/images/posts/development/zip/download-install-7-zip-windows.png"
-categories: [Development]
+  teaser: "assets/images/posts/utilities/zip/download-install-7-zip-windows.png"
+categories: [Utilities]
 tags: [7-Zip, Download, Install, Setup, Tutorial, Windows, Zip]
 published: true
 ---
 
-<img src="{{ site.url }}/assets/images/posts/development/zip/download-install-7-zip-windows.png" alt="download install 7-zip windows" class="align-right title-image">
+<img src="{{ site.url }}/assets/images/posts/utilities/zip/download-install-7-zip-windows.png" alt="download install 7-zip windows" class="align-right title-image">
 
 This is a quick guide on how to download and install [7-Zip](https://www.7-zip.org/){:target="_blank"} on Windows.
 
-You’ll love the clear step-by-step approach in this tutorial.
+You’ll love the clear **step-by-step approach** in this tutorial.
 
 Ready?
 
@@ -29,7 +29,7 @@ At the top of the page, you can find the installers for Windows.
 
 In this guide, we will download the `64-bit x64` version.
 
-<img src="{{ site.url }}/assets/images/posts/development/zip/7-zip-download-installer.png" alt="7-zip download installer">
+<img src="{{ site.url }}/assets/images/posts/utilities/zip/7-zip-download-installer.png" alt="7-zip download installer">
 
 Wait for the download to complete.
 
@@ -37,7 +37,7 @@ Wait for the download to complete.
 
 Open the location of the downloaded executable.
 
-<img src="{{ site.url }}/assets/images/posts/development/zip/7-zip-downloaded-installer.png" alt="7-zip downloaded installer">
+<img src="{{ site.url }}/assets/images/posts/utilities/zip/7-zip-downloaded-installer.png" alt="7-zip downloaded installer">
 
 Double-click it to run the installer.
 
@@ -53,21 +53,21 @@ You can change the installation location by clicking on the `…` button.
 
 In this example, we keep the default install location of `C:\Program Files\7-Zip\`.
 
-<img src="{{ site.url }}/assets/images/posts/development/zip/7-zip-installer-default-location.png" alt="7-zip installer default location">
+<img src="{{ site.url }}/assets/images/posts/utilities/zip/7-zip-installer-default-location.png" alt="7-zip installer default location">
 
 Click `Install` to start the installation.
 
-<img src="{{ site.url }}/assets/images/posts/development/zip/7-zip-installer-start.png" alt="7-zip-installer-start">
+<img src="{{ site.url }}/assets/images/posts/utilities/zip/7-zip-installer-start.png" alt="7-zip-installer-start">
 
 The 7-Zip installation will now start.
 
 A progress bar shows the various steps that are executed.
 
-<img src="{{ site.url }}/assets/images/posts/development/zip/7-zip-installer-progress.png" alt="7-zip installer progress">
+<img src="{{ site.url }}/assets/images/posts/utilities/zip/7-zip-installer-progress.png" alt="7-zip installer progress">
 
-Once the installation is complete, click `Finish`.
+Once the installation is complete, click `Close`.
 
-<img src="{{ site.url }}/assets/images/posts/development/zip/7-zip-installer-finish.png" alt="7-zip installer finish">
+<img src="{{ site.url }}/assets/images/posts/utilities/zip/7-zip-installer-finish.png" alt="7-zip installer finish">
 
 ## Step #3: Usage
 
@@ -75,7 +75,7 @@ You can now use 7-Zip to compress or decompress files.
 
 Right-click a file and `7-Zip` is available as an item in the context menu. Depending on the type of file different actions are available.
 
-<img src="{{ site.url }}/assets/images/posts/development/zip/7-zip-context-menu.png" alt="7-zip context menu">
+<img src="{{ site.url }}/assets/images/posts/utilities/zip/7-zip-context-menu.png" alt="7-zip context menu">
 
 **Congratulations, you have installed 7-Zip on Windows 10!**
 
