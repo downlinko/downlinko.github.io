@@ -1,8 +1,10 @@
 ---
-title: "Contact Us"
+title: "Contact"
 permalink: /contact
 excerpt: "Contact page of Downlinko."
 ---
+
+You can get in touch with us using the form below.
 
 <form action="https://formspree.io/downlinko.com@gmail.com" method="POST">
   <label for="name">Your name*</label>
