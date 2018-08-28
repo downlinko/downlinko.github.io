@@ -47,3 +47,9 @@ This page contains an overview of all the installation guides.
 
 * [Download and Install Python 2.7 on Windows]({{ site.url }}/download-install-python-2-7-windows.html)
 * [Download and Install Python 3.4 on Windows]({{ site.url }}/download-install-python-3-4-windows.html)
+
+## Utilities
+
+### 7-Zip
+
+* [Download and Install 7 Zip on Windows]({{ site.url }}/download-install-7-zip-windows.html)
