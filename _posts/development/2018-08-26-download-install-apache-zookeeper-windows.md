@@ -73,7 +73,7 @@ Wait for the download to complete.
 
 ## Step #3: Install
 
-Open the location of the downloaded installer.
+Open the location of the downloaded binary.
 
 <img src="{{ site.url }}/assets/images/posts/development/zookeeper/zookeeper-downloaded-installer.png" alt="zookeeper downloaded installer">
 
