@@ -24,7 +24,7 @@ You can get in touch with us using the form below.
       <textarea id="message" name="message" spellcheck="true" rows="5" cols="50" placeholder="Your message" required></textarea>
     </li>
     <li>
-      <input type="submit" value="Send message" class="btn btn--large btn-warning" style="margin:10px 0;">
+      <input type="submit" value="Send message" class="btn btn--large btn--warning" style="margin:10px 0;">
     </li>
   </ul>
 </form>
