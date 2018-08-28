@@ -12,8 +12,8 @@ This page contains an overview of all the installation guides.
 
 ### Gradle
 
-* [Download and Install Gradle 3.5 on Windows]({{ site.url }}/download-install-gradle-3-5-windows.html))
-* [Download and Install Gradle 4.1 on Windows]({{ site.url }}/download-install-gradle-4-1-windows.html))
+* [Download and Install Gradle 3.5 on Windows]({{ site.url }}/download-install-gradle-3-5-windows.html)
+* [Download and Install Gradle 4.1 on Windows]({{ site.url }}/download-install-gradle-4-1-windows.html)
 
 ### Maven
 
