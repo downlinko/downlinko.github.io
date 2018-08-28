@@ -7,16 +7,16 @@ excerpt: "Contact page of Downlinko."
 You can get in touch with us using the form below.
 
 <form action="https://formspree.io/downlinko.com@gmail.com" method="POST">
-  <label for="name">Your name*</label>
+  <label for="name" style="margin:10px 0;">Your name*</label>
   <input type="text" id="name" name="name" placeholder="Your name">
 
-  <label for="email">Your email*</label>
+  <label for="email" style="margin:10px 0;">Your email*</label>
   <input type="email" id="email" name="_replyto" placeholder="Your email">
 
   <input type="hidden" name="_subject" value="New submission!" />
 
-  <label for="message">Your message</label>
+  <label for="message" style="margin:10px 0;">Your message</label>
   <textarea name="message" id="message" placeholder="Your message"></textarea>
 
-  <input type="submit" value="Send message" class="btn btn--warning btn--large">
+  <input type="submit" value="Send message" class="btn btn--large" style="margin:10px 0;">
 </form>
