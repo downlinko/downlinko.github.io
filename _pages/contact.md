@@ -6,7 +6,7 @@ excerpt: "Contact page of Downlinko."
 
 You can get in touch with us using the form below.
 
-<form id="contact-form" action="https://formspree.io/downlinko.com@gmail.com" method="POST">
+<form action="https://formspree.io/downlinko.com@gmail.com" method="POST">
   <label for="name">Your name*</label>
   <input type="text" id="name" name="name" placeholder="Your name">
 
