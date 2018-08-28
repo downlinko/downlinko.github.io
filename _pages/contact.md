@@ -6,17 +6,25 @@ excerpt: "Contact page of Downlinko."
 
 You can get in touch with us using the form below.
 
-<form action="https://formspree.io/downlinko.com@gmail.com" method="POST">
-  <label for="name" style="margin:10px 0;">Your name*</label>
-  <input type="text" id="name" name="name" placeholder="Your name">
-
-  <label for="email" style="margin:10px 0;">Your email*</label>
-  <input type="email" id="email" name="_replyto" placeholder="Your email">
-
-  <input type="hidden" name="_subject" value="New submission!" />
-
-  <label for="message" style="margin:10px 0;">Your message</label>
-  <textarea name="message" id="message" placeholder="Your message"></textarea>
-
-  <input type="submit" value="Send message" class="btn btn--large" style="margin:10px 0;">
+<form class="page__form" action="https://formspree.io/downlinko.com@gmail.com" method="POST">
+  <ul>
+    <li>
+      <label for="name" style="margin:10px 0;">Your name</label>
+      <input type="text" id="name" name="name" placeholder="Your name">
+    </li>
+    <li>
+      <label for="email" style="margin:10px 0;">Your email<span class="req">*</span></label>
+      <input type="email" id="email" name="_replyto" placeholder="Your email" required>
+    </li>
+    <li class="hidden">
+      <input type="hidden" name="_subject" value="New submission!" />
+    </li>
+    <li>
+      <label for="message" style="margin:10px 0;">Your message<span class="req">*</span></label>
+      <textarea id="message" name="message" spellcheck="true" rows="10" cols="50" placeholder="Your message" required></textarea>
+    </li>
+    <li>
+      <input type="submit" value="Send message" class="btn btn--large" style="margin:10px 0;">
+    </li>
+  </ul>
 </form>
