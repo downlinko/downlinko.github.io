@@ -92,7 +92,7 @@ In this example, we extract in `C:\Users\Downlinko\tools`.
 
 <img src="{{ site.url }}/assets/images/posts/development/tools-extract-destination.png" alt="tools-extract-destination">
 
-Click on `Extract`. This extracts all Maven files under `C:\Users\Downlinko\tools\apache-maven-3.2.5`.
+Click on `Extract`. This extracts all Maven files under `C:\Users\Downlinko\tools\maven\apache-maven-3.2.5`.
 
 > From now on we refer to this location as `[MAVEN_INSTALL_DIR]`.
 
@@ -118,7 +118,7 @@ Click on `New…`.
 
 Enter "<kbd>M2_HOME</kbd>" as variable name. Enter the `[MAVEN_INSTALL_DIR]` as variable value.
 
-In this tutorial the installation directory is: `C:\Users\Downlinko\tools\apache-maven-3.2.5`.
+In this tutorial the installation directory is: `C:\Users\Downlinko\tools\maven\apache-maven-3.2.5`.
 
 Click `OK`.
 
