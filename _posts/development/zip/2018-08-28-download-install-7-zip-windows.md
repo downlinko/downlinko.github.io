@@ -8,35 +8,28 @@ header:
   teaser: "assets/images/posts/development/zip/download-install-7-zip-windows.png"
 categories: [Development]
 tags: [7-Zip, Download, Install, Setup, Tutorial, Windows, Zip]
-published: false
+published: true
 ---
 
 <img src="{{ site.url }}/assets/images/posts/development/zip/download-install-7-zip-windows.png" alt="download install 7-zip windows" class="align-right title-image">
 
-Today you’re going to learn how to download and install [Visual Studio Code](https://code.visualstudio.com/){:target="_blank"} on Windows.
+This is a quick guide on how to download and install [7-Zip](https://www.7-zip.org/){:target="_blank"} on Windows.
 
-(FAST)
+You’ll love the clear step-by-step approach in this tutorial.
 
-I’m going to show you where to get the installer. And how to run the setup.
-
-Let’s jump right in…
+Ready?
 
 ## Step #1: Download
 
-Head over to the [Visual Studio Code downloads page](https://code.visualstudio.com/#alt-downloads){:target="_blank"}.
+Head over to the [7-Zip home page](https://www.7-zip.org/){:target="_blank"}.
 
-There are three Windows installer versions available:
-* **User installer**: installs in your User folder and does not need Administrator privileges.
-* **System installer**: installs for all users on the system and needs Administrator privileges.
-* **.zip installer**: a portable version.
-
-> Note that [the User setup is recommended since version 1.26](https://code.visualstudio.com/updates/v1_26#_user-setup-for-windows){:target="_blank"}.
+At the top of the page, you can find the installers for Windows.
 
 [Check your windows bit version]({{ site.url }}/windows-10-bit-version-check.html) and click on the corresponding link.
 
-In this guide, we will download the `64 bit User installer`.
+In this guide, we will download the `64-bit x64` version.
 
-<img src="{{ site.url }}/assets/images/posts/development/zip/visual-studio-code-download-user-installer.png" alt="visual studio code download user installer">
+<img src="{{ site.url }}/assets/images/posts/development/zip/7-zip-download-installer.png" alt="7-zip download installer">
 
 Wait for the download to complete.
 
@@ -44,7 +37,7 @@ Wait for the download to complete.
 
 Open the location of the downloaded executable.
 
-<img src="{{ site.url }}/assets/images/posts/development/zip/visual-studio-code-downloaded-installer.png" alt="visual-studio-code-downloaded-installer">
+<img src="{{ site.url }}/assets/images/posts/development/zip/7-zip-downloaded-installer.png" alt="7-zip downloaded installer">
 
 Double-click it to run the installer.
 
@@ -54,74 +47,36 @@ Click on `Install anyway`.
 
 <img src="{{ site.url }}/assets/images/posts/windows-10-install-app-not-in-store.png" alt="windows 10 install app not in store">
 
-The installer setup wizard will open.
+The installer will open.
 
-Click `Next`.
+You can change the installation location by clicking on the `…` button.
 
-<img src="{{ site.url }}/assets/images/posts/development/zip/visual-studio-code-installer-start.png" alt="visual studio code installer start">
+In this example, we keep the default install location of `C:\Program Files\7-Zip\`.
 
-Click on the radio button next to `I accept the agreement`.
-
-Click `Next`.
-
-<img src="{{ site.url }}/assets/images/posts/development/zip/visual-studio-code-installer-license-agreement.png" alt="visual studio code installer license agreement">
-
-You can change the installation location by clicking on the `Browse…` button.
-
-In this example, we keep the default install location.
-
-Click `Next`.
-
-<img src="{{ site.url }}/assets/images/posts/development/zip/visual-studio-code-installer-destination-location.png" alt="visual studio code installer destination location">
-
-Keep the default Start Menu Folder.
-
-Click `Next`.
-
-<img src="{{ site.url }}/assets/images/posts/development/zip/visual-studio-code-installer-start-menu-folder.png" alt="visual studio code installer start menu folder">
-
-Select the `Create a desktop icon` check box.
-
-Click `Next`.
-
-<img src="{{ site.url }}/assets/images/posts/development/zip/visual-studio-code-installer-additional-tasks.png" alt="visual studio code installer additional tasks">
-
-An overview of the selected installation settings is shown.
+<img src="{{ site.url }}/assets/images/posts/development/zip/7-zip-installer-default-location.png" alt="7-zip installer default location">
 
 Click `Install` to start the installation.
 
-<img src="{{ site.url }}/assets/images/posts/development/zip/visual-studio-code-installer-ready-to-install.png" alt="visual studio code installer ready to install">
+<img src="{{ site.url }}/assets/images/posts/development/zip/7-zip-installer-start.png" alt="7-zip-installer-start">
 
-The Visual Studio Code installation will now start.
+The 7-Zip installation will now start.
 
 A progress bar shows the various steps that are executed.
 
-<img src="{{ site.url }}/assets/images/posts/development/zip/visual-studio-code-installer-progress.png" alt="visual studio code installer progress">
+<img src="{{ site.url }}/assets/images/posts/development/zip/7-zip-installer-progress.png" alt="7-zip installer progress">
 
 Once the installation is complete, click `Finish`.
 
-<img src="{{ site.url }}/assets/images/posts/development/zip/visual-studio-code-installer-finish.png" alt="visual studio code installer finish">
+<img src="{{ site.url }}/assets/images/posts/development/zip/7-zip-installer-finish.png" alt="7-zip installer finish">
 
-Visual Studio Code will now launch.
+## Step #3: Usage
 
-## Step #3: Run
+You can now use 7-Zip to compress or decompress files.
 
-To start Visual Studio Code double-click on the desktop shortcut.
+Right-click a file and `7-Zip` is available as an item in the context menu. Depending on the type of file different actions are available.
 
-<img src="{{ site.url }}/assets/images/posts/development/zip/visual-studio-code-desktop-shortcut.png" alt="visual studio code desktop shortcut">
+<img src="{{ site.url }}/assets/images/posts/development/zip/7-zip-context-menu.png" alt="7-zip context menu">
 
-The `Welcome` editor should now open as shown below.
+**Congratulations, you have installed 7-Zip on Windows 10!**
 
-<img src="{{ site.url }}/assets/images/posts/development/zip/visual-studio-code-welcome.png" alt="visual studio code welcome">
-
-To install extensions from the marketplace click on the bottom icon on the left-hand side.
-
-<img src="{{ site.url }}/assets/images/posts/development/zip/visual-studio-code-extensions.png" alt="visual studio code extensions">
-
-**Congratulations, you have installed Visual Studio Code on Windows 10!**
-
-Have fun coding.
-
-If you liked this guide leave a short message below.
-
-Thanks!
+Drop a line below if you have any question. Or if you want to say thanks.
