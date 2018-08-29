@@ -1,7 +1,7 @@
 ---
 title: "Download and Install 7 Zip on Windows"
 permalink: /download-install-7-zip-windows.html
-excerpt: "A detailed step-by-step tutorial on how to download and install 7-Zip on Windows 10."
+excerpt: "A quick step-by-step tutorial on how to download and install 7-Zip on Windows 10."
 date: 2018-08-28
 last_modified_at: 2018-08-28
 header:
