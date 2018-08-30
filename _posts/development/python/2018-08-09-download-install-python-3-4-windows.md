@@ -41,6 +41,7 @@ Click on `Download`.
 Scroll down until the `Files` section.
 
 [Check your windows bit version]({{ site.url }}/windows-10-bit-version-check.html) and click on the corresponding link:
+
 * For 32-bit = Windows <kbd>x86</kbd> MSI installer
 * For 64-bit = Windows <kbd>x86-64</kbd> MSI installer
 

@@ -23,13 +23,16 @@ Ready?
 
 Head over to the [Atom latest release page](https://github.com/atom/atom/releases/latest){:target="_blank"} on GitHub.
 
-At the top of the page, you can find the installers for Windows.
+[Check your windows bit version]({{ site.url }}/windows-10-bit-version-check.html) and click on the corresponding link under the `Assets` section:
 
-[Check your windows bit version]({{ site.url }}/windows-10-bit-version-check.html) and click on the corresponding link.
+* For 32-bit = <kbd>AtomSetup.exe</kbd>
+* For 64-bit = <kbd>AtomSetup-x64.exe</kbd>
 
-In this guide, we will download the `64-bit x64` version.
+In this guide, we will download the `64-bit` version.
 
-<img src="{{ site.url }}/assets/images/posts/development/editors/7-zip-download-installer.png" alt="7-zip download installer">
+At the time of writing the latest stable Atom release was version: `1.30.0`.
+
+<img src="{{ site.url }}/assets/images/posts/development/editors/atom-latest-release-page.png" alt="atom-latest-release-page">
 
 Wait for the download to complete.
 
@@ -37,7 +40,7 @@ Wait for the download to complete.
 
 Open the location of the downloaded executable.
 
-<img src="{{ site.url }}/assets/images/posts/development/editors/7-zip-downloaded-installer.png" alt="7-zip downloaded installer">
+<img src="{{ site.url }}/assets/images/posts/development/editors/atom-downloaded-installer.png" alt="atom downloaded installer">
 
 Double-click it to run the installer.
 
