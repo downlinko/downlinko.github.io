@@ -7,7 +7,7 @@ last_modified_at: 2018-08-18
 header:
   teaser: "assets/images/posts/development/editors/download-install-visual-studio-code-windows.png"
 categories: [Development]
-tags: [Code Editor, Download, Install, Setup, Tutorial, Visual Studio, Windows]
+tags: [Code Editor, Download, Install, Setup, Tutorial, Visual Studio Code, Windows]
 published: true
 ---
 
