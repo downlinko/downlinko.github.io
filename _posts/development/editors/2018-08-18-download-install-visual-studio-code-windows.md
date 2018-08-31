@@ -80,7 +80,7 @@ Click `Next`.
 
 <img src="{{ site.url }}/assets/images/posts/development/editors/visual-studio-code-installer-start-menu-folder.png" alt="visual studio code installer start menu folder">
 
-Select the `Create a desktop icon` check box.
+Select the `Create a desktop icon` checkbox.
 
 Click `Next`.
 
@@ -120,8 +120,8 @@ To install extensions from the marketplace click on the bottom icon on the left-
 
 **Congratulations, you have installed Visual Studio Code on Windows 10!**
 
-Have fun coding.
+Have fun coding!
 
 If you liked this guide leave a short message below.
 
-Thanks!
+Thanks.
