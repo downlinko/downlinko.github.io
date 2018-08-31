@@ -60,7 +60,7 @@ The installer will open and start the setup.
 
 <img src="{{ site.url }}/assets/images/posts/development/editors/atom-installer-progress.png" alt="7-zip installer progress">
 
-The setup program will install Atom, add the `atom` and `apm` commands to your PATH. It will also create shortcuts on your desktop and in the start menu.
+The setup program will install Atom, add the `atom` and `apm` commands to your Windows `PATH` variable. It will also create shortcuts on your desktop and in the start menu.
 
 Once the installation is complete, Atom will start.
 
