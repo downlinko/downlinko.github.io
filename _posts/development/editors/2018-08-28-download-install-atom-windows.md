@@ -2,13 +2,13 @@
 title: "Download and Install Atom on Windows"
 permalink: /download-install-atom-windows.html
 excerpt: "A quick step-by-step tutorial on how to download and install Atom on Windows 10."
-date: 2018-08-30
-last_modified_at: 2018-08-30
+date: 2018-08-31
+last_modified_at: 2018-08-31
 header:
   teaser: "assets/images/posts/development/editors/download-install-atom-windows.png"
 categories: [development]
 tags: [Atom, Code Editor, Download, Install, Setup, Tutorial, Windows]
-published: false
+published: true
 ---
 
 <img src="{{ site.url }}/assets/images/posts/development/editors/download-install-atom-windows.png" alt="download install atom windows" class="align-right title-image">
@@ -18,6 +18,10 @@ This is a quick guide on how to download and install [Atom](https://atom.io/){:t
 You’ll love the clear **step-by-step approach** in this tutorial.
 
 Ready?
+
+## What is Atom?
+
+Atom is an open source text editor that works on different operating systems. It contains features like auto-completion and code navigation. The team behind GitHub develops and maintains Atom.
 
 ## Step #1: Download
 
@@ -50,36 +54,30 @@ Click on `Install anyway`.
 
 <img src="{{ site.url }}/assets/images/posts/windows-10-install-app-not-in-store.png" alt="windows 10 install app not in store">
 
-The installer will open.
+The installer will open and start the setup.
 
-You can change the installation location by clicking on the `…` button.
+<img src="{{ site.url }}/assets/images/posts/development/editors/atom-installer-progress.png" alt="7-zip installer progress">
 
-In this example, we keep the default install location of `C:\Program Files\7-Zip\`.
+The setup program will install Atom, add the `atom` and `apm` commands to your PATH. It will also create shortcuts on your desktop and in the start menu.
 
-<img src="{{ site.url }}/assets/images/posts/development/editors/7-zip-installer-default-location.png" alt="7-zip installer default location">
+Once the installation is complete, Atom will start.
 
-Click `Install` to start the installation.
+## Step #3: Run
 
-<img src="{{ site.url }}/assets/images/posts/development/editors/7-zip-installer-start.png" alt="7-zip-installer-start">
+To start Atom double-click on the desktop shortcut.
 
-The 7-Zip installation will now start.
+<img src="{{ site.url }}/assets/images/posts/development/editors/atom-desktop-shortcut.png" alt="visual studio code desktop shortcut">
 
-A progress bar shows the various steps that are executed.
+The `Welcome Guide` editor should now open as shown below.
 
-<img src="{{ site.url }}/assets/images/posts/development/editors/7-zip-installer-progress.png" alt="7-zip installer progress">
+<img src="{{ site.url }}/assets/images/posts/development/editors/atom-welcome-guide.png" alt="visual studio code welcome">
 
-Once the installation is complete, click `Close`.
+**Congratulations, you have installed Atom on Windows 10!**
 
-<img src="{{ site.url }}/assets/images/posts/development/editors/7-zip-installer-finish.png" alt="7-zip installer finish">
+Now go ahead and [learn some Atom basics](https://flight-manual.atom.io/getting-started/sections/atom-basics/){:target="_blank"}.
 
-## Step #3: Usage
+Have fun coding!
 
-You can now use 7-Zip to compress or decompress files.
+If you liked this guide leave a short message below.
 
-Right-click a file and `7-Zip` is available as an item in the context menu. Depending on the type of file different actions are available.
-
-<img src="{{ site.url }}/assets/images/posts/development/editors/7-zip-context-menu.png" alt="7-zip context menu">
-
-**Congratulations, you have installed 7-Zip on Windows 10!**
-
-Drop a line below if you have any question. Or if you want to say thanks.
+Thanks.
