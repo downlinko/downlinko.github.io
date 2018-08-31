@@ -2,13 +2,17 @@
 title: "Guides Overview"
 permalink: /guides
 excerpt: "Overview of the installation guides available on Downlinko."
-date: 2018-08-28
-last_modified_at: 2018-08-28
+date: 2018-08-31
+last_modified_at: 2018-08-31
 ---
 
 This page contains an overview of all the installation guides.
 
 ## Development
+
+### Atom
+
+* [Download and Install Atom on Windows]({{ site.url }}/download-install-atom-windows.html)
 
 ### cURL
 
@@ -47,6 +51,10 @@ This page contains an overview of all the installation guides.
 
 * [Download and Install Python 2.7 on Windows]({{ site.url }}/download-install-python-2-7-windows.html)
 * [Download and Install Python 3.4 on Windows]({{ site.url }}/download-install-python-3-4-windows.html)
+
+### Visual Studio Code
+
+* [Download and Install Visual Studio Code on Windows]({{ site.url }}/download-install-visual-studio-code-windows.html)
 
 ## Utilities
 
