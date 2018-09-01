@@ -8,7 +8,7 @@ header:
   teaser: "assets/images/posts/development/golang/download-install-golang-windows.png"
 categories: [Development]
 tags: [Download, Go, Golang, Install, Setup, Tutorial, Windows]
-published: false
+published: true
 ---
 
 <img src="{{ site.url }}/assets/images/posts/development/golang/download-install-golang-windows.png" alt="download install golang windows" class="align-right title-image">
@@ -25,7 +25,7 @@ So let's fire away:
 
 ## Step #1: Download
 
-Head over to the [Golang downloads page](https://golang.org/dl/){:target="_blank"}. Here you will find a number of binary releases available.
+Head over to the [Golang downloads page](https://golang.org/dl/){:target="_blank"}. Here you will find all the available binary releases.
 
 [Verify your windows bit version]({{ site.url }}/windows-10-bit-version-check.html) and click on the corresponding link under the `Stable versions` section:
 
@@ -64,77 +64,25 @@ Make sure the `I accept the terms in License Agreement` checkbox is selected. Cl
 
 You can change the installation location by clicking on the `Change…` button.
 
-In this example, we keep the default install location of `C:\Program Files\Java\jdk-10.0.2\`. From now on we will refer to this directory as `[JAVA_INSTALL_DIR]`.
+In this example, we keep the default install location of `C:\Go\`.
 
-<img src="{{ site.url }}/assets/images/posts/development/golang/jdk-10-installer-default-location.png" alt="jdk 10 installer default location">
+<img src="{{ site.url }}/assets/images/posts/development/golang/golang-installer-default-location.png" alt="golang installer default location">
 
-We will not install the public JRE as the JDK development tools already include a private JRE.
+Click `Install` to start the installation.
 
-Select the `Public JRE` dropdown and click on `This feature will not be available.` as shown below.
+<img src="{{ site.url }}/assets/images/posts/development/golang/golang-installer-ready.png" alt="golang installer ready">
 
-<img src="{{ site.url }}/assets/images/posts/development/golang/jdk-10-installer-disable-public-jre.png" alt="jdk 10 installer disable public jre">
-
-Click `Next` to start the installation.
-
-<img src="{{ site.url }}/assets/images/posts/development/golang/jdk-10-installer-custom-setup.png" alt="jdk 10 installer custom setup">
-
-The JDK installation will now start.
+The Golang installation will now start.
 
 A progress bar shows the various steps that are executed.
 
-<img src="{{ site.url }}/assets/images/posts/development/golang/jdk-10-installer-progress.png" alt="jdk 10 installer progress">
+<img src="{{ site.url }}/assets/images/posts/development/golang/golang-installer-progress.png" alt="golang installer progress">
 
 Once the installation is complete, click `Close`.
 
-<img src="{{ site.url }}/assets/images/posts/development/golang/jdk-10-installer-complete.png" alt="jdk 10 installer complete">
+<img src="{{ site.url }}/assets/images/posts/development/golang/golang-installer-complete.png" alt="golang installer complete">
 
-## Step #3: Setup
-
-We need to set up an environment variable that will point to our JDK installation.
-
-Click on the search button. Then type "<kbd>env</kbd>" (without quotes).
-
-> On Windows 7 click on the Windows button.
-
-Click on the `Edit environment variables for your account` shortcut.
-
-<img src="{{ site.url }}/assets/images/posts/development/windows-search-env.png" alt="windows search env">
-
-Wait for the environment variables window to open.
-
-Click on `New…`.
-
-<img src="{{ site.url }}/assets/images/posts/development/windows-account-environment-variables-new.png" alt="windows account environment variables new">
-
-Enter "<kbd>JAVA_HOME</kbd>" as variable name. Enter the `[JAVA_INSTALL_DIR]` as variable value.
-
-In this tutorial, the Java installation directory is `C:\Program Files\Java\jdk-10.0.2`.
-
-Click `OK`.
-
-<img src="{{ site.url }}/assets/images/posts/development/golang/jdk-10-home-variable.png" alt="jdk 10 home variable">
-
-Next, we need to configure the PATH environment variable so we can run Java from a command prompt.
-
-Select the `Path` variable. Click on `Edit…`.
-
-<img src="{{ site.url }}/assets/images/posts/development/golang/jdk-edit-path-variable.png" alt="jdk edit path variable">
-
-Click on `New` and type "<kbd>%JAVA_HOME%\bin</kbd>" as shown below.
-
-Click `OK`.
-
-<img src="{{ site.url }}/assets/images/posts/development/golang/jdk-10-edit-path-variable-add-java-home.png" alt="jdk 10 edit path variable add java home">
-
-Click `OK` once more to close the environment variables window.
-
-<img src="{{ site.url }}/assets/images/posts/development/golang/jdk-10-windows-account-environment-variables.png" alt="jdk 10 windows account environment variables">
-
-> If a `Path` variable does not exist you need to create it. Use "<kbd>Path</kbd>" as variable name and "<kbd>%JAVA_HOME%\bin</kbd>" as variable value.
-
-> On Windows 7 you cannot add extra values for an existing `Path` variable. You need to append "<kbd>;%JAVA_HOME%\bin</kbd>" at the end of the variable value instead.
-
-## Step #4: Test
+## Step #3: Test
 
 Let's test the setup.
 
@@ -146,18 +94,22 @@ Click on the `Command Prompt` shortcut.
 
 Wait for the command prompt to open.
 
-Type "<kbd>java -version</kbd>" and press `ENTER`.
+Type "<kbd>go version</kbd>" and press `ENTER`.
 
-<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-version-command.png" alt="jdk version command">
+<img src="{{ site.url }}/assets/images/posts/development/golang/golang-version-command.png" alt="golang-version-command">
 
-The above command prints the installed JDK version: `10.0.2`.
+The above command prints the installed Golang version: `go version go1.11`.
 
-<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-10-version-output.png" alt="jdk 10 version output">
+<img src="{{ site.url }}/assets/images/posts/development/golang/golang-version-output.png" alt="golang version output">
 
-**Congratulations, you have installed JDK 1.10 on Windows 10!**
+**Congratulations, you have installed Golang on Windows 10!**
 
-Now let me know if you liked this post.
+> If you want to know your `GOPATH` directory type "<kbd>echo %GOPATH%</kbd>" in a command prompt and press `ENTER`.
 
-Leave a comment below.
+Now go ahead and [learn some Golang basics](https://golang.org/doc/install#testing){:target="_blank"}.
 
-Thanks!
+Have fun coding!
+
+If you liked this guide leave a short message below.
+
+Thanks.
