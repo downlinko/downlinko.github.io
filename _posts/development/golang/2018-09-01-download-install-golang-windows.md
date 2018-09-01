@@ -13,40 +13,30 @@ published: false
 
 <img src="{{ site.url }}/assets/images/posts/development/golang/download-install-golang-windows.png" alt="download install golang windows" class="align-right title-image">
 
-In this guide, I’m going to show you exactly how to download and install JDK 10 on Windows.
+So you want to download and install the [Go programming language](https://golang.org/){:target="_blank"} on Windows?
 
-(Step-by-step)
+Then look no further!
 
-First, I’ll show you where you can download JDK 10.
+In this guide, you’ll learn how to download the compiler…
 
-Then you’ll see how to configure it.
+…and how to configure it so you can use it from command line.
 
-And finally **how to verify if everything is working**.
-
-Let’s dive right in…
-
-Check following post if you are looking to download and install [JDK 1.6]({{ site.url }}/download-install-jdk-6-windows.html), [JDK 1.7]({{ site.url }}/download-install-jdk-7-windows.html) or [JDK 1.8]({{ site.url }}/download-install-jdk-8-windows.html).
-{: .notice--primary}
+So let's fire away:
 
 ## Step #1: Download
 
-There are [several Java packages available](https://docs.oracle.com/javaee/6/firstcup/doc/gkhoy.html){:target="_blank"}. In this tutorial, we will install the Java Standard Edition (SE) platform.
+Head over to the [Golang downloads page](https://golang.org/dl/){:target="_blank"}. Here you will find a number of binary releases available.
 
-Java SE contains a **Java Development Kit** (JDK) that comes with a Java compiler. It also has a Java runtime environment (JRE) that can run compiled Java code.
+[Verify your windows bit version]({{ site.url }}/windows-10-bit-version-check.html) and click on the corresponding link under the `Stable versions` section:
 
-Head over to the [Oracle Java download page](http://www.oracle.com/technetwork/java/javase/downloads/index.html){:target="_blank"}.
+* For 32-bit = <kbd>goX.XX.windows-386.msi</kbd>
+* For 64-bit = <kbd>goX.XX.windows-amd64.msi</kbd>
 
-Look for the `Java SE 10.0.2` section.
+In this tutorial, we will download the `64-bit` version.
 
-Click on the `Download` button right below `JDK`.
+At the time of writing the latest stable Golang release was version: `1.11`.
 
-<img src="{{ site.url }}/assets/images/posts/development/golang/jdk-10-download-java-se.png" alt="jdk 10 download java se">
-
-Click on the radio button next to `Accept License Agreement`.
-
-Click on the Windows download link: `jdk-10.0.2_windows-x64_bin.exe`.
-
-<img src="{{ site.url }}/assets/images/posts/development/golang/jdk-10-download-java-se-windows-binary.png" alt="jdk 10 download java se windows binary">
+<img src="{{ site.url }}/assets/images/posts/development/golang/golang-latest-binary-release-page.png" alt="golang latest binary release-page">
 
 Wait for the download to complete.
 
@@ -54,7 +44,7 @@ Wait for the download to complete.
 
 Open the location of the downloaded executable.
 
-<img src="{{ site.url }}/assets/images/posts/development/golang/jdk-10-downloaded-installer.png" alt="jdk 10 downloaded installer">
+<img src="{{ site.url }}/assets/images/posts/development/golang/golang-downloaded-installer.png" alt="golang downloaded installer">
 
 Double-click it to run the installer.
 
@@ -64,9 +54,13 @@ Click on `Install anyway`.
 
 <img src="{{ site.url }}/assets/images/posts/windows-10-install-app-not-in-store.png" alt="windows 10 install app not in store">
 
-The JDK installer will start. Click `Next`.
+The Golang installer wizard will start. Click `Next`.
 
-<img src="{{ site.url }}/assets/images/posts/development/golang/jdk-10-installer-start.png" alt="jdk 10 installer start">
+<img src="{{ site.url }}/assets/images/posts/development/golang/golang-installer-start.png" alt="golang installer start">
+
+Make sure the `I accept the terms in License Agreement` checkbox is selected. Click `Next`.
+
+<img src="{{ site.url }}/assets/images/posts/development/golang/golang-installer-license-agreement.png" alt="golang installer license agreement">
 
 You can change the installation location by clicking on the `Change…` button.
 
