@@ -78,7 +78,7 @@ A progress bar shows the various steps that are executed.
 
 <img src="{{ site.url }}/assets/images/posts/development/golang/golang-installer-progress.png" alt="golang installer progress">
 
-Once the installation is complete, click `Close`.
+Once the installation is complete, click `Finish`.
 
 <img src="{{ site.url }}/assets/images/posts/development/golang/golang-installer-complete.png" alt="golang installer complete">
 
