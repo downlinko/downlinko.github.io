@@ -21,7 +21,7 @@ Ready?
 
 ## What is Atom?
 
-Atom is an **open source text editor** that works on different operating systems. It contains features like auto-completion and code navigation.
+[Atom](https://en.wikipedia.org/wiki/Atom_(text_editor)){:target="_blank"} is an **open source text editor** that works on different operating systems. It contains features like auto-completion and code navigation.
 
 The team behind [GitHub](https://github.com/){:target="_blank"} develops and maintains Atom.
 

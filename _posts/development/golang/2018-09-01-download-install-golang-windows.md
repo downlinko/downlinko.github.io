@@ -25,7 +25,7 @@ So let's fire away:
 
 ## What is Golang?
 
-[Go](https://en.wikipedia.org/wiki/Go_(programming_language)){:target="_blank"} (often referred to as Golang) is an open source programming language. It comes with built-in concurrency and is strong and static typed. Go is an imperative language that supports object-oriented programming (OOP).
+[Go](https://en.wikipedia.org/wiki/Go_(programming_language)){:target="_blank"} (often referred to as Golang) is an open source programming language. It comes with **built-in concurrency** and is strong and static typed. Go is an imperative language that supports object-oriented programming (OOP).
 
 Golang is maintained and developed by a team at [Google](https://www.google.com/){:target="_blank"} and many contributors from the open source community.
 
