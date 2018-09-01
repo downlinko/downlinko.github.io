@@ -62,7 +62,7 @@ The installer will open and start the setup.
 
 The setup program will install Atom, add the `atom` and `apm` commands to your Windows `PATH` variable. It will also create shortcuts on your desktop and in the start menu.
 
-Once the installation is complete, Atom will start.
+Once the installation is complete, Atom will launch.
 
 ## Step #3: Run
 

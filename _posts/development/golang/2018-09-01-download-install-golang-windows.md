@@ -19,9 +19,15 @@ Then look no further!
 
 In this guide, you’ll learn how to download the compiler…
 
-…and how to configure it so you can use it from command line.
+…and how to install it so you can use it from command line.
 
 So let's fire away:
+
+## What is Golang?
+
+[Go](https://en.wikipedia.org/wiki/Go_(programming_language)){:target="_blank"} (often referred to as Golang) is an open source programming language. It comes with built-in concurrency and is strong and static typed. Go is an imperative language that supports object-oriented programming (OOP).
+
+Golang is maintained and developed by a team at [Google](https://www.google.com/){:target="_blank"} and many contributors from the open source community.
 
 ## Step #1: Download
 
@@ -104,7 +110,7 @@ The above command prints the installed Golang version: `go version go1.11`.
 
 **Congratulations, you have installed Golang on Windows 10!**
 
-> If you want to know your `GOPATH` directory type "<kbd>echo %GOPATH%</kbd>" in a command prompt and press `ENTER`.
+> If you want to know your `GOPATH` directory, type "<kbd>echo %GOPATH%</kbd>" in a command prompt and press `ENTER`.
 
 Now go ahead and [learn some Golang basics](https://golang.org/doc/install#testing){:target="_blank"}.
 
