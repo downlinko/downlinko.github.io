@@ -19,6 +19,10 @@ You’ll love the clear **step-by-step approach** in this tutorial.
 
 Ready?
 
+## What is 7-Zip?
+
+
+
 ## Step #1: Download
 
 Head over to the [7-Zip home page](https://www.7-zip.org/){:target="_blank"}.

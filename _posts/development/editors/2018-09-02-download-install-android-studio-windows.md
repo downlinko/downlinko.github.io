@@ -13,17 +13,17 @@ published: false
 
 <img src="{{ site.url }}/assets/images/posts/development/editors/download-install-android-studio-windows.png" alt="download install android studio windows" class="align-right title-image">
 
-This is a quick guide on how to download and install [Atom](https://atom.io/){:target="_blank"} on Windows.
+This is a complete guide on how to download and install [Android Studio](https://developer.android.com/studio/){:target="_blank"} on Windows.
 
-You’ll love the clear **step-by-step approach** in this tutorial.
+(Step-by-step)
 
-Ready?
+We’ve got a lot to cover, so let’s get started.
 
-## What is Atom?
+## What is Android Studio?
 
-[Atom](https://en.wikipedia.org/wiki/Atom_(text_editor)){:target="_blank"} is an **open source text editor** that works on different operating systems. It contains features like auto-completion and code navigation.
+[Android Studio](https://en.wikipedia.org/wiki/Android_Studio){:target="_blank"} is an integrated development environment (IDE). It provides tools for building apps on every type of Android device.
 
-The team behind [GitHub](https://github.com/){:target="_blank"} develops and maintains Atom.
+Android Studio works on Windows, macOS and Linux.
 
 ## Step #1: Download
 
