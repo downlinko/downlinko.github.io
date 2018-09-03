@@ -124,7 +124,7 @@ Select the UI theme you prefer and click `Next`.
 
 <img src="{{ site.url }}/assets/images/posts/development/editors/android-studio-setup-select-ui-theme.png" alt="android studio setup select ui theme">
 
-An overview of the different components that need to be configured is shown.
+An overview of the different components that are going to be configured is shown.
 
 Click `Finish` to start the setup.
 
