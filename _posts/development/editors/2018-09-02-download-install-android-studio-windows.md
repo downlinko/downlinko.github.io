@@ -96,17 +96,17 @@ Once the installation is complete, click `Next`.
 
 <img src="{{ site.url }}/assets/images/posts/development/editors/android-studio-installer-complete.png" alt="android studio installer complete">
 
-Click `Finish` to complete the Android Studio setup.
+Click `Finish` to complete the setup. Android Studio will now launch.
 
 <img src="{{ site.url }}/assets/images/posts/development/editors/android-studio-installer-finish.png" alt="android studio installer finish">
 
 ## Step #3: Setup
 
-Next we need to configure Android Studio.
+Before you can use Android Studio you need to configure it.
 
 A pop-up appears that allows you to import existing settings from a custom location.
 
-In this example we will apply the default settings. In order to do this select the `Do not import settings` radio button and click `OK`.
+In this example we will apply the default settings. To do this select the `Do not import settings` radio button and click `OK`.
 
 <img src="{{ site.url }}/assets/images/posts/development/editors/android-studio-setup-complete-installation.png" alt="android studio setup complete installation">
 
@@ -114,11 +114,13 @@ A welcome screen appears. Click `Next`.
 
 <img src="{{ site.url }}/assets/images/posts/development/editors/android-studio-setup-wizard.png" alt="android studio setup wizard">
 
-Keep the `Standard` install type selected. Click `Next`.
+Keep the `Standard` install type that is selected by default.
+
+Click `Next`.
 
 <img src="{{ site.url }}/assets/images/posts/development/editors/android-studio-setup-install-type.png" alt="android studio setup install type">
 
-Select a UI theme and click `Next`.
+Select the UI theme you prefer and click `Next`.
 
 <img src="{{ site.url }}/assets/images/posts/development/editors/android-studio-setup-select-ui-theme.png" alt="android studio setup select ui theme">
 
@@ -130,7 +132,7 @@ Click `Finish` to start the setup.
 
 The Android Studio configuration will now start.
 
-A progress bar shows the details of the various steps that are performed.
+A progress bar shows the details of the various steps that are performed. Note that this can take a while depending on your download speed.
 
 <img src="{{ site.url }}/assets/images/posts/development/editors/android-studio-setup-progress.png" alt="android studio setup progress">
 
@@ -138,8 +140,9 @@ Click `Finish` to complete the Android Studio configuration.
 
 <img src="{{ site.url }}/assets/images/posts/development/editors/android-studio-setup-finish.png" alt="android studio setup finish">
 
+Once the setup is complete, Android Studio will launch and a welcome screen appears.
 
-
+<img src="{{ site.url }}/assets/images/posts/development/editors/android-studio-welcome.png" alt="android studio welcome">
 
 **Congratulations, you have installed Android Studio on Windows 10!**
 
