@@ -146,10 +146,10 @@ Once the setup is complete, Android Studio will launch and a welcome screen appe
 
 **Congratulations, you have installed Android Studio on Windows 10!**
 
-Now go ahead and [learn some Atom basics](https://flight-manual.atom.io/getting-started/sections/atom-basics/){:target="_blank"}.
+Now go ahead and [build your first app](https://developer.android.com/training/basics/firstapp/){:target="_blank"}.
 
 Have fun coding!
 
-If you liked this guide leave a short message below.
+If you liked this tutorial please leave a comment below.
 
 Thanks.
