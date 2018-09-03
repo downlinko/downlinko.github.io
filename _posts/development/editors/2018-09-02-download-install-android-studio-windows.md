@@ -27,26 +27,32 @@ Android Studio works on Windows, macOS and Linux.
 
 ## Step #1: Download
 
-Head over to the [Atom latest release page](https://github.com/atom/atom/releases/latest){:target="_blank"} on GitHub.
+Head over to the [Android Studio downloads release page](https://developer.android.com/studio/#downloads){:target="_blank"}.
 
-[Check your windows bit version]({{ site.url }}/windows-10-bit-version-check.html) and click on the corresponding link under the `Assets` section:
+[Check your windows bit version]({{ site.url }}/windows-10-bit-version-check.html) and click on the corresponding link:
 
-* For 32-bit = <kbd>AtomSetup.exe</kbd>
-* For 64-bit = <kbd>AtomSetup-x64.exe</kbd>
+* For 32-bit = <kbd>android-studio-ide-X.X-windows32.zip</kbd>
+* For 64-bit = <kbd>android-studio-ide-X.X-windows.exe</kbd>
 
-In this guide, we will download the `64-bit` version.
+> For 64-bit, make sure to choose the `Recommended` version which is an `exe` file.
 
-At the time of writing the latest stable Atom release was version: `1.30.0`.
+In this tutorial, we will work with the `64-bit` version.
 
-<img src="{{ site.url }}/assets/images/posts/development/editors/atom-latest-release-page.png" alt="atom-latest-release-page">
+At the time of writing the latest stable Android Studio release was version: `173.4907809`.
 
-Wait for the download to complete.
+<img src="{{ site.url }}/assets/images/posts/development/editors/android-studio-latest-release-page.png" alt="android studio latest release page">
+
+Enable the checkbox to accept the terms and conditions. Click on the `DOWNLOAD ANDROID STUDIO FOR WINDOWS` button to start the download.
+
+<img src="{{ site.url }}/assets/images/posts/development/editors/android-studio-terms-conditions.png" alt="android studio terms conditions">
+
+Now wait for the download to complete.
 
 ## Step #2: Install
 
 Open the location of the downloaded executable.
 
-<img src="{{ site.url }}/assets/images/posts/development/editors/atom-downloaded-installer.png" alt="atom downloaded installer">
+<img src="{{ site.url }}/assets/images/posts/development/editors/android-studio-downloaded-installer.png" alt="android studio downloaded installer">
 
 Double-click it to run the installer.
 
@@ -56,9 +62,16 @@ Click on `Install anyway`.
 
 <img src="{{ site.url }}/assets/images/posts/windows-10-install-app-not-in-store.png" alt="windows 10 install app not in store">
 
-The installer will open and start the setup.
+The Android Studio installer will start. Click `Next`.
 
-<img src="{{ site.url }}/assets/images/posts/development/editors/atom-installer-progress.png" alt="7-zip installer progress">
+<img src="{{ site.url }}/assets/images/posts/development/editors/android-studio-installer-start.png" alt="android studio installer start">
+
+You can choose the components you want to install. Keep the default settings and click next.
+
+<img src="{{ site.url }}/assets/images/posts/development/editors/android-studio-choose-components.png" alt="android studio choose components">
+
+
+
 
 The setup program will install Atom, add the `atom` and `apm` commands to your Windows `PATH` variable. It will also create shortcuts on your desktop and in the start menu.
 
