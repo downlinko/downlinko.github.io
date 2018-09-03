@@ -38,7 +38,7 @@ In this guide, we will download the `64-bit` version.
 
 At the time of writing the latest stable Atom release was version: `1.30.0`.
 
-<img src="{{ site.url }}/assets/images/posts/development/editors/atom-latest-release-page.png" alt="atom-latest-release-page">
+<img src="{{ site.url }}/assets/images/posts/development/editors/atom-latest-release-page.png" alt="atom latest release page">
 
 Wait for the download to complete.
 

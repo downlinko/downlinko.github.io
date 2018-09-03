@@ -44,7 +44,7 @@ Wait for the download to complete.
 
 Open the location of the downloaded executable.
 
-<img src="{{ site.url }}/assets/images/posts/development/editors/visual-studio-code-downloaded-installer.png" alt="visual-studio-code-downloaded-installer">
+<img src="{{ site.url }}/assets/images/posts/development/editors/visual-studio-code-downloaded-installer.png" alt="visual studio code downloaded installer">
 
 Double-click it to run the installer.
 
