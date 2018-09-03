@@ -23,7 +23,7 @@ We’ve got a lot to cover, so let’s get started.
 
 [Android Studio](https://en.wikipedia.org/wiki/Android_Studio){:target="_blank"} is an integrated development environment (IDE). It provides tools for building apps on every type of Android device.
 
-Android Studio works on Windows, macOS and Linux.
+Android Studio works on Windows, macOS, and Linux.
 
 ## Step #1: Download
 
@@ -44,11 +44,11 @@ At the time of writing the latest stable Android Studio release was version: `17
 
 Enable the checkbox to accept the terms and conditions.
 
-Click on the `DOWNLOAD ANDROID STUDIO FOR WINDOWS` button to start the download.
+Click on the `Download Android Studio for Windows` button to start the download.
 
 <img src="{{ site.url }}/assets/images/posts/development/editors/android-studio-terms-conditions.png" alt="android studio terms conditions">
 
-Now wait for the download to complete.
+Now, wait for the download to complete.
 
 ## Step #2: Install
 
@@ -106,7 +106,7 @@ Before you can use Android Studio you need to configure it.
 
 A pop-up appears that allows you to import existing settings from a custom location.
 
-In this example we will apply the default settings. To do this select the `Do not import settings` radio button and click `OK`.
+In this guide, we will apply the default settings. To do this select the `Do not import settings` radio button and click `OK`.
 
 <img src="{{ site.url }}/assets/images/posts/development/editors/android-studio-setup-complete-installation.png" alt="android studio setup complete installation">
 
@@ -132,7 +132,9 @@ Click `Finish` to start the setup.
 
 The Android Studio configuration will now start.
 
-A progress bar shows the details of the various steps that are performed. Note that this can take a while depending on your download speed.
+A progress bar shows the details of the various steps that are performed.
+
+> Note that this can take a while depending on your download speed.
 
 <img src="{{ site.url }}/assets/images/posts/development/editors/android-studio-setup-progress.png" alt="android studio setup progress">
 
