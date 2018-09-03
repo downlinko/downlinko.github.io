@@ -8,6 +8,8 @@ header:
   teaser: "assets/images/posts/development/gradle/download-install-gradle-3-5-windows.png"
 categories: [Development]
 tags: [Download, Gradle, Install, Setup, Tutorial, Windows]
+redirect_from:
+  - /download-install-gradle-3-windows.html
 published: true
 ---
 
