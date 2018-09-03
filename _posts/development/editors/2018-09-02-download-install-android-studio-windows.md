@@ -8,7 +8,7 @@ header:
   teaser: "assets/images/posts/development/editors/download-install-android-studio-windows.png"
 categories: [development]
 tags: [Android Studio, Code Editor, Download, Install, Setup, Tutorial, Windows]
-published: true
+published: false
 ---
 
 <img src="{{ site.url }}/assets/images/posts/development/editors/download-install-android-studio-windows.png" alt="download install android studio windows" class="align-right title-image">
@@ -42,7 +42,9 @@ At the time of writing the latest stable Android Studio release was version: `17
 
 <img src="{{ site.url }}/assets/images/posts/development/editors/android-studio-latest-release-page.png" alt="android studio latest release page">
 
-Enable the checkbox to accept the terms and conditions. Click on the `DOWNLOAD ANDROID STUDIO FOR WINDOWS` button to start the download.
+Enable the checkbox to accept the terms and conditions.
+
+Click on the `DOWNLOAD ANDROID STUDIO FOR WINDOWS` button to start the download.
 
 <img src="{{ site.url }}/assets/images/posts/development/editors/android-studio-terms-conditions.png" alt="android studio terms conditions">
 
@@ -93,6 +95,10 @@ A progress bar shows the various steps that are executed.
 Once the installation is complete, click `Next`.
 
 <img src="{{ site.url }}/assets/images/posts/development/editors/android-studio-installer-complete.png" alt="android studio installer complete">
+
+Click `Finish` to complete the Android Studio setup.
+
+<img src="{{ site.url }}/assets/images/posts/development/editors/android-studio-installer-finish.png" alt="android studio installer finish">
 
 
 
