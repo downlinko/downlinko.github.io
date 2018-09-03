@@ -8,7 +8,7 @@ header:
   teaser: "assets/images/posts/development/editors/download-install-android-studio-windows.png"
 categories: [development]
 tags: [Android Studio, Code Editor, Download, Install, Setup, Tutorial, Windows]
-published: false
+published: true
 ---
 
 <img src="{{ site.url }}/assets/images/posts/development/editors/download-install-android-studio-windows.png" alt="download install android studio windows" class="align-right title-image">
@@ -68,26 +68,35 @@ The Android Studio installer will start. Click `Next`.
 
 You can choose the components you want to install. Keep the default settings and click next.
 
-<img src="{{ site.url }}/assets/images/posts/development/editors/android-studio-choose-components.png" alt="android studio choose components">
+<img src="{{ site.url }}/assets/images/posts/development/editors/android-studio-installer-choose-components.png" alt="android studio installer choose components">
+
+You can change the installation location by clicking on the `Browse..` button.
+
+In this example, we keep the default install location of `C:\Program Files\Android\Android Studio`.
+
+Click `Next`.
+
+<img src="{{ site.url }}/assets/images/posts/development/editors/android-studio-installer-installation-location.png" alt="android studio installer installation location">
+
+Keep the default Start Menu Folder.
+
+Click `Install` to start the installation.
+
+<img src="{{ site.url }}/assets/images/posts/development/editors/android-studio-installer-start-menu.png" alt="android studio installer start menu">
+
+The Android Studio installation will now start.
+
+A progress bar shows the various steps that are executed.
+
+<img src="{{ site.url }}/assets/images/posts/development/editors/android-studio-installer-progress.png" alt="android studio installer progress">
+
+Once the installation is complete, click `Next`.
+
+<img src="{{ site.url }}/assets/images/posts/development/editors/android-studio-installer-complete.png" alt="android studio installer complete">
 
 
 
-
-The setup program will install Atom, add the `atom` and `apm` commands to your Windows `PATH` variable. It will also create shortcuts on your desktop and in the start menu.
-
-Once the installation is complete, Atom will launch.
-
-## Step #3: Run
-
-To start Atom double-click on the desktop shortcut.
-
-<img src="{{ site.url }}/assets/images/posts/development/editors/atom-desktop-shortcut.png" alt="visual studio code desktop shortcut">
-
-The `Welcome Guide` editor should now open as shown below.
-
-<img src="{{ site.url }}/assets/images/posts/development/editors/atom-welcome-guide.png" alt="visual studio code welcome">
-
-**Congratulations, you have installed Atom on Windows 10!**
+**Congratulations, you have installed Android Studio on Windows 10!**
 
 Now go ahead and [learn some Atom basics](https://flight-manual.atom.io/getting-started/sections/atom-basics/){:target="_blank"}.
 
