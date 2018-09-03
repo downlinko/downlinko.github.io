@@ -58,7 +58,7 @@ Click on `Install anyway`.
 
 The installer will open and start the setup.
 
-<img src="{{ site.url }}/assets/images/posts/development/editors/atom-installer-progress.png" alt="7-zip installer progress">
+<img src="{{ site.url }}/assets/images/posts/development/editors/atom-installer-progress.png" alt="atom installer progress">
 
 The setup program will install Atom, add the `atom` and `apm` commands to your Windows `PATH` variable. It will also create shortcuts on your desktop and in the start menu.
 
@@ -68,11 +68,11 @@ Once the installation is complete, Atom will launch.
 
 To start Atom double-click on the desktop shortcut.
 
-<img src="{{ site.url }}/assets/images/posts/development/editors/atom-desktop-shortcut.png" alt="visual studio code desktop shortcut">
+<img src="{{ site.url }}/assets/images/posts/development/editors/atom-desktop-shortcut.png" alt="atom desktop shortcut">
 
 The `Welcome Guide` editor should now open as shown below.
 
-<img src="{{ site.url }}/assets/images/posts/development/editors/atom-welcome-guide.png" alt="visual studio code welcome">
+<img src="{{ site.url }}/assets/images/posts/development/editors/atom-welcome-guide.png" alt="atom welcome guide">
 
 **Congratulations, you have installed Atom on Windows 10!**
 
