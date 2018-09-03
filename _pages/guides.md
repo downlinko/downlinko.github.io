@@ -10,6 +10,10 @@ This page contains an overview of all the installation guides.
 
 ## Development
 
+### Android Studio
+
+* [Download and Install Android Studio on Windows]({{ site.url }}/download-install-android-studio-windows.html)
+
 ### Atom
 
 * [Download and Install Atom on Windows]({{ site.url }}/download-install-atom-windows.html)
