@@ -39,6 +39,7 @@ This page contains an overview of all the installation guides.
 
 ### JDK
 
+* [Download and Install JDK 1.5 on Windows]({{ site.url }}/download-install-jdk-5-windows.html)
 * [Download and Install JDK 1.6 on Windows]({{ site.url }}/download-install-jdk-6-windows.html)
 * [Download and Install JDK 1.7 on Windows]({{ site.url }}/download-install-jdk-7-windows.html)
 * [Download and Install JDK 1.8 on Windows]({{ site.url }}/download-install-jdk-8-windows.html)
