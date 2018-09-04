@@ -1,6 +1,6 @@
 ---
 title: "Download and Install CCleaner on Windows"
-permalink: /download-install-7-zip-windows.html
+permalink: /download-install-ccleaner-windows.html
 excerpt: "A quick step-by-step tutorial on how to download and install CCleaner on Windows 10."
 date: 2018-09-04
 last_modified_at: 2018-09-04
