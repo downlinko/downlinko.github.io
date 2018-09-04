@@ -1,19 +1,19 @@
 ---
 title: "Download and Install JDK 1.5 on Windows"
 permalink: /download-install-jdk-5-windows.html
-excerpt: "A detailed step-by-step tutorial on how to download and install jdk 5u45 on Windows 10."
+excerpt: "A detailed step-by-step tutorial on how to download and install jdk 1.5.0_22 on Windows 10."
 date: 2018-09-04
 last_modified_at: 2018-09-04
 header:
   teaser: "assets/images/posts/development/jdk/download-install-jdk-5-windows.png"
 categories: [Development]
 tags: [Download, Install, JDK, Setup, Tutorial, Windows]
-published: false
+published: true
 ---
 
 <img src="{{ site.url }}/assets/images/posts/development/jdk/download-install-jdk-5-windows.png" alt="download install jdk 5 windows" class="align-right title-image">
 
-In this guide, I’m going to show you exactly how to download and install JDK 1.6 on Windows.
+In this guide, I’m going to show you exactly how to download and install JDK 1.5 on Windows.
 
 (Step-by-step)
 
@@ -28,11 +28,17 @@ Let’s dive right in…
 Check following post if you are looking to download and install [JDK 1.7]({{ site.url }}/download-install-jdk-7-windows.html), [JDK 1.8]({{ site.url }}/download-install-jdk-8-windows.html) or [JDK 1.10]({{ site.url }}/download-install-jdk-10-windows.html).
 {: .notice--primary}
 
+## What is a JDK?
+
+A [Java Development Kit](https://en.wikipedia.org/wiki/Java_Development_Kit){:target="_blank"} or JDK includes tools for developing and debugging Java applications. More specifically it allows you to compile Java source code (.java files) into bytecode (.class files).
+
+A JDK also includes a [Java Virtual Machine](https://en.wikipedia.org/wiki/Java_virtual_machine){:target="_blank"} or JVM that enables you to run compiled Java code.
+
+There are different JDK implementations available. The official reference implementation is maintained by [Oracle](https://www.oracle.com/index.html){:target="_blank"}.
+
 ## Step #1: Download
 
 There are [several Java packages available](https://docs.oracle.com/javaee/6/firstcup/doc/gkhoy.html){:target="_blank"}. In this tutorial, we will install the Java Standard Edition (SE) platform.
-
-Java SE contains a **Java Development Kit** (JDK) that comes with a Java compiler. It also has a Java runtime environment (JRE) that can run compiled Java code.
 
 Head over to the [Oracle Java download page](http://www.oracle.com/technetwork/java/javase/downloads/index.html){:target="_blank"}.
 
@@ -42,21 +48,17 @@ Click on the `Download` button.
 
 <img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-java-archive.png" alt="jdk java archive">
 
-Click on the `Java SE 6` link under the `Java SE` section.
+Click on the `Java SE 5` link under the `Java SE` section.
 
 <img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-5-download-java-se.png" alt="jdk 5 download java se">
 
 Click on the radio button next to `Accept License Agreement`.
 
-[Verify your windows bit version]({{ site.url }}/windows-10-bit-version-check.html) and click on the corresponding link:
-* For 32-bit = Windows <kbd>x86</kbd> installer
-* For 64-bit = Windows <kbd>x64</kbd> installer
-
-In this guide, we will download the 64-bit installer: `jdk-5u45-windows-x64.exe`.
+Click on the following installer: `jdk-5u45-windows-x64.exe`.
 
 <img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-5-download-java-se-windows-binary.png" alt="jdk 5 download java se windows binary">
 
-Wait for the download to complete.
+Sign in using your Oracle account (or create a new one) and the download should start. Wait for it to finish.
 
 ## Step #2: Install
 
@@ -78,13 +80,13 @@ The JDK installer will start. Click `Next`.
 
 You can change the installation location by clicking on the `Change…` button.
 
-In this example, we keep the default install location of `C:\Program Files\Java\jdk1.6.0_45`. From now on we will refer to this directory as `[JAVA_INSTALL_DIR]`.
+In this example, we keep the default install location of `C:\Program Files (x86)\Java\jdk1.5.0_22`. From now on we will refer to this directory as `[JAVA_INSTALL_DIR]`.
 
 <img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-5-installer-default-location.png" alt="jdk 5 installer default location">
 
 We will not install the public JRE as the JDK development tools already include a private JRE.
 
-Select the `Public JRE` dropdown and click on `This feature will not be available.` as shown below.
+Select the `Public JRE` dropdown and click on `Don't install this feature now.` as shown below.
 
 <img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-5-installer-disable-public-jre.png" alt="jdk 5 installer disable public jre">
 
@@ -164,11 +166,13 @@ Type "<kbd>java -version</kbd>" and press `ENTER`.
 
 <img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-version-command.png" alt="jdk version command">
 
-The above command prints the installed JDK version: `1.6.0_45`.
+The above command prints the installed JDK version: `1.5.0_22`.
 
 <img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-5-version-output.png" alt="jdk 5 version output">
 
-**Congratulations, you have installed JDK 1.6 on Windows 10!**
+**Congratulations, you have installed JDK 1.5 on Windows 10!**
+
+Now go ahead and [compile and run your first Java program](https://introcs.cs.princeton.edu/java/11hello/){:target="_blank"}.
 
 Now let me know if you liked this post.
 
