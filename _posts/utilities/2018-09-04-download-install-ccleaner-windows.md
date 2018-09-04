@@ -87,4 +87,4 @@ Now checkout these [9 tricks to learn how to use CCleaner](https://en.softonic.c
 
 Drop a line below if you have any question.
 
-Or if you want to say thanks.
+Or just to say thanks.
