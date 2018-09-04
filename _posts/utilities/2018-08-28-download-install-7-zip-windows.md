@@ -23,6 +23,8 @@ Ready?
 
 [7-Zip](https://en.wikipedia.org/wiki/7-Zip){:target="_blank"} is a utility that you can use to read or write several archive formats. The program contains a command-line and a graphical user interface.
 
+7-Zip is created and maintained by Igor Pavlov.
+
 ## Step #1: Download
 
 Head over to the [7-Zip home page](https://www.7-zip.org/){:target="_blank"}.
