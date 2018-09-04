@@ -30,7 +30,7 @@ Check following post if you are looking to download and install [JDK 1.7]({{ sit
 
 ## What is a JDK?
 
-A [Java Development Kit](https://en.wikipedia.org/wiki/Java_Development_Kit){:target="_blank"} or JDK includes tools for developing and debugging Java applications. More specifically it allows you to compile Java source code (.java files) into bytecode (.class files).
+A [Java Development Kit](https://en.wikipedia.org/wiki/Java_Development_Kit){:target="_blank"} or JDK includes tools for developing and debugging Java applications. It allows you to compile Java source code (.java files) into bytecode (.class files).
 
 A JDK also includes a [Java Virtual Machine](https://en.wikipedia.org/wiki/Java_virtual_machine){:target="_blank"} or JVM that enables you to run compiled Java code.
 
