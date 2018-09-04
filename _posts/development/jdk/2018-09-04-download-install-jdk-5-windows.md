@@ -30,7 +30,7 @@ Check following post if you are looking to download and install [JDK 1.6]({{ sit
 
 ## What is a JDK?
 
-A [Java Development Kit](https://en.wikipedia.org/wiki/Java_Development_Kit){:target="_blank"} or JDK includes **tools for developing and debugging Java applications**. It allows you to compile Java source code (__.java files__) into bytecode (__.class files__).
+A [Java Development Kit](https://en.wikipedia.org/wiki/Java_Development_Kit){:target="_blank"} or JDK includes **tools for developing and debugging Java applications**. It allows you to compile Java source code (_.java files_) into bytecode (_.class files_).
 
 A JDK also includes a [Java Virtual Machine](https://en.wikipedia.org/wiki/Java_virtual_machine){:target="_blank"} or JVM that enables you to run compiled Java code.
 
@@ -38,7 +38,7 @@ Different JDK implementations are available. The official reference implementati
 
 ## Step #1: Download
 
-There are [several type of Java packages](https://docs.oracle.com/javaee/6/firstcup/doc/gkhoy.html){:target="_blank"}. In this tutorial, we will install the Java Standard Edition (SE) platform.
+There are [several types of Java packages](https://docs.oracle.com/javaee/6/firstcup/doc/gkhoy.html){:target="_blank"}. In this tutorial, we will install the Java Standard Edition (SE) platform.
 
 Head over to the [Oracle Java download page](http://www.oracle.com/technetwork/java/javase/downloads/index.html){:target="_blank"}.
 
