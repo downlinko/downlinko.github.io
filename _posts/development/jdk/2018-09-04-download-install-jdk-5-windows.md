@@ -25,20 +25,20 @@ And finally **how to verify if everything is working**.
 
 Let’s dive right in…
 
-Check following post if you are looking to download and install [JDK 1.6]({{ site.url }}/download-install-jdk-6-windows.html),, [JDK 1.7]({{ site.url }}/download-install-jdk-7-windows.html), [JDK 1.8]({{ site.url }}/download-install-jdk-8-windows.html) or [JDK 1.10]({{ site.url }}/download-install-jdk-10-windows.html).
+Check following post if you are looking to download and install [JDK 1.6]({{ site.url }}/download-install-jdk-6-windows.html), [JDK 1.7]({{ site.url }}/download-install-jdk-7-windows.html), [JDK 1.8]({{ site.url }}/download-install-jdk-8-windows.html) or [JDK 1.10]({{ site.url }}/download-install-jdk-10-windows.html).
 {: .notice--primary}
 
 ## What is a JDK?
 
-A [Java Development Kit](https://en.wikipedia.org/wiki/Java_Development_Kit){:target="_blank"} or JDK includes **tools for developing and debugging Java applications**. It allows you to compile Java source code (.java files) into bytecode (.class files).
+A [Java Development Kit](https://en.wikipedia.org/wiki/Java_Development_Kit){:target="_blank"} or JDK includes **tools for developing and debugging Java applications**. It allows you to compile Java source code (__.java files__) into bytecode (__.class files__).
 
 A JDK also includes a [Java Virtual Machine](https://en.wikipedia.org/wiki/Java_virtual_machine){:target="_blank"} or JVM that enables you to run compiled Java code.
 
-There are different JDK implementations available. The official reference implementation is maintained by [Oracle](https://www.oracle.com/index.html){:target="_blank"}.
+Different JDK implementations are available. The official reference implementation is maintained by [Oracle](https://www.oracle.com/index.html){:target="_blank"}.
 
 ## Step #1: Download
 
-There are [several Java packages available](https://docs.oracle.com/javaee/6/firstcup/doc/gkhoy.html){:target="_blank"}. In this tutorial, we will install the Java Standard Edition (SE) platform.
+There are [several type of Java packages](https://docs.oracle.com/javaee/6/firstcup/doc/gkhoy.html){:target="_blank"}. In this tutorial, we will install the Java Standard Edition (SE) platform.
 
 Head over to the [Oracle Java download page](http://www.oracle.com/technetwork/java/javase/downloads/index.html){:target="_blank"}.
 
@@ -54,11 +54,13 @@ Click on the `Java SE 5` link under the `Java SE` section.
 
 Click on the radio button next to `Accept License Agreement`.
 
-Click on the following installer: `jdk-1_5_0_22-windows-i586-p.exe`.
+Click on the Windows offline installer: `jdk-1_5_0_22-windows-i586-p.exe`.
 
 <img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-5-download-java-se-windows-binary.png" alt="jdk 5 download java se windows binary">
 
-Sign in using your Oracle account (or create a new one) and the download should start. Wait for it to finish.
+Sign in using your Oracle account (or create a new one) and the download should start.
+
+Now, wait for it to finish.
 
 ## Step #2: Install
 
@@ -76,7 +78,7 @@ Click on `Install anyway`.
 
 The JDK installer will start.
 
-Clic on the radio button next to `I accept the terms in the license agreement` and Click `Next`.
+Click on the radio button next to `I accept the terms in the license agreement` and click `Next`.
 
 <img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-5-installer-start.png" alt="jdk 5 installer start">
 
@@ -102,7 +104,7 @@ A progress bar shows the various steps that are executed.
 
 <img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-5-installer-progress.png" alt="jdk 5 installer progress">
 
-Once the installation is complete, click `Close`.
+Once the installation is complete, click `Finish`.
 
 <img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-5-installer-complete.png" alt="jdk 5 installer complete">
 
@@ -126,7 +128,7 @@ Click on `New…`.
 
 Enter "<kbd>JAVA_HOME</kbd>" as variable name. Enter the `[JAVA_INSTALL_DIR]` as variable value.
 
-In this tutorial, the Java installation directory is `C:\Program Files\Java\jdk1.6.0_45`.
+In this tutorial, the Java installation directory is `C:\Program Files (x86)\Java\jdk1.5.0_22`.
 
 Click `OK`.
 
@@ -174,7 +176,7 @@ The above command prints the installed JDK version: `1.5.0_22`.
 
 **Congratulations, you have installed JDK 1.5 on Windows 10!**
 
-Now go ahead and [compile and run your first Java program](https://introcs.cs.princeton.edu/java/11hello/){:target="_blank"}.
+Now go ahead and [compile first Java program](https://introcs.cs.princeton.edu/java/11hello/){:target="_blank"}.
 
 Now let me know if you liked this post.
 
