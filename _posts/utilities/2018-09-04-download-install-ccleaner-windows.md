@@ -5,19 +5,19 @@ excerpt: "A quick step-by-step tutorial on how to download and install CCleaner 
 date: 2018-09-04
 last_modified_at: 2018-09-04
 header:
-  teaser: "assets/images/posts/utilities/download-install-ccleaner-windows.png"
+  teaser: "assets/images/posts/utilities/ccleaner/download-install-ccleaner-windows.png"
 categories: [Utilities]
 tags: [CCleaner, Download, Install, Setup, Tutorial, Windows]
 published: true
 ---
 
-<img src="{{ site.url }}/assets/images/posts/utilities/download-install-ccleaner-windows.png" alt="download install ccleaner windows" class="align-right title-image">
+<img src="{{ site.url }}/assets/images/posts/utilities/ccleaner/download-install-ccleaner-windows.png" alt="download install ccleaner windows" class="align-right title-image">
 
 This is a quick guide on how to download and install [CCleaner](https://www.ccleaner.com/){:target="_blank"} on Windows.
 
 You’ll love the clear **step-by-step approach** in this tutorial.
 
-Let's get things under way.
+Let's get things underway.
 
 ## What is CCleaner?
 
@@ -29,13 +29,13 @@ CCleaner is developed by [Piriform Ltd](https://en.wikipedia.org/wiki/Piriform_(
 
 Head over to the [CCleaner download page](https://www.ccleaner.com/ccleaner/download){:target="_blank"}.
 
-There are two version available. In this example we will install the free version.
+There are two versions available. In this example, we will install the free version.
 
-Scroll down and locate the `Download` button and click on it.
+Scroll down, locate the `Download` button and click on it.
 
 <img src="{{ site.url }}/assets/images/posts/utilities/ccleaner/ccleaner-download-installer.png" alt="ccleaner download installer">
 
-The download should start automatically. Wait for it to complete.
+The download should start. Wait for it to complete.
 
 ## Step #2: Install
 
@@ -83,4 +83,6 @@ The application should now open as shown below.
 
 **Congratulations, you have installed CCleaner on Windows 10!**
 
-Drop a line below if you have any question. Or if you want to say thanks.
+Drop a line below if you have any question.
+
+Or if you want to say thanks.

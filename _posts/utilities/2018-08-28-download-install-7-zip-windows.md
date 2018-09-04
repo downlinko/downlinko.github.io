@@ -83,4 +83,6 @@ Right-click a file and `7-Zip` is available as an item in the context menu. Depe
 
 **Congratulations, you have installed 7-Zip on Windows 10!**
 
-Drop a line below if you have any question. Or if you want to say thanks.
+Drop a line below if you have any question.
+
+Or if you want to say thanks.
