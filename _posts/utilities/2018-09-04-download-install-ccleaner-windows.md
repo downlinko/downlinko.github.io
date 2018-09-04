@@ -8,7 +8,7 @@ header:
   teaser: "assets/images/posts/utilities/download-install-ccleaner-windows.png"
 categories: [Utilities]
 tags: [CCleaner, Download, Install, Setup, Tutorial, Windows]
-published: false
+published: true
 ---
 
 <img src="{{ site.url }}/assets/images/posts/utilities/download-install-ccleaner-windows.png" alt="download install ccleaner windows" class="align-right title-image">
@@ -17,7 +17,7 @@ This is a quick guide on how to download and install [CCleaner](https://www.ccle
 
 You’ll love the clear **step-by-step approach** in this tutorial.
 
-Ready?
+Let's get things under way.
 
 ## What is CCleaner?
 
@@ -29,21 +29,19 @@ CCleaner is developed by [Piriform Ltd](https://en.wikipedia.org/wiki/Piriform_(
 
 Head over to the [CCleaner download page](https://www.ccleaner.com/ccleaner/download){:target="_blank"}.
 
-At the top of the page, you can find the installers for Windows.
+There are two version available. In this example we will install the free version.
 
-[Check your windows bit version]({{ site.url }}/windows-10-bit-version-check.html) and click on the corresponding link.
+Scroll down and locate the `Download` button and click on it.
 
-In this guide, we will download the `64-bit x64` version.
+<img src="{{ site.url }}/assets/images/posts/utilities/ccleaner/ccleaner-download-installer.png" alt="ccleaner download installer">
 
-<img src="{{ site.url }}/assets/images/posts/utilities/zip/7-zip-download-installer.png" alt="7-zip download installer">
-
-Wait for the download to complete.
+The download should start automatically. Wait for it to complete.
 
 ## Step #2: Install
 
 Open the location of the downloaded executable.
 
-<img src="{{ site.url }}/assets/images/posts/utilities/zip/7-zip-downloaded-installer.png" alt="7-zip downloaded installer">
+<img src="{{ site.url }}/assets/images/posts/utilities/ccleaner/ccleaner-downloaded-installer.png" alt="ccleaner downloaded installer">
 
 Double-click it to run the installer.
 
@@ -55,34 +53,34 @@ Click on `Install anyway`.
 
 The installer will open.
 
-You can change the installation location by clicking on the `…` button.
+> CCleaner might offer to install another software package. Make sure to double check if you are OK with this! If you do not want this to happen, uncheck the option as shown below.
 
-In this example, we keep the default install location of `C:\Program Files\7-Zip\`.
+To start the installation click on the `Install` button.
 
-<img src="{{ site.url }}/assets/images/posts/utilities/zip/7-zip-installer-default-location.png" alt="7-zip installer default location">
+<img src="{{ site.url }}/assets/images/posts/utilities/ccleaner/ccleaner-installer-start.png" alt="ccleaner installer start">
 
-Click `Install` to start the installation.
-
-<img src="{{ site.url }}/assets/images/posts/utilities/zip/7-zip-installer-start.png" alt="7-zip-installer-start">
-
-The 7-Zip installation will now start.
+The CCleaner installation will now start.
 
 A progress bar shows the various steps that are executed.
 
-<img src="{{ site.url }}/assets/images/posts/utilities/zip/7-zip-installer-progress.png" alt="7-zip installer progress">
+<img src="{{ site.url }}/assets/images/posts/utilities/ccleaner/ccleaner-installer-progress.png" alt="ccleaner installer progress">
 
-Once the installation is complete, click `Close`.
+Once the installation is complete, uncheck the `View release notes` option.
 
-<img src="{{ site.url }}/assets/images/posts/utilities/zip/7-zip-installer-finish.png" alt="7-zip installer finish">
+Click `Run CCleaner`. The application will now launch.
+
+<img src="{{ site.url }}/assets/images/posts/utilities/ccleaner/ccleaner-installer-finish.png" alt="ccleaner installer finish">
 
 ## Step #3: Usage
 
-You can now use 7-Zip to compress or decompress files.
+To start CCleaner double-click on the desktop shortcut.
 
-Right-click a file and `7-Zip` is available as an item in the context menu. Depending on the type of file different actions are available.
+<img src="{{ site.url }}/assets/images/posts/utilities/ccleaner/ccleaner-desktop-shortcut.png" alt="ccleaner desktop shortcut">
 
-<img src="{{ site.url }}/assets/images/posts/utilities/zip/7-zip-context-menu.png" alt="7-zip context menu">
+The application should now open as shown below.
 
-**Congratulations, you have installed 7-Zip on Windows 10!**
+<img src="{{ site.url }}/assets/images/posts/utilities/ccleaner/ccleaner-application.png" alt="ccleaner application">
+
+**Congratulations, you have installed CCleaner on Windows 10!**
 
 Drop a line below if you have any question. Or if you want to say thanks.
