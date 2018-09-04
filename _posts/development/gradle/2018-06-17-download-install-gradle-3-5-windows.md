@@ -26,6 +26,12 @@ Off we go!
 Check following post if you are looking to download and install [Gradle 4.1]({{ site.url }}/download-install-gradle-4-1-windows.html).
 {: .notice--primary}
 
+## What is Gradle?
+
+[Gradle](https://en.wikipedia.org/wiki/Gradle){:target="_blank"} is an open-source build automation tool. It helps you to build, automate and deliver software.
+
+Gradle is open and licensed under the [Apache License 2.0](https://github.com/gradle/gradle/blob/master/LICENSE){:target="_blank"}.
+
 ## Step #1: Check Prerequisites
 
 Gradle requires [Java](http://www.oracle.com/technetwork/java/javase/downloads/index.html){:target="_blank"} to work. So let's check if you have Java configured on your system.
