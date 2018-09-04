@@ -28,7 +28,7 @@ Check following post if you are looking to download and install [Gradle 4.1]({{ 
 
 ## What is Gradle?
 
-[Gradle](https://en.wikipedia.org/wiki/Gradle){:target="_blank"} is an open-source build automation tool. It helps you to build, automate and deliver software.
+[Gradle](https://en.wikipedia.org/wiki/Gradle){:target="_blank"} is a build automation tool. It helps you to build, automate and deliver software.
 
 Gradle is open and licensed under the [Apache License 2.0](https://github.com/gradle/gradle/blob/master/LICENSE){:target="_blank"}.
 
