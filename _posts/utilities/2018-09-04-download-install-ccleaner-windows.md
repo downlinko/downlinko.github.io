@@ -53,7 +53,7 @@ Click on `Install anyway`.
 
 The installer will open.
 
-> CCleaner might offer to install another software package. Make sure to double check if you are OK with this! If you do not want this to happen, uncheck the option as shown below.
+> CCleaner might offer to install an additional software package. If you do not want this to happen, **uncheck the option** as shown below.
 
 To start the installation click on the `Install` button.
 
