@@ -83,6 +83,8 @@ The application should now open as shown below.
 
 **Congratulations, you have installed CCleaner on Windows 10!**
 
+Now checkout these [9 tricks to learn how to use CCleaner](https://en.softonic.com/articles/9-tricks-to-use-ccleaner-properly){:target="_blank"}.
+
 Drop a line below if you have any question.
 
 Or if you want to say thanks.
