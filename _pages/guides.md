@@ -69,3 +69,7 @@ This page contains an overview of all the installation guides.
 ### 7-Zip
 
 * [Download and Install 7 Zip on Windows]({{ site.url }}/download-install-7-zip-windows.html)
+
+### 7-Zip
+
+* [Download and Install CCleaner on Windows]({{ site.url }}/download-install-ccleaner-windows.html)
