@@ -156,6 +156,8 @@ The above command prints the installed Gradle version.
 
 **Congratulations, you have installed Gradle 4.1 on Windows 10!**
 
+Now go ahead and [create your first Gradle build](https://guides.gradle.org/creating-new-gradle-builds/){:target="_blank"}.
+
 Drop a line below if you liked this post.
 
 Thanks!
