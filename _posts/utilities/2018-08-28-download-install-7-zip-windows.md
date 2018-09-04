@@ -21,7 +21,7 @@ Ready?
 
 ## What is 7-Zip?
 
-
+[7-Zip](https://en.wikipedia.org/wiki/7-Zip){:target="_blank"} is a utility that you can use to read or write several archive formats. The program contains a command-line and a graphical user interface.
 
 ## Step #1: Download
 
