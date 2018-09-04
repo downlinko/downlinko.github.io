@@ -25,12 +25,12 @@ And finally **how to verify if everything is working**.
 
 Let’s dive right in…
 
-Check following post if you are looking to download and install [JDK 1.6]({{ site.url }}/download-install-jdk-6-windows.html),, [JDK 1.7]({{ site.url }}/download-install-jdk-7-windows.html), [JDK 1.8]({{ site.url }}/download-install-jdk-8-windows.html) or [JDK 10]({{ site.url }}/download-install-jdk-10-windows.html).
+Check following post if you are looking to download and install [JDK 1.6]({{ site.url }}/download-install-jdk-6-windows.html),, [JDK 1.7]({{ site.url }}/download-install-jdk-7-windows.html), [JDK 1.8]({{ site.url }}/download-install-jdk-8-windows.html) or [JDK 1.10]({{ site.url }}/download-install-jdk-10-windows.html).
 {: .notice--primary}
 
 ## What is a JDK?
 
-A [Java Development Kit](https://en.wikipedia.org/wiki/Java_Development_Kit){:target="_blank"} or JDK includes tools for developing and debugging Java applications. It allows you to compile Java source code (.java files) into bytecode (.class files).
+A [Java Development Kit](https://en.wikipedia.org/wiki/Java_Development_Kit){:target="_blank"} or JDK includes **tools for developing and debugging Java applications**. It allows you to compile Java source code (.java files) into bytecode (.class files).
 
 A JDK also includes a [Java Virtual Machine](https://en.wikipedia.org/wiki/Java_virtual_machine){:target="_blank"} or JVM that enables you to run compiled Java code.
 
@@ -54,7 +54,7 @@ Click on the `Java SE 5` link under the `Java SE` section.
 
 Click on the radio button next to `Accept License Agreement`.
 
-Click on the following installer: `jdk-5u45-windows-x64.exe`.
+Click on the following installer: `jdk-1_5_0_22-windows-i586-p.exe`.
 
 <img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-5-download-java-se-windows-binary.png" alt="jdk 5 download java se windows binary">
 
@@ -74,7 +74,9 @@ Click on `Install anyway`.
 
 <img src="{{ site.url }}/assets/images/posts/windows-10-install-app-not-in-store.png" alt="windows 10 install app not in store">
 
-The JDK installer will start. Click `Next`.
+The JDK installer will start.
+
+Clic on the radio button next to `I accept the terms in the license agreement` and Click `Next`.
 
 <img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-5-installer-start.png" alt="jdk 5 installer start">
 
