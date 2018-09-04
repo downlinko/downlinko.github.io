@@ -38,7 +38,7 @@ Different JDK implementations are available. The official reference implementati
 
 ## Step #1: Download
 
-There are [several types of Java packages](https://docs.oracle.com/javaee/6/firstcup/doc/gkhoy.html){:target="_blank"}. In this tutorial, we will install the Java Standard Edition (SE) platform.
+There are [several types of Java packages](https://docs.oracle.com/javaee/6/firstcup/doc/gkhoy.html){:target="_blank"}. In this tutorial, we will install the JDK for the Java Standard Edition (SE) platform.
 
 Head over to the [Oracle Java download page](http://www.oracle.com/technetwork/java/javase/downloads/index.html){:target="_blank"}.
 
@@ -176,7 +176,7 @@ The above command prints the installed JDK version: `1.5.0_22`.
 
 **Congratulations, you have installed JDK 1.5 on Windows 10!**
 
-Now go ahead and [compile first Java program](https://introcs.cs.princeton.edu/java/11hello/){:target="_blank"}.
+Now go ahead and [compile your first Java program](https://introcs.cs.princeton.edu/java/11hello/){:target="_blank"}.
 
 Now let me know if you liked this post.
 
