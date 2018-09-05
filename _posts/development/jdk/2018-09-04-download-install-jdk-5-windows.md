@@ -178,7 +178,7 @@ The above command prints the installed JDK version: `1.5.0_22`.
 
 Now go ahead and [compile your first Java program](https://introcs.cs.princeton.edu/java/11hello/){:target="_blank"}.
 
-Now let me know if you liked this post.
+Let me know if you liked this post.
 
 Leave a comment below.
 
