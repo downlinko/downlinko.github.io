@@ -17,7 +17,7 @@ In this guide, I’m going to show you exactly how to download and install JDK 1
 
 (Step-by-step)
 
-First, I’ll show you where you can download JDK 5.
+First, I’ll show you where you can download the latest version of JDK 5.
 
 Then you’ll see how to configure it.
 
@@ -84,7 +84,9 @@ Click on the radio button next to `I accept the terms in the license agreement` 
 
 You can change the installation location by clicking on the `Change…` button.
 
-In this example, we keep the default install location of `C:\Program Files (x86)\Java\jdk1.5.0_22`. From now on we will refer to this directory as `[JAVA_INSTALL_DIR]`.
+In this example, we keep the default install location of `C:\Program Files (x86)\Java\jdk1.5.0_22`.
+
+From now on we will refer to this directory as `[JAVA_INSTALL_DIR]`.
 
 <img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-5-installer-default-location.png" alt="jdk 5 installer default location">
 

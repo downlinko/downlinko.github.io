@@ -70,6 +70,8 @@ Make sure the `I accept the terms in License Agreement` checkbox is selected. Cl
 
 You can change the installation location by clicking on the `Change…` button.
 
+> If you change the default location you also need to set the `GOROOT` environment variable.
+
 In this example, we keep the default install location of `C:\Go\`.
 
 <img src="{{ site.url }}/assets/images/posts/development/golang/golang-installer-default-location.png" alt="golang installer default location">

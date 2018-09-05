@@ -3,7 +3,7 @@ title: "Guides Overview"
 permalink: /guides
 excerpt: "Overview of the installation guides available on Downlinko."
 date: 2018-08-31
-last_modified_at: 2018-08-31
+last_modified_at: 2018-09-04
 ---
 
 This page contains an overview of all the installation guides.
