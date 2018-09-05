@@ -17,7 +17,7 @@ In this guide, I’m going to show you exactly how to download and install JDK 1
 
 (Step-by-step)
 
-First, I’ll show you where you can download the latest version of JDK 5.
+First, I’ll show you where you can download the latest version.
 
 Then you’ll see how to configure it.
 
