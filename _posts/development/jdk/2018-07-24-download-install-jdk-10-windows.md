@@ -1,5 +1,5 @@
 ---
-title: "Download and Install JDK 10 on Windows"
+title: "Guide: Download and Install JDK 10 on Windows"
 permalink: /download-install-jdk-10-windows.html
 excerpt: "A detailed step-by-step tutorial on how to download and install JDK 1.10 on Windows 10."
 date: 2018-07-24

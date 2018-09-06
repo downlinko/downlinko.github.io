@@ -1,5 +1,5 @@
 ---
-title: "Download and Install JDK 1.7 on Windows"
+title: "Guide: Download and Install JDK 1.7 on Windows"
 permalink: /download-install-jdk-7-windows.html
 excerpt: "A detailed step-by-step tutorial on how to download and install JDK 7u80 on Windows 10."
 date: 2018-08-13
