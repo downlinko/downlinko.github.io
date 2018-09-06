@@ -1,5 +1,5 @@
 ---
-title: "Guide: Download and Install JDK 1.8 on Windows"
+title: "Download and Install JDK 1.8 on Windows"
 permalink: /download-install-jdk-8-windows.html
 excerpt: "A detailed step-by-step tutorial on how to download and install JDK 8u181 on Windows 10."
 date: 2018-07-30

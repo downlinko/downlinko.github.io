@@ -1,5 +1,5 @@
 ---
-title: "Guide: Download and Install JDK 1.6 on Windows"
+title: "Download and Install JDK 1.6 on Windows"
 permalink: /download-install-jdk-6-windows.html
 excerpt: "A detailed step-by-step tutorial on how to download and install JDK 6u45 on Windows 10."
 date: 2018-08-24
