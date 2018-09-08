@@ -1,5 +1,5 @@
 ---
-title: "Download and Install Apache Maven 3.5.0 on Windows"
+title: "How to Download and Install Apache Maven 3.5.0 on Windows"
 permalink: /download-install-apache-maven-3-5-0-windows.html
 excerpt: "A detailed step-by-step tutorial on how to download and install Apache Maven 3.5.0 on Windows 10."
 date: 2018-08-22
