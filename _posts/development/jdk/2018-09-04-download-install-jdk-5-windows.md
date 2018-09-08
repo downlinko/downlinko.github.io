@@ -1,5 +1,5 @@
 ---
-title: "Download and Install JDK 1.5 on Windows"
+title: "How to Download and Install JDK 1.5 on Windows"
 permalink: /download-install-jdk-5-windows.html
 excerpt: "A detailed step-by-step tutorial on how to download and install jdk 1.5.0_22 on Windows 10."
 date: 2018-09-04
