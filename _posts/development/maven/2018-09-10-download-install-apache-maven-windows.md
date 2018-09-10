@@ -31,10 +31,10 @@ Check following posts if you are looking to download and install [Maven 3.2.2]({
 ## What is Apache Maven?
 
 [Maven](https://en.wikipedia.org/wiki/Apache_Maven){:target="_blank"} is a build automation tool. It addresses two aspects of building software:
-* It describes the different steps in the build process.
-* It describes the dependencies to other modules and components.
+* It describes the **different steps** in the build process.
+* It describes the **dependencies** to other modules and components.
 
-The Maven project is part of the Apache Software Foundation. Before that it was part of the Jakarta Project.
+The Maven project is part of the Apache Software Foundation.
 
 ## Step #1: Check Prerequisites
 
@@ -94,7 +94,7 @@ In this example, we extract in `C:\Users\Downlinko\tools\maven`.
 
 <img src="{{ site.url }}/assets/images/posts/development/maven/maven-extract-destination.png" alt="maven extract destination">
 
-Click on `Extract`. This extracts all Maven files under `C:\Users\Downlinko\tools\maven\apache-maven-3.5.0`.
+Click on `Extract`. This extracts all Maven files under `C:\Users\Downlinko\tools\maven\apache-maven-3.5.4`.
 
 > From now on we refer to this location as `[MAVEN_INSTALL_DIR]`.
 
@@ -164,8 +164,8 @@ The above command prints the installed Maven version: 3.5.4.
 
 **Congratulations, you have installed Apache Maven on Windows 10!**
 
-Now go ahead and [create your first Maven project](https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html){:target="_blank"}.
+Now it's time [to create your first Maven project](https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html){:target="_blank"}.
 
-Good luck and let me know if you liked this post.
+Go ahead and leave a comment if you liked this post.
 
 Thanks!
