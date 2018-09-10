@@ -1,9 +1,9 @@
 ---
-title: "Download and Install Git on Windows"
+title: "How to Download and Install Git on Windows"
 permalink: /download-install-git-windows.html
 excerpt: "A detailed step-by-step tutorial on how to download and install Git on Windows 10."
-date: 2018-08-19
-last_modified_at: 2018-08-19
+date: 2018-09-09
+last_modified_at: 2018-09-09
 header:
   teaser: "assets/images/posts/development/git/download-install-git-windows.png"
 categories: [Development]
@@ -13,30 +13,27 @@ published: false
 
 <img src="{{ site.url }}/assets/images/posts/development/git/download-install-git-windows.png" alt="download install git windows" class="align-right title-image">
 
-Today you’re going to learn how to download and install [Visual Studio Code](https://code.visualstudio.com/){:target="_blank"} on Windows.
+This guide has everything you need to start with [Git](https://git-scm.com/){:target="_blank"}.
 
-(FAST)
+So if you want to download and install Git on Windows, you’re in the right place.
 
-I’m going to show you where to get the installer. And how to run the setup.
+Keep reading…
 
-Let’s jump right in…
+## What is Git?
+
+[Git](https://en.wikipedia.org/wiki/Git){:target="_blank"} is a version control system for tracking changes in files. You can use it for source code management in software development.
+
+Git was created by Linus Torvalds. Its current maintainer since 2005 is Junio Hamano.
 
 ## Step #1: Download
 
-Head over to the [Visual Studio Code downloads page](https://code.visualstudio.com/#alt-downloads){:target="_blank"}.
+Head over to the [Git downloads page](https://git-scm.com/download){:target="_blank"}.
 
-There are three Windows installer versions available:
-* **User installer**: installs in your User folder and does not need Administrator privileges.
-* **System installer**: installs for all users on the system and needs Administrator privileges.
-* **.zip installer**: a portable version.
+Click on the `Download X.X.X for Windows` button.
 
-> Note that [the User setup is recommended since version 1.26](https://code.visualstudio.com/updates/v1_26#_user-setup-for-windows){:target="_blank"}.
+At the time of writing the latest Git release was version: `2.18.0`.
 
-[Check your windows bit version]({{ site.url }}/windows-10-bit-version-check.html) and click on the corresponding link.
-
-In this guide, we will download the `64 bit User installer`.
-
-<img src="{{ site.url }}/assets/images/posts/development/editors/visual-studio-code-download-user-installer.png" alt="visual studio code download user installer">
+<img src="{{ site.url }}/assets/images/posts/development/git/git-download-installer.png" alt="git download installer">
 
 Wait for the download to complete.
 
@@ -44,7 +41,7 @@ Wait for the download to complete.
 
 Open the location of the downloaded executable.
 
-<img src="{{ site.url }}/assets/images/posts/development/editors/visual-studio-code-downloaded-installer.png" alt="visual-studio-code-downloaded-installer">
+<img src="{{ site.url }}/assets/images/posts/development/git/git-downloaded-installer.png" alt="git downloaded installer">
 
 Double-click it to run the installer.
 
@@ -58,7 +55,7 @@ The installer setup wizard will open.
 
 Click `Next`.
 
-<img src="{{ site.url }}/assets/images/posts/development/editors/visual-studio-code-installer-start.png" alt="visual studio code installer start">
+<img src="{{ site.url }}/assets/images/posts/development/git/git-installer-start.png" alt="visual studio code installer start">
 
 Click on the radio button next to `I accept the agreement`.
 
