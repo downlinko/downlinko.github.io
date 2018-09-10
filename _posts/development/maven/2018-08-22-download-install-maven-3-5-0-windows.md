@@ -27,7 +27,7 @@ How to configure it.
 
 So here we go.
 
-Check following posts if you are looking to download and install [Maven 3.2.2]({{ site.url }}/download-install-apache-maven-3-2-2-windows.html), [Maven 3.2.5]({{ site.url }}/download-install-apache-maven-3-2-5-windows.html) or [Maven 3.3.9]({{ site.url }}/download-install-apache-maven-3-3-9-windows.html).
+Check following posts if you are looking to download and install [Maven 3.2.2]({{ site.url }}/download-install-apache-maven-3-2-2-windows.html), [Maven 3.2.5]({{ site.url }}/download-install-apache-maven-3-2-5-windows.html), [Maven 3.3.9]({{ site.url }}/download-install-apache-maven-3-3-9-windows.html) or [the latest Maven version]({{ site.url }}/download-install-apache-maven-windows.html).
 {: .notice--primary}
 
 ## Step #1: Check Prerequisites
@@ -74,7 +74,7 @@ Click on the `apache-maven-3.5.0-bin.zip` link.
 
 Wait for the download to complete.
 
-> Do you want to skip the above steps? Here is the direct link to download the [Maven 3.5.0 installer](https://archive.apache.org/dist/maven/maven-3/3.5.0/binaries/apache-maven-3.5.0-bin.zip){:target="_blank"} for Windows.
+> Do you want to skip the above steps? Here is the direct link to download the [Maven 3.5.0 binary](https://archive.apache.org/dist/maven/maven-3/3.5.0/binaries/apache-maven-3.5.0-bin.zip){:target="_blank"} for Windows.
 
 ## Step #3: Install
 
