@@ -1,5 +1,5 @@
 ---
-title: "Download and Install Gradle 4.1 on Windows"
+title: "How to Download and Install Gradle 4.1 on Windows"
 permalink: /download-install-gradle-4-1-windows.html
 excerpt: "A detailed step-by-step tutorial on how to download and install Gradle 4.1 on Windows 10."
 date: 2018-08-23
@@ -21,14 +21,14 @@ Because in this tutorial **I'll walk you through the different setup steps**.
 
 Off we go!
 
-Check following post if you are looking to download and install [Gradle 3.5]({{ site.url }}/download-install-gradle-3-5-windows.html).
+Check following post if you are looking to download and install [Gradle 3.5]({{ site.url }}/download-install-gradle-3-5-windows.html) or [the latest Gradle version]({{ site.url }}/download-install-gradle-windows.html).
 {: .notice--primary}
 
 ## What is Gradle?
 
 [Gradle](https://en.wikipedia.org/wiki/Gradle){:target="_blank"} is a build automation tool. It helps you to build, automate and deliver software.
 
-Gradle is open and licensed under the [Apache License 2.0](https://github.com/gradle/gradle/blob/master/LICENSE){:target="_blank"}.
+Gradle is open-source and licensed under the [Apache License 2.0](https://github.com/gradle/gradle/blob/master/LICENSE){:target="_blank"}.
 
 ## Step #1: Check Prerequisites
 

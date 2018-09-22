@@ -23,14 +23,14 @@ Because in this tutorial **I'll walk you through the different setup steps**.
 
 Off we go!
 
-Check following post if you are looking to download and install [Gradle 4.1]({{ site.url }}/download-install-gradle-4-1-windows.html).
+Check following post if you are looking to download and install [Gradle 4.1]({{ site.url }}/download-install-gradle-4-1-windows.html) or [the latest Gradle version]({{ site.url }}/download-install-gradle-windows.html).
 {: .notice--primary}
 
 ## What is Gradle?
 
 [Gradle](https://en.wikipedia.org/wiki/Gradle){:target="_blank"} is a build automation tool. It helps you to build, automate and deliver software.
 
-Gradle is open and licensed under the [Apache License 2.0](https://github.com/gradle/gradle/blob/master/LICENSE){:target="_blank"}.
+Gradle is open-source and licensed under the [Apache License 2.0](https://github.com/gradle/gradle/blob/master/LICENSE){:target="_blank"}.
 
 ## Step #1: Check Prerequisites
 
@@ -96,7 +96,7 @@ Click on `Extract`. This extracts all Gradle files under `C:\Users\Downlinko\too
 
 ## Step #4: Setup
 
-We need to set up an environment variable that will point to our Maven installation.
+We need to set up an environment variable that will point to our Gradle installation.
 
 Click on the search button. Then type "<kbd>env</kbd>".
 
@@ -120,7 +120,7 @@ Click `OK`.
 
 <img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-3-5-1-home-variable.png" alt="gradle 3.5.1 home variable">
 
-Next, we need to configure the PATH environment variable so we can run Maven from a command prompt.
+Next, we need to configure the PATH environment variable so we can run Gradle from a command prompt.
 
 Select the `PATH` variable. Click on `Edit…`.
 
