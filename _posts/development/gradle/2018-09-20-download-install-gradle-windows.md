@@ -54,7 +54,7 @@ The above command prints the installed Java version.
 
 > For Gradle 3.5 you need Java version 1.7 or higher.
 
-If you do not have Java installed on your system. Check following post which details [how to install a JDK on Windows 10]({{ site.url }}/download-install-jdk-8-windows.html).
+If you do not have Java installed on your system. Check following post which details [how to install a JDK on Windows]({{ site.url }}/download-install-jdk-8-windows.html).
 
 ## Step #2: Download
 
@@ -62,7 +62,7 @@ Go to the [Gradle releases page](https://gradle.org/releases/){:target="_blank"}
 
 <img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-releases-page.png" alt="gradle releases page">
 
-Right under the `Getting Started Resources` section you can find the latest release. At the moment of writing this guide it was version `v4.10.2`.
+Right under the `Getting Started Resources` section you can find the latest release. At the moment of writing it was version `v4.10.2`.
 
 Click on the `binary-only` link.
 
@@ -88,7 +88,7 @@ In this example, we extract in `C:\Users\Downlinko\tools\gradle`.
 
 <img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-extract-destination.png" alt="gradle tools extract destination">
 
-Click on `Extract`. This extracts all Gradle files under `C:\Users\Downlinko\tools\gradle\gradle-4-10-2`.
+Click on `Extract`. This extracts all Gradle files under `C:\Users\Downlinko\tools\gradle\gradle-4.10.2`.
 
 > From now on we refer to this location as `[GRADLE_INSTALL_DIR]`.
 
@@ -114,7 +114,7 @@ Click on `New…`.
 
 Enter "<kbd>GRADLE_HOME</kbd>" as variable name. Enter the `[GRADLE_INSTALL_DIR]` as variable value.
 
-In this tutorial the installation directory is: `C:\Users\Downlinko\tools\gradle\gradle-4-10-2`.
+In this tutorial the installation directory is: `C:\Users\Downlinko\tools\gradle\gradle-4.10.2`.
 
 Click `OK`.
 
