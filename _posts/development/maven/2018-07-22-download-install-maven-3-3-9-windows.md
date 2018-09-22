@@ -30,6 +30,14 @@ So here we go.
 Check following posts if you are looking to download and install [Maven 3.2.2]({{ site.url }}/download-install-apache-maven-3-2-2-windows.html), [Maven 3.2.5]({{ site.url }}/download-install-apache-maven-3-2-5-windows.html), [Maven 3.5.0]({{ site.url }}/download-install-apache-maven-3-5-0-windows.html) or [the latest Maven version]({{ site.url }}/download-install-apache-maven-windows.html).
 {: .notice--primary}
 
+## What is Apache Maven?
+
+[Maven](https://en.wikipedia.org/wiki/Apache_Maven){:target="_blank"} is a build automation tool. It addresses two aspects of building software:
+* It describes the **different steps** in the build process.
+* It describes the **dependencies** to other modules and components.
+
+The Maven project is part of the Apache Software Foundation. Which is a decentralized open source community of developers.
+
 ## Step #1: Check Prerequisites
 
 Maven requires [Java](http://www.oracle.com/technetwork/java/javase/downloads/index.html){:target="_blank"} to work. So let's check if you have Java configured on your system.

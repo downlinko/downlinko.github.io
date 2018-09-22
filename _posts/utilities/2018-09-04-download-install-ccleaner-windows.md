@@ -1,5 +1,5 @@
 ---
-title: "Download and Install CCleaner on Windows"
+title: "How to Download and Install CCleaner on Windows"
 permalink: /download-install-ccleaner-windows.html
 excerpt: "A quick step-by-step tutorial on how to download and install CCleaner on Windows 10."
 date: 2018-09-04

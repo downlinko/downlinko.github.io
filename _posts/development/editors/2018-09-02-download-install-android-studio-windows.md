@@ -1,5 +1,5 @@
 ---
-title: "Download and Install Android Studio on Windows"
+title: "How to Download and Install Android Studio on Windows"
 permalink: /download-install-android-studio-windows.html
 excerpt: "A detailed step-by-step tutorial on how to download and install Android Studio on Windows 10."
 date: 2018-09-02
@@ -23,7 +23,7 @@ We’ve got a lot to cover, so let’s get started.
 
 [Android Studio](https://en.wikipedia.org/wiki/Android_Studio){:target="_blank"} is an integrated development environment (IDE). It provides tools for building apps on every type of Android device.
 
-Android Studio works on Windows, macOS, and Linux.
+Android Studio is maintained and developed by Google and JetBrains.
 
 ## Step #1: Download
 

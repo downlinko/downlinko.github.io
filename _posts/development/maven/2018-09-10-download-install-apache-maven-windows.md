@@ -34,7 +34,7 @@ Check following posts if you are looking to download and install [Maven 3.2.2]({
 * It describes the **different steps** in the build process.
 * It describes the **dependencies** to other modules and components.
 
-The Maven project is part of the Apache Software Foundation.
+The Maven project is part of the Apache Software Foundation. Which is a decentralized open source community of developers.
 
 ## Step #1: Check Prerequisites
 
