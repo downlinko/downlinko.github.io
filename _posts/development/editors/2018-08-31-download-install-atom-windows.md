@@ -1,5 +1,5 @@
 ---
-title: "Download and Install Atom on Windows"
+title: "How to Download and Install Atom on Windows"
 permalink: /download-install-atom-windows.html
 excerpt: "A quick step-by-step tutorial on how to download and install Atom on Windows 10."
 date: 2018-08-31

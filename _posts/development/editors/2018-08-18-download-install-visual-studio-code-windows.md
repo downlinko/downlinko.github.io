@@ -1,5 +1,5 @@
 ---
-title: "Download and Install Visual Studio Code on Windows"
+title: "How to Download and Install Visual Studio Code on Windows"
 permalink: /download-install-visual-studio-code-windows.html
 excerpt: "A detailed step-by-step tutorial on how to download and install Visual Studio Code on Windows 10."
 date: 2018-08-18
