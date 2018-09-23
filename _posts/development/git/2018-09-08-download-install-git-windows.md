@@ -23,7 +23,7 @@ Keep reading…
 
 [Git](https://en.wikipedia.org/wiki/Git){:target="_blank"} is a version control system for tracking changes in files. You can use it for source code management in software development.
 
-Git was created by Linus Torvalds. Its current maintainer since 2005 is Junio Hamano.
+Linus Torvalds created Git. Its current maintainer since 2005 is Junio Hamano.
 
 ## Step #1: Download
 
@@ -43,9 +43,9 @@ Open the location of the downloaded executable.
 
 <img src="{{ site.url }}/assets/images/posts/development/git/git-downloaded-installer.png" alt="git downloaded installer">
 
-In this tutorial we install Git only for the current user. Just double-click the installer to start the setup.
+In this tutorial, we install Git only for the current user. Double-click the installer to start the setup.
 
-> You can install Git for your current user account or for all users on the system. For the last option you need to run the installer with administrative privileges. To do this on Windows, right click on the executable and select `Run as administrator`.
+> You can install Git for your current user account or for all users on the system. For the last option, you need to run the installer with administrative privileges. To do this on Windows, right click on the executable and select `Run as administrator`.
 
 On Windows 10 a pop-up window will appear: `The app you're trying to install isn't a verified app from the Store`
 
@@ -59,13 +59,13 @@ Click `Next`.
 
 <img src="{{ site.url }}/assets/images/posts/development/git/git-installer-license.png" alt="git installer license">
 
-As we install Git for the current user, by default your user home folder is used.
+The default install location is the user home folder. This is because we install Git for the current user.
 
 Leave the default suggested location and click `Next`.
 
 <img src="{{ site.url }}/assets/images/posts/development/git/git-installer-destination-location.png" alt="git installer destination location">
 
-Keep the components that are selected by default and click `Next`.
+Keep the default selection of components and click `Next`.
 
 <img src="{{ site.url }}/assets/images/posts/development/git/git-installer-select-components.png" alt="git installer select components">
 
@@ -73,15 +73,15 @@ Keep the default start menu folder and click `Next`.
 
 <img src="{{ site.url }}/assets/images/posts/development/git/git-installer-select-components.png" alt="git installer select components">
 
-Some Git commands will launch a text editor to prompt for further input. You can use the dropdown select the editor you would like Git to use.
+Some Git commands will launch a text editor to prompt for further input. You can use the drop-down select the editor you would like Git to use.
 
 > Note that you can always [change the default text editor Git uses](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup#_your_editor){:target="_blank"} at a later point.
 
-In this tutorial we keep the default editor (Vim) that ships with Git. Click `Next`.
+In this guide, we keep the default editor (Vim) that ships with Git. Click `Next`.
 
 <img src="{{ site.url }}/assets/images/posts/development/git/git-installer-default-editor.png" alt="git installer default editor">
 
-To use Git from a Windows command prompt it needs to be added to your environment `PATH` variable.
+To use Git from a Windows command prompt it needs to be added it to your environment `PATH` variable.
 
 Select the `Use Git from the Windows Command Prompt` option and click `Next`.
 
@@ -91,7 +91,7 @@ Keep the default `Use the OpenSSL library` option selected and click `Next`.
 
 <img src="{{ site.url }}/assets/images/posts/development/git/git-installer-https-transport.png" alt="git installer https transport">
 
-Different operating systems use different character(s) to represent the end of a line. Git uses these characters to compare files. As a result it may cause unexpected issues when you edit a file on different machines.
+Different operating systems use different character(s) to represent the end of a line. Git uses these characters to compare files. As a result, it may cause unexpected issues when you edit a file on different machines.
 
 To avoid this keep the recommended setting which is the first option: `Checkout Windows-style, commit Unix-style line endings`.
 
