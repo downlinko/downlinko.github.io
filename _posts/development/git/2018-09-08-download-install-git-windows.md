@@ -15,7 +15,7 @@ published: true
 
 This guide has everything you need to start with [Git](https://git-scm.com/){:target="_blank"}.
 
-So if you want to download and install Git on Windows, you’re in the right place.
+So if you want to **download and install Git on Windows**, you’re in the right place.
 
 Keep reading…
 
@@ -43,7 +43,7 @@ Open the location of the downloaded executable.
 
 <img src="{{ site.url }}/assets/images/posts/development/git/git-downloaded-installer.png" alt="git downloaded installer">
 
-> You can install Git for your current user account or for all users on the system. For the last option you need to run the installer with administrative privileges. To do this on Windows, right click on an executable and select `Run as administrator`.
+> You can install Git for your current user account or for all users on the system. For the last option you need to run the installer with administrative privileges. To do this on Windows, right click on the executable and select `Run as administrator`.
 
 In this tutorial we install Git only for the current user. Just double-click the installer to start the setup.
 
@@ -73,14 +73,25 @@ Keep the default start menu folder and click `Next`.
 
 <img src="{{ site.url }}/assets/images/posts/development/git/git-installer-select-components.png" alt="git installer select components">
 
+Some Git commands will launch a text editor to prompt for further input. You can use the dropdown select your favorite text editor.
+
+In this tutorial we keep the default editor that ships with Git.
+
+Click `Next`.
+
+<img src="{{ site.url }}/assets/images/posts/development/git/git-installer-default-editor.png" alt="git installer default editor">
 
 
 
+<img src="{{ site.url }}/assets/images/posts/development/git/git-installer-configure-path-variable.png" alt="git installer configure path variable">
 
+
+
+Keep the default selection of extra options.
 
 Click `Install` to start the installation.
 
-<img src="{{ site.url }}/assets/images/posts/development/git/visual-studio-code-installer-ready-to-install.png" alt="visual studio code installer ready to install">
+<img src="{{ site.url }}/assets/images/posts/development/git/git-installer-extra-options.png" alt="git installer extra options">
 
 The Git installation will now start.
 
@@ -112,7 +123,7 @@ The above command prints the installed Git version.
 
 **Congratulations, you have installed Git on Windows 10!**
 
-Now it's time [to perform a first-time Git setup](https://www.codebasehq.com/blog/using-git-on-windows){:target="_blank"}.
+Now it's time [to perform a first-time Git setup](https://www.codebasehq.com/blog/using-git-on-windows#configuring-git){:target="_blank"}.
 
 If you enjoyed this guide leave a short message below.
 
