@@ -2,13 +2,13 @@
 title: "How to Download and Install Git on Windows"
 permalink: /download-install-git-windows.html
 excerpt: "A detailed step-by-step tutorial on how to download and install Git on Windows 10."
-date: 2018-09-09
-last_modified_at: 2018-09-09
+date: 2018-09-23
+last_modified_at: 2018-09-23
 header:
   teaser: "assets/images/posts/development/git/download-install-git-windows.png"
 categories: [Development]
 tags: [Download, Git, Install, Setup, Tutorial, Windows]
-published: false
+published: true
 ---
 
 <img src="{{ site.url }}/assets/images/posts/development/git/download-install-git-windows.png" alt="download install git windows" class="align-right title-image">
@@ -43,7 +43,9 @@ Open the location of the downloaded executable.
 
 <img src="{{ site.url }}/assets/images/posts/development/git/git-downloaded-installer.png" alt="git downloaded installer">
 
-Double-click it to run the installer.
+> You can install Git for your current user account or for all users on the system. For the last option you need to run the installer with administrative privileges. To do this on Windows, right click on an executable and select `Run as administrator`.
+
+In this tutorial we install Git only for the current user. Just double-click the installer to start the setup.
 
 On Windows 10 a pop-up window will appear: `The app you're trying to install isn't a verified app from the Store`
 
@@ -55,70 +57,63 @@ The installer setup wizard will open.
 
 Click `Next`.
 
-<img src="{{ site.url }}/assets/images/posts/development/git/git-installer-start.png" alt="visual studio code installer start">
+<img src="{{ site.url }}/assets/images/posts/development/git/git-installer-license.png" alt="git installer license">
 
-Click on the radio button next to `I accept the agreement`.
+As we install Git for the current user, by default your user home folder is used.
 
-Click `Next`.
+Leave the default suggested location and click `Next`.
 
-<img src="{{ site.url }}/assets/images/posts/development/editors/visual-studio-code-installer-license-agreement.png" alt="visual studio code installer license agreement">
+<img src="{{ site.url }}/assets/images/posts/development/git/git-installer-destination-location.png" alt="git installer destination location">
 
-You can change the installation location by clicking on the `Browse…` button.
+Keep the components that are selected by default and click `Next`.
 
-In this example, we keep the default install location.
+<img src="{{ site.url }}/assets/images/posts/development/git/git-installer-select-components.png" alt="git installer select components">
 
-Click `Next`.
+Keep the default start menu folder and click `Next`.
 
-<img src="{{ site.url }}/assets/images/posts/development/editors/visual-studio-code-installer-destination-location.png" alt="visual studio code installer destination location">
+<img src="{{ site.url }}/assets/images/posts/development/git/git-installer-select-components.png" alt="git installer select components">
 
-Keep the default Start Menu Folder.
 
-Click `Next`.
 
-<img src="{{ site.url }}/assets/images/posts/development/editors/visual-studio-code-installer-start-menu-folder.png" alt="visual studio code installer start menu folder">
 
-Select the `Create a desktop icon` check box.
 
-Click `Next`.
-
-<img src="{{ site.url }}/assets/images/posts/development/editors/visual-studio-code-installer-additional-tasks.png" alt="visual studio code installer additional tasks">
-
-An overview of the selected installation settings is shown.
 
 Click `Install` to start the installation.
 
-<img src="{{ site.url }}/assets/images/posts/development/editors/visual-studio-code-installer-ready-to-install.png" alt="visual studio code installer ready to install">
+<img src="{{ site.url }}/assets/images/posts/development/git/visual-studio-code-installer-ready-to-install.png" alt="visual studio code installer ready to install">
 
-The Visual Studio Code installation will now start.
+The Git installation will now start.
 
 A progress bar shows the various steps that are executed.
 
-<img src="{{ site.url }}/assets/images/posts/development/editors/visual-studio-code-installer-progress.png" alt="visual studio code installer progress">
+<img src="{{ site.url }}/assets/images/posts/development/git/git-installer-progress.png" alt="git installer progress">
 
 Once the installation is complete, click `Finish`.
 
-<img src="{{ site.url }}/assets/images/posts/development/editors/visual-studio-code-installer-finish.png" alt="visual studio code installer finish">
+<img src="{{ site.url }}/assets/images/posts/development/git/git-installer-finish.png" alt="git installer finish">
 
-Visual Studio Code will now launch.
+## Step #3: Test
 
-## Step #3: Run
+To test the setup click on the search button. Then type "<kbd>cmd</kbd>".
 
-To start Visual Studio Code double-click on the desktop shortcut.
+Click on the `Command Prompt` shortcut.
 
-<img src="{{ site.url }}/assets/images/posts/development/editors/visual-studio-code-desktop-shortcut.png" alt="visual studio code desktop shortcut">
+<img src="{{ site.url }}/assets/images/posts/development/windows-search-cmd.png" alt="windows search cmd">
 
-The `Welcome` editor should now open as shown below.
+Wait for the command prompt to open.
 
-<img src="{{ site.url }}/assets/images/posts/development/editors/visual-studio-code-welcome.png" alt="visual studio code welcome">
+Type "<kbd>git --version</kbd>" and press `ENTER`.
 
-To install extensions from the marketplace click on the bottom icon on the left-hand side.
+<img src="{{ site.url }}/assets/images/posts/development/git/git-version-command.png" alt="git version command">
 
-<img src="{{ site.url }}/assets/images/posts/development/editors/visual-studio-code-extensions.png" alt="visual studio code extensions">
+The above command prints the installed Git version.
 
-**Congratulations, you have installed Visual Studio Code on Windows 10!**
+<img src="{{ site.url }}/assets/images/posts/development/git/git-version-output.png" alt="git version output">
 
-Have fun coding.
+**Congratulations, you have installed Git on Windows 10!**
 
-If you liked this guide leave a short message below.
+Now it's time [to perform a first-time Git setup](https://www.codebasehq.com/blog/using-git-on-windows){:target="_blank"}.
+
+If you enjoyed this guide leave a short message below.
 
 Thanks!
