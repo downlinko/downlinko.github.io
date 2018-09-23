@@ -103,7 +103,7 @@ Keep the default terminal emulator for Git Bash (MinTTY) and click `Next`.
 
 <img src="{{ site.url }}/assets/images/posts/development/git/git-installer-terminal-emulator.png" alt="git installer terminal emulator">
 
-Keep the default selection of extra options.
+Leave the selection of extra options untouched.
 
 Click `Install` to start the installation.
 
