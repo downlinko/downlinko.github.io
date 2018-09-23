@@ -75,11 +75,9 @@ Keep the default start menu folder and click `Next`.
 
 Some Git commands will launch a text editor to prompt for further input. You can use the dropdown select the editor you would like Git to use.
 
-> You can always [change the default text editor Git uses](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup#_your_editor){:target="_blank"} at a later point.
+> Note that you can always [change the default text editor Git uses](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup#_your_editor){:target="_blank"} at a later point.
 
-In this tutorial we keep the default editor (Vim) that ships with Git.
-
-Click `Next`.
+In this tutorial we keep the default editor (Vim) that ships with Git. Click `Next`.
 
 <img src="{{ site.url }}/assets/images/posts/development/git/git-installer-default-editor.png" alt="git installer default editor">
 
@@ -93,7 +91,11 @@ Select the `Use Git from the Windows Command Prompt` option and click `Next`.
 
 <img src="{{ site.url }}/assets/images/posts/development/git/git-installer-https-transport.png" alt="git installer https transport">
 
+Different operating systems use different character(s) to represent the end of a line. Git uses these characters to compare files. As a result it may cause unexpected issues when you edit a file on different machines.
 
+Keep the recommended setting which is the first option: `Checkout Windows-style, commit Unix-style line endings`.
+
+Click `Next`.
 
 <img src="{{ site.url }}/assets/images/posts/development/git/git-installer-line-endings.png" alt="git installer line endings">
 
