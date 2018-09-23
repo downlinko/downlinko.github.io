@@ -87,19 +87,19 @@ Select the `Use Git from the Windows Command Prompt` option and click `Next`.
 
 <img src="{{ site.url }}/assets/images/posts/development/git/git-installer-configure-path-variable.png" alt="git installer configure path variable">
 
-
+Keep the default `Use the OpenSSL library` option selected and click `Next`.
 
 <img src="{{ site.url }}/assets/images/posts/development/git/git-installer-https-transport.png" alt="git installer https transport">
 
 Different operating systems use different character(s) to represent the end of a line. Git uses these characters to compare files. As a result it may cause unexpected issues when you edit a file on different machines.
 
-Keep the recommended setting which is the first option: `Checkout Windows-style, commit Unix-style line endings`.
+To avoid this keep the recommended setting which is the first option: `Checkout Windows-style, commit Unix-style line endings`.
 
 Click `Next`.
 
 <img src="{{ site.url }}/assets/images/posts/development/git/git-installer-line-endings.png" alt="git installer line endings">
 
-
+Keep the default terminal emulator for Git Bash (MinTTY) and click `Next`.
 
 <img src="{{ site.url }}/assets/images/posts/development/git/git-installer-terminal-emulator.png" alt="git installer terminal emulator">
 
