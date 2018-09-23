@@ -164,7 +164,7 @@ Type "<kbd>mvn -version</kbd>" and press `ENTER`.
 
 <img src="{{ site.url }}/assets/images/posts/development/maven/maven-version-command.png" alt="maven version command">
 
-The above command prints the installed Maven version: 3.3.9.
+The above command prints the installed Maven version.
 
 <img src="{{ site.url }}/assets/images/posts/development/maven/maven-3-3-9-version-output.png" alt="maven 3-3-9 version output">
 

@@ -156,7 +156,7 @@ The above command prints the installed Gradle version.
 
 <img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-version-output.png" alt="gradle version output">
 
-**Congratulations, you have installed Gradle 4.10.2 on Windows 10!**
+**Congratulations, you have installed Gradle on Windows 10!**
 
 Now go ahead and [create your first Gradle build](https://guides.gradle.org/creating-new-gradle-builds/){:target="_blank"}.
 
