@@ -91,7 +91,15 @@ Select the `Use Git from the Windows Command Prompt` option and click `Next`.
 
 
 
+<img src="{{ site.url }}/assets/images/posts/development/git/git-installer-https-transport.png" alt="git installer https transport">
 
+
+
+<img src="{{ site.url }}/assets/images/posts/development/git/git-installer-line-endings.png" alt="git installer line endings">
+
+
+
+<img src="{{ site.url }}/assets/images/posts/development/git/git-installer-terminal-emulator.png" alt="git installer terminal emulator">
 
 Keep the default selection of extra options.
 
