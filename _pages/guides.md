@@ -28,6 +28,10 @@ This page contains an overview of all the installation guides.
 * [Download and Install Eclipse Neon on Windows]({{ site.url }}/download-install-eclipse-neon-windows.html)
 * [Download and Install Eclipse Photon on Windows]({{ site.url }}/download-install-eclipse-photon-windows.html)
 
+### Git
+
+* [Download and Install Git on Windows]({{ site.url }}/download-install-git-windows.html)
+
 ### Golang
 
 * [Download and Install Golang on Windows]({{ site.url }}/download-install-golang-windows.html)
