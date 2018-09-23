@@ -43,9 +43,9 @@ Open the location of the downloaded executable.
 
 <img src="{{ site.url }}/assets/images/posts/development/git/git-downloaded-installer.png" alt="git downloaded installer">
 
-> You can install Git for your current user account or for all users on the system. For the last option you need to run the installer with administrative privileges. To do this on Windows, right click on the executable and select `Run as administrator`.
-
 In this tutorial we install Git only for the current user. Just double-click the installer to start the setup.
+
+> You can install Git for your current user account or for all users on the system. For the last option you need to run the installer with administrative privileges. To do this on Windows, right click on the executable and select `Run as administrator`.
 
 On Windows 10 a pop-up window will appear: `The app you're trying to install isn't a verified app from the Store`
 
@@ -73,17 +73,23 @@ Keep the default start menu folder and click `Next`.
 
 <img src="{{ site.url }}/assets/images/posts/development/git/git-installer-select-components.png" alt="git installer select components">
 
-Some Git commands will launch a text editor to prompt for further input. You can use the dropdown select your favorite text editor.
+Some Git commands will launch a text editor to prompt for further input. You can use the dropdown select the editor you would like Git to use.
 
-In this tutorial we keep the default editor that ships with Git.
+> You can always [change the default text editor Git uses](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup#_your_editor){:target="_blank"} at a later point.
+
+In this tutorial we keep the default editor (Vim) that ships with Git.
 
 Click `Next`.
 
 <img src="{{ site.url }}/assets/images/posts/development/git/git-installer-default-editor.png" alt="git installer default editor">
 
+To use Git from a Windows command prompt it needs to be added to your environment `PATH` variable.
 
+Select the `Use Git from the Windows Command Prompt` option and click `Next`.
 
 <img src="{{ site.url }}/assets/images/posts/development/git/git-installer-configure-path-variable.png" alt="git installer configure path variable">
+
+
 
 
 
