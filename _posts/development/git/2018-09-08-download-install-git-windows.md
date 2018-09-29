@@ -3,7 +3,7 @@ title: "How to Download and Install Git on Windows"
 permalink: /download-install-git-windows.html
 excerpt: "A detailed step-by-step tutorial on how to download and install Git on Windows 10."
 date: 2018-09-23
-last_modified_at: 2018-09-23
+last_modified_at: 2018-09-29
 header:
   teaser: "assets/images/posts/development/git/download-install-git-windows.png"
 categories: [Development]
@@ -31,7 +31,7 @@ Head over to the [Git downloads page](https://git-scm.com/download){:target="_bl
 
 Click on the `Download X.X.X for Windows` button.
 
-At the time of writing the latest Git release was version: `2.18.0`.
+At the time of writing the latest Git release was version: `2.19.0`.
 
 <img src="{{ site.url }}/assets/images/posts/development/git/git-download-installer.png" alt="git download installer">
 
@@ -71,13 +71,15 @@ Keep the default selection of components and click `Next`.
 
 Keep the default start menu folder and click `Next`.
 
-<img src="{{ site.url }}/assets/images/posts/development/git/git-installer-select-components.png" alt="git installer select components">
+<img src="{{ site.url }}/assets/images/posts/development/git/git-installer-start-menu.png" alt="git installer start menu">
 
-Some Git commands will launch a text editor to prompt for further input. You can use the drop-down select the editor you would like Git to use.
+Some Git commands will launch a text editor to prompt for further input. You can use the drop-down to select the editor you would like Git to use.
 
 > Note that you can always [change the default text editor Git uses](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup#_your_editor){:target="_blank"} at a later point.
 
-In this guide, we keep the default editor (Vim) that ships with Git. Click `Next`.
+In this guide, we keep the default editor (Vim) that ships with Git.
+
+Click `Next`.
 
 <img src="{{ site.url }}/assets/images/posts/development/git/git-installer-default-editor.png" alt="git installer default editor">
 
@@ -105,9 +107,15 @@ Keep the default terminal emulator for Git Bash (MinTTY) and click `Next`.
 
 Leave the selection of extra options untouched.
 
-Click `Install` to start the installation.
+Click `Next`.
 
 <img src="{{ site.url }}/assets/images/posts/development/git/git-installer-extra-options.png" alt="git installer extra options">
+
+Do not enable any of the experimental options.
+
+Click `Install` to start the installation.
+
+<img src="{{ site.url }}/assets/images/posts/development/git/git-installer-experimental-options.png" alt="git installer experimental options">
 
 The Git installation will now start.
 
