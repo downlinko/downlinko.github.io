@@ -1,5 +1,5 @@
 ---
-title: "Download and Install JDK 1.7 on Windows"
+title: "How to Download and Install JDK 1.7 on Windows"
 permalink: /download-install-jdk-7-windows.html
 excerpt: "A detailed step-by-step tutorial on how to download and install JDK 7u80 on Windows 10."
 date: 2018-08-13
@@ -13,11 +13,11 @@ published: true
 
 <img src="{{ site.url }}/assets/images/posts/development/jdk/download-install-jdk-7-windows.png" alt="download install jdk 7 windows" class="align-right title-image">
 
-In this guide, I’m going to show you exactly how to download and install JDK 1.7 on Windows.
+In this guide, I’m going to show you exactly **how to download and install JDK 1.7 on Windows**.
 
 (Step-by-step)
 
-First, I’ll show you where you can download JDK 7.
+First, I’ll show you where you can get JDK 7.
 
 Then you’ll see how to configure it.
 
@@ -25,14 +25,22 @@ And finally **how to verify if everything is working**.
 
 Let’s dive right in…
 
-Check following post if you are looking to download and install [JDK 1.6]({{ site.url }}/download-install-jdk-6-windows.html), [JDK 1.8]({{ site.url }}/download-install-jdk-8-windows.html) or [JDK 1.10]({{ site.url }}/download-install-jdk-10-windows.html).
+Check following post if you are looking to download and install [JDK 1.5]({{ site.url }}/download-install-jdk-5-windows.html), [JDK 1.6]({{ site.url }}/download-install-jdk-6-windows.html), [JDK 1.8]({{ site.url }}/download-install-jdk-8-windows.html), [JDK 10]({{ site.url }}/download-install-jdk-10-windows.html) or [JDK 11]({{ site.url }}/download-install-jdk-11-windows.html).
 {: .notice--primary}
+
+## What is a JDK?
+
+When you want to create a Java application you need a [Java Development Kit](https://en.wikipedia.org/wiki/Java_Development_Kit){:target="_blank"} (JDK). It contains tools that allow you to develop and run your Java program.
+
+<img src="{{ site.url }}/assets/images/posts/development/jdk/what-is-a-jdk.png" alt="what is a jdk">
+
+One of these tools is a **compiler** (javac) that converts Java source code (`.java` files) into Java bytecode (`.class` files). Other tools include an archiver (jar) and a documentation generator (javadoc).
+
+The JDK also contains a **Java Runtime Environment** (JRE) that is able to run compiled Java code. To do this the JRE uses Java libraries and a Java Virtual Machine (JVM) that executes the compiled Java code.
 
 ## Step #1: Download
 
 There are [several Java packages available](https://docs.oracle.com/javaee/6/firstcup/doc/gkhoy.html){:target="_blank"}. In this tutorial, we will install the Java Standard Edition (SE) platform.
-
-Java SE contains a **Java Development Kit** (JDK) that comes with a Java compiler. It also has a Java runtime environment (JRE) that can run compiled Java code.
 
 Head over to the [Oracle Java download page](http://www.oracle.com/technetwork/java/javase/downloads/index.html){:target="_blank"}.
 
@@ -55,6 +63,8 @@ Click on the radio button next to `Accept License Agreement`.
 In this guide, we will download the 64-bit installer: `jdk-7u80-windows-x64.exe`.
 
 <img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-7-download-java-se-windows-binary.png" alt="jdk 7 download java se windows binary">
+
+> To download archived JDK versions you need an Oracle account. Create a new account or sign in with an existing one.
 
 Wait for the download to complete.
 
@@ -164,14 +174,14 @@ Type "<kbd>java -version</kbd>" and press `ENTER`.
 
 <img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-version-command.png" alt="jdk version command">
 
-The above command prints the installed JDK version: `1.7.0_80-b15`.
+The above command prints the installed JDK version: `1.7.0_80`.
 
 <img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-7-version-output.png" alt="jdk 7 version output">
 
 **Congratulations, you have installed JDK 1.7 on Windows 10!**
 
-Now let me know if you liked this post.
+Now take the next step and [write your first Java program](https://introcs.cs.princeton.edu/java/11hello/){:target="_blank"}.
 
-Leave a comment below.
+Leave a comment if you liked this post.
 
 Thanks!
