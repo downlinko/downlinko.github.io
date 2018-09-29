@@ -150,8 +150,8 @@ footer:
       icon: "fab fa-fw fa-instagram"
       # url:
     - label: "Google+"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+      icon: "fab fa-fw fa-google-plus"
+      url: "https://plus.google.com/108541502197470018714"
 
 
 # Reading Files
