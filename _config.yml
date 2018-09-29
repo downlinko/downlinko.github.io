@@ -117,7 +117,7 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/downlinko"
+      # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -133,7 +133,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: "https://twitter.com/downlinko"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
@@ -147,6 +147,9 @@ footer:
       icon: "fab fa-fw fa-bitbucket"
       # url:
     - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      # url:
+    - label: "Google+"
       icon: "fab fa-fw fa-instagram"
       # url:
 
