@@ -56,6 +56,8 @@ Click on the radio button next to `Accept License Agreement`.
 
 Click on the Windows download link: `jdk-11_windows-x64_bin.exe`.
 
+> Note that as from version 9, Oracle no longer provides 32-bit JDK builds.
+
 <img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-11-download-java-se-windows-binary.png" alt="jdk 11 download java se windows binary">
 
 Wait for the download to complete.
