@@ -49,6 +49,7 @@ This page contains an overview of all the installation guides.
 * [Download and Install JDK 1.7 on Windows]({{ site.url }}/download-install-jdk-7-windows.html)
 * [Download and Install JDK 1.8 on Windows]({{ site.url }}/download-install-jdk-8-windows.html)
 * [Download and Install JDK 10 on Windows]({{ site.url }}/download-install-jdk-10-windows.html)
+* [Download and Install JDK 11 on Windows]({{ site.url }}/download-install-jdk-11-windows.html)
 
 ### Kotlin
 
