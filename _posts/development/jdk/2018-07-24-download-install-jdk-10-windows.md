@@ -38,6 +38,8 @@ One of these tools is a **compiler** (javac) that converts Java source code (`.j
 
 The JDK also contains a **Java Runtime Environment** (JRE) that is able to run compiled Java code. To do this the JRE uses Java libraries and a Java Virtual Machine (JVM) that executes the compiled Java code.
 
+Different JDK implementations are available. The official reference implementation is maintained by [Oracle](https://www.oracle.com/index.html){:target="_blank"}.
+
 ## Step #1: Download
 
 There are [several Java packages](https://docs.oracle.com/javaee/6/firstcup/doc/gkhoy.html){:target="_blank"} available. In this tutorial, we will install the Java Standard Edition (SE).
@@ -176,6 +178,8 @@ The above command prints the installed JDK version: `10.0.2`.
 
 Now take the next step and [write your first Java program](https://introcs.cs.princeton.edu/java/11hello/){:target="_blank"}.
 
-Leave a comment if you liked this post.
+Let me know if you liked this post.
+
+Leave a comment below.
 
 Thanks!

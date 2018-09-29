@@ -13,11 +13,11 @@ published: true
 
 <img src="{{ site.url }}/assets/images/posts/development/jdk/download-install-jdk-5-windows.png" alt="download install jdk 5 windows" class="align-right title-image">
 
-In this guide, I’m going to show you exactly how to download and install JDK 1.5 on Windows.
+In this guide, I’m going to show you exactly **how to download and install JDK 1.5 on Windows**.
 
 (Step-by-step)
 
-First, I’ll show you where you can download the latest version.
+First, I’ll show you where you can get JDK 5.
 
 Then you’ll see how to configure it.
 
@@ -25,20 +25,24 @@ And finally **how to verify if everything is working**.
 
 Let’s dive right in…
 
-Check following post if you are looking to download and install [JDK 1.6]({{ site.url }}/download-install-jdk-6-windows.html), [JDK 1.7]({{ site.url }}/download-install-jdk-7-windows.html), [JDK 1.8]({{ site.url }}/download-install-jdk-8-windows.html) or [JDK 1.10]({{ site.url }}/download-install-jdk-10-windows.html).
+Check following post if you are looking to download and install [JDK 1.6]({{ site.url }}/download-install-jdk-6-windows.html), [JDK 1.7]({{ site.url }}/download-install-jdk-7-windows.html), [JDK 1.8]({{ site.url }}/download-install-jdk-8-windows.html), [JDK 10]({{ site.url }}/download-install-jdk-10-windows.html) or [JDK 11]({{ site.url }}/download-install-jdk-11-windows.html).
 {: .notice--primary}
 
 ## What is a JDK?
 
-A [Java Development Kit](https://en.wikipedia.org/wiki/Java_Development_Kit){:target="_blank"} or JDK includes **tools for developing and debugging Java applications**. It allows you to compile Java source code (_.java files_) into bytecode (_.class files_).
+When you want to create a Java application you need a [Java Development Kit](https://en.wikipedia.org/wiki/Java_Development_Kit){:target="_blank"} (JDK). It contains tools that allow you to develop and run your Java program.
 
-A JDK also includes a [Java Virtual Machine](https://en.wikipedia.org/wiki/Java_virtual_machine){:target="_blank"} or JVM that enables you to run compiled Java code.
+<img src="{{ site.url }}/assets/images/posts/development/jdk/what-is-a-jdk.png" alt="what is a jdk">
+
+One of these tools is a **compiler** (javac) that converts Java source code (`.java` files) into Java bytecode (`.class` files). Other tools include an archiver (jar) and a documentation generator (javadoc).
+
+The JDK also contains a **Java Runtime Environment** (JRE) that is able to run compiled Java code. To do this the JRE uses Java libraries and a Java Virtual Machine (JVM) that executes the compiled Java code.
 
 Different JDK implementations are available. The official reference implementation is maintained by [Oracle](https://www.oracle.com/index.html){:target="_blank"}.
 
 ## Step #1: Download
 
-There are [several types of Java packages](https://docs.oracle.com/javaee/6/firstcup/doc/gkhoy.html){:target="_blank"}. In this tutorial, we will install the JDK for the Java Standard Edition (SE) platform.
+There are [several Java packages](https://docs.oracle.com/javaee/6/firstcup/doc/gkhoy.html){:target="_blank"} available. In this tutorial, we will install the Java Standard Edition (SE).
 
 Head over to the [Oracle Java download page](http://www.oracle.com/technetwork/java/javase/downloads/index.html){:target="_blank"}.
 
@@ -58,9 +62,9 @@ Click on the Windows offline installer: `jdk-1_5_0_22-windows-i586-p.exe`.
 
 <img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-5-download-java-se-windows-binary.png" alt="jdk 5 download java se windows binary">
 
-Sign in using your Oracle account (or create a new one) and the download should start.
+> To download archived JDK versions you need an Oracle account. Create a new account or sign in with an existing one.
 
-Now, wait for it to finish.
+Wait for the download to complete.
 
 ## Step #2: Install
 
