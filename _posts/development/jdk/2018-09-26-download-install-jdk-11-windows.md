@@ -1,5 +1,5 @@
 ---
-title: "Download and Install JDK 11 on Windows"
+title: "How to Download and Install JDK 11 on Windows"
 permalink: /download-install-jdk-11-windows.html
 excerpt: "A detailed step-by-step tutorial on how to download and install JDK 1.11 on Windows 10."
 date: 2018-09-29
@@ -13,11 +13,11 @@ published: true
 
 <img src="{{ site.url }}/assets/images/posts/development/jdk/download-install-jdk-11-windows.png" alt="download install jdk 11 windows" class="align-right title-image">
 
-In this guide, I’m going to show you exactly how to download and install JDK 11 on Windows.
+In this guide, I’m going to show you exactly **how to download and install JDK 11 on Windows**.
 
 (Step-by-step)
 
-First, I’ll show you where you can download JDK 11.
+First, I’ll show you where you can get JDK 11.
 
 Then you’ll see how to configure it.
 
@@ -34,19 +34,19 @@ When you want to create a Java application you need a [Java Development Kit](htt
 
 <img src="{{ site.url }}/assets/images/posts/development/jdk/what-is-a-jdk.png" alt="what is a jdk">
 
-One of these tools is a compiler (javac) that converts Java source code (`.java` files) into Java byte code (`.class` files). Other tools include an archiver (jar) and a documentation generator (javadoc).
+One of these tools is a **compiler** (javac) that converts Java source code (`.java` files) into Java bytecode (`.class` files). Other tools include an archiver (jar) and a documentation generator (javadoc).
 
-The JDK also contains a Java Runtime Environment (JRE) that is able to run compiled Java code. To do this the JRE uses Java libraries and a Java Virtual Machine (JVM) that executes the compiled Java code.
+The JDK also contains a **Java Runtime Environment** (JRE) that is able to run compiled Java code. To do this the JRE uses Java libraries and a Java Virtual Machine (JVM) that executes the compiled Java code.
 
 ## Step #1: Download
 
-There are [several Java packages available](https://docs.oracle.com/javaee/6/firstcup/doc/gkhoy.html){:target="_blank"}. In this tutorial, we will install the Java Standard Edition (SE).
+There are [several Java packages](https://docs.oracle.com/javaee/6/firstcup/doc/gkhoy.html){:target="_blank"} available. In this tutorial, we will install the Java Standard Edition (SE).
 
 Head over to the [Oracle Java download page](http://www.oracle.com/technetwork/java/javase/downloads/index.html){:target="_blank"}.
 
 Look for the `Java SE 11 (LTS)` section.
 
-> Starting with Java 9, Oracle introduced a new support model. Version tagged as LTS (long term support) will receive support for 3 years. Non-LTS versions will be out of support as soon as a new major version is released.
+> Starting with Java 9, Oracle introduced a new support model. Versions tagged as LTS (long-term support) will receive support for 3 years. Non-LTS versions will be out of support as soon as a new major version is released.
 
 Click on the `Download` button right below `Oracle JDK`.
 
@@ -164,7 +164,7 @@ The above command prints the installed JDK version: `11`.
 
 **Congratulations, you have installed JDK 1.11 on Windows 10!**
 
-Take the next step and [write your first Java program](https://introcs.cs.princeton.edu/java/11hello/){:target="_blank"}.
+Now take the next step and [write your first Java program](https://introcs.cs.princeton.edu/java/11hello/){:target="_blank"}.
 
 Leave a comment if you liked this post.
 
