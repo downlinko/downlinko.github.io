@@ -25,7 +25,7 @@ And finally **how to verify if everything is working**.
 
 Let’s dive right in…
 
-Check following post if you are looking to download and install [JDK 1.5]({{ site.url }}/download-install-jdk-5-windows.html), [JDK 1.6]({{ site.url }}/download-install-jdk-6-windows.html), [JDK 1.7]({{ site.url }}/download-install-jdk-7-windows.html), [JDK 1.8]({{ site.url }}/download-install-jdk-8-windows.html) or [JDK 11]({{ site.url }}/download-install-jdk-11-windows.html).
+Check following post if you are looking to download and install [JDK 1.5]({{ site.url }}/download-install-jdk-5-windows.html), [JDK 1.6]({{ site.url }}/download-install-jdk-6-windows.html), [JDK 1.7]({{ site.url }}/download-install-jdk-7-windows.html), [JDK 1.8]({{ site.url }}/download-install-jdk-8-windows.html), [JDK 9]({{ site.url }}/download-install-jdk-9-windows.html) or [JDK 11]({{ site.url }}/download-install-jdk-11-windows.html).
 {: .notice--primary}
 
 ## What is a JDK?
