@@ -70,7 +70,7 @@ We will download the `Eclipse IDE for Java EE Developers` package.
 
 Click on your Windows version. This needs to match with the Java version installed on your system!
 
-In this guide we will install the 64-bit version.
+In this guide, we will install the 64-bit version.
 
 <img src="{{ site.url }}/assets/images/posts/development/eclipse/eclipse-photon-packages-download-page.png" alt="eclipse photon packages download page">
 
