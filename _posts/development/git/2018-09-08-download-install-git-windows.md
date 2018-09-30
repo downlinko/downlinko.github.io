@@ -65,7 +65,7 @@ Leave the default suggested location and click `Next`.
 
 <img src="{{ site.url }}/assets/images/posts/development/git/git-installer-destination-location.png" alt="git installer destination location">
 
-Keep the default selection of components and click `Next`.
+Do not change the default selection of components and click `Next`.
 
 <img src="{{ site.url }}/assets/images/posts/development/git/git-installer-select-components.png" alt="git installer select components">
 
