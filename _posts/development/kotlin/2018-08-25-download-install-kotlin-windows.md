@@ -1,5 +1,5 @@
 ---
-title: "Download and Install Kotlin on Windows"
+title: "How to Download and Install Kotlin on Windows"
 permalink: /download-install-kotlin-windows.html
 excerpt: "A detailed step-by-step tutorial on how to download and install Kotlin on Windows 10."
 date: 2018-08-25
@@ -22,6 +22,14 @@ In this guide, you’ll learn how to download the compiler…
 …and how to configure it so you can use it from command line.
 
 So let's fire away:
+
+## What is Kotlin?
+
+[Kotlin](https://en.wikipedia.org/wiki/Kotlin_(programming_language)){:target="_blank"} is a programming language. It runs on the Java Virtual Machine (JVM) but also provides the ability to target JavaScript.
+
+A key aspect of Kotlin is the interoperability with Java. You can write Kotlin and Java code in the same project and they’ll work hand in hand.
+
+Kotlin originated at [JetBrains](https://www.jetbrains.com/), and has been open source since 2012.
 
 ## Step #1: Check Prerequisites
 
@@ -146,6 +154,8 @@ The above command prints the installed Kotlin version.
 <img src="{{ site.url }}/assets/images/posts/development/kotlin/kotlin-version-output.png" alt="kotlin version output">
 
 **Congratulations, you have installed Kotlin on Windows 10!**
+
+Now get started and [write your first lines of Kotlin code](https://codeburst.io/getting-started-with-kotlin-language-9d042bc4a54c){:target="_blank"}.
 
 Be sure to leave a comment if you liked this post.
 
