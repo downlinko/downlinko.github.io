@@ -54,17 +54,17 @@ Click on the `Download` button.
 
 Click on the `Java SE 9` link under the `Java SE` title.
 
+> Starting with Java 9, Oracle introduced a new support model. Versions tagged as LTS (long-term support) will receive support for 3 years. Non-LTS versions will be out of support as soon as a new major version is released.
+
 <img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-9-download-java-se.png" alt="jdk 9 download java se">
 
 Look for the `Java SE Development Kit 9.0.4` section.
 
 Click on the radio button next to `Accept License Agreement`.
 
-[Verify your windows bit version]({{ site.url }}/windows-10-bit-version-check.html) and click on the corresponding link:
-* For 32-bit = Windows <kbd>x86</kbd> installer
-* For 64-bit = Windows <kbd>x64</kbd> installer
+Click on the Windows download link: `jdk-9.0.4_windows-x64_bin.exe`.
 
-In this guide, we will download the 64-bit installer: `jdk-9.0.4_windows-x64_bin.exe`.
+> Note that as from version 9, Oracle no longer provides 32-bit JDK builds.
 
 <img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-9-download-java-se-windows-binary.png" alt="jdk 9 download java se windows binary">
 
