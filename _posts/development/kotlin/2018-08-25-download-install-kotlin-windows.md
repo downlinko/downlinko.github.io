@@ -29,7 +29,7 @@ So let's fire away:
 
 A key aspect of Kotlin is the interoperability with Java. You can write Kotlin and Java code in the same project and they’ll work hand in hand.
 
-Kotlin originated at [JetBrains](https://www.jetbrains.com/), and has been open source since 2012.
+Kotlin originated at [JetBrains](https://www.jetbrains.com/) and has been open source since 2012.
 
 ## Step #1: Check Prerequisites
 
