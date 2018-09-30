@@ -10,7 +10,7 @@ This page contains an overview of all the installation guides.
 
 ## Development
 
-### Anaconda Studio
+### Anaconda
 
 * [Download and Install Anaconda on Windows]({{ site.url }}/download-install-anaconda-windows.html)
 
