@@ -10,6 +10,10 @@ This page contains an overview of all the installation guides.
 
 ## Development
 
+### Anaconda Studio
+
+* [Download and Install Anaconda on Windows]({{ site.url }}/download-install-anaconda-windows.html)
+
 ### Android Studio
 
 * [Download and Install Android Studio on Windows]({{ site.url }}/download-install-android-studio-windows.html)
