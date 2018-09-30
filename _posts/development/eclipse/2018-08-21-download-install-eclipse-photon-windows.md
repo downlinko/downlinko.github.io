@@ -28,11 +28,11 @@ Check following post if you are looking to download and install [Eclipse Mars]({
 
 ## What is Eclipse?
 
-[Eclipse](https://en.wikipedia.org/wiki/Eclipse_(software)){:target="_blank"} is an integrated development environment (IDE). It is primary use is for developing Java applications. Other programming languages are also supported.
+[Eclipse](https://en.wikipedia.org/wiki/Eclipse_(software)){:target="_blank"} is an integrated development environment (IDE). Its primary use is for developing Java applications. But other programming languages are also supported.
 
 Eclipse contains an extensible plug-in system for customizing the environment.
 
-The initial codebase originated from [IBM VisualAge](https://en.wikipedia.org/wiki/IBM_VisualAge){:target="_blank"}. Today Eclipse is free and open-source software maintained by the Eclipse Foundation.
+The initial Eclipse codebase originated from [IBM VisualAge](https://en.wikipedia.org/wiki/IBM_VisualAge){:target="_blank"}. Today it is free and open-source software maintained by the Eclipse Foundation.
 
 ## Step #1: Prerequisites
 
@@ -134,7 +134,7 @@ This shows the Eclipse version: `Photon Release (4.8.0)`.
 
 **Congratulations, you have installed Eclipse Photon on Windows 10!**
 
-Now it's time to look at some [basic tips on the usage of Eclipse](https://courses.cs.washington.edu/courses/cse143/11wi/eclipse-tutorial/file_organization.shtml){:target="_blank"}.
+Now it's time to look at some [basic examples on how to use Eclipse](https://courses.cs.washington.edu/courses/cse143/11wi/eclipse-tutorial/file_organization.shtml){:target="_blank"}.
 
 Submit a comment below if you found this post helpful.
 
