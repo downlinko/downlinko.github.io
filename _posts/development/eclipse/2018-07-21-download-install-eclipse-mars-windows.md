@@ -1,5 +1,5 @@
 ---
-title: "Download and Install Eclipse Mars on Windows"
+title: "How to Download and Install Eclipse Mars on Windows"
 permalink: /download-install-eclipse-mars-windows.html
 excerpt: "A detailed step-by-step tutorial on how to download and install Eclipse Mars on Windows 10."
 date: 2018-07-21
@@ -25,6 +25,12 @@ Let’s go!
 
 Check following post if you are looking to download and install [Eclipse Neon]({{ site.url }}/download-install-eclipse-neon-windows.html) or [Eclipse Photon]({{ site.url }}/download-install-eclipse-photon-windows.html).
 {: .notice--primary}
+
+## What is Eclipse?
+
+[Eclipse](https://en.wikipedia.org/wiki/Eclipse_(software)){:target="_blank"} is an integrated development environment (IDE). Its primary use is for developing Java applications. But other programming languages are also supported.
+
+The initial Eclipse codebase originated from [IBM VisualAge](https://en.wikipedia.org/wiki/IBM_VisualAge){:target="_blank"}. Today it is free and open-source software maintained by the Eclipse Foundation.
 
 ## Step #1: Prerequisites
 
@@ -62,7 +68,7 @@ We will download the `Eclipse IDE for Java EE Developers` package.
 
 Click on your Windows version. This needs to match with the Java version installed on your system!
 
-In this guide we will install the 64-bit version.
+In this guide, we will install the 64-bit version.
 
 <img src="{{ site.url }}/assets/images/posts/development/eclipse/eclipse-mars-packages-download-page.png" alt="eclipse mars packages download page">
 
@@ -125,6 +131,8 @@ This shows the Eclipse version: `Mars.2 Release (4.5.2)`.
 <img src="{{ site.url }}/assets/images/posts/development/eclipse/eclipse-mars-version.png" alt="eclipse mars version">
 
 **Congratulations, you have installed Eclipse Mars on Windows 10!**
+
+Now it's time to look at some [basic examples on how to use Eclipse](https://courses.cs.washington.edu/courses/cse143/11wi/eclipse-tutorial/file_organization.shtml){:target="_blank"}.
 
 Submit a comment below if you found this post helpful.
 

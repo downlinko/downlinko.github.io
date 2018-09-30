@@ -30,8 +30,6 @@ Check following post if you are looking to download and install [Eclipse Mars]({
 
 [Eclipse](https://en.wikipedia.org/wiki/Eclipse_(software)){:target="_blank"} is an integrated development environment (IDE). Its primary use is for developing Java applications. But other programming languages are also supported.
 
-Eclipse contains an extensible plug-in system for customizing the environment.
-
 The initial Eclipse codebase originated from [IBM VisualAge](https://en.wikipedia.org/wiki/IBM_VisualAge){:target="_blank"}. Today it is free and open-source software maintained by the Eclipse Foundation.
 
 ## Step #1: Prerequisites
