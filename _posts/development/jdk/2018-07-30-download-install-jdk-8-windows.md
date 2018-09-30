@@ -42,7 +42,7 @@ Different JDK implementations are available. The official reference implementati
 
 ## Step #1: Download
 
-There are [several Java packages](https://docs.oracle.com/javaee/6/firstcup/doc/gkhoy.html){:target="_blank"} available. In this tutorial, we will install the Java Standard Edition (SE).
+There are [several Java platforms](https://docs.oracle.com/javaee/6/firstcup/doc/gkhoy.html){:target="_blank"}. In this tutorial, we will install the Java Standard Edition (SE).
 
 Head over to the [Oracle Java download page](http://www.oracle.com/technetwork/java/javase/downloads/index.html){:target="_blank"}.
 
