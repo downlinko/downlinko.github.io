@@ -52,9 +52,11 @@ Click on the `Download` button.
 
 <img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-java-archive.png" alt="jdk java archive">
 
-Click on the `Java SE 5` link under the `Java SE` section.
+Click on the `Java SE 5` link under the `Java SE` title.
 
 <img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-5-download-java-se.png" alt="jdk 5 download java se">
+
+Look for the `Java SE Development Kit 5.0u22` section.
 
 Click on the radio button next to `Accept License Agreement`.
 

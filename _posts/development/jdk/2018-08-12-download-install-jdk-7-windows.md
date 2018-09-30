@@ -52,9 +52,11 @@ Click on the `Download` button.
 
 <img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-java-archive.png" alt="jdk java archive">
 
-Click on the `Java SE 7` link under the `Java SE` section.
+Click on the `Java SE 7` link under the `Java SE` title.
 
 <img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-7-download-java-se.png" alt="jdk 7 download java se">
+
+Look for the `Java SE Development Kit 7u80` section.
 
 Click on the radio button next to `Accept License Agreement`.
 
