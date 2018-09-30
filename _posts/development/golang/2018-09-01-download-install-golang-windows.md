@@ -1,5 +1,5 @@
 ---
-title: "Ho to Download and Install Golang on Windows"
+title: "How to Download and Install Golang on Windows"
 permalink: /download-install-golang-windows.html
 excerpt: "A detailed step-by-step tutorial on how to download and install Golang on Windows 10."
 date: 2018-09-01
