@@ -166,7 +166,7 @@ The above command prints the installed JDK version: `11`.
 
 <img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-11-version-output.png" alt="jdk 11 version output">
 
-**Congratulations, you have installed JDK 1.11 on Windows 10!**
+**Congratulations, you have installed JDK 11 on Windows 10!**
 
 Now take the next step and [write your first Java program](https://introcs.cs.princeton.edu/java/11hello/){:target="_blank"}.
 
