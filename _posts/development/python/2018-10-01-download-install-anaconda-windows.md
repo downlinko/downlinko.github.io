@@ -8,12 +8,12 @@ header:
   teaser: "assets/images/posts/development/python/download-install-anaconda-windows.png"
 categories: [Development]
 tags: [Anaconda, Download, Install, Python, Setup, Tutorial, Windows]
-published: false
+published: true
 ---
 
 <img src="{{ site.url }}/assets/images/posts/development/python/download-install-anaconda-windows.png" alt="download install anaconda windows" class="align-right title-image">
 
-This guide will help you learn to **download and install Anaconda on Windows**.
+This guide will help you learn to **download and install the Anaconda distribution for Python** on Windows.
 
 In record time.
 
@@ -29,25 +29,15 @@ It is free and open source and maintained by Anaconda Inc. A software developmen
 
 ## Step #1: Download
 
-There are [several Java platforms](https://docs.oracle.com/javaee/6/firstcup/doc/gkhoy.html){:target="_blank"}. In this tutorial, we will install the Java Standard Edition (SE).
+Head over to the [Anaconda for Windows download page](https://www.anaconda.com/download/#windows){:target="_blank"}.
 
-Head over to the [Oracle Java download page](http://www.oracle.com/technetwork/java/javase/downloads/index.html){:target="_blank"}.
+[Verify your windows bit version]({{ site.url }}/windows-10-bit-version-check.html) and click on the corresponding link.
 
-Look for the `Java SE 11 (LTS)` section.
+In this guide, we will download the 64-bit installer.
 
-> Starting with Java 9, Oracle introduced a new support model. Versions tagged as LTS (long-term support) will receive support for 3 years. Non-LTS versions will be out of support as soon as a new major version is released.
+At the time of writing the latest stable Anaconda release was version `5.2.0`.
 
-Click on the `Download` button right below `Oracle JDK`.
-
-<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-11-download-java-se.png" alt="jdk 11 download java se">
-
-Click on the radio button next to `Accept License Agreement`.
-
-Click on the Windows download link: `jdk-11_windows-x64_bin.exe`.
-
-> Note that as from version 9, Oracle no longer provides 32-bit JDK builds.
-
-<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-11-download-java-se-windows-binary.png" alt="jdk 11 download java se windows binary">
+<img src="{{ site.url }}/assets/images/posts/development/python/anaconda-download-graphical-installer.png" alt="anaconda download graphical installer">
 
 Wait for the download to complete.
 
@@ -55,7 +45,7 @@ Wait for the download to complete.
 
 Open the location of the downloaded executable.
 
-<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-11-downloaded-installer.png" alt="jdk 11 downloaded installer">
+<img src="{{ site.url }}/assets/images/posts/development/python/anaconda-downloaded-installer.png" alt="anaconda downloaded installer">
 
 Double-click it to run the installer.
 
@@ -65,100 +55,82 @@ Click on `Install anyway`.
 
 <img src="{{ site.url }}/assets/images/posts/windows-10-install-app-not-in-store.png" alt="windows 10 install app not in store">
 
-The JDK installer will start. Click `Next`.
+The Anaconda installer will start. Click `Next`.
 
-<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-11-installer-start.png" alt="jdk 11 installer start">
+<img src="{{ site.url }}/assets/images/posts/development/python/anaconda-installer-start.png" alt="anaconda 11 installer start">
 
-You can change the installation location by clicking on the `Change…` button.
+Click on `I Agree` to accept the license agreement.
 
-In this example, we keep the default install location of `C:\Program Files\Java\jdk-11\`. From now on we will refer to this directory as `[JAVA_INSTALL_DIR]`.
+<img src="{{ site.url }}/assets/images/posts/development/python/anaconda-license-agreement.png" alt="anaconda license agreement">
 
-Click `Next` to start the installation.
+Select if you want to install for the current user or all users on the system.
 
-<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-11-installer-default-location.png" alt="jdk 11 installer default location">
+> Installing for all users requires Windows Administrator privileges.
 
-The JDK installation will now start.
+In this tutorial we keep the recommended setting of `Just Me`.
+
+Click `Next`.
+
+<img src="{{ site.url }}/assets/images/posts/development/python/anaconda-installation-type.png" alt="anaconda installation type">
+
+You can change the installation location by clicking on the `Browse…` button.
+
+> Do not install Anaconda to a directory path that contains spaces or special characters.
+
+For this example we keep the default install location in the users home folder.
+
+<img src="{{ site.url }}/assets/images/posts/development/python/anaconda-install-location.png" alt="anaconda install location">
+
+Choose if you want to add Anaconda to your PATH environment variable.
+
+> We recommend that you do not add Anaconda to the PATH environment variable. The reason for this is that it can interfere with other software.
+
+Choose whether you want to register Anaconda as your default Python environment.
+
+Leave the `Register Anaconda as my default Python 3.6` box checked. Unless you plan on installing and running multiple versions of Anaconda. Or in case you need to use multiple versions of Python.
+
+Click `Install` to start the installation.
+
+<img src="{{ site.url }}/assets/images/posts/development/python/anaconda-advanced-options.png" alt="anaconda advanced options">
+
+The Anaconda installation will now start.
 
 A progress bar shows the various steps that are executed.
 
-<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-11-installer-progress.png" alt="jdk 11 installer progress">
+<img src="{{ site.url }}/assets/images/posts/development/python/anaconda-installer-progress.png" alt="anaconda installer progress">
 
-Once the installation is complete, click `Close`.
+Once the installation is complete, click `Next`.
 
-<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-11-installer-complete.png" alt="jdk 11 installer complete">
+<img src="{{ site.url }}/assets/images/posts/development/python/anaconda-installer-complete.png" alt="anaconda-installer-complete">
 
-## Step #3: Setup
+You can now also install the Microsoft Visual Code editor. This is an optional step. In this tutorial we install Anaconda without Microsoft VSCode.
 
-We need to set up an environment variable that will point to our JDK installation.
+Click `Skip`.
 
-Click on the search button. Then type "<kbd>env</kbd>" (without quotes).
+> Check following post for a detailed guide on [how to install Visual Studio Code on Windows 10]({{ site.url }}/download-install-visual-studio-code-windows.html).
 
-> On Windows 7 click on the Windows button.
+<img src="{{ site.url }}/assets/images/posts/development/python/anaconda-visual-code-installation.png" alt="anaconda visual code installation">
 
-Click on the `Edit environment variables for your account` shortcut.
+Click `Finish` to complete the installation.
 
-<img src="{{ site.url }}/assets/images/posts/development/windows-search-env.png" alt="windows search env">
+<img src="{{ site.url }}/assets/images/posts/development/python/anaconda-installation-complete.png" alt="anaconda installation complete">
 
-Wait for the environment variables window to open.
+## Step #3: Run
 
-Click on `New…`.
+Let's verify the installation
 
-<img src="{{ site.url }}/assets/images/posts/development/windows-account-environment-variables-new.png" alt="windows account environment variables new">
+Click on the Windows button and look for Anaconda menu item. Open it and click `Anaconda Navigator` shortcut.
 
-Enter "<kbd>JAVA_HOME</kbd>" as variable name. Enter the `[JAVA_INSTALL_DIR]` as variable value.
+<img src="{{ site.url }}/assets/images/posts/development/python/anaconda-navigator-shortcut.png" alt="anaconda navigator shortcut">
 
-In this tutorial, the Java installation directory is `C:\Program Files\Java\jdk-11`.
+Navigator should now open as shown below.
 
-Click `OK`.
+<img src="{{ site.url }}/assets/images/posts/development/python/anaconda-navigator.png" alt="anaconda navigator">
 
-<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-11-home-variable.png" alt="jdk 11 home variable">
+**Congratulations, you have installed Anaconda on Windows 10!**
 
-Next, we need to configure the PATH environment variable so we can run Java from a command prompt.
+Now take the next step and learn how to [get started with Anaconda](https://docs.anaconda.com/anaconda/user-guide/getting-started/){:target="_blank"}.
 
-Select the `Path` variable. Click on `Edit…`.
-
-<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-11-edit-path-variable.png" alt="jdk 11 edit path variable">
-
-Click on `New` and type "<kbd>%JAVA_HOME%\bin</kbd>" as shown below.
-
-Click `OK`.
-
-<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-edit-path-variable-add-java-home.png" alt="jdk edit path variable add java home">
-
-Click `OK` once more to close the environment variables window.
-
-<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-11-windows-account-environment-variables.png" alt="jdk 11 windows account environment variables">
-
-> If a `Path` variable does not exist you need to create it. Use "<kbd>Path</kbd>" as variable name and "<kbd>%JAVA_HOME%\bin</kbd>" as variable value.
-
-> On Windows 7 you cannot add extra values for an existing `Path` variable. You need to append "<kbd>;%JAVA_HOME%\bin</kbd>" at the end of the variable value instead.
-
-## Step #4: Test
-
-Let's test the setup.
-
-Click on the search button. Then type "<kbd>cmd</kbd>" (without quotes).
-
-Click on the `Command Prompt` shortcut.
-
-<img src="{{ site.url }}/assets/images/posts/development/windows-search-cmd.png" alt="windows search cmd">
-
-Wait for the command prompt to open.
-
-Type "<kbd>java -version</kbd>" and press `ENTER`.
-
-<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-version-command.png" alt="jdk version command">
-
-The above command prints the installed JDK version: `11`.
-
-<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-11-version-output.png" alt="jdk 11 version output">
-
-**Congratulations, you have installed JDK 11 on Windows 10!**
-
-Now take the next step and [write your first Java program](https://introcs.cs.princeton.edu/java/11hello/){:target="_blank"}.
-
-Let me know if you liked this post.
-
-Leave a comment below.
+Leave a comment below if you enjoyed this post.
 
 Thanks!
