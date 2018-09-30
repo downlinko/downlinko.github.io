@@ -13,7 +13,7 @@ published: true
 
 <img src="{{ site.url }}/assets/images/posts/development/python/download-install-anaconda-windows.png" alt="download install anaconda windows" class="align-right title-image">
 
-This guide will help you learn to **download and install the Anaconda distribution for Python** on Windows.
+This guide will help you learn to **setup the Anaconda distribution for Python** on Windows.
 
 In record time.
 
@@ -21,11 +21,11 @@ So without further ado, let’s get started…
 
 ## What is Anaconda?
 
-[Anaconda](https://en.wikipedia.org/wiki/Anaconda_(Python_distribution)){:target="_blank"} is a distribution of the Python and R programming languages. It focuses on data science and machine learning related applications.
+[Anaconda](https://en.wikipedia.org/wiki/Anaconda_(Python_distribution)){:target="_blank"} is a distribution of the Python and R programming languages. It focuses on **data science and machine learning** related applications.
 
-Anaconda includes more than 250 popular data science packages.
+The distribution includes more than 250 popular data science packages.
 
-It is free and open source and maintained by Anaconda Inc. A software development and consulting company based in Austin, Texas, USA.
+Anaconda is free and open source and maintained by Anaconda Inc. A software development and consulting company based in Austin, Texas, USA.
 
 ## Step #1: Download
 
@@ -55,7 +55,9 @@ Click on `Install anyway`.
 
 <img src="{{ site.url }}/assets/images/posts/windows-10-install-app-not-in-store.png" alt="windows 10 install app not in store">
 
-The Anaconda installer will start. Click `Next`.
+The Anaconda installer will start.
+
+Click `Next`.
 
 <img src="{{ site.url }}/assets/images/posts/development/python/anaconda-installer-start.png" alt="anaconda 11 installer start">
 
@@ -67,7 +69,7 @@ Select if you want to install for the current user or all users on the system.
 
 > Installing for all users requires Windows Administrator privileges.
 
-In this tutorial we keep the recommended setting of `Just Me`.
+In this tutorial, we keep the recommended setting of `Just Me`.
 
 Click `Next`.
 
@@ -75,9 +77,9 @@ Click `Next`.
 
 You can change the installation location by clicking on the `Browse…` button.
 
-> Do not install Anaconda to a directory path that contains spaces or special characters.
+> Do not install Anaconda in a directory that contains spaces or special characters.
 
-For this example we keep the default install location in the users home folder.
+For this example, we keep the default install location in the user's home folder.
 
 <img src="{{ site.url }}/assets/images/posts/development/python/anaconda-install-location.png" alt="anaconda install location">
 
@@ -103,7 +105,7 @@ Once the installation is complete, click `Next`.
 
 <img src="{{ site.url }}/assets/images/posts/development/python/anaconda-installer-complete.png" alt="anaconda-installer-complete">
 
-You can now also install the Microsoft Visual Code editor. This is an optional step. In this tutorial we install Anaconda without Microsoft VSCode.
+You can now also install the Microsoft Visual Code editor. This is an optional step. In this guide, we install Anaconda without Microsoft VSCode.
 
 Click `Skip`.
 
@@ -119,7 +121,7 @@ Click `Finish` to complete the installation.
 
 Let's verify the installation
 
-Click on the Windows button and look for Anaconda menu item. Open it and click `Anaconda Navigator` shortcut.
+Click on the Windows button and look for Anaconda menu item. Open it and click on the `Anaconda Navigator` shortcut.
 
 <img src="{{ site.url }}/assets/images/posts/development/python/anaconda-navigator-shortcut.png" alt="anaconda navigator shortcut">
 
