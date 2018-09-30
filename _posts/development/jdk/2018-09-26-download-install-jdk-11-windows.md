@@ -17,7 +17,7 @@ In this guide, I’m going to show you exactly **how to download and install JDK
 
 (Step-by-step)
 
-First, I’ll show you where you can get JDK 11.
+First, I’ll show you where you can get JDK 1.11.
 
 Then you’ll see how to configure it.
 

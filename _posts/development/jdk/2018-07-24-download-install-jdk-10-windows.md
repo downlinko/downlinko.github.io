@@ -17,7 +17,7 @@ In this guide, I’m going to show you exactly **how to download and install JDK
 
 (Step-by-step)
 
-First, I’ll show you where you can get JDK 10.
+First, I’ll show you where you can get JDK 1.10.
 
 Then you’ll see how to configure it.
 
