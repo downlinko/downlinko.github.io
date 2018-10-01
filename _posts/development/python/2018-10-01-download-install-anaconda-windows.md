@@ -105,7 +105,9 @@ Once the installation is complete, click `Next`.
 
 <img src="{{ site.url }}/assets/images/posts/development/python/anaconda-installer-complete.png" alt="anaconda-installer-complete">
 
-You can now also install the Microsoft Visual Code editor. This is an optional step. In this guide, we install Anaconda without Microsoft VSCode.
+You can now also install the Microsoft Visual Code editor. This is an optional step.
+
+In this guide, we install Anaconda without Microsoft VSCode.
 
 Click `Skip`.
 
@@ -119,7 +121,7 @@ Click `Finish` to complete the installation.
 
 ## Step #3: Run
 
-Let's verify the installation
+Let's verify the installation.
 
 Click on the Windows button and look for Anaconda menu item. Open it and click on the `Anaconda Navigator` shortcut.
 
