@@ -25,7 +25,7 @@ So let’s begin.
 
 ## What is Apache ActiveMQ?
 
-[Apache ActiveMQ](https://en.wikipedia.org/wiki/Apache_ActiveMQ){:target="_blank"} is an open source message broker written in Java. It offers JMS, REST and WebSocket interfaces.
+[Apache ActiveMQ](https://en.wikipedia.org/wiki/Apache_ActiveMQ){:target="_blank"} is an open source message broker written in Java. It offers **JMS, REST and WebSocket interfaces**.
 
 Other protocols like AMQP, MQTT, OpenWire, and STOMP are also supported. You can use these to connect applications written in different programming languages.
 
@@ -107,7 +107,7 @@ Click on the `Command Prompt` shortcut.
 
 Wait for the command prompt to open.
 
-Navigate to [ACTIVEMQ_INSTALL_DIR]. Change to the `bin` subdirectory.
+Navigate to [ACTIVEMQ_INSTALL_DIR] and then change to the `bin` subdirectory.
 
 Type "<kbd>activemq start</kbd>" and press `ENTER`.
 
@@ -115,21 +115,21 @@ ActiveMQ will generate a number of log statements at start-up as shown below:
 
 <img src="{{ site.url }}/assets/images/posts/development/messaging/apache-activemq-start-command.png" alt="apache activemq start command">
 
-One of the log entries mentions 'Apache ActiveMQ started'. This indicates that ActiveMQ was successfully started.
+One of the log entries mentions `Apache ActiveMQ started`. This indicates that ActiveMQ was successfully started.
 
 ## Step #6: Admin Console
 
 Apache ActiveMQ ships with a web-based administration GUI.
 
-To access the admin console enter following URL in a web browser: `http://localhost:8161/`
+To access the admin console enter following URL in a web browser: [http://localhost:8161/](http://localhost:8161/){:target="_blank"}
 
 If ActiveMQ is up and running a welcome page is displayed.
 
-Click on the `Manage ActiveMQ broker` link
+Now click on the `Manage ActiveMQ broker` link to access the console.
 
 <img src="{{ site.url }}/assets/images/posts/development/messaging/apache-activemq-admin-console-welcome.png" alt="apache activemq admin console welcome">
 
-Enter the following credentials to access the console:
+A pop-up appears. Enter the following credentials:
 
 User name="<kbd>admin</kbd>" and Password="<kbd>admin</kbd>".
 
@@ -141,7 +141,7 @@ On the home page you can find some basic statistics on the ActiveMQ broker. In a
 
 To wrap up this tutorial we will stop the running ActiveMQ instance.
 
-Switch back to the command prompt that you used to start ActiveMQ. Press <kbd>CTRL+C</kbd>.
+Switch back to the command prompt that you used to start ActiveMQ and press <kbd>CTRL+C</kbd>.
 
 When prompted to `Terminate batch job`, Type "<kbd>Y</kbd>" followed by <kbd>ENTER</kbd>.
 
