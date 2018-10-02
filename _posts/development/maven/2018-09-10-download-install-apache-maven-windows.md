@@ -82,7 +82,7 @@ Wait for the download to complete.
 
 Open the location of the downloaded installer.
 
-<img src="{{ site.url }}/assets/images/posts/development/maven/apache-mavendownloaded-binary.png" alt="apache maven downloaded binary">
+<img src="{{ site.url }}/assets/images/posts/development/maven/apache-maven-downloaded-binary.png" alt="apache maven downloaded binary">
 
 Right-click the ZIP archive file. Select `Extract All…`.
 
