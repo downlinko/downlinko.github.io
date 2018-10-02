@@ -19,9 +19,7 @@ Then check this out:
 
 In this tutorial, I'll show where to download ActiveMQ.
 
-How to configure it.
-
-(And above all) **how to check if everything is working**.
+How to start and stop a broker. And how to access the admin console.
 
 So let’s begin.
 
