@@ -76,8 +76,6 @@ Click on the `Binary zip archive` link.
 
 Wait for the download to complete.
 
-> Do you want to skip the above steps? Here is the direct link to download the [Maven 3.5.4 binary](http://www-us.apache.org/dist/maven/maven-3/3.5.4/binaries/apache-maven-3.5.4-bin.zip){:target="_blank"} for Windows.
-
 ## Step #3: Install
 
 Open the location of the downloaded installer.
