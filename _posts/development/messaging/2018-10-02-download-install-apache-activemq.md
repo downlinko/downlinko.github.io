@@ -97,7 +97,7 @@ Click on `Extract`. This extracts all Maven files under `C:\Users\Downlinko\tool
 
 ## Step #5: Start
 
-In order to start ActiveMQ we need to open a command promt.
+To start ActiveMQ, we need to open a command prompt.
 
 Click on the search button. Then type "<kbd>cmd</kbd>".
 
@@ -107,15 +107,15 @@ Click on the `Command Prompt` shortcut.
 
 Wait for the command prompt to open.
 
-Navigate to [ACTIVEMQ_INSTALL_DIR] and then change to the `bin` subdirectory.
+Navigate to `[ACTIVEMQ_INSTALL_DIR]` and then change to the `bin` subdirectory.
 
 Type "<kbd>activemq start</kbd>" and press `ENTER`.
 
-ActiveMQ will generate a number of log statements at start-up as shown below:
+ActiveMQ will generate some log statements at start-up as shown below:
 
 <img src="{{ site.url }}/assets/images/posts/development/messaging/apache-activemq-start-command.png" alt="apache activemq start command">
 
-One of the log entries mentions `Apache ActiveMQ started`. This indicates that ActiveMQ was successfully started.
+One of the log entries mentions `Apache ActiveMQ started`. This indicates that ActiveMQ was started.
 
 ## Step #6: Admin Console
 
@@ -133,7 +133,7 @@ A pop-up appears. Enter the following credentials:
 
 User name="<kbd>admin</kbd>" and Password="<kbd>admin</kbd>".
 
-On the home page you can find some basic statistics on the ActiveMQ broker. In addition there are a number of menus that allow you to explore the different configuration items (queues, topics, connections, …) of the broker.
+On the homepage, you can find some basic statistics on the ActiveMQ broker. Also, there are some menus that allow you to explore the different configuration items (queues, topics, connections, …) of the broker.
 
 <img src="{{ site.url }}/assets/images/posts/development/messaging/apache-activemq-admin-console.png" alt="apache activemq admin console">
 
@@ -145,7 +145,7 @@ Switch back to the command prompt that you used to start ActiveMQ and press <kbd
 
 When prompted to `Terminate batch job`, Type "<kbd>Y</kbd>" followed by <kbd>ENTER</kbd>.
 
-The console will return to the prompt and Apache ActiveMQ is shutdown.
+The console will return to the prompt and Apache ActiveMQ is shut down.
 
 <img src="{{ site.url }}/assets/images/posts/development/messaging/apache-activemq-quit-command.png" alt="apache activemq quit command">
 
