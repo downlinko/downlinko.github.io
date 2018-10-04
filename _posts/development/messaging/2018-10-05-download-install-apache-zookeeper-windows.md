@@ -95,6 +95,8 @@ This extracts the `zookeeper-X.X.X.tar` file.
 
 <img src="{{ site.url }}/assets/images/posts/development/messaging/apache-zookeeper-tar-binary.png" alt="apache zookeeper tar binary">
 
+Select the TAR archive file. Right-click and then click on the `Extract Here` menu item.
+
 Select an extract destination for the zookeeper files.
 
 In this example, we extract in `C:\Users\Downlinko\tools\zookeeper`.

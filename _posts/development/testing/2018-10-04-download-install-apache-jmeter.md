@@ -23,7 +23,7 @@ Let’s get this show on the road.
 
 [Apache JMeter](https://en.wikipedia.org/wiki/Apache_JMeter){:target="_blank"} is a load testing tool. It focuses on analyzing and measuring the performance of a variety of services.
 
-JMeter was originally designed for testing Web Applications. Today it has the ability to **test many different protocols**: HTTP, FTP, JDBC, LDAP, JMS, SMTP, POP3, IMAP, TCP, and others.
+JMeter was originally designed for testing Web applications. Today it has the ability to **test many different protocols**: HTTP, FTP, JDBC, LDAP, JMS, SMTP, POP3, IMAP, TCP, and others.
 
 The JMeter project is part of the Apache Software Foundation. A decentralized open source community of developers.
 
