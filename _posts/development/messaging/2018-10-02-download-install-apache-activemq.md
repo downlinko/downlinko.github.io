@@ -95,7 +95,7 @@ Click on `Extract`. This extracts all ActiveMQ files under `C:\Users\Downlinko\t
 
 <img src="{{ site.url }}/assets/images/posts/development/messaging/apache-activemq-install-dir.png" alt="apache activemq install dir">
 
-## Step #5: Start
+## Step #4: Start
 
 To start ActiveMQ, we need to open a command prompt.
 
@@ -117,7 +117,7 @@ ActiveMQ will generate some log statements at start-up as shown below:
 
 One of the log entries mentions `Apache ActiveMQ started`. This indicates that ActiveMQ was started.
 
-## Step #6: Admin Console
+## Step #5: Admin Console
 
 Apache ActiveMQ ships with a web-based administration GUI.
 
@@ -137,7 +137,7 @@ On the homepage, you can find some basic statistics on the ActiveMQ broker. Also
 
 <img src="{{ site.url }}/assets/images/posts/development/messaging/apache-activemq-admin-console.png" alt="apache activemq admin console">
 
-## Step #7: Stop
+## Step #6: Stop
 
 To wrap up this tutorial we will stop the running ActiveMQ instance.
 
