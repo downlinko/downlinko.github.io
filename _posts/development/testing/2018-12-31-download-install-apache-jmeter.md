@@ -93,23 +93,33 @@ This extracts all JMeter files under `C:\Users\Downlinko\tools\apache-jmeter-5.0
 
 ## Step #4: Run
 
-You can run JMeter in 3 modes: GUI Mode, Server Mode, and Command Line Mode.
+You can run JMeter in 3 modes: GUI Mode, Server Mode, and Command Line Mode. Let's show how to start the graphical user interface.
 
-Let's show how to start the user interface. Navigate to the `[JMETER_INSTALL_DIR]` installation directory.
+> Note that you should only use the GUI mode for creating the test scripts. Use the NON-GUI mode for load testing.
+
+Navigate to the `[JMETER_INSTALL_DIR]` installation directory.
 
 Open the `bin` folder.
 
-Double click on the `ApacheJMeter` executable JAR file.
+Double click on the `jmeter` Windows batch file.
 
-<img src="{{ site.url }}/assets/images/posts/development/testing/apache-jmeter-jar-executable.png" alt="apache jmeter jar executable">
+<img src="{{ site.url }}/assets/images/posts/development/testing/apache-jmeter-windows-batch-file.png" alt="apache jmeter windows batch file">
 
-The JMeter GUI opens as shown below.
+If active, Windows Defender will prevent JMeter from starting. Click on the `More info` link.
+
+<img src="{{ site.url }}/assets/images/posts/development/windows-defender-smartscreen-prevent-unrecognized-app.png" alt="windows defender smartscreen prevent unrecognized app">
+
+A new `Run anyway` button will appear. Click on it.
+
+<img src="{{ site.url }}/assets/images/posts/development/windows-defender-smartscreen-run-unrecognized-app.png" alt="windows defender smartscreen run unrecognized app">
+
+After a short time, the JMeter GUI appears.
 
 <img src="{{ site.url }}/assets/images/posts/development/testing/apache-jmeter-gui.png" alt="apache jmeter gui">
 
 **Congratulations, you have installed Apache JMeter on Windows 10!**
 
-Now it's time to learn [how to create a basic test plan](https://jmeter.apache.org/usermanual/build-web-test-plan.html){:target="_blank"}.
+Take the next step and learn [how to create a basic test plan](https://jmeter.apache.org/usermanual/build-web-test-plan.html){:target="_blank"}.
 
 Submit a comment below if you enjoyed reading this post.
 
