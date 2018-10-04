@@ -29,7 +29,7 @@ So let’s begin.
 
 Other protocols like AMQP, MQTT, OpenWire, and STOMP are also supported. You can use these to connect applications written in different programming languages.
 
-The ActiveMQ project is part of the Apache Software Foundation. Which is a decentralized open source community of developers.
+The ActiveMQ project is part of the Apache Software Foundation. A decentralized open source community of developers.
 
 ## Step #1: Check Prerequisites
 
@@ -63,13 +63,13 @@ Head over to the [ActiveMQ download page](http://activemq.apache.org/download.ht
 
 Click on the link under the `Latest Releases` section.
 
-<img src="{{ site.url }}/assets/images/posts/development/messaging/apache-activemq-download-page.png" alt="java download page">
+<img src="{{ site.url }}/assets/images/posts/development/messaging/apache-activemq-download-page.png" alt="apache activemq download page">
 
 Locate the `Getting the Binary Distributions` section.
 
 Click on the link for the Windows distribution.
 
-<img src="{{ site.url }}/assets/images/posts/development/messaging/apache-activemq-windwos-distribution.png" alt="apache activemq windwos distribution">
+<img src="{{ site.url }}/assets/images/posts/development/messaging/apache-activemq-windwos-distribution.png" alt="apache activemq windows distribution">
 
 Wait for the download to complete.
 
@@ -89,7 +89,7 @@ In this example, we extract in `C:\Users\Downlinko\tools`.
 
 <img src="{{ site.url }}/assets/images/posts/development/tools-extract-destination.png" alt="tools extract destination">
 
-Click on `Extract`. This extracts all Maven files under `C:\Users\Downlinko\tools\apache-activemq-5.15.6`.
+Click on `Extract`. This extracts all ActiveMQ files under `C:\Users\Downlinko\tools\apache-activemq-5.15.6`.
 
 > From now on we refer to this location as `[ACTIVEMQ_INSTALL_DIR]`.
 
