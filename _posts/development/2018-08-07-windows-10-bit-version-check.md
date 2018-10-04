@@ -23,7 +23,7 @@ It's really easy to do.
 
 Let’s get started…
 
-## Step #1: What Is the Difference Between 32-Bit and 64-Bit Versions of Windows?
+What Is the Difference Between 32-Bit and 64-Bit Versions of Windows?
 
 The terms 32-bit and 64-bit refer to **the way a computer's processor handles information**.
 
@@ -40,7 +40,7 @@ What this means is that **when you install software on your system**:
 * Always download 32-bit software when you have a 32-bit Windows
 * If available, download 64-bit software when you have a 64-bit Windows. Otherwise, use the 32-bit version.
 
-## Step #2: What Bit Version of Windows Do I Have?
+What Bit Version of Windows Do I Have?
 
 Click on the Search button. Then type "<kbd>about</kbd>" in the search box.
 
