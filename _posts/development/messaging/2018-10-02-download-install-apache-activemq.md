@@ -75,11 +75,11 @@ Wait for the download to complete.
 
 ## Step #3: Install
 
-Open the location of the downloaded installer.
+Open the location of the downloaded binary distribution.
 
 <img src="{{ site.url }}/assets/images/posts/development/messaging/apache-activemq-downloaded-binary.png" alt="apache activemq downloaded binary">
 
-Right-click the ZIP archive file. Select `Extract All…`.
+Select the ZIP archive file. Right-click and then click on the `Extract All…` menu item.
 
 <img src="{{ site.url }}/assets/images/posts/development/messaging/apache-activemq-downloaded-binary-extract-all.png" alt="apache activemq downloaded binary extract all">
 
