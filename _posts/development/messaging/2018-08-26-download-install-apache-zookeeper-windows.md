@@ -1,9 +1,9 @@
 ---
-title: "Download and Install Apache ZooKeeper on Windows"
+title: "How to Download and Install Apache ZooKeeper on Windows"
 permalink: /download-install-apache-zookeeper-windows.html
 excerpt: "A detailed step-by-step tutorial on how to download and install Apache ZooKeeper on Windows 10."
-date: 2018-08-26
-last_modified_at: 2018-08-26
+date: 2018-10-05
+last_modified_at: 2018-10-05
 header:
   teaser: "assets/images/posts/development/zookeeper/download-install-zookeeper-windows.png"
 categories: [Development]
@@ -20,6 +20,13 @@ You’ve reached the right place.
 Because in this tutorial **I'll walk you through the different setup steps**.
 
 Let’s dive in!
+
+## What is Apache ZooKeeper?
+
+[Apache ZooKeeper](https://en.wikipedia.org/wiki/Apache_ZooKeeper){:target="_blank"}
+
+
+The ZooKeeper project is part of the Apache Software Foundation. A decentralized open source community of developers.
 
 ## Step #1: Check Prerequisites
 
