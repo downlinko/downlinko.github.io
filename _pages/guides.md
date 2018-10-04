@@ -8,11 +8,6 @@ last_modified_at: 2018-10-04
 
 This page contains an overview of all the installation guides.
 
-You can use following menu to jump to the different topics:
-
-* [Development]({{ site.url }}/guides#development)
-* [Utilities]({{ site.url }}/guides#utilities)
-
 ## Development
 
 ### Anaconda
