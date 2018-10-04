@@ -15,15 +15,15 @@ published: true
 
 Today you’re going to see how to download and install [Apache JMeter](http://jmeter.apache.org/){:target="_blank"} on Windows.
 
-In three easy steps.
+In four easy steps.
 
-Let’s dive right in.
+Let’s get this show on the road.
 
 ## What is Apache JMeter?
 
 [Apache JMeter](https://en.wikipedia.org/wiki/Apache_JMeter){:target="_blank"} is a load testing tool. It focuses on analyzing and measuring the performance of a variety of services.
 
-JMeter was originally designed for testing Web Applications. Today it has the ability to test many different applications/server/protocol types: HTTP, FTP, JDBC, LDAP, JMS, SMTP, POP3, IMAP, TCP and others.
+JMeter was originally designed for testing Web Applications. Today it has the ability to **test many different protocols**: HTTP, FTP, JDBC, LDAP, JMS, SMTP, POP3, IMAP, TCP, and others.
 
 The JMeter project is part of the Apache Software Foundation. A decentralized open source community of developers.
 
@@ -53,7 +53,7 @@ The above command prints the installed Java version.
 
 If you do not have Java installed on your system. Check following post which details [how to install JDK 8 on Windows 10]({{ site.url }}/download-install-jdk-8-windows.html).
 
-## Step #1: Download
+## Step #2: Download
 
 Head over to the [JMeter download page](http://jmeter.apache.org/download_jmeter.cgi){:target="_blank"}.
 
@@ -93,9 +93,9 @@ This extracts all JMeter files under `C:\Users\Downlinko\tools\apache-jmeter-5.0
 
 ## Step #4: Run
 
-You can run JMeter in 3 modes: GUI Mode, Server Mode and Command Line Mode.
+You can run JMeter in 3 modes: GUI Mode, Server Mode, and Command Line Mode.
 
-Let's start the user interface. Navigate to the `[JMETER_INSTALL_DIR]` installation directory.
+Let's show how to start the user interface. Navigate to the `[JMETER_INSTALL_DIR]` installation directory.
 
 Open the `bin` folder.
 
