@@ -3,10 +3,15 @@ title: "Guides Overview"
 permalink: /guides
 excerpt: "Overview of the installation guides available on Downlinko."
 date: 2018-08-31
-last_modified_at: 2018-09-04
+last_modified_at: 2018-10-04
 ---
 
 This page contains an overview of all the installation guides.
+
+You can use following menu to jump to the different topics:
+
+* [Development]({{ site.url }}/guides#development)
+* [Utilities]({{ site.url }}/guides#utilities)
 
 ## Development
 
@@ -17,6 +22,14 @@ This page contains an overview of all the installation guides.
 ### Android Studio
 
 * [Download and Install Android Studio on Windows]({{ site.url }}/download-install-android-studio-windows.html)
+
+### Apache ActiveMQ
+
+* [Download and Install Apache ActiveMQ on Windows]({{ site.url }}/download-install-apache-activemq-windows.html)
+
+### Apache JMeter
+
+* [Download and Install Apache JMeter on Windows]({{ site.url }}/download-install-apache-jmeter-windows.html)
 
 ### Atom
 
