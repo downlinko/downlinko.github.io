@@ -62,7 +62,7 @@ Go to the [Gradle releases page](https://gradle.org/releases/){:target="_blank"}
 
 <img src="{{ site.url }}/assets/images/posts/development/gradle/gradle-releases-page.png" alt="gradle releases page">
 
-Right under the `Getting Started Resources` section you can find the latest release. At the moment of writing it was version `v4.10.2`.
+Right under the `Getting Started Resources` section you can find the latest release. At the time of writing it was version `v4.10.2`.
 
 Click on the `binary-only` link.
 

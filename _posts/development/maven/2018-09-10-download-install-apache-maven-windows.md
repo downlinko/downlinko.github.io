@@ -72,6 +72,8 @@ Scroll down to the `Files` section.
 
 Click on the `Binary zip archive` link.
 
+At the time of writing the latest stable Maven release was version: `3.5.4`.
+
 <img src="{{ site.url }}/assets/images/posts/development/maven/apache-maven-download-binary-zip-archive.png" alt="apache maven download binary zip archive">
 
 Wait for the download to complete.
