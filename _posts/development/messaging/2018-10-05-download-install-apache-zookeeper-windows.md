@@ -5,13 +5,13 @@ excerpt: "A detailed step-by-step tutorial on how to download and install Apache
 date: 2018-10-05
 last_modified_at: 2018-10-05
 header:
-  teaser: "assets/images/posts/development/zookeeper/download-install-zookeeper-windows.png"
+  teaser: "assets/images/posts/development/messaging/download-install-apache-zookeeper-windows.png"
 categories: [Development]
 tags: [Apache ZooKeeper, Download, Install, Setup, Tutorial, Windows, Zookeeper]
 published: false
 ---
 
-<img src="{{ site.url }}/assets/images/posts/development/zookeeper/download-install-zookeeper-windows.png" alt="download install zookeeper windows" class="align-right title-image">
+<img src="{{ site.url }}/assets/images/posts/development/messaging/download-install-apache-zookeeper-windows.png" alt="download install apache zookeeper windows" class="align-right title-image">
 
 Do you want to learn how to download and install [Apache ZooKeeper](https://zookeeper.apache.org/){:target="_blank"} on Windows?
 
@@ -23,10 +23,11 @@ Let’s dive in!
 
 ## What is Apache ZooKeeper?
 
-[Apache ZooKeeper](https://en.wikipedia.org/wiki/Apache_ZooKeeper){:target="_blank"}
+[Apache ZooKeeper](https://en.wikipedia.org/wiki/Apache_ZooKeeper){:target="_blank"} provides centralized services for building distributed systems. ZooKeeper itself is also a [distributed application](https://en.wikipedia.org/wiki/Distributed_computing){:target="_blank"}.
 
+When you build a distributed system there are some common problems that you need to solve. ZooKeeper offers reusable building blocks that can solve these problems. For example: a configuration service, a synchronization service, and a naming registry.
 
-The ZooKeeper project is part of the Apache Software Foundation. A decentralized open source community of developers.
+ZooKeeper was originally developed at Yahoo. Now it is part of the Apache Software Foundation. A decentralized open source community of developers.
 
 ## Step #1: Check Prerequisites
 
@@ -60,21 +61,21 @@ Go to the [ZooKeeper releases page](https://zookeeper.apache.org/releases.html){
 
 Click on the `Download` link under the `Download` section.
 
-<img src="{{ site.url }}/assets/images/posts/development/zookeeper/zookeeper-releases-page.png" alt="zookeeper releases page">
+<img src="{{ site.url }}/assets/images/posts/development/messaging/apache-zookeeper-releases-page.png" alt="apache zookeeper releases page">
 
 Click on the suggested mirror site.
 
-<img src="{{ site.url }}/assets/images/posts/development/zookeeper/zookeeper-suggested-mirror.png" alt="zookeeper suggested mirror">
+<img src="{{ site.url }}/assets/images/posts/development/messaging/apache-zookeeper-suggested-mirror.png" alt="apache zookeeper suggested mirror">
 
 Click on the `stable` link.
 
-<img src="{{ site.url }}/assets/images/posts/development/zookeeper/zookeeper-stable-section.png" alt="zookeeper stable section">
+<img src="{{ site.url }}/assets/images/posts/development/messaging/apache-zookeeper-stable-section.png" alt="apache zookeeper stable section">
 
 Click on the `zookeeper-X.X.X.tar.gz` link.
 
 At the time of writing the latest stable ZooKeeper release was version `3.4.12`.
 
-<img src="{{ site.url }}/assets/images/posts/development/zookeeper/zookeeper-stable-release.png" alt="zookeeper stable release">
+<img src="{{ site.url }}/assets/images/posts/development/messaging/apache-zookeeper-stable-release.png" alt="apache zookeeper stable release">
 
 Wait for the download to complete.
 
@@ -82,11 +83,17 @@ Wait for the download to complete.
 
 Open the location of the downloaded binary.
 
-<img src="{{ site.url }}/assets/images/posts/development/zookeeper/zookeeper-downloaded-installer.png" alt="zookeeper downloaded installer">
+The file is compressed using the GNU zip (gzip) compression algorithm. To unpack this format we will use 7-Zip. Check following tutorial if you need to [download and install 7-zip on Windows]({{ site.url }}/download-install-7-zip-windows.html).
 
-Right-click the ZIP archive file. Select `Extract All…`.
+<img src="{{ site.url }}/assets/images/posts/development/messaging/apache-zookeeper-downloaded-binary.png" alt="apache-zookeeper downloaded binary">
 
-<img src="{{ site.url }}/assets/images/posts/development/zookeeper/zookeeper-downloaded-installer-extract-all.png" alt="zookeeper downloaded installer extract all">
+Select the GZ archive file. Right-click and then click on the `Extract Here` menu item.
+
+<img src="{{ site.url }}/assets/images/posts/development/messaging/apache-zookeeper-extract-tar.png" alt="apache zookeeper extract tar">
+
+This extracts the `zookeeper-X.X.X.tar` file.
+
+<img src="{{ site.url }}/assets/images/posts/development/messaging/apache-zookeeper-tar-binary.png" alt="apache zookeeper tar binary">
 
 Select an extract destination for the zookeeper files.
 
