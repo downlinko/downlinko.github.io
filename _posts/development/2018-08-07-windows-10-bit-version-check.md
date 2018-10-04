@@ -23,7 +23,7 @@ It's really easy to do.
 
 Let’s get started…
 
-What Is the Difference Between 32-Bit and 64-Bit Versions of Windows?
+## What Is the Difference Between 32-Bit and 64-Bit Versions of Windows?
 
 The terms 32-bit and 64-bit refer to **the way a computer's processor handles information**.
 
@@ -35,12 +35,12 @@ But here’s the most important part:
 
 As a general rule: [a 64-bit application might be faster](https://superuser.com/questions/271173/how-important-is-having-64-bit-programs-on-64-bit-os){:target="_blank"}. Yet, in most cases, you will not notice the difference.
 
-What this means is that **when you install software on your system**:
+The bottom line is this: **when you install software on your system**
 
 * Always download 32-bit software when you have a 32-bit Windows
 * If available, download 64-bit software when you have a 64-bit Windows. Otherwise, use the 32-bit version.
 
-What Bit Version of Windows Do I Have?
+## What Bit Version of Windows Do I Have?
 
 Click on the Search button. Then type "<kbd>about</kbd>" in the search box.
 
