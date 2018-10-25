@@ -34,7 +34,7 @@ When you want to create a Java application you need a [Java Development Kit](htt
 
 <img src="{{ site.url }}/assets/images/posts/development/jdk/what-is-a-jdk.png" alt="what is a jdk">
 
-One of these tools is a **compiler** (javac) that converts Java source code (`.java` files) into Java bytecode (`.class` files). Other tools include an archiver (jar) and a documentation generator (javadoc).
+One of these development tools is a **compiler** (javac) that converts Java source code (`.java` files) into Java bytecode (`.class` files). Other tools include an archiver (jar) and a documentation generator (javadoc).
 
 The JDK also contains a **Java Runtime Environment** (JRE) that is able to run compiled Java code. To do this the JRE uses Java libraries and a Java Virtual Machine (JVM) that executes the compiled Java code.
 
