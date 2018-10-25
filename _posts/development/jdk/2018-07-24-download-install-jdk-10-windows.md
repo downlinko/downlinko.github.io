@@ -3,7 +3,7 @@ title: "How to Download and Install JDK 10 on Windows"
 permalink: /download-install-jdk-10-windows.html
 excerpt: "A detailed step-by-step tutorial on how to download and install JDK 10.0.2 on Windows 10."
 date: 2018-07-24
-last_modified_at: 2018-07-24
+last_modified_at: 2018-10-25
 header:
   teaser: "assets/images/posts/development/jdk/download-install-jdk-10-windows.png"
 categories: [Development]
@@ -46,13 +46,19 @@ There are [several Java platforms](https://docs.oracle.com/javaee/6/firstcup/doc
 
 Head over to the [Oracle Java download page](http://www.oracle.com/technetwork/java/javase/downloads/index.html){:target="_blank"}.
 
-Look for the `Java SE 10.0.2` section.
+Scroll to the bottom of the page and look for the `Java Archive` section.
+
+Click on the `Download` button.
+
+<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-java-archive.png" alt="jdk java archive">
+
+Click on the `Java SE 10` link under the `Java SE` title.
 
 > Starting with Java 9, Oracle introduced a new support model. Versions tagged as LTS (long-term support) will receive support for 3 years. Non-LTS versions will be out of support as soon as a new major version is released.
 
-Click on the `Download` button right below `JDK`.
-
 <img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-10-download-java-se.png" alt="jdk 10 download java se">
+
+Look for the `Java SE Development Kit 10.0.2` section.
 
 Click on the radio button next to `Accept License Agreement`.
 
@@ -61,6 +67,8 @@ Click on the Windows download link: `jdk-10.0.2_windows-x64_bin.exe`.
 > Note that as from version 9, Oracle no longer provides 32-bit JDK builds.
 
 <img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-10-download-java-se-windows-binary.png" alt="jdk 10 download java se windows binary">
+
+> To download archived JDK versions you need an Oracle account. Create a new account or sign in with an existing one.
 
 Wait for the download to complete.
 
