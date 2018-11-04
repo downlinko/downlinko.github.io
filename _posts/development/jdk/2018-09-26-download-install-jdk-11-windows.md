@@ -49,7 +49,7 @@ There are [several Java platforms](https://docs.oracle.com/javaee/6/firstcup/doc
 * [Oracle’s JDK](https://www.oracle.com/technetwork/java/javase/downloads/jdk11-downloads-5066655.html){:target="_blank"} (commercial) – you can use this in development and testing for free, but if you use it in production you have to pay for it.
 * [Oracle’s OpenJDK](http://jdk.java.net/11/){:target="_blank"} (open source) – you can use this for free in any environment.
 
-As Oracle’s JDK and OpenJDK are functionally the same, we will opt to install the free version in this guide.
+As Oracle’s JDK and OpenJDK are functionally the same, we will opt to _install the free version_ in this guide.
 
 Head over to the [Oracle OpenJDK download page](http://jdk.java.net/11/){:target="_blank"}.
 
@@ -57,11 +57,11 @@ Look for the `builds` section.
 
 Click on the `zip` link right next to `Windows/x64`.
 
-> Note that as from version 9, Oracle no longer provides 32-bit JDK builds.
-
 At the time of writing the latest Oracle OpenJDK release was version: `11.0.1`.
 
 <img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-11-download-java-se.png" alt="jdk 11 download java se">
+
+> Note that as from version 9, Oracle no longer provides 32-bit JDK builds.
 
 Wait for the download to complete.
 
@@ -83,9 +83,9 @@ Click on `Extract`.
 
 <img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-extract-destination.png" alt="jdk extract destination">
 
-This extracts all JMeter files under `C:\Users\Downlinko\tools\jdk\jdk-11.0.1`.
+This extracts all JDK files under `C:\Users\Downlinko\tools\jdk\jdk-11.0.1`.
 
-> From now on we refer to this location as `[JDK_INSTALL_DIR]`.
+> From now on we refer to this location as `[JAVA_INSTALL_DIR]`.
 
 <img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-11-install-dir.png" alt="jdk 11 install dir">
 
