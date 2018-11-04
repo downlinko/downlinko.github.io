@@ -3,7 +3,7 @@ title: "How to Download and Install JDK 11 on Windows"
 permalink: /download-install-jdk-11-windows.html
 excerpt: "A detailed step-by-step tutorial on how to download and install JDK 1.11 on Windows 10."
 date: 2018-09-29
-last_modified_at: 2018-09-29
+last_modified_at: 2018-11-04
 header:
   teaser: "assets/images/posts/development/jdk/download-install-jdk-11-windows.png"
 categories: [Development]
@@ -17,7 +17,7 @@ In this guide, I’m going to show you exactly **how to download and install JDK
 
 (Step-by-step)
 
-First, I’ll show you where you can get JDK 1.11.
+First, I’ll show you where you can get JDK 11.0.1.
 
 Then you’ll see how to configure it.
 
@@ -44,61 +44,50 @@ Different JDK implementations are available. The official reference implementati
 
 There are [several Java platforms](https://docs.oracle.com/javaee/6/firstcup/doc/gkhoy.html){:target="_blank"}. In this tutorial, we will install the Java Standard Edition (SE).
 
-Head over to the [Oracle Java download page](http://www.oracle.com/technetwork/java/javase/downloads/index.html){:target="_blank"}.
+> **Important**: as of Java 11, [Oracle has changed the license of their JDK](https://blog.jetbrains.com/idea/2018/09/using-java-11-in-production-important-things-to-know/){:target="_blank"}. Instead of having a single JDK build which you can use for free, they now have two different JDK builds:
 
-Look for the `Java SE 11 (LTS)` section.
+* [Oracle’s JDK](https://www.oracle.com/technetwork/java/javase/downloads/jdk11-downloads-5066655.html){:target="_blank"} (commercial) – you can use this in development and testing for free, but if you use it in production you have to pay for it.
+* [Oracle’s OpenJDK](http://jdk.java.net/11/){:target="_blank"} (open source) – you can use this for free in any environment.
 
-> Starting with Java 9, Oracle introduced a new support model. Versions tagged as LTS (long-term support) will receive support for 3 years. Non-LTS versions will be out of support as soon as a new major version is released.
+As Oracle’s JDK and OpenJDK are functionally the same, we will opt to install the free version in this guide.
 
-Click on the `Download` button right below `Oracle JDK`.
+Head over to the [Oracle OpenJDK download page](http://jdk.java.net/11/){:target="_blank"}.
 
-<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-11-download-java-se.png" alt="jdk 11 download java se">
+Look for the `builds` section.
 
-Click on the radio button next to `Accept License Agreement`.
-
-Click on the Windows download link: `jdk-11_windows-x64_bin.exe`.
+Click on the `zip` link right next to `Windows/x64`.
 
 > Note that as from version 9, Oracle no longer provides 32-bit JDK builds.
 
-<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-11-download-java-se-windows-binary.png" alt="jdk 11 download java se windows binary">
+At the time of writing the latest Oracle OpenJDK release was version: `11.0.1`.
+
+<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-11-download-java-se.png" alt="jdk 11 download java se">
 
 Wait for the download to complete.
 
 ## Step #2: Install
 
-Open the location of the downloaded executable.
+Open the location of the downloaded binary.
 
-<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-11-downloaded-installer.png" alt="jdk 11 downloaded installer">
+<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-11-downloaded-binary.png" alt="jdk 11 downloaded binary">
 
-Double-click it to run the installer.
+Select the ZIP archive file. Right-click and then click on the `Extract All…` menu item.
 
-On Windows 10 a pop-up window will appear: `The app you're trying to install isn't a verified app from the Store`
+<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-11-downloaded-binary-extract-all.png" alt="jdk 11 downloaded binary extract all">
 
-Click on `Install anyway`.
+Select an extract destination for the JDK files.
 
-<img src="{{ site.url }}/assets/images/posts/windows-10-install-app-not-in-store.png" alt="windows 10 install app not in store">
+In this example, we extract in `C:\Users\Downlinko\tools\jdk`.
 
-The JDK installer will start. Click `Next`.
+Click on `Extract`.
 
-<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-11-installer-start.png" alt="jdk 11 installer start">
+<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-extract-destination.png" alt="jdk extract destination">
 
-You can change the installation location by clicking on the `Change…` button.
+This extracts all JMeter files under `C:\Users\Downlinko\tools\jdk\jdk-11.0.1`.
 
-In this example, we keep the default install location of `C:\Program Files\Java\jdk-11\`. From now on we will refer to this directory as `[JAVA_INSTALL_DIR]`.
+> From now on we refer to this location as `[JDK_INSTALL_DIR]`.
 
-Click `Next` to start the installation.
-
-<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-11-installer-default-location.png" alt="jdk 11 installer default location">
-
-The JDK installation will now start.
-
-A progress bar shows the various steps that are executed.
-
-<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-11-installer-progress.png" alt="jdk 11 installer progress">
-
-Once the installation is complete, click `Close`.
-
-<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-11-installer-complete.png" alt="jdk 11 installer complete">
+<img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-11-install-dir.png" alt="jdk 11 install dir">
 
 ## Step #3: Setup
 
@@ -120,7 +109,7 @@ Click on `New…`.
 
 Enter "<kbd>JAVA_HOME</kbd>" as variable name. Enter the `[JAVA_INSTALL_DIR]` as variable value.
 
-In this tutorial, the Java installation directory is `C:\Program Files\Java\jdk-11`.
+In this tutorial, the Java installation directory is `C:\Users\Downlinko\tools\jdk\jdk-11.0.1`.
 
 Click `OK`.
 
@@ -162,7 +151,7 @@ Type "<kbd>java -version</kbd>" and press `ENTER`.
 
 <img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-version-command.png" alt="jdk version command">
 
-The above command prints the installed JDK version: `11`.
+The above command prints the installed OpenJDK version: `11.0.1`.
 
 <img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-11-version-output.png" alt="jdk 11 version output">
 
