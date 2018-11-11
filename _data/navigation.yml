@@ -6,7 +6,7 @@ main:
     url: https://downlinko.com/guides
   - title: "Contact"
     url: https://downlinko.com/contact
-  - title: "Terms & Privacy Policy"
+  - title: "Terms & Privacy"
     url: https://downlinko.com/terms-privacy-policy
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
