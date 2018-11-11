@@ -49,7 +49,7 @@ There are [several Java platforms](https://docs.oracle.com/javaee/6/firstcup/doc
 * [Oracle’s JDK](https://www.oracle.com/technetwork/java/javase/downloads/jdk11-downloads-5066655.html){:target="_blank"} (commercial) – you can use this in development and testing for free, but if you use it in production you have to pay for it.
 * [Oracle’s OpenJDK](http://jdk.java.net/11/){:target="_blank"} (open source) – you can use this for free in any environment.
 
-As Oracle’s JDK and OpenJDK are functionally the same, we will opt to _install the free version_ in this guide.
+We will _install the free version_ in this guide as Oracle’s JDK and OpenJDK are functionally the same.
 
 Head over to the [Oracle OpenJDK download page](http://jdk.java.net/11/){:target="_blank"}.
 
