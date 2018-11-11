@@ -1,9 +1,9 @@
 ---
 title: "How to Download and Install JDK 1.8 on Windows"
 permalink: /download-install-jdk-8-windows.html
-excerpt: "A detailed step-by-step tutorial on how to download and install JDK 8u181 on Windows 10."
+excerpt: "A detailed step-by-step tutorial on how to download and install JDK 8u191 on Windows 10."
 date: 2018-07-30
-last_modified_at: 2018-07-30
+last_modified_at: 2018-11-11
 header:
   teaser: "assets/images/posts/development/jdk/download-install-jdk-8-windows.png"
 categories: [Development]
@@ -46,7 +46,7 @@ There are [several Java platforms](https://docs.oracle.com/javaee/6/firstcup/doc
 
 Head over to the [Oracle Java download page](http://www.oracle.com/technetwork/java/javase/downloads/index.html){:target="_blank"}.
 
-Look for the `Java SE 8u181` section.
+Look for the `Java SE 8u191 / Java SE 8u192` section.
 
 Click on the `Download` button right below `JDK`.
 
@@ -58,11 +58,13 @@ Click on the radio button next to `Accept License Agreement`.
 * For 32-bit = Windows <kbd>x86</kbd> installer
 * For 64-bit = Windows <kbd>x64</kbd> installer
 
-In this guide, we will download the 64-bit installer: `jdk-8u181-windows-x64.exe`.
+In this guide, we will download the 64-bit installer: `jdk-8u191-windows-x64.exe`.
 
 <img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-8-download-java-se-windows-binary.png" alt="jdk 8 download java se windows binary">
 
 Wait for the download to complete.
+
+> Check the [Java Archive](https://www.oracle.com/technetwork/java/javase/downloads/java-archive-javase8-2177648.html){:target="_blank"} section for older versions like JDK 1.8.0_131, 1.8.0_144, 1.8.0_172 or 1.8.0_181
 
 ## Step #2: Install
 
@@ -84,7 +86,7 @@ The JDK installer will start. Click `Next`.
 
 You can change the installation location by clicking on the `Change…` button.
 
-In this example, we keep the default install location of `C:\Program Files\Java\jdk1.8.0_181`. From now on we will refer to this directory as `[JAVA_INSTALL_DIR]`.
+In this example, we keep the default install location of `C:\Program Files\Java\jdk1.8.0_191`. From now on we will refer to this directory as `[JAVA_INSTALL_DIR]`.
 
 <img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-8-installer-default-location.png" alt="jdk 8 installer default location">
 
@@ -128,7 +130,7 @@ Click on `New…`.
 
 Enter "<kbd>JAVA_HOME</kbd>" as variable name. Enter the `[JAVA_INSTALL_DIR]` as variable value.
 
-In this tutorial, the Java installation directory is `C:\Program Files\Java\jdk1.8.0_181`.
+In this tutorial, the Java installation directory is `C:\Program Files\Java\jdk1.8.0_191`.
 
 Click `OK`.
 
@@ -170,7 +172,7 @@ Type "<kbd>java -version</kbd>" and press `ENTER`.
 
 <img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-version-command.png" alt="jdk version command">
 
-The above command prints the installed JDK version: `1.8.0_181`.
+The above command prints the installed JDK version: `1.8.0_191`.
 
 <img src="{{ site.url }}/assets/images/posts/development/jdk/jdk-8-version-output.png" alt="jdk 8 version output">
 
