@@ -40,16 +40,14 @@ The JDK also contains a **Java Runtime Environment** (JRE) that is able to run c
 
 Different JDK implementations are available. The official reference implementation is maintained by [Oracle](https://www.oracle.com/index.html){:target="_blank"}.
 
-## Step #1: Download
-
-There are [several Java platforms](https://docs.oracle.com/javaee/6/firstcup/doc/gkhoy.html){:target="_blank"}. In this tutorial, we will install the Java Standard Edition (SE).
-
 > **Important**: as of Java 11, [Oracle has changed the license of their JDK](https://blog.jetbrains.com/idea/2018/09/using-java-11-in-production-important-things-to-know/){:target="_blank"}. Instead of having a single JDK build which you can use for free, they now have two different JDK builds:
 
 * [Oracle’s JDK](https://www.oracle.com/technetwork/java/javase/downloads/jdk11-downloads-5066655.html){:target="_blank"} (commercial) – you can use this in development and testing for free, but if you use it in production you have to pay for it.
 * [Oracle’s OpenJDK](http://jdk.java.net/11/){:target="_blank"} (open source) – you can use this for free in any environment.
 
 We will _install the free version_ in this guide as Oracle’s JDK and OpenJDK are functionally the same.
+
+## Step #1: Download
 
 Head over to the [Oracle OpenJDK download page](http://jdk.java.net/11/){:target="_blank"}.
 
